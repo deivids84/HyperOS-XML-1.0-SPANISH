@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Ajustes</string>
+    <string name="app_name">StepsProvider</string>
+    <string name="end_title">Fin del juego</string>
+    <string name="hello_world">¡Hola Mundo!</string>
+    <string name="not_resurge_title">Resurgir</string>
+    <string name="resurged_content">¡Venga!</string>
+    <string name="resurged_title">Resurgió</string>
+</resources>
