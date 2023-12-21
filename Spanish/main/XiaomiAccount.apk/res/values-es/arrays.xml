@@ -126,11 +126,6 @@
         <item>Obtener ayuda y soporte para la cuenta Xiaomi</item>
         <item>Cuenta Mi;Cuenta;Cuenta Xiaomi;Ayuda de la cuenta;Centro de ayuda</item>
     </string-array>
-    <string-array name="settings_search_login_2_step_verify">
-        <item>Verificación en 2 pasos</item>
-        <item>Configurar la verificación en dos pasos para tu cuenta Xiaomi</item>
-        <item>Iniciar sesión;Registrar sesión;2 pasos;verificación;Xiaomi;Cuenta;Cuenta Mi;Cuenta;Cuenta Xiaomi</item>
-    </string-array>
     <string-array name="settings_search_login_and_security">
         <item>Inicio de sesión y seguridad</item>
         <item>Teléfono y correo electrónico de recuperación, gestión de contraseñas</item>

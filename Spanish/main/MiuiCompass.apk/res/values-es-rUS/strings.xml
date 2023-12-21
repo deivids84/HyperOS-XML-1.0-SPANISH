@@ -41,7 +41,6 @@
     <string name="app_description_content">"Brújula es una aplicación de sistema. No podrá usarlo para verificar direcciones, coordenadas, presión atmosférica y altitud actual después de desinstalarlo."</string>
     <string name="app_description_title">¿Desinstalar Brújula?</string>
     <string name="app_label">Brújula</string>
-    <string name="app_name">difuminar</string>
     <string name="calibrate_failed">"No se puede calibrar la altitud"</string>
     <string name="calibrate_failed_no_location">"No se puede calibrar. Hay error en la ubicación."</string>
     <string name="calibrate_failed_timeout">"No se puede calibrar. Hay error en el servidor."</string>

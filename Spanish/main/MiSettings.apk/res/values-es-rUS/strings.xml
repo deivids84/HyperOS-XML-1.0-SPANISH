@@ -47,8 +47,10 @@
     <string name="anti_flicker_mode">Antiparpadeo</string>
     <string name="anti_flicker_mode_categroy">Modos</string>
     <string name="anti_flicker_mode_summary">Evite el parpadeo extenso y reduzca la fatiga visual en condiciones de poca luz</string>
+    <string name="anti_flicker_mode_summary_new">Usa DC dimming con poca luz para reducir la fatiga visual</string>
     <string name="anti_flicker_title">Modo antiparpadeo</string>
     <string name="app_name">Ajustes</string>
+    <string name="app_use">Horas de pantalla de aplicaciones</string>
     <string name="application_sound">Notificaciones de aplicaciones</string>
     <string name="apply_ringtone">Apply</string>
     <string name="arctic_fox">Arctic fox</string>
@@ -402,6 +404,8 @@ no se generan en el segundo espacio"</string>
     <string name="masked_palm_civet">Masked palm civet</string>
     <string name="max_fps_string">Hasta %s Hz</string>
     <string name="medium_tree_finch">Medium tree finch</string>
+    <string name="mi_transfer_banner_summary">Se admiten varias marcas de dispositivos</string>
+    <string name="mi_transfer_banner_title">Transfiere elementos desde tu antiguo dispositivo</string>
     <string name="midnight">Noche</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>

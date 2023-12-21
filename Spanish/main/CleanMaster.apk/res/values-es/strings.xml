@@ -506,6 +506,7 @@
     <string name="last_check_canceled">El análisis anterior fue cancelado</string>
     <string name="load_only_under_wlan">Cargar usando solo Wi-Fi</string>
     <string name="location_not_found">"No se pudo encontrar el archivo"</string>
+    <string name="lock_device_toast">Este dispositivo está bloqueado. Desbloquéalo para usar el Limpiador.</string>
     <string name="login_immediately">Iniciar sesión</string>
     <string name="long_click_dialog_summary">Mantén presionado para añadir a las excepciones.</string>
     <string name="long_click_dialog_title">Aviso</string>
@@ -601,6 +602,9 @@
     <string name="msg_update_error_code_success">Hecho</string>
     <string name="msg_update_error_code_unknown_error">Los servidores están ocupados. Espera un momento y vuelve a intentarlo.</string>
     <string name="name_debuglog_dir">Registro de depuración BSP</string>
+    <string name="native_body">Cuerpo</string>
+    <string name="native_headline">Título</string>
+    <string name="native_media_view">Vista del contenido multimedia</string>
     <string name="nb_clear_set">Limpiar caché, ver batería e información de lista de bloqueo en la Barra de notificaciones</string>
     <string name="network_not_available">"No se puede conectar a la red"</string>
     <string name="news_change">Cambiar</string>
@@ -736,12 +740,7 @@
     <string name="pref_title_open_optimizer_cloud_scan">Cargar los nombres de los archivos</string>
     <string name="pref_title_open_optimizer_memory_scan">Escanear memoria de la aplicación</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
-    <string name="privacy_app_desc">Cuenta y contraseña</string>
-    <string name="privacy_app_desc_message">Cuenta, contraseñas y mensajes</string>
-    <string name="privacy_app_desc_search">Cuentas, contraseñas e historial de búsqueda</string>
-    <string name="privacy_app_desc_setting">Cuenta, contraseñas y ajustes</string>
     <string name="privacy_browser_desc">Elementos buscados</string>
-    <string name="privacy_cache_desc">Cuenta, contraseña, historial, ajustes y más</string>
     <string name="privacy_cache_empty">Sin datos personales</string>
     <string name="privacy_cache_scaning">Comprobando…</string>
     <string name="privacy_cache_title">Información personal</string>
@@ -798,6 +797,7 @@
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
     <string name="size_tera_byte">TB</string>
+    <string name="skip_ad">Omitir</string>
     <string name="sponsored">Patrocinado</string>
     <string name="start_downloading_app">Iniciando descarga: %1$s</string>
     <string name="start_install">Instalar ahora</string>
@@ -924,6 +924,7 @@
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADO</string>
     <string name="virus_scan">Análisis de virus</string>
+    <string name="watermark_label_prefix">"AdMob -"</string>
     <string name="wechat_chat_data_type_cache">Caché de WeChat</string>
     <string name="wechat_chat_data_type_cache_desc">"Podrás restaurar estos archivos después de conectarse a Internet."</string>
     <string name="wechat_chat_data_type_chat">Historial de chat</string>

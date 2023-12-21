@@ -40,6 +40,10 @@
         <item quantity="other">" %1$s horas %2$s"</item>
         <item quantity="one">" %1$s hora %2$s"</item>
     </plurals>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">Presión atmosférica: %s hectopascales</item>
+        <item quantity="one">Presión atmosférica: %s hectopascal</item>
+    </plurals>
     <plurals name="character_pitch_minus">
         <item quantity="other">Espaciado de caracteres reducido. Espaciado de caracteres %s.</item>
         <item quantity="one">Espaciado de caracteres reducido. Espaciado de caracteres %s.</item>
@@ -61,6 +65,54 @@ Las animaciones más largas se detendrán en este punto."</item>
     <plurals name="half_hour_ago">
         <item quantity="one">Hace media hora</item>
         <item quantity="other">Hace media hora</item>
+    </plurals>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">%1$s calorías quemadas</item>
+        <item quantity="one">%1$s caloría quemada</item>
+    </plurals>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">Objetivo de calorías: %1$s calorías</item>
+        <item quantity="one">Objetivo de calorías: %1$s caloría</item>
+    </plurals>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s kcal</item>
+        <item quantity="one">%1$s/%2$s kcal</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">Tiempo de actividad: %1$s minutos</item>
+        <item quantity="one">Tiempo de actividad: %1$s minuto</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">Objetivo de actividad: %1$s minutos</item>
+        <item quantity="one">Objetivo de actividad: %1$s minuto</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s min</item>
+        <item quantity="one">%1$s/%2$s min</item>
+    </plurals>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">Levantado en %1$s horas</item>
+        <item quantity="one">Levantado en %1$s hora</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">Objetivo de tiempo levantado: %1$s horas</item>
+        <item quantity="one">Objetivo de tiempo levantado: %1$s hora</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s h</item>
+        <item quantity="one">%1$s/%2$s h</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">Conteo de pasos actual: %1$s pasos</item>
+        <item quantity="one">Conteo de pasos actual: %1$s paso</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">Objetivo de pasos: %1$s pasos</item>
+        <item quantity="one">Objetivo de pasos: %1$s paso</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s pasos</item>
+        <item quantity="one">%1$s/%2$s paso</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="one">En 1 hora</item>
@@ -101,5 +153,9 @@ Las animaciones más largas se detendrán en este punto."</item>
     <plurals name="num_minutes_ago">
         <item quantity="other">Hace %d minutos</item>
         <item quantity="one">Hace 1 minuto</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">Temperatura: %1$s grados, %2$s</item>
+        <item quantity="one">Temperatura: %1$s grado, %2$s</item>
     </plurals>
 </resources>

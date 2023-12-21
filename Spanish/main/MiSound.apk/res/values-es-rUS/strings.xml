@@ -78,8 +78,8 @@
     <string name="effect_3dsurround">Sonido inmersivo</string>
     <string name="effect_3dsurround_summary">Mejora la profundidad de reproducción del sonido para auriculares y altavoces</string>
     <string name="effect_3dsurround_summary_headphone">Mejora la profundidad de reproducción del sonido para auriculares</string>
-    <string name="effect_dolby">Dolby</string>
-    <string name="effect_misound">Misound</string>
+    <string name="effect_dolby">Dolby Atmos</string>
+    <string name="effect_misound">Xiaomi Sound</string>
     <string name="effect_none">Original</string>
     <string name="effect_selection">Efectos de sonido</string>
     <string name="effect_selection_headset">Efectos de auriculares</string>

@@ -47,7 +47,7 @@
         <item>"El acceso a la red está restringido. Ajusta la hora en este dispositivo y comprueba la configuración de red del router."</item>
         <item>Error de la red. Comprueba la configuración del proxy HTTP.</item>
         <item>Error de la red. Comprueba si el router tiene acceso a Internet.</item>
-        <item>"No se puede acceder a la red. Conecta otra vez a Wi-Fi o reinicia el router."</item>
+        <item>"No se puede acceder a la red. Vuelve a conectarte al Wi-Fi o reinicia el router."</item>
     </string-array>
     <string-array name="net_diag_err_network_connectivity_china">
         <item>Se necesita autenticación para el acceso a la red</item>
@@ -59,7 +59,7 @@
     <string-array name="net_diag_err_network_dns">
         <item>"Error del servidor DNS. Comprueba la configuración DNS del router."</item>
         <item>"Respuesta muy lenta del servidor DNS. Comprueba la configuración DNS del router."</item>
-        <item>"No hay acceso a la puerta de enlace. Conecta otra vez a Wi-Fi o reinicia el router."</item>
+        <item>"No se puede acceder a la red. Vuelve a conectarte al Wi-Fi o reinicia el router."</item>
     </string-array>
     <string-array name="net_diag_err_network_dns_china">
         <item>"Error del servidor DNS. Comprueba la configuración DNS del router."</item>
