@@ -64,6 +64,50 @@
         <item quantity="other">%d años</item>
         <item quantity="one">%d año</item>
     </plurals>
+    <plurals name="ai_create_image_queue">
+        <item quantity="other">%1d personas delante de ti</item>
+        <item quantity="one">%1d persona delante de ti</item>
+    </plurals>
+    <plurals name="ai_create_remain_time_hour">
+        <item quantity="other">Tiempo de espera: %s horas</item>
+        <item quantity="one">Tiempo de espera: %s horas</item>
+    </plurals>
+    <plurals name="ai_create_remain_time_minute">
+        <item quantity="other">Tiempo de espera: %s minutos</item>
+        <item quantity="one">Tiempo de espera: %s min</item>
+    </plurals>
+    <plurals name="ai_creation_wait_message_time">
+        <item quantity="other">Creando… | Tiempo de espera: %d segundos</item>
+        <item quantity="one">Creando… | Tiempo de espera: %d seg</item>
+    </plurals>
+    <plurals name="ai_creation_wait_queue">
+        <item quantity="other">Creando… | %d personas delante de ti</item>
+        <item quantity="one">Creando… | %d persona delante de ti</item>
+    </plurals>
+    <plurals name="ai_creation_wait_time_minute">
+        <item quantity="other">Tiempo de espera: %d minutos</item>
+        <item quantity="one">Tiempo de espera: %d min</item>
+    </plurals>
+    <plurals name="ai_enhance_bar_waiting">
+        <item quantity="other">Creando… | %d segundos restantes</item>
+        <item quantity="one">Creando… | %d segundos restantes</item>
+    </plurals>
+    <plurals name="ai_hour">
+        <item quantity="other">%s horas</item>
+        <item quantity="one">%s h</item>
+    </plurals>
+    <plurals name="ai_image_over_limit_msg">
+        <item quantity="other">Una persona puede crear hasta %d imágenes IA.</item>
+        <item quantity="one">Una persona puede crear hasta una imagen IA %d.</item>
+    </plurals>
+    <plurals name="ai_minute">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="ai_select_photo_time_count">
+        <item quantity="other">Seleccionando fotos (%d segundos restantes)…</item>
+        <item quantity="one">Seleccionando fotos (%d segundos restantes)…</item>
+    </plurals>
     <plurals name="album_already_share_user_count">
         <item quantity="other">Compartido con %d personas</item>
         <item quantity="one">Compartido con %d persona</item>
@@ -399,6 +443,10 @@
     <plurals name="search_feedback_done_mark_false_positive">
         <item quantity="other">%1$d fotos eliminadas de \"%2$s\".</item>
         <item quantity="one">%1$d foto eliminada de \"%2$s\".</item>
+    </plurals>
+    <plurals name="search_title_ai">
+        <item quantity="other">Encontrados elementos %d</item>
+        <item quantity="one">Encontrado artículo %d</item>
     </plurals>
     <plurals name="send_apk_dialog_desc">
         <item quantity="other">%2$d paquetes de instalación (%3$s) de %1$s</item>

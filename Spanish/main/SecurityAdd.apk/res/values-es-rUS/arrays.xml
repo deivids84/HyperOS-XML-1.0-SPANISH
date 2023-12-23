@@ -74,6 +74,13 @@
         <item>Equilibrado</item>
         <item>Predeterminado</item>
     </string-array>
+    <string-array name="gb_gpu_custom_frame_rate_gear">
+        <item>Baja</item>
+        <item>Estándar</item>
+        <item>Alta</item>
+        <item>Máxima</item>
+        <item>Predeterminada</item>
+    </string-array>
     <string-array name="gb_gpu_custom_texture">
         <item>Alta velocidad</item>
         <item>Balanceado</item>

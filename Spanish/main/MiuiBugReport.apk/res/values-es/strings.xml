@@ -72,14 +72,14 @@
     <string name="bugreport_dialog_informed_consent_content">"Hemos detectado un error relacionado con tu contraseña de bloqueo de pantalla. Puedes enviar los registros del dispositivo para ayudarnos a localizar y resolver el problema. La información de registro se subirá anónimamente, sólo se utilizará para la resolución del problema y se eliminará cuando se haya solucionado."</string>
     <string name="bugreport_dialog_informed_consent_title">Consentimiento informado</string>
     <string name="bugreport_dialog_not_show_again">"No mostrar otra vez"</string>
-    <string name="bugreport_dialog_submit_content">&lt;Data&gt;Estás guardando registros de software en este dispositivo ahora. Los registros pueden contener información personal y tus datos de ubicación. No compartas registros con nadie más si no deseas que esta información quede expuesta. Al seleccionar \"Acepto\", significa que has leído y aceptado nuestra &lt;a href=\"%1$s\"&gt;Política de privacidad&lt;/a&gt; y el &lt;a href=\"%2$s\"&gt;Acuerdo de usuario&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="bugreport_dialog_submit_content">"&lt;Data&gt;Estás guardando registros de software en este dispositivo ahora. Los registros pueden contener información personal y tus datos de ubicación. No compartas registros con nadie más si no deseas que esta información quede expuesta. Al seleccionar \"Aceptar\", significa que has leído y aceptado nuestra &lt;a href=\"%1$s\"&gt;Política de privacidad&lt;/a&gt; y el &lt;a href=\"%2$s\"&gt;Acuerdo de usuario&lt;/a&gt;.&lt;/Data&gt;"</string>
     <string name="bugreport_dump_complete_notification_summary">Pulsa para ver.</string>
     <string name="bugreport_dump_complete_notification_title">Informe de errores creado</string>
     <string name="bugreport_dump_start_notification_summary">Esto tardará varios minutos.</string>
     <string name="bugreport_dump_start_notification_title">Creando informe de errores…</string>
     <string name="bugreport_tool_log_dumping_desc">Tarda cerca de un minuto</string>
     <string name="bugreport_tool_log_dumping_title">Creando informe de bug</string>
-    <string name="can_not_add_more_image">"No se puede añadir más imágenes o vídeos"</string>
+    <string name="can_not_add_more_image">"No se pueden añadir más fotos o vídeos"</string>
     <string name="catch_full_log_action_cancel">Cancelar</string>
     <string name="catch_full_log_action_complete">Finalizar y subir</string>
     <string name="catch_full_log_action_start">Generar registro</string>
@@ -136,7 +136,7 @@
     <string name="cta_confirm">OK</string>
     <string name="cta_dialog_content">Esta aplicación necesita conectarse a internet para funcionar normalmente.</string>
     <string name="cta_dialog_title">Conexión de internet</string>
-    <string name="cta_message"><Data>Para funcionar normalmente, se usa la conexión a Internet. También se puede necesitar permiso para acceder a tu ubicación. Lee y acepta nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt; antes de continuar.</Data></string>
+    <string name="cta_message">&lt;Data&gt;Para poder trabajar con normalidad, Comentarios necesita conectarse a internet. Esta aplicación también puede solicitar permiso para acceder a tu ubicación. Lee y acepta nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; y el &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt; antes de continuar.&lt;/Data&gt;</string>
     <string name="cta_not_show_again">"No volver a mostrar"</string>
     <string name="customer_service_apply">Solicitar servicio al cliente</string>
     <string name="customer_service_complain">Reportar servicio al cliente</string>
@@ -153,18 +153,18 @@ Remite este código al supervisor."</string>
     <string name="discard_draft_dialog_content">"Todos los cambios realizados en este informe se perderán."</string>
     <string name="discard_draft_dialog_title">¿Descartar borrador?</string>
     <string name="doing_query_account">Comprobando la información de la cuenta…</string>
-    <string name="dynamic_dialog_content">Estás a punto de abrir la función de registro dinámico, en el modo de captura de problemas especiales, que contiene el programa en ejecución (incluyendo llamadas del sistema, etc.). Después de activar el registro dinámico, el sistema puede manifestra lentitud y temperatura (es normal). Cuando finalice la captura del registro, el dispositivo se apagará automáticamente. Envía tus comentarios en cuanto el problema aparezca otra vez. Seleccionando Aceptar, permites que recopilemos los datos anteriores para la siguiente sesión de grabación y los enviemos para resolver tu problema.</string>
-    <string name="dynamic_dialog_negative_text">No acepto</string>
-    <string name="dynamic_dialog_notification_text">Envía tus comentarios en cuanto el problema aparezca otra vez. La función se cerrará automáticamente</string>
-    <string name="dynamic_dialog_notification_title">La captura dinámica de registros está activada</string>
+    <string name="dynamic_dialog_content">"Estás a punto de empezar a generar registros dinámicos. Estos contienen registros de operaciones de software (como llamadas del sistema). Mientras se estén generando los registros dinámicos tu dispositivo podría congelarse o calentarse, lo cual es normal. Una vez se hayan generado, esta función se desactivará. Recuerda enviar tus comentarios a tiempo si se repite el problema. Al pulsar \"Aceptar\" abajo, aceptas que recolectemos los datos mencionados mientras se generan los registros y luego estos se suban a nuestros servidores para ayudar a diagnosticar y resolver los problemas que nos has reportado."</string>
+    <string name="dynamic_dialog_negative_text">"No aceptar"</string>
+    <string name="dynamic_dialog_notification_text">Una vez sean generados los registros, esta función se desactivará</string>
+    <string name="dynamic_dialog_notification_title">Generando registros dinámicos…</string>
     <string name="dynamic_dialog_positive_text">Acepto</string>
-    <string name="dynamic_dialog_title">Nota de privacidad</string>
+    <string name="dynamic_dialog_title">Declaración de privacidad</string>
     <string name="dynamic_log_float_dump_SF">volcar surfaceflinger</string>
     <string name="dynamic_log_float_dump_activity">volcar actividad</string>
     <string name="dynamic_log_float_dump_window">volcar ventana</string>
-    <string name="dynamic_log_load_text">Cargando...</string>
-    <string name="dynamic_log_restore_toast_text">El dispositivo está restaurando el registro dinámico. Inténtalo después</string>
-    <string name="dynamic_log_title">Registro dinámico</string>
+    <string name="dynamic_log_load_text">Un momento…</string>
+    <string name="dynamic_log_restore_toast_text">Restaurando registros dinámicos…</string>
+    <string name="dynamic_log_title">Registros dinámicos</string>
     <string name="early_morning">Mañana</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
@@ -195,7 +195,7 @@ Remite este código al supervisor."</string>
     <string name="facebook_login_btn_content_description">Iniciar sesión con Facebook</string>
     <string name="failed_to_fetch_fql">"No se pudo obtener la información de las preguntas frecuentes, revisa tu conexión de red"</string>
     <string name="feedback_account_inconsistent_login_hint">Parece que cambiaste de cuenta. Inicia sesión en tu cuenta Xiaomi anterior.</string>
-    <string name="feedback_account_login_hint">Antes, inicia sesión en tu cuenta Xiaomi</string>
+    <string name="feedback_account_login_hint">¡Inicia sesión con una Cuenta Xiaomi!</string>
     <string name="feedback_answer_detail_feedback_resolved">Sí</string>
     <string name="feedback_answer_detail_feedback_result">¡Gracias por tu comentario!</string>
     <string name="feedback_answer_detail_feedback_title">¿Fue de ayuda?</string>
@@ -220,7 +220,7 @@ Remite este código al supervisor."</string>
 %1$d ¿En qué aplicación o en qué página has encontrado el problema?
 %2$d. ¿Después de realizar qué acciones apareció el problema?
  %3$d. Danos la información adicional que podría ayudarnos a solucionar el problema."</string>
-    <string name="feedback_description_hint_suggestion">"Dinos que te gustaría mejorar de MIUI."</string>
+    <string name="feedback_description_hint_suggestion">Dinos como podemos mejorar.</string>
     <string name="feedback_description_suggest_hint">"Me guestaría que añadierais una nueva función () porque necesito ()."</string>
     <string name="feedback_detail_copy_toast">Copiado al portapapeles</string>
     <string name="feedback_detail_feedback_attach">Adjuntos</string>
@@ -254,7 +254,7 @@ Remite este código al supervisor."</string>
     <string name="feedback_package_log_failed">"No se pudieron comprimir los registros"</string>
     <string name="feedback_remind_login_btn">Iniciar sesión</string>
     <string name="feedback_report_remind_login_desc">Inicia sesión con tu cuenta de Xiaomi para que nuestros ingenieros puedan contactarte.</string>
-    <string name="feedback_report_remind_login_desc2">"También puedes ver el progreso de tu informe en Mis comentarios."</string>
+    <string name="feedback_report_remind_login_desc2">"También puedes ver el progreso de tus reportes en \"Mis comentarios\"."</string>
     <string name="feedback_reproductivity_everytime">Siempre</string>
     <string name="feedback_reproductivity_occasionally">De vez en cuando</string>
     <string name="feedback_reproductivity_often">A menudo</string>
@@ -299,7 +299,7 @@ Remite este código al supervisor."</string>
     <string name="feedback_submit_failed_notification_title">"No se pudo enviar el reporte"</string>
     <string name="feedback_submit_hint">Reporta incidencias cada vez que encuentres problemas para ayudarnos a resolverlos más rápido.</string>
     <string name="feedback_submit_hint1">"Te notificaremos sobre el estado de tus reportes"</string>
-    <string name="feedback_submit_hint2">Ir a Mis comentarios para ver detalles</string>
+    <string name="feedback_submit_hint2">Ve a \"Mis comentarios\" para ver los detalles</string>
     <string name="feedback_submit_hint_gone">Mensaje cerrado</string>
     <string name="feedback_submit_succ">Enviado</string>
     <string name="feedback_submit_succ_button">Listo</string>
@@ -331,6 +331,10 @@ Remite este código al supervisor."</string>
     <string name="hint_feedback_main">Describe el problema</string>
     <string name="i_get_it">Entendido</string>
     <string name="i_know">Entendido</string>
+    <string name="icon_add_description">Añade un acceso directo en la Pantalla de inicio</string>
+    <string name="icon_remove_confirm">Eliminar</string>
+    <string name="icon_remove_description_content">"\"Servicios y comentarios\" es una aplicación del sistema. Aún podrás usarla a través de Ajustes después de eliminar el acceso directo de la Pantalla de inicio."</string>
+    <string name="icon_remove_description_title">¿Quieres eliminar \"Servicios y comentarios\" de la Pantalla de inicio?</string>
     <string name="input_email_address_notice">"Vamos a utilizar este correo electrónico para verificar tu cuenta"</string>
     <string name="issue_search">Buscar</string>
     <string name="jump_full_log_dialog_cancel">Cancelar</string>
@@ -338,7 +342,7 @@ Remite este código al supervisor."</string>
     <string name="jump_full_log_dialog_content">"Los registros nos ayudarán a localizar y solucionar el error que estás a punto de reportar mucho más rápido. Genera registros y adjúntalos a tus comentarios."</string>
     <string name="jump_full_log_dialog_title">Generar registros</string>
     <string name="kr_authorization_agree">Aceptar</string>
-    <string name="kr_authorization_contact">Cuentas</string>
+    <string name="kr_authorization_contact">Cuenta</string>
     <string name="kr_authorization_contact_desc">Para acceder a la información de la cuenta Xiaomi e identificar el dispositivo</string>
     <string name="kr_authorization_exit">Salir</string>
     <string name="kr_authorization_function">Para enviar comentarios, generar registros y ver preguntas frecuentes</string>
@@ -369,12 +373,108 @@ Remite este código al supervisor."</string>
     <string name="logout_account">Cerrar sesión</string>
     <string name="menu_copy">Copiar</string>
     <string name="message_label">Mensaje</string>
+    <string name="mi_service_app_name">Servicios y comentarios</string>
+    <string name="mi_service_back">Atrás</string>
     <string name="mi_service_dialog_cancel">Salir</string>
     <string name="mi_service_dialog_confirm">Abrir</string>
     <string name="mi_service_dialog_content">Todas las funciones de los comentarios fueron movidas a la nueva aplicación \"Servicios y comentarios\". La aplicación Comentarios será eliminada de tu Pantalla de inicio. Pulsa \"Abrir\" para probar \"Servicios y comentarios\".</string>
     <string name="mi_service_dialog_title">Introducción a \"Servicios y comentarios\"</string>
     <string name="midnight">Noche</string>
     <string name="mishop_login_other">Otra cuenta</string>
+    <string name="miui_feedback_answer_detail_community">Puedes encontrar respuestas a tus preguntas en Xiaomi Community</string>
+    <string name="miui_feedback_answer_detail_feedback_resolved">Sí</string>
+    <string name="miui_feedback_answer_detail_feedback_result">¡Gracias por tu comentario!</string>
+    <string name="miui_feedback_answer_detail_feedback_title">¿Te ayudó esta información?</string>
+    <string name="miui_feedback_answer_detail_feedback_unresolved">No</string>
+    <string name="miui_feedback_answer_detail_menu_online_service">Consigue ayuda en línea</string>
+    <string name="miui_feedback_answer_detail_menu_phone_service">Número de atención al cliente</string>
+    <string name="miui_feedback_answer_detail_relative_tip">Información relacionada</string>
+    <string name="miui_feedback_answer_detail_title">Detalles</string>
+    <string name="miui_feedback_edit_action_submit">Enviar</string>
+    <string name="miui_feedback_edit_add_original_images">Añadir foto</string>
+    <string name="miui_feedback_edit_add_original_images_dialog_content">"Si el problema que estás reportando está relacionado con la calidad de imagen de la cámara, añade un foto original como muestra (sin recortar) para ayudarnos a localizar el problema. ¿Añadir la foto ahora?"</string>
+    <string name="miui_feedback_edit_choose_module">Seleccionar elemento</string>
+    <string name="miui_feedback_edit_choose_module_hint">Requerido</string>
+    <string name="miui_feedback_edit_choose_occurrence_time">Hora</string>
+    <string name="miui_feedback_edit_choose_reproductivity">Reproductividad</string>
+    <string name="miui_feedback_edit_choose_third_app_name">Selecciona el nombre de la aplicación</string>
+    <string name="miui_feedback_edit_contact_info_hint">Nº de teléfono/Correo electrónico</string>
+    <string name="miui_feedback_edit_delete_images">Eliminar imágenes</string>
+    <string name="miui_feedback_edit_desc_hint">"Describe el problema que has encontrado"</string>
+    <string name="miui_feedback_edit_desc_hint_suggestion">"Dinos que te gustaría mejorar de MIUI"</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_button_cancel">Permanecer</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_button_discard">Descartar</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_content">"Cualquier cambio que haya realizado en este reporte podría perderse."</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_title">¿Descartar borrador?</string>
+    <string name="miui_feedback_edit_hint">Reporta incidencias cada vez que encuentres problemas para ayudarnos a resolverlos más rápido</string>
+    <string name="miui_feedback_edit_hint_gone">Mensaje cerrado</string>
+    <string name="miui_feedback_edit_hint_optional">Seleccionar</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">Esperar conexión Wi-Fi</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">Cargar</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_content">"Parece que estás conectado a una red de pago. Cargar registros puede generar gastos adicionales."</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_title">Aviso de uso de datos</string>
+    <string name="miui_feedback_edit_need_phone_state_permission">Permite a la aplicación acceder a la información del dispositivo para permitir que lea tu IMEI, el cual ayudará a encontrar problemas. Pulsa \"OK\" para abrir Ajustes.</string>
+    <string name="miui_feedback_edit_need_storage_permission">Permite a la aplicación acceder al almacenamiento del dispositivo para poder adjuntar imágenes y vídeos a tus comentarios. Pulsa \"OK\" para abrir Ajustes.</string>
+    <string name="miui_feedback_edit_permission_denied_title">Permisos restringidos: %1$s</string>
+    <string name="miui_feedback_edit_phone_state_permission_name">Acceder a la información del dispositivo</string>
+    <string name="miui_feedback_edit_reproductivity_everytime">Cada vez</string>
+    <string name="miui_feedback_edit_reproductivity_occasionally">De vez en cuando</string>
+    <string name="miui_feedback_edit_reproductivity_often">A menudo</string>
+    <string name="miui_feedback_edit_reproductivity_once">Una vez</string>
+    <string name="miui_feedback_edit_select_images">Añade una imagen o un vídeo corto</string>
+    <string name="miui_feedback_edit_select_modem_log">Añadir registros de módem</string>
+    <string name="miui_feedback_edit_select_modem_log_not_select_desc">"No se ha seleccionado \"Añadir registros de módem\""</string>
+    <string name="miui_feedback_edit_select_modem_log_select_desc">Seleccionado \"Añadir registros de módem\"</string>
+    <string name="miui_feedback_edit_select_original_images">Añade una imagen original o un vídeo corto</string>
+    <string name="miui_feedback_edit_select_problem">Problemas</string>
+    <string name="miui_feedback_edit_select_problem_not_select_desc">"No se ha seleccionado \"Problemas\""</string>
+    <string name="miui_feedback_edit_select_problem_select_desc">Se ha seleccionado \"Problemas\"</string>
+    <string name="miui_feedback_edit_select_suggestion">Sugerencias</string>
+    <string name="miui_feedback_edit_select_suggestion_not_select_desc">"No se ha seleccionado \"Sugerencias\""</string>
+    <string name="miui_feedback_edit_select_suggestion_select_desc">Se ha seleccionado \"Problemas\"</string>
+    <string name="miui_feedback_edit_select_upload_log">Añadir registros</string>
+    <string name="miui_feedback_edit_select_upload_log_not_select_desc">"No se ha seleccionado \"Añadir registros\""</string>
+    <string name="miui_feedback_edit_select_upload_log_select_desc">Seleccionado \"Añadir registros\"</string>
+    <string name="miui_feedback_edit_storage_permission_name">Acceder al almacenamiento del dispositivo</string>
+    <string name="miui_feedback_edit_submit_dialog_cancel">"No aceptar"</string>
+    <string name="miui_feedback_edit_submit_dialog_confirm">Aceptar</string>
+    <string name="miui_feedback_edit_submit_dialog_content">"&lt;Data&gt;Debes aceptar nuestra &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\"&gt;Política de Privacidad&lt;/a&gt; y nuestro &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;Acuerdo de Usuario&lt;/a&gt; para poder utilizar la función de Comentarios. Los problemas que reportes, así como los elementos que adjuntes (podrían contener información personal, sobre tu dispositivo y sobre la red) serán subidos a los servidores de MIUI. Esto nos ayudará a localizar y solucionar los problemas que reportes.&lt;/Data&gt;"</string>
+    <string name="miui_feedback_edit_submit_dialog_content_global">"&lt;Data&gt;&lt;![CDATA[Tus comentarios, junto con los archivos adjuntos (si los hubiese) y los registros (puedes desmarcar las casillas correspondientes de los elementos que no quieres subir), se enviarán a los servidores de MIUI. Los registros podrían contener información personal y tus datos de ubicación. Seleccionando Aceptar significa que has leído y aceptado nuestra &lt;a href=http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s&gt;Política de Privacidad&lt;/a&gt; y &lt;a href=http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s&gt;Acuerdo de Usuario&lt;/a&gt;.&lt;/Data&gt;"</string>
+    <string name="miui_feedback_edit_submit_dialog_not_show_again">"No mostrar de nuevo"</string>
+    <string name="miui_feedback_edit_submit_dialog_title">Enviar reporte</string>
+    <string name="miui_feedback_edit_submit_directly">Enviar</string>
+    <string name="miui_feedback_edit_title_occurrence_time">Seleccionar hora</string>
+    <string name="miui_feedback_edit_title_reproductivity">Seleccionar reproductividad</string>
+    <string name="miui_feedback_edit_toast_description_required">Primero describe el problema</string>
+    <string name="miui_feedback_edit_toast_module_required">Seleccionar elemento</string>
+    <string name="miui_feedback_edit_toast_more_desc_required">Tu descripción debe ser más larga</string>
+    <string name="miui_feedback_edit_toast_problem_class_required">Seleccionar categoría</string>
+    <string name="miui_feedback_edit_toast_third_packagename_required">Introduce el nombre de la aplicación</string>
+    <string name="miui_feedback_main_answer_title">"Hay una respuesta para esta pregunta"</string>
+    <string name="miui_feedback_main_customer_service_onfo_for_jp">"Línea directa de servicio: 0120-300-521
+Horario de oficina: 9:00 - 18:00 (excepto días festivos y programados)
+Correo electrónico: service.jp@xiaomi.com"</string>
+    <string name="miui_feedback_main_frequent_question_title">Preguntas frecuentes</string>
+    <string name="miui_feedback_main_item_catch_full_log">Registros</string>
+    <string name="miui_feedback_main_item_customer_service">Servicios posventa</string>
+    <string name="miui_feedback_main_item_feedback_list">Mis comentarios</string>
+    <string name="miui_feedback_main_item_official_progress">Repair progress</string>
+    <string name="miui_feedback_main_item_official_progress_hint">Update repair progress regularly in Xiaomi Community</string>
+    <string name="miui_feedback_main_item_use_guide">Guía de usuario</string>
+    <string name="miui_feedback_main_menu_view_privacy">Política de Privacidad</string>
+    <string name="miui_feedback_main_menu_view_withdraw_consent">Retirada del consentimiento</string>
+    <string name="miui_feedback_main_search_footer">"¿Estas no son las preguntas que quieres preguntar?"</string>
+    <string name="miui_feedback_main_search_footer_submit">Enviar comentario</string>
+    <string name="miui_feedback_main_search_issue">Introduce palabras clave para buscar</string>
+    <string name="miui_feedback_main_search_no_answer">"No se pudo encontrar resultados"</string>
+    <string name="miui_feedback_main_start_submit">Enviar comentario</string>
+    <string name="miui_feedback_main_submit_dialog_confirm">Enviar</string>
+    <string name="miui_feedback_main_submit_dialog_content">"Parece que no se pudo encontrar una solución a tu problema. Puedes enviarnos tu comentario."</string>
+    <string name="miui_feedback_main_submit_dialog_title">Enviar comentario</string>
+    <string name="miui_feedback_main_title">Comentarios</string>
+    <string name="miui_feedback_main_withdraw">Retirar</string>
+    <string name="miui_feedback_main_withdraw_consent_hint">"Si continúas, retirarás tu consentimiento a la Política de Privacidad de %1$s. La información personal ya recopilada y retenida se eliminará dentro del periodo específico de acuerdo con las leyes y regulaciones aplicables a menos que se requiera lo contrario. Dado que %2$s proporciona sus servicios en función de la recopilación de la información personal necesaria, tu retirada de consentimiento se considerará como una negativa a aceptar los servicios de %3$s. ¿Retirar el consentimiento?"</string>
+    <string name="miui_feedback_note_install_xiaomi_community">Instala Xiaomi Community para poder usar esta función.</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Anular la selección de todo</string>
@@ -511,7 +611,7 @@ Remite este código al supervisor."</string>
     <string name="non_system_app_select">Aplicaciones descargadas</string>
     <string name="noon">Mediodía</string>
     <string name="not_set">Sin definir</string>
-    <string name="not_support_service_in_maintenance_mode">Este servicio no se soporta en modo mantenimiento</string>
+    <string name="not_support_service_in_maintenance_mode">"Este servicio no está disponible en el modo mantenimiento"</string>
     <string name="open_feedback_main">Más</string>
     <string name="open_settings">Ajustes</string>
     <string name="passport_access_denied">Acceso denegado</string>
@@ -607,6 +707,26 @@ Remite este código al supervisor."</string>
     <string name="passport_wrong_phone_number_format">El formato de número de teléfono introducido es inválido</string>
     <string name="passport_wrong_vcode">El código introducido no es correcto</string>
     <string name="passport_wrong_voice">El código que has introducido es incorrecto</string>
+    <string name="permission_agree">Aceptar</string>
+    <string name="permission_china_version_msg">&lt;Data&gt;Antes de usar \"Servicios y comentarios\", debes leer y aceptar nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt;. Esta aplicación también necesita conectarse a internet para trabajar con normalidad.&lt;/Data&gt;</string>
+    <string name="permission_complete">Listo</string>
+    <string name="permission_contacts_info">Acceder a la información de la cuenta</string>
+    <string name="permission_contacts_introduce">Para iniciar sesión usando una Cuenta Xiaomi</string>
+    <string name="permission_device_info">Acceder a la información del dispositivo</string>
+    <string name="permission_device_introduce">Para determinar el periodo límite de la garantía</string>
+    <string name="permission_exit">Salir</string>
+    <string name="permission_external_storage_introduce">Para guardar y subir tu comentario</string>
+    <string name="permission_first_start_network_title">Términos y condiciones</string>
+    <string name="permission_imei_disable_desc">Permitir a esta aplicación conectarse a internet.</string>
+    <string name="permission_imei_enable_desc">Permitir a esta aplicación conectarse a internet y conceder los permisos obligatorios arriba mencionados.</string>
+    <string name="permission_location_introduce">Para mostrar puntos de servicio cercanos</string>
+    <string name="permission_main_purpose">Mostrar funciones demo, enviar comentarios y solicitar servicios postventa.</string>
+    <string name="permission_privacy">Política de Privacidad (obligatorio)</string>
+    <string name="permission_region_version_msg">&lt;Data&gt;Antes de usar \"Servicios y comentarios\", debes leer y aceptar nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="permission_select_all">Seleccionar todo</string>
+    <string name="permission_storage">Almacenamiento</string>
+    <string name="permission_storage_introduce">Para guardar elementos en tu dispositivo</string>
+    <string name="permission_user_protocol">Acuerdo de Usuario (obligatorio)</string>
     <string name="phone_auto_login_register_with_local_number">Crear una cuenta</string>
     <string name="photoPickerNotFoundText">No hay fotos disponibles.</string>
     <string name="please_agree_protocal">Por favor acuerde el protocolo</string>
@@ -623,6 +743,14 @@ Lea y acepte la nueva versión de %3$s antes de continuar."</string>
     <string name="progressbar_title">Comprobando problemas de seguridad…</string>
     <string name="protocal_dialog_confirm">Aceptar</string>
     <string name="protocal_dialog_title">Atención</string>
+    <string name="public_authorize_now">Ajustes</string>
+    <string name="public_loading_text">Un momento…</string>
+    <string name="public_net_error_retry">Vuelve a intentarlo</string>
+    <string name="public_net_error_sub_title">Comprueba la configuración de red y vuelve a intentarlo</string>
+    <string name="public_net_error_title">"No se pudo conectar a la red"</string>
+    <string name="public_open_feedback_service">Comenzar</string>
+    <string name="public_please_authorize">Se requieren permisos para continuar</string>
+    <string name="public_welcome_use_feedback_service">¡Bienvenido a Servicios y comentarios! Puedes usar esta aplicación para enviar comentarios, ver preguntas frecuentes, solicitar devoluciones e intercambios de productos, y mucho más.</string>
     <string name="qq_login_btn_content_description">Iniciar sesión con QQ</string>
     <string name="refresh">Actualizar</string>
     <string name="register_by_local_phone_long_text">Crear una cuenta</string>
@@ -632,7 +760,7 @@ Lea y acepte la nueva versión de %3$s antes de continuar."</string>
     <string name="reply_option_log_hint">Opcional</string>
     <string name="reply_select_log_hint">Seleccionar registro</string>
     <string name="reply_successful">Contestó correctamente</string>
-    <string name="report_miui">Notificar error</string>
+    <string name="report_miui">Enviar comentarios</string>
     <string name="request_agree">Permitir</string>
     <string name="request_camera_permission_message">"Protegeremos tu información personal de acuerdo con las leyes y regulaciones pertinentes. Esta aplicación necesita los siguientes permisos para funcionar normalmente:&lt;br&gt;&lt;br&gt;&lt;b&gt;Uso de la cámara (para configurar tu foto del perfil)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Si no aceptas otorgar estos permisos, no podrás usar algunas funciones de la aplicación; sin embargo, su funcionalidad básica seguirá estando disponible. Siempre puedes cambiar los permisos y autorizacion en Ajustes."</string>
     <string name="request_cancel">Cancelar</string>
@@ -690,9 +818,9 @@ Lea y acepte la nueva versión de %3$s antes de continuar."</string>
     <string name="stop_full_log_dialog_title">Generando registros…</string>
     <string name="submit_dialog_cancel">"No aceptar"</string>
     <string name="submit_dialog_confirm">Aceptar</string>
-    <string name="submit_dialog_content"><Data>\"Lee y acepta nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; y el &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt; antes de enviar comentarios. Los problemas que reportes y los elementos que adjuntes (incluyendo registros que podrían contener información personal, del dispositivo y de la red) se cargarán en los servidores de MIUI. Esto ayudará a localizar y resolver los problemas de los que informas. Si éstos están relacionados con múltiples dispositivos, también se cargarán los registros de otros dispositivos en los que utilizas tu cuenta Xiaomi.\"</Data></string>
-    <string name="submit_dialog_content_global">&lt;Data&gt;Tus comentarios, junto con los archivos adjuntos (si los hubiese) y los registros (puedes desmarcar las casillas correspondientes de los elementos que no quieres subir), se enviarán a los servidores de MIUI. Los registros podrían contener información personal y tus datos de ubicación. Seleccionando \"Aceptar\" significa que has leído y aceptado nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt;.&lt;/Data&gt;</string>
-    <string name="submit_dialog_content_global_with_contactinfo"><Data>\"Sus comentarios, junto con los archivos adjuntos (si los hay), los registros (puede desmarcar las casillas correspondientes de los elementos que no desea cargar), el número de teléfono o el correo electrónico se enviarán a los servidores de MIUI. Los registros pueden contener información personal y sus datos de ubicación. Si selecciona \"Acepto\", significa que ha leído y aceptado nuestra &lt;a href=\"%1$s\"&gt;Política de privacidad&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Acuerdo de usuario&lt;/a&gt;\".</Data></string>
+    <string name="submit_dialog_content">&lt;Data&gt;[Lee y acepta nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; y &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt; antes de enviar comentarios. Los problemas de los que informes junto con los elementos que adjuntes (incluidos los registros que podrían contener información personal, así como la información sobre tu dispositivo y red) serán subidos a nuestros servidores. Esto nos ayudará a localizar y resolver los problemas de los que nos informes. Si informas de problemas relacionados con varios dispositivos, también se subirán los registros de otros dispositivos en los que utilizas tu Cuenta Xiaomi.&lt;/Data&gt;</string>
+    <string name="submit_dialog_content_global">"&lt;Data&gt;Tus comentarios, junto con los archivos adjuntos (si los hay) y los registros (puedes desmarcar las casillas correspondientes para los elementos que no deseas cargar) se enviarán a nuestros servidores. Los registros pueden contener información personal y datos de tu ubicación. Seleccionar \"Aceptar\" significa que has leído y aceptado nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; y &lt;a href=\"%2$s\"&gt; Acuerdo de usuario&lt;/a&gt;.&lt;/Data&gt;"</string>
+    <string name="submit_dialog_content_global_with_contactinfo">"&lt;Data&gt;Tus comentarios, junto con los archivos adjuntos (si los hay) y los registros (puedes desmarcar las casillas correspondientes para los elementos que no deseas cargar) se enviarán a nuestros servidores. Los registros pueden contener información personal y datos de tu ubicación. Seleccionar \"Aceptar\" significa que has leído y aceptado nuestra &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; y &lt;a href=\"%2$s\"&gt; Acuerdo de usuario&lt;/a&gt;.&lt;/Data&gt;"</string>
     <string name="submit_dialog_not_show_again">"No mostrar otra vez"</string>
     <string name="submit_dialog_title">Enviar reporte</string>
     <string name="submit_feedback_info_failed">"No se pudo enviar el reporte"</string>

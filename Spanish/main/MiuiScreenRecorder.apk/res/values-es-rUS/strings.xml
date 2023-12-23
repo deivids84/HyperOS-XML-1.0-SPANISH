@@ -33,8 +33,7 @@
     <string name="app_name">Grabadora de pantalla</string>
     <string name="app_notification_channel_record_complete">Notificaciones sobre grabaciones terminadas</string>
     <string name="app_notification_info">Grabando la pantalla…</string>
-    <string name="app_notification_record_saved">"Grabación guardada con éxito
-Toca para ver"</string>
+    <string name="app_notification_record_saved">Grabaciones de pantalla guardadas. Pulsa para verlas.</string>
     <string name="app_notification_title">Grabadora de pantalla</string>
     <string name="auto_stop_title">Video guardado</string>
     <string name="battery_not_allowed_warning">"No se puede grabar cuando la batería está por debajo de %1$s. Asegúrese de que la batería esté al menos %2$s cargada."</string>
@@ -128,15 +127,16 @@ Toca para ver"</string>
     <string name="midnight">Noche</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar todo</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Más</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Eliminar</string>
-    <string name="miuix_appcompat_deselect_all">Deseleccionar</string>
+    <string name="miuix_appcompat_deselect_all">Deseleccionar todo</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleccionar todo</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Buscar</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
@@ -208,6 +208,7 @@ Toca para ver"</string>
     <string name="pm">PM</string>
     <string name="preference_copied">Se copió \"%1$s\" en el portapapeles.</string>
     <string name="privacy_settings">Privacidad</string>
+    <string name="protect_oneself_when_recording">"Grabando la llamada. Protege tu privacidad y la de otras personas mientras usas esta función."</string>
     <string name="quit_recording">Cerrar la grabadora de pantalla</string>
     <string name="record_time_too_short">El vídeo grabado es demasiado corto</string>
     <string name="recording_failure">"No se pudo grabar, empiece de nuevo"</string>

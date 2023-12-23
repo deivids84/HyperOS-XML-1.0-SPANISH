@@ -220,9 +220,6 @@
     <string name="common_home_search_delete_content">"No podrá usar la búsqueda rápida después de eliminar la barra de búsqueda de su Pantalla de inicio. ¿Eliminar de todas formas?"</string>
     <string name="confirm_btn_label">Aceptar</string>
     <string name="content_center">Centro de contenido</string>
-    <string name="content_description_button_add">Toque para añadir a las aplicaciones actuales</string>
-    <string name="content_description_button_disable">"No se pueden añadir más aplicaciones actuales"</string>
-    <string name="content_description_button_remove">Toque para eliminar de las aplicaciones actuales</string>
     <string name="content_description_for_shortcut_icon_checked">%1$s, verificado</string>
     <string name="content_description_shortcut_icon_unchecked">%1$s, sin verificar</string>
     <string name="content_description_workspace_thumbnail_item">Vista previa de la pantalla, página %1$s</string>
@@ -351,6 +348,7 @@
 Llamadas más accesibles.
 Seguridad mejorada."</string>
     <string name="key_shortcut_settings_title">Atajos de botones</string>
+    <string name="keyguard_multi_window_tip">Esta página sólo puede mostrarse en modo de pantalla completa</string>
     <string name="label">Etiqueta</string>
     <string name="launcher_icon_management">Administrar accesos directos de la Pantalla de inicio</string>
     <string name="launcher_pull_down_title">Deslizar hacia abajo en la pantalla de inicio</string>
@@ -416,6 +414,7 @@ Seguridad mejorada."</string>
     <string name="midnight">Noche</string>
     <string name="minus_one_screen">Bóveda de aplicaciones</string>
     <string name="miui_screen_config_title">Ajustes de pantalla de inicio</string>
+    <string name="miui_setting_config_title">Ajustes de pantalla de inicio</string>
     <string name="miui_widget_menu_replace_text">Cambiar</string>
     <string name="miui_widget_toast_for_not_support_by_pa">"La Bóveda de Aplicaciones no permite widgets de este tamaño"</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
@@ -556,12 +555,18 @@ Seguridad mejorada."</string>
     <string name="navigation_type_title">Navegación del sistema</string>
     <string name="navigation_type_virtual_key">Botones</string>
     <string name="network_error">"No se pudo conectar a la red. Vuelva a intentarlo."</string>
+    <string name="new_default_folder_title_tools">Apps del sistema</string>
     <string name="new_feature_title">"Novedades"</string>
+    <string name="new_open_personal_assistant_settings_simplified">Caja fuerte</string>
+    <string name="new_privacy_thumbnail_blur_summary">Vista previa de la aplicación desenfocada en recientes</string>
+    <string name="new_recents_config_title">Otro</string>
     <string name="night">Tarde</string>
     <string name="no_space_toast">No hay suficiente espacio</string>
+    <string name="no_space_toast_fold">No hay suficiente espacio aquí</string>
     <string name="no_space_toast_when_click_widget">No hay espacio suficiente en esta página. Pruebe arrastrando el elemento a otra.</string>
     <string name="noon">Mediodía</string>
     <string name="not_set">Sin definir</string>
+    <string name="not_support_adding">"La adición de este elemento aún no está soportada"</string>
     <string name="notification_open_button">Abrir</string>
     <string name="notification_reset_title">Íconos organizados con éxito</string>
     <string name="one_key_call_title">Toque para marcar</string>
@@ -633,7 +638,6 @@ Seguridad mejorada."</string>
     <string name="recents_title_garbage_deepclean">Limpieza profunda</string>
     <string name="recents_title_market">Encontrar aplicaciones</string>
     <string name="recents_title_security_scan">Análisis de seguridad</string>
-    <string name="recents_tv_small_window_text">Ventanas flotantes</string>
     <string name="recents_worldcirculate_text">Suelte para seleccionar</string>
     <string name="recnets_relay_device_info">Desde %s</string>
     <string name="recnets_worldcirculate_display_computer_info">La aplicación está funcionando en %s.</string>
@@ -676,6 +680,9 @@ Seguridad mejorada."</string>
     <string name="send">Enviar</string>
     <string name="server_error">Se produjo un error del servidor. Espera un minuto o dos y vuelve a intentarlo.</string>
     <string name="service_double_attention">La búsqueda mejorada comparte tus solicitudes, el ID de Google Ads y tu dirección IP con Branch Metrics Inc. Lee y acepta <font color="#B3000000"><a href="http://url1">Términos de usuarios finales &amp; Condiciones</a></font> y <font color="#B3000000"><a href="http://url2">Política de privacidad</a></font> antes de usarla.</string>
+    <string name="setting_close">Apagado</string>
+    <string name="setting_no_word">En cualquier lugar</string>
+    <string name="setting_only_widget_no_word">En widgets</string>
     <string name="setting_wallpaper_tip">Pellizque o deslice para ajustar</string>
     <string name="settings">Ajustes</string>
     <string name="settings_shortcut">Ajustes</string>
@@ -691,14 +698,8 @@ Seguridad mejorada."</string>
     <string name="show_recents_recommend_title">Mostrar sugerencias</string>
     <string name="slide_to_open_newhome">Deslice hacia arriba para abrir el Centro de Contenido</string>
     <string name="small_window">Ventana flotante</string>
-    <string name="small_window_button_complete">Listo</string>
-    <string name="small_window_edit_content">Puede añadir hasta %d aplicaciones</string>
-    <string name="small_window_edit_title">Aplicaciones actuales</string>
-    <string name="small_window_empty">Seleccionar de aplicaciones disponibles</string>
-    <string name="small_window_select_title">Aplicaciones disponibles</string>
-    <string name="small_window_title_text">Toque para abrir una ventana flotante</string>
-    <string name="small_window_toast">Puede añadir hasta %d aplicaciones</string>
     <string name="start_activity_failed">"No se pudo iniciar el launcher"</string>
+    <string name="start_new_window">Nueva ventana</string>
     <string name="status_bar_recent_memory_giga">%1$s GB</string>
     <string name="status_bar_recent_memory_info1">%1$s de %2$s disponibles</string>
     <string name="status_bar_recent_memory_mega">%1$s MB</string>
@@ -715,10 +716,10 @@ Seguridad mejorada."</string>
     <string name="switch_personal_assistant_app_vault">Bóveda de aplicaciones</string>
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">Ninguno</string>
-    <string name="switch_personal_assistant_summary">Desliza a la derecha, en la pantalla de Inicio, para abrir Google Discover</string>
     <string name="switch_screen_button_order">Invertir botones</string>
     <string name="switch_screen_button_order_desc">Invertir botones de Atrás y Menú</string>
     <string name="system_shortcuts_edit">Editar</string>
+    <string name="system_shortcuts_icon_remove">Eliminar</string>
     <string name="system_shortcuts_more_operation">Info. App</string>
     <string name="system_shortcuts_remove">Eliminar</string>
     <string name="system_text">Automático</string>

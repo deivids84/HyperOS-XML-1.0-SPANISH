@@ -116,6 +116,7 @@
     <string name="download_status_paused">Pausa</string>
     <string name="download_success">Descarga completa</string>
     <string name="download_wait_connect">Esperando la conexión</string>
+    <string name="download_waiting">Pendiente</string>
     <string name="downloaded_empty">Vacío</string>
     <string name="downloading">Descargando…</string>
     <string name="downloading_empty">Vacío</string>
@@ -156,6 +157,7 @@
     <string name="install">Instalar</string>
     <string name="installing">Instalando…</string>
     <string name="insufficient_space">No hay almacenamiento suficiente</string>
+    <string name="introduction">Acerca de</string>
     <string name="invalid_address">La ruta de acceso del archivo no es válida</string>
     <string name="jump_rank_hint">"Echa un vistazo a la clasificación de descargas de hoy &gt;"</string>
     <string name="jump_rank_hint2">Ver las principales descargas</string>
@@ -188,6 +190,10 @@
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
+    <string name="miuix_item_view_role_description">Tab</string>
+    <string name="miuix_navigator_content_switch_description">Show sidebar</string>
+    <string name="miuix_navigator_multiple_choice">Seleccionar</string>
+    <string name="miuix_navigator_navigator_switch_description">Hide sidebar</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -324,7 +330,7 @@
     <string name="starting_analysis">Obteniendo información…</string>
     <string name="storage_dialog_content">Permite que Descargas acceda al almacenamiento para usar sus funciones.</string>
     <string name="storage_dialog_go">Ajustes</string>
-    <string name="storage_dialog_title">Acceder al almacenamiento</string>
+    <string name="storage_dialog_title">Permisos necesarios</string>
     <string name="storage_internal">Almacenamiento interno</string>
     <string name="storage_permission_deny">Se necesita permisos de almacenamiento</string>
     <string name="storage_sd_card">Tarjeta SD</string>

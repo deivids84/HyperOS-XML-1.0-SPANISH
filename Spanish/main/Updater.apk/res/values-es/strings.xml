@@ -68,8 +68,8 @@ Tus datos no se borrarán.</string>
     <string name="no_mirror">Todos los enlaces están fuera de línea, inténtalo más tarde…</string>
     <string name="no_network">No hay acceso a la red.</string>
     <string name="no_update">No hay actualizaciones</string>
-    <string name="no_xioamieu">"¡No estás utilizando la ROM de MIUI creada por el equipo de Xiaomi.eu.
-Las actualizaciones no están disponibles!"</string>
+    <string name="no_xioamieu">"¡No está usando la ROM de HyperOS creada por el equipo de Xiaomi.eu!
+¡Las actualizaciones no están disponibles para usted!"</string>
     <string name="notif_cancel">Cancelar</string>
     <string name="notif_install">Instalar</string>
     <string name="notif_new_summary">Toca para obtener detalles</string>
@@ -86,7 +86,7 @@ Las actualizaciones no están disponibles!"</string>
     <string name="recovery_desc">El dispositivo se reiniciará en modo Recovery. Si no conoces este modo, cancela las acciones futuras. ¿Continuar?</string>
     <string name="recovery_mode">El cargador está en modo recovery. Puedes actualizar la ROM en el actualizador.</string>
     <string name="server_error">El servidor no responde, puede que la aplicación no funcione correctamente</string>
-    <string name="share_desc">Tu versión de MIUI se ha actualizado a %1$s, consulta el último registro de cambios en: %2$s</string>
+    <string name="share_desc">Tu versión de HyperOS ha sido actualizada a %1$s, revisa el registro de cambios más reciente en: %2$s</string>
     <string name="share_title">Compartir con</string>
     <string name="stable">Estable</string>
     <string name="twrp_update_warning">Para usar una OTA necesitas indicar si TWRP está instalado en el dispositivo:</string>

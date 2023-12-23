@@ -212,6 +212,10 @@
         <item quantity="other">%d anuncios bloqueados</item>
         <item quantity="one">%d anuncio bloqueado</item>
     </plurals>
+    <plurals name="recommend_top_guide">
+        <item quantity="other">%d nuevos vídeos recomendados</item>
+        <item quantity="one">%d nuevo vídeo recomendado</item>
+    </plurals>
     <plurals name="search_trending_views">
         <item quantity="other">%s solicitudes de búsqueda</item>
         <item quantity="one">%s solicitud de búsqueda</item>

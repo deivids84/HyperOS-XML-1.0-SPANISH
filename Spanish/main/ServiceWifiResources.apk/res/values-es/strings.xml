@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="accept">Aceptar</string>
+    <string name="apm_enabled_first_time_message">"Tu dispositivo recuerda mantener Wi-Fi encendida en el modo avión. Apaga Wi-Fi si no quieres que permanezca encendido."</string>
+    <string name="apm_enabled_first_time_title">Wi-Fi permanece encendido</string>
     <string name="decline">Rechazar</string>
     <string name="dlg_ok">OK</string>
+    <string name="notification_channel_apm_alerts">Alertas APM</string>
     <string name="notification_channel_network_alerts">Alertas de red</string>
     <string name="notification_channel_network_available">Red disponible</string>
     <string name="notification_channel_network_status">Estado de la red</string>
@@ -86,15 +89,29 @@ Este cambio puede permitir a los dispositivos cercanos rastrear tu ubicación."<
     <string name="wifi_enable_request_dialog_negative_button">"No permitir"</string>
     <string name="wifi_enable_request_dialog_positive_button">Permitir</string>
     <string name="wifi_enable_request_dialog_title">¿Permitir a %1$s activar Wi-Fi?</string>
+    <string name="wifi_enabled_apm_first_time_message">"Si mantiene encendida la Wi-Fi, el dispositivo recordará mantenerla en la próxima vez que esté en modo avión"</string>
+    <string name="wifi_enabled_apm_first_time_title">Wi-Fi activado en modo avión</string>
     <string name="wifi_interface_priority_approve">Permitir</string>
+    <string name="wifi_interface_priority_interface_name_ap">Wi‐Fi Hotspot</string>
+    <string name="wifi_interface_priority_interface_name_ap_bridge">Wi‐Fi Hotspot</string>
+    <string name="wifi_interface_priority_interface_name_nan">Consciente de Wi-Fi</string>
+    <string name="wifi_interface_priority_interface_name_p2p">Wi-Fi directo</string>
     <string name="wifi_interface_priority_message">Esto puede causar problemas para %3$s.</string>
     <string name="wifi_interface_priority_message_plural">Esto puede causar problemas para estas aplicaciones: %3$s.</string>
     <string name="wifi_interface_priority_reject">"No permitir"</string>
     <string name="wifi_interface_priority_title">%1$s intenta usar un recurso de red</string>
     <string name="wifi_localhotspot_configure_ssid_default">AndroidShare</string>
+    <string name="wifi_network_disabled_by_admin_button">Cerrar</string>
+    <string name="wifi_network_disabled_by_admin_message">%1$s está deshabilitado por su administrador.</string>
+    <string name="wifi_network_disabled_by_admin_title">Red no disponible</string>
+    <string name="wifi_network_switch_dialog_negative_button">"No cambiar"</string>
+    <string name="wifi_network_switch_dialog_positive_button">Cambiar</string>
+    <string name="wifi_network_switch_dialog_title_bad_internet">%1$s es de baja calidad. ¿Cambiar a %2$s?</string>
+    <string name="wifi_network_switch_dialog_title_no_internet">%1$s no parece estar conectado a internet. ¿Cambiar a %2$s?</string>
     <string name="wifi_p2p_enter_pin_message">Escriba el PIN requerido:</string>
     <string name="wifi_p2p_frequency_conflict_message">"El teléfono se desconectará temporalmente de la red Wi-Fi mientras esté conectado a %1$s"</string>
     <string name="wifi_p2p_from_message">De:</string>
+    <string name="wifi_p2p_invitation_seconds_remaining">{0, plural, =1 {Acepta en # segundo.} other {Acepta en # segundos.} }</string>
     <string name="wifi_p2p_invitation_sent_title">Invitación enviada</string>
     <string name="wifi_p2p_invitation_to_connect_title">Invitación para conectarse</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>

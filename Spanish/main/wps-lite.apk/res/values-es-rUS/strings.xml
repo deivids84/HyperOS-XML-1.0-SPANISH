@@ -173,6 +173,7 @@
     <string name="ppt_video_install_videoplayer_tip">Instalar un reproductor de video</string>
     <string name="ppt_volume_is_too_low_tip">Ponte los auriculares o sube el volumen</string>
     <string name="projection_fail">"No se pudo transmitir. Verifique su monitor externo y vuelva a intentarlo."</string>
+    <string name="public_2pic">Exportar a la imagen</string>
     <string name="public_amazon_autosave_finished">El documento se ha guardado automáticamente</string>
     <string name="public_bad_doc_to_process">"Documento no válido, no se puede completar la operación"</string>
     <string name="public_bookmark">Marcadores</string>
@@ -199,6 +200,7 @@
     <string name="public_enter_phonemode">Entrar en la vista móvil</string>
     <string name="public_exit_phonemode">Salir de la vista móvil</string>
     <string name="public_exit_play">Salir</string>
+    <string name="public_export_pdf">Exportar a PDF</string>
     <string name="public_fileNotExist">El archivo ya no existe. Otros programas pueden cambiar el nombre, mover, borrar o eliminar el archivo.</string>
     <string name="public_file_cant_write_tips">"El archivo no se puede guardar en el directorio actual. ¿Guardar en otro directorio como un archivo nuevo?"</string>
     <string name="public_file_download">Cargando archivo…</string>
@@ -241,6 +243,8 @@
     <string name="public_other_app">Abrir en otra aplicación</string>
     <string name="public_outline">Contenido</string>
     <string name="public_paste">Pegar</string>
+    <string name="public_pdf2word">PDF a Word</string>
+    <string name="public_pdfFillForm">Rellenar formulario</string>
     <string name="public_pdf_converter_item_name">PDF</string>
     <string name="public_pdf_converter_normal">Normal</string>
     <string name="public_pdf_converter_open_tip">¿Abrir este documento?</string>
@@ -258,6 +262,7 @@
     <string name="public_permission_storage_disallow_msg">"No podrá trabajar con documentos después de revocar la autorización."</string>
     <string name="public_play">Reproducir</string>
     <string name="public_ppt_label">Mi visor de presentaciones</string>
+    <string name="public_privacy_policy">Política de privacidad</string>
     <string name="public_privacy_update">&lt;Data&gt;Para comprender completamente tus derechos de usuario, así como la forma en que usamos tus datos, lee y acepta la nueva versión de nuestra &lt;a href=\"%s\"&gt;Política de Privacidad&lt;/a&gt; antes de continuar.&lt;/Data&gt;</string>
     <string name="public_re_licensing">Autorización de concesión</string>
     <string name="public_readOnlyMode">Solo lectura</string>
@@ -315,6 +320,7 @@
     <string name="public_wpscloud_recovery_edit_not_exist_tips">El documento fue eliminado por otras aplicaciones y ha sido recuperado por WPS Cloud Docs.</string>
     <string name="public_wpscloud_recovery_edit_not_save_tips">"El último contenido editado no se guardó y fue recuperado por WPS Cloud Docs."</string>
     <string name="public_wpscloud_recovery_edit_not_saved_and_to_save">Guarde el documento de forma segura</string>
+    <string name="public_writer2pic">Exportar a archivo de sólo imagen</string>
     <string name="public_writer_label">Mi visor de texto</string>
     <string name="public_writer_ui_delete">Eliminar</string>
     <string name="reader_ppt_autoplay">reproducción automática</string>

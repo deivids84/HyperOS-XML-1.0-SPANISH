@@ -192,6 +192,7 @@
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">Sáb.</string>
+    <string name="screen_rotation_freeze_message">Orientación de la pantalla bloqueada en modo horizontal</string>
     <string name="search_menu_title">Buscar</string>
     <string name="send">Enviar</string>
     <string name="show_on_keyguard">Mostrar en la pantalla de bloqueo</string>
@@ -219,6 +220,16 @@
     <string name="solar_term_white_dews">Rocío</string>
     <string name="solar_term_winter_begins">Comienzo del Invierno</string>
     <string name="solar_term_winter_solstice">Solsticio de Invierno</string>
+    <string name="status_bar_toggle_bluetooth">Bluetooth</string>
+    <string name="status_bar_toggle_data">Datos móviles</string>
+    <string name="status_bar_toggle_lock">Bloquear</string>
+    <string name="status_bar_toggle_mute">Silenciar</string>
+    <string name="status_bar_toggle_rotate">Orientación de bloqueo</string>
+    <string name="status_bar_toggle_screenshot">Captura de pantalla</string>
+    <string name="status_bar_toggle_torch">Antorcha</string>
+    <string name="status_bar_toggle_vibrate">Vibrar</string>
+    <string name="status_bar_toggle_wifi">Wi-Fi</string>
+    <string name="status_bar_toggle_wifi_ap">Zona de acceso</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom.</string>

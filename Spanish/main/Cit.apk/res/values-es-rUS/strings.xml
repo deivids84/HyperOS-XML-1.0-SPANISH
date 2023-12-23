@@ -44,6 +44,7 @@
     <string name="auto_rearflash_title">Prueba de flash de la cámara trasera</string>
     <string name="aux_mic_check_record_tip">Grabando. Di algo al micrófono, en la parte inferior del dispositivo</string>
     <string name="back_mic_check_record_tip">Grabando, por favor diga algo a MIC en la parte trasera del dispositivo</string>
+    <string name="battery_auto_plug_wirelee_summary">Cargador inalámbrico conectado correctamente, prueba superada</string>
     <string name="battery_third_connector">Voltaje del conector de la batería</string>
     <string name="bottom_high_speaker_title">Prueba de tweeter inferior</string>
     <string name="bottom_low_speaker_title">Prueba de woofer inferior</string>
@@ -97,6 +98,14 @@ Sostenga el dispositivo como si estuviera haciendo una llamada, hable al micróf
 Sostén el dispositivo como si estuvieras haciendo una llamada y habla al micrófono principal. Deberías oír la voz del receptor"</string>
     <string name="cit_audio_lb_topmic_to_earpiece_title">Prueba de retroalimentación del microfono superior</string>
     <string name="cit_batterylight_rgb_all">Todos los efectos de luz</string>
+    <string name="cit_btn_security_test_summary">"1. Haga clic en el botón y espere un momento. Preste atención para verificar el estado de la red
+2. Si aparece la ventana emergente Actualización exitosa, significa que el certificado Widevine se actualizó exitosamente.
+3.Si aparece el mensaje Error en la actualización del certificado, significa que el certificado Widevine no se actualizó correctamente.
+4.Esta herramienta no se utiliza como prueba habitual.
+5.Esta herramienta actualmente solo funciona con XiaoMi Pad 6"</string>
+    <string name="cit_btn_security_test_text">Actualización exitosa</string>
+    <string name="cit_btn_security_text">Actualización del certificado Widevine</string>
+    <string name="cit_btn_security_text_title">Actualización de certificados de seguridad</string>
     <string name="cit_calibration_finish">Calibración de datos completada</string>
     <string name="cit_camera_check_summary">"Instrucciones de prueba:
 
@@ -126,6 +135,7 @@ Sostén el dispositivo como si estuvieras haciendo una llamada y habla al micró
     <string name="cit_esim_serial_number">Tarjeta eSIM :</string>
     <string name="cit_esim_state_absent">Tarjeta eSIM no activada</string>
     <string name="cit_esim_state_ready">Tarjeta eSIM activada</string>
+    <string name="cit_flash_timeout_tip">Se agotó el tiempo de espera de la prueba; vuelva a ingresar la prueba flash.</string>
     <string name="cit_front_camera_motor_cali_fail">Falló la calibración del motor</string>
     <string name="cit_front_camera_motor_cali_success">Éxito en la calibración del motor</string>
     <string name="cit_front_camera_motor_cali_tips">No bloquee la cámara durante el proceso de calibración del motor de la cámara emergente</string>
@@ -134,6 +144,10 @@ Sostén el dispositivo como si estuvieras haciendo una llamada y habla al micró
     <string name="cit_gyroscope_second_cali_title">Segunda prueba de calibración del sensor del giroscopio</string>
     <string name="cit_horn_motor_test">Prueba del motor de sonido de llamada</string>
     <string name="cit_ispv3_test">Prueba ISPv3</string>
+    <string name="cit_lcdlight_title">Prueba de retroiluminación</string>
+    <string name="cit_led_change">Seleccione el modo estroboscópico LED</string>
+    <string name="cit_led_interval">adorable</string>
+    <string name="cit_led_negative">negativo</string>
     <string name="cit_light_sensor_check_summary">El valor DAC debe aparecer a continuación, por favor pruebe el sensor de luz</string>
     <string name="cit_modem_hardware_title">Prueba de hardware del módem</string>
     <string name="cit_nfc_check_summary">"Por favor, haga clic en el botón para iniciar NFC y, a continuación, coloque la tarjeta en la parte superior de la parte posterior del dispositivo. 
@@ -193,6 +207,8 @@ Base el resultado de la prueba, haga clic en el botón de aprobar o suspender"</
     <string name="front_mic_check_record_tip">Grabación, por favor diga algo a MIC en la parte frontal del dispositivo</string>
     <string name="headset_plug_check_tip">Ahora reproduce la grabación y escucha los auriculares. Retíralos cuando termine la prueba</string>
     <string name="main_mic_check_record_tip">Grabando. Di algo al micrófono, en la parte inferior del dispositivo</string>
+    <string name="mic_reopen_tip">Vuelva a ingresar este elemento de prueba para realizar la prueba.</string>
+    <string name="miui_sar_nv_ota">Sar NV OTA</string>
     <string name="motor_calibration">Calibración del motor</string>
     <string name="mtb_tool_modem_cdma_manager">Administrador de caudal de CDMA</string>
     <string name="open_third_color_led">abrir led de tres colores</string>
@@ -221,9 +237,14 @@ Después de calibrar con éxito, controle el dispositivo cerca y alejado del dis
     <string name="sidetop_mic_check_record_tip">Grabando. Di algo al micrófono, en la parte superior del dispositivo</string>
     <string name="soft_light_title">Luz suave</string>
     <string name="test_aux_mic">MICRÓFONO AUXILIAR</string>
+    <string name="test_back_handset">Prueba de auricular trasero</string>
+    <string name="test_first_flash">Primera prueba de flash</string>
+    <string name="test_flash">prueba de destello</string>
+    <string name="test_front_handset">Prueba del auricular frontal</string>
     <string name="test_horn_motor_summary">"Escucharás dos números aleatorios
 Pulsa el botón apropiado según el número que oigas
 Selecciona el botón correcto con las diferentes condiciones de vibración"</string>
+    <string name="test_second_flash">Segunda prueba de flash</string>
     <string name="test_sidebottom_mic">Micrófono inferior</string>
     <string name="test_sidetop_mic">Micrófono superior</string>
     <string name="test_sub_front_camera">Cámara frontal de subpantalla</string>

@@ -66,6 +66,7 @@
     <string name="cloud_storage_common_functions_text">Usadas frecuentemente</string>
     <string name="cloud_storage_default_title">Almacenamiento en la nube</string>
     <string name="cloud_storage_full_upgrade_default_text">"Almacenamiento insuficiente. No se pudo sincronizar las fotos."</string>
+    <string name="cloud_storage_info_type_creation">Lienzos Mi</string>
     <string name="cloud_storage_info_type_drive">Mi Drive</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_family">Familia</string>
@@ -85,6 +86,13 @@
     <string name="connect_wlan_china">Connect to WLAN</string>
     <string name="contact_alert_sync_data_merge_dialog_msg">Si activa la sincronización, los contactos cargados desde este dispositivo se combinarán con los contactos almacenados en la nube. ¿Activar la sincronización de todos modos?</string>
     <string name="copy">Copiar</string>
+    <string name="creation_dialog_message">Mira los datos de Lienzos en tu tablet.</string>
+    <string name="creation_dialog_positive_btn">OK</string>
+    <string name="creation_dialog_title">Atención</string>
+    <string name="creation_sync_settings_only_in_wifi">Sincronizar solo con WLAN</string>
+    <string name="creation_sync_settings_only_in_wifi_summary">Se recomienda ahorrar datos móviles</string>
+    <string name="creation_sync_settings_preference">Sincronizar lienzos</string>
+    <string name="creation_sync_settings_summary">Lienzos creados</string>
     <string name="cta_notification_content_text">Permita a %s conectarse a internet para poder restaurar elementos</string>
     <string name="cta_notification_content_title">"No se puede restaurar los elementos de %s"</string>
     <string name="customize_notification_btn_text">Mejorar</string>
@@ -182,7 +190,8 @@
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
-    <string name="gallery_auto_sync_fail_noti_content">No queda suficiente espacio de almacenamiento en la nube. Actualice su plan de almacenamiento para sincronizar fotos y videos.</string>
+    <string name="gallery_auto_sync_fail_noti_content">No queda suficiente espacio de almacenamiento en la nube. Mejora tu plan de almacenamiento para sincronizar fotos y vídeos.</string>
+    <string name="gallery_auto_sync_fail_noti_content_lite">"El almacenamiento en la nube es insuficiente. No se pueden guardar las fotos."</string>
     <string name="gallery_data_transfer_ddl">Fecha límite: %s</string>
     <string name="gallery_data_transfer_summary">"Los elementos de Galería ya no se pueden sincronizar con Xiaomi Cloud. Recomendamos que transfieras fotos y vídeos que hayas sincronizado con la nube a Google Fotos y que utilices sus servicios para hacer copia de seguridad."</string>
     <string name="gallery_data_transfer_title">Transferir fotos y vídeos a Google Fotos</string>
@@ -434,8 +443,8 @@ vídeos que estén sincronizados, o visita i.mi.com para descargar todos a tu di
     <string name="micloud_space_applist_detail">Gestionar aplicaciones desde su pantalla de inicio</string>
     <string name="micloud_space_duokan_detail">Descargar y gestionar libros electrónicos con la aplicación Duokan.</string>
     <string name="micloud_space_duokan_title">Duokan</string>
-    <string name="micloud_space_soundrecorder_detail">"Abre la aplicación Grabadora en tu dispositivo y selecciona la carpeta con los elementos almacenados en la nube.
-Comprueba que estás usando la cuenta Xiaomi actual como cuenta del sistema MIUI."</string>
+    <string name="micloud_space_soundrecorder_detail">"Abre la aplicación Grabadora en tu dispositivo Xiaomi y selecciona la carpeta con los elementos almacenados en la nube.
+Asegúrate de estar usando la Cuenta Xiaomi asociada a tu cuenta del sistema."</string>
     <string name="micloud_space_soundrecorder_title">Grabaciones</string>
     <string name="micloud_storage_detail">Detalles</string>
     <string name="micloud_storage_family_quota">Espacio compartido</string>
@@ -710,7 +719,7 @@ Es posible que la información de ubicación no se informe cuando la conexión d
     <string name="share_sdk_invite_suggestion_list_error">No hay personas recomendadas para invitar</string>
     <string name="share_sdk_invite_way_contact_summary">Invite a varias personas a la vez</string>
     <string name="share_sdk_invite_way_contact_title">Invitar por SMS</string>
-    <string name="share_sdk_invite_way_qr_code_summary">Utilice el escáner WeChat o el escáner MIUI</string>
+    <string name="share_sdk_invite_way_qr_code_summary">"Utiliza la aplicación Escáner de tu dispositivo o el escáner de WeChat"</string>
     <string name="share_sdk_invite_way_qr_code_title">Invitar por código QR</string>
     <string name="share_sdk_invite_way_wechat_summary">Invita a personas o grupos</string>
     <string name="share_sdk_invite_way_wechat_title">Invitar por WeChat</string>
@@ -789,9 +798,9 @@ Es posible que la información de ubicación no se informe cuando la conexión d
     <string name="sync_dspt">Sincronizar</string>
     <string name="sync_dspt_entrance_provision">Sincroniza tus fotos, notas y otros elementos de todos tus dispositivos. Accede a las cosas que sincronices desde cualquier navegador en %s.</string>
     <string name="sync_dspt_entrance_provision_confirm_close">"No usar"</string>
-    <string name="sync_dspt_entrance_provision_confirm_content">"Las aplicaciones del sistema MIUI necesitan Xiaomi Cloud para hacer copias de tus fotos, mensajes, notas y otros elementos. Xiaomi Cloud es gratuito y está siempre disponible para usarse."</string>
+    <string name="sync_dspt_entrance_provision_confirm_content">Las aplicaciones del sistema necesitan Xiaomi Cloud para poder realizar una copia de tus fotos, mensajes, notas y otros elementos. Xiaomi Cloud es gratuito y está siempre listo para utilizarse.</string>
     <string name="sync_dspt_entrance_provision_confirm_content_pad">Puede usar Xiaomi Cloud para hacer una copia de seguridad de sus fotos, mensajes, notas y más. Xiaomi Cloud es gratis y está listo para usar de inmediato.</string>
-    <string name="sync_dspt_entrance_provision_confirm_content_v2">"Las aplicaciones del sistema MIUI necesitan Xiaomi Cloud para hacer copias de tus fotos, mensajes, notas y otros elementos. Xiaomi Cloud es gratuito y está siempre disponible para usarse."</string>
+    <string name="sync_dspt_entrance_provision_confirm_content_v2">Las aplicaciones del sistema necesitan Xiaomi Cloud para poder realizar una copia de tus fotos, mensajes, notas y otros elementos. Xiaomi Cloud es gratuito y está siempre listo para utilizarse.</string>
     <string name="sync_dspt_entrance_provision_confirm_open">Usar Xiaomi Cloud</string>
     <string name="sync_dspt_entrance_provision_confirm_title">"¿No usar Xiaomi Cloud?"</string>
     <string name="sync_dspt_entrance_provision_network">Esta aplicación necesita conectarse a internet para funcionar correctamente. La sincronización puede requerir conexión a datos móviles y activar el Wi-Fi.</string>

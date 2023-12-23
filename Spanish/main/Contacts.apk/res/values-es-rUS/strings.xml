@@ -123,7 +123,7 @@
     <string name="bh_express_number">Número de paquete</string>
     <string name="bh_fetch_balance">Consultar saldo</string>
     <string name="bh_flow_exceed">Superó el límite</string>
-    <string name="bh_funtion_desc">¡Bienvenido a Mi Servicios de Operador! Puede usar esta aplicación para comprobar el saldo de su teléfono, comprar minutos de llamadas y datos móviles, y más. Esta aplicación necesita conectarse a la red para poder funcionar con normalidad.</string>
+    <string name="bh_funtion_desc">¡Bienvenido a Servicios Mi Carrier! Puede utilizar esta aplicación para consultar el saldo de su teléfono, comprar minutos de llamadas y datos móviles, y más.</string>
     <string name="bh_get_balance_success">Comprobado con éxito. Es posible que la información se actualice con un retraso aquí.</string>
     <string name="bh_get_charge_phone_number">Seleccionar desde contactos</string>
     <string name="bh_goto_granted">Conceder permisos</string>
@@ -759,6 +759,10 @@ Motivo: \"%s\""</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
+    <string name="miuix_item_view_role_description">Pestaña</string>
+    <string name="miuix_navigator_content_switch_description">Mostrar barra lateral</string>
+    <string name="miuix_navigator_multiple_choice">Seleccionar</string>
+    <string name="miuix_navigator_navigator_switch_description">Esconder barra lateral</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Deslice hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -947,7 +951,6 @@ Pulsa \"%1$s\" y luego selecciona \"%2$s\"."</string>
     <string name="preference_dial_pad_touch_tone_title">Tonos del teclado</string>
     <string name="preference_display_contact">Opciones de visualización</string>
     <string name="preference_export">Exportar</string>
-    <string name="preference_feedback_title">Comentario</string>
     <string name="preference_import">Importar</string>
     <string name="preference_import_export">Importar/Exportar</string>
     <string name="preference_import_export_title">Importar/Exportar contactos</string>
@@ -1037,9 +1040,9 @@ Pulsa \"%1$s\" y luego selecciona \"%2$s\"."</string>
     <string name="remove_blacklist">Desbloquear</string>
     <string name="remove_blacklist_dialog_message">¿Mostrar llamadas y mensajes de este número?</string>
     <string name="remove_blacklist_dialog_title">¿Desbloquear este número?</string>
-    <string name="remove_duplicate">"MIUI le ayudará a encontrar y combinar los contactos duplicados.
+    <string name="remove_duplicate">"Esta función le ayuda a encontrar y fusionar contactos duplicados.
 
- Para empezar, pulse el botón Combinar que se muestra en la parte inferior de su pantalla."</string>
+Para comenzar, toque \"Fusionar\" en la parte inferior de la pantalla."</string>
     <string name="residual_time_description">%1$sdía%2$shora</string>
     <string name="restore_app_btn_cancel">Cancelar</string>
     <string name="restore_app_btn_restore">Aceptar</string>

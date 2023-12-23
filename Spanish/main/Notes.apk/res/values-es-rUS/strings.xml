@@ -117,7 +117,7 @@
     <string name="date_time_picker_has_not_set_alarm">"Alarma no establecida"</string>
     <string name="date_time_picker_has_set_alarm">Establecido con éxito</string>
     <string name="db_downgrade_clear_button">Borrar datos de aplicación</string>
-    <string name="db_downgrade_clear_date_reminder">"Cambiar a otra versión de MIUI requiere borrar los datos de la aplicación Notas. Antes de hacerlo, asegúrese de haber respaldado sus notas en la nube."</string>
+    <string name="db_downgrade_clear_date_reminder">"Cambiar a una versión diferente del sistema requiere borrar los datos de la aplicación para Notas. Antes de hacerlo, asegúrese de que ha hecho una copia de seguridad de sus notas en la nube."</string>
     <string name="default_folder_name">Carpeta sin nombre</string>
     <string name="default_update_documents">Actualización disponible. ¿Actualizar ahora?</string>
     <string name="delete_folder_dialog_tile">Eliminar carpeta</string>
@@ -275,6 +275,8 @@
     <string name="image_annotation_edit_hint">Descripción de imagen</string>
     <string name="image_annotation_edit_length_warning">La descripción de la imagen puede contener hasta %d caracteres</string>
     <string name="info_note_enter_desktop">Agregada a la pantalla de inicio</string>
+    <string name="insert_image_menu_take_photo_by_local_device">Tomar foto con este dispositivo</string>
+    <string name="insert_image_menu_take_photo_by_remote_device">Haz una foto con %1$s</string>
     <string name="insert_image_size_limit_tip">"Esta imagen supera los %d MB. Se ha comprimido automáticamente."</string>
     <string name="item_view_role_description">Pestaña</string>
     <string name="last_excerpt_unfinish_hint">El último extracto está incompleto</string>
@@ -358,6 +360,7 @@
     <string name="miui_penengine_setting_show_black_background">Negro</string>
     <string name="miui_penengine_setting_show_grid_background">Punteado</string>
     <string name="miui_penengine_setting_show_white_background">Blanco</string>
+    <string name="miui_penengine_toast_add_to_clip">Copiado con éxito</string>
     <string name="miui_penengine_tool_brush">Herramienta seleccionada</string>
     <string name="miui_penengine_tool_brush_stroke1">Ancho del trazo uno</string>
     <string name="miui_penengine_tool_brush_stroke2">Ancho del trazo dos</string>
@@ -410,6 +413,10 @@
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
+    <string name="miuix_item_view_role_description">Tab</string>
+    <string name="miuix_navigator_content_switch_description">Show sidebar</string>
+    <string name="miuix_navigator_multiple_choice">Seleccionar</string>
+    <string name="miuix_navigator_navigator_switch_description">Hide sidebar</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Deslice hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -534,6 +541,7 @@
     <string name="option_menu_save_as_pic">Guardar como imagen</string>
     <string name="option_menu_share">Compartir</string>
     <string name="pad_collpase_navigation">Ocultar panel de navegación</string>
+    <string name="pad_dialog_take_photo_by_device">Tomar foto con %1$s</string>
     <string name="pad_dialog_tip_content_take_photo_by_phone">Usando la cámara…</string>
     <string name="pad_expand_navigation">Mostrar panel de navegación</string>
     <string name="pad_insert_image_menu_select_from_pad_gallery">Galería</string>
@@ -589,6 +597,7 @@
     <string name="permission_storage_desc_new_v12">Para añadir imágenes a las notas y guardar las notas como imágenes</string>
     <string name="permission_storage_desc_pad_new_v12">Para añadir imágenes a las notas y guardar las notas como imágenes</string>
     <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI recolectará sus grabaciones de voz y ID del dispositivo para transcribir audio y crear notas de voz. Aprenda más en la &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; de Mi AI.&lt;/Data&gt;</string>
+    <string name="permission_xiaoai_desc_m"><Data>Para brindar servicios de transcripción de voz a texto, Mi AI necesita recopilar la entrada de audio y el IMEI de su dispositivo. Lea y acepte la Declaración de intercambio de datos de terceros de &lt;a href=\"%1$s\"&gt;Notes&lt;/a&gt; antes de continuar. También puede obtener más información leyendo la Política de privacidad de Mi AI &lt;a href=\"%2$s\"&gt;&lt;/a&gt;.</Data></string>
     <string name="permission_xiaoai_desc_new"><Data>Para proporcionar servicios de transcripción de voz a texto, Mi AI necesita recopilar la entrada de audio y la identificación de su dispositivo, que se genera aleatoriamente. Lea y acepte nuestra &lt;a href=\"%1$s\"&gt;Notes Declaración de intercambio de datos de terceros&lt;/a&gt; antes de continuar. También puede obtener más información leyendo la Política de privacidad de &lt;a href=\"%2$s\"&gt;&lt;/a&gt;.</Data></string>
     <string name="permission_xiaoai_title">Dictado a texto</string>
     <string name="permlab_accessNote">Acceso a las notas</string>
@@ -822,7 +831,6 @@
     <string name="toast_refuse_to_use_external_storage">"Los permisos de almacenamiento están restringidos.
 Permita a Notas leer el contenido de su tarjeta SD."</string>
     <string name="toast_refuse_to_use_photos_in_excerpt">Permite a esta aplicación acceder a tus fotos, para añadir imágenes a las notas</string>
-    <string name="toast_refuse_to_use_photos_in_excerpt_v14">Para insertar imágenes en Notas, permite que la aplicación acceda a todas las fotos</string>
     <string name="toast_refuse_to_use_record_audio">"Los permisos del micrófono están restringidos.
 Permita a Notas grabar audio."</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Permita que Notas acceda al almacenamiento para poder agregar imágenes a sus notas</string>
@@ -888,6 +896,8 @@ Permita a Notas grabar audio."</string>
     <string name="toolbar_theme_description">Elija un tema</string>
     <string name="toolbar_undo_description">Deshacer</string>
     <string name="toolbar_voice_description">Voz</string>
+    <string name="toolbar_voice_done_description">Parar</string>
+    <string name="toolbar_voice_mark_description">Marca</string>
     <string name="trash_folder_name">Basura</string>
     <string name="trash_folder_reminder_new">Las notas se mantienen en la papelera durante %d días antes de ser eliminadas permanentemente</string>
     <string name="tuesday">Martes</string>

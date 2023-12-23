@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_connect_car">
+        <item>Combine apps</item>
+        <item>Aplicaciones de interconexión/combinación</item>
+        <item>Características del coche</item>
+    </string-array>
+    <string-array name="settings_search_connection_home">
+        <item>Interconectividad</item>
+        <item>Interconectividad/Interconectividad</item>
+        <item>Interconexión de dispositivos, Servicios de interconectividad de dispositivos, Xiaomi, Xiaomi AIoT, AIoT, Combo de pantalla, conexión inteligente, Mi Smart Hub, Interconectividad, Duo, Xiaomi teléfono, Xiaomi, Multiscreen, Duet, casting aplicaciones, handoff, App handoff, Mirror, Xiaomi Ecosystem, conexión de dispositivo</item>
+    </string-array>
+    <string-array name="settings_search_connection_privacy">
+        <item>Privacidad</item>
+        <item>Interconectividad/privacidad</item>
+        <item>Privacidad e interconectividad</item>
+    </string-array>
+    <string-array name="settings_search_connection_service">
+        <item>Servicios de interconectividad</item>
+        <item>Servicios de interconexión/interconectividad</item>
+        <item>Servicios de interconectividad</item>
+    </string-array>
+    <string-array name="settings_search_relay_app">
+        <item>Aplicación handoff</item>
+        <item>Interconectividad/Aplicación de handoff</item>
+        <item>Transferir aplicaciones, handoff, transferir</item>
+    </string-array>
+    <string-array name="settings_search_relay_call">
+        <item>Llamadas</item>
+        <item>Interconexión/Llamadas</item>
+        <item>Llamadas</item>
+    </string-array>
+    <string-array name="settings_search_relay_network">
+        <item>Asistencia de red</item>
+        <item>Ayuda de interconexión/red</item>
+        <item>Asistencia de red, anclaje de red y compartir puntos de acceso</item>
+    </string-array>
+    <string-array name="settings_search_share_Launcher">
+        <item>Pantalla de Inicio+</item>
+        <item>Interconexión/Pantalla de Inicio +</item>
+        <item>Pantalla de inicio+, Mi Smart Hub, pantalla compartida</item>
+    </string-array>
+    <string-array name="settings_search_share_clipboard">
+        <item>Portapapeles</item>
+        <item>Interconexión/Portapapeles</item>
+        <item>Portapapeles</item>
+    </string-array>
+    <string-array name="settings_search_share_notify">
+        <item>Notificaciones de dispositivos múltiples</item>
+        <item>Interconectividad/Notificaciones</item>
+        <item>Notificaciones de dispositivos múltiples</item>
+    </string-array>
+</resources>

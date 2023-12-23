@@ -64,10 +64,6 @@
     <string name="mibi_applock_dialog_content">Debido a la actualización del sistema, su patrón de bloqueo actual ha caducado. Establezca un nuevo patrón de bloqueo.</string>
     <string name="mibi_applock_dialog_ok">Configurar</string>
     <string name="mibi_applock_dialog_title">Establecer un nuevo candado Patten</string>
-    <string name="mibi_auth_manage_access_camera">Acceder a la cámara</string>
-    <string name="mibi_auth_manage_desc_camera">Cuando usa una tarjeta de recarga de teléfono móvil para recargar MiCoin, puede usar el permiso de la cámara para identificar el número de la tarjeta y el secreto de la tarjeta, etc., activando el permiso de la cámara.</string>
-    <string name="mibi_auth_manage_perm_grant">Concedido</string>
-    <string name="mibi_auth_manage_perm_ungrant">Encender</string>
     <string name="mibi_balance_payment_title">Mi moneda</string>
     <string name="mibi_balance_title">Monedas Mi disponibles</string>
     <string name="mibi_bill_delete_dialog_title">Eliminar %1$s</string>
@@ -432,7 +428,6 @@ Debido a que la prestación de los servicios de MiCoin se basa en la recopilaci�
     <string name="mibi_setting_confirm_revoke_agreement">Confirmar retiro</string>
     <string name="mibi_setting_confirm_revoke_service">Confirmar cierre de sesión</string>
     <string name="mibi_setting_perm_setting_dialog_confirm">Sí, lo sé</string>
-    <string name="mibi_setting_perm_setting_dialog_msg">Los cambios de permiso de MiCoin no son compatibles con MIUI 10 y versiones anteriores. Si necesita modificar los permisos, actualice el sistema MIUI a MIUI 11 y versiones superiores.</string>
     <string name="mibi_setting_perm_setting_dialog_title">Consejos de configuración</string>
     <string name="mibi_setting_privacy_management">Gestión de la política de privacidad</string>
     <string name="mibi_setting_revoke_service">Cancelación del servicio MiCoin</string>
@@ -472,15 +467,16 @@ Debido a que la prestación de los servicios de MiCoin se basa en la recopilaci�
     <string name="midnight">Noche</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar todo</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Más</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Eliminar</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Deseleccionar todo</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todo</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Buscar</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>

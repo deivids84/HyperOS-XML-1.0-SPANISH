@@ -157,6 +157,7 @@
     <string name="morning">Mañana</string>
     <string name="night">Tarde</string>
     <string name="noon">Mediodía</string>
+    <string name="phrase_network_tip_summary">Para poder sincronizar tus frases frecuentes con la nube y usarlas en todos tus dispositivos, permite que esta aplicación se conecte a Internet.</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
@@ -165,6 +166,10 @@
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="super_clipboard_alert_dialog_cancel_button">Cancelar</string>
+    <string name="super_clipboard_alert_dialog_sure_button">Ok</string>
+    <string name="super_clipboard_send_file">¿Pegar el archivo desde el portapapeles?</string>
+    <string name="super_clipboard_send_image">¿Pegar la imagen desde el portapapeles?</string>
     <string name="sync_phrase_label">Frases frecuentes</string>
     <string name="thursday">Jueves</string>
     <string name="thursday_short">Jue</string>

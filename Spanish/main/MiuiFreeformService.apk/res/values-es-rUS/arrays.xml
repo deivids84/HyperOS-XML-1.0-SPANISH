@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dock_location_entries">
+        <item>restante</item>
+        <item>derecha</item>
+    </string-array>
+</resources>

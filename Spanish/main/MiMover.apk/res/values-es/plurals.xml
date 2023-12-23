@@ -5,16 +5,16 @@
         <item quantity="other">Hace 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Hace 1 hora</item>
-        <item quantity="other">Hace 1 hora</item>
+        <item quantity="one">Hace %d horas</item>
+        <item quantity="other">Hace %d horas</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Hace media hora</item>
         <item quantity="other">Hace media hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">En 1 hora</item>
-        <item quantity="other">En 1 hora</item>
+        <item quantity="one">En %d hora</item>
+        <item quantity="other">En %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">En media hora</item>
@@ -25,16 +25,16 @@
         <item quantity="other">Inmediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">en %d min</item>
-        <item quantity="one">en 1 min</item>
+        <item quantity="other">En %d minutos</item>
+        <item quantity="one">En %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ahora mismo</item>
         <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Hace %d min</item>
-        <item quantity="one">Hace 1 min</item>
+        <item quantity="other">Hace %d minutos</item>
+        <item quantity="one">Hace %d minutos</item>
     </plurals>
     <plurals name="app_update_64_dialog_message">
         <item quantity="other">%1$d aplicaciones en este dispositivo se pueden actualizar desde la arquitectura de 32 bits a la de 64 bits. Actualice estas aplicaciones para mejorar su rendimiento.</item>
@@ -131,5 +131,9 @@
     <plurals name="trans_time_format_minute">
         <item quantity="other">%d minutos</item>
         <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="transfer_failed_summary">
+        <item quantity="other">"No se pudo transferir objetos %d"</item>
+        <item quantity="one">"No se pudo transferir el artículo %d"</item>
     </plurals>
 </resources>

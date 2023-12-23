@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="UVI_level_0">Débil</string>
+    <string name="UVI_level_1">Moderado</string>
+    <string name="UVI_level_2">Fuerte</string>
+    <string name="UVI_level_3">Muy fuerte</string>
+    <string name="UVI_level_4">Severo</string>
     <string name="abc_action_bar_home_description">Ir a inicio</string>
     <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
     <string name="abc_action_menu_overflow_description">Más opciones</string>
@@ -61,10 +66,12 @@
     <string name="ad_experience_now">Abrir</string>
     <string name="ad_in_downloading">Descargando</string>
     <string name="ad_in_installing">Instalando</string>
+    <string name="ad_installing">Instalando</string>
     <string name="add">Agregar</string>
     <string name="add_home_icon_success">Añadido</string>
     <string name="add_resource_detail_fail">"No se pudo añadir el recurso"</string>
     <string name="afternoon">Tarde</string>
+    <string name="air_quality_index_abbreviation">AQI</string>
     <string name="all_resources">Todo</string>
     <string name="allow">Concedido</string>
     <string name="already_latest_version">Actualizado</string>
@@ -113,6 +120,8 @@
     <string name="apply_wallpaper_warning_use_super_wallpaper">"Estás usando un Superfondo de pantalla. Si seleccionas otro fondo de pantalla, se aplicará tanto a la pantalla de inicio como a la de bloqueo ¿Aplicar?"</string>
     <string name="apply_warning_get_device_dialog_message">Para poder utilizar el contenido descargado, primero permita que esta función acceda a la ID de su dispositivo. Puede otorgar este permiso en Configuración &gt; Privacidad.</string>
     <string name="apply_warning_tip_get_device_status">Primero permita que esta aplicación acceda a la ID de su dispositivo en la configuración del &gt;</string>
+    <string name="aqi_format">ICA %s</string>
+    <string name="aqi_format_desc">Índice de calidad del aire: %s</string>
     <string name="audio_duration_minutes_format">%1$d minutos</string>
     <string name="audio_duration_seconds_format">%1$d segundos</string>
     <string name="audition_ringtone">Reproducir</string>
@@ -412,6 +421,17 @@
     <string name="font_trial_end_purchase">Comprar fuente</string>
     <string name="forbid_transparent_wallpaper_by_second_space">Primero aplique papel tapiz transparente en el primer espacio.</string>
     <string name="forbid_video_wallpaper_by_second_space">Primero aplique papel tapiz dinámico en el primer espacio.</string>
+    <string name="format_day_desc">Día del mes: %s</string>
+    <string name="format_day_week_desc">Día del mes: %1$s, %2$s</string>
+    <string name="format_full_day_of_week">EEEE</string>
+    <string name="format_full_month_of_year">MMM</string>
+    <string name="format_lunar_calendar_month_day_desc">Fecha de acuerdo al Calendario chino tradicional: %s</string>
+    <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, fecha de acuerdo al Calendario chino tradicional: %3$s, vacaciones: %4$s</string>
+    <string name="format_month_day_style1">d/MMM</string>
+    <string name="format_month_day_style2">d/M</string>
+    <string name="format_month_day_week">dd MMM, EEE</string>
+    <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s %2$s, %3$s, fecha de acuerdo al Calendario chino tradicional: %4$s</string>
+    <string name="format_week_day_style1_desc">%1$s, día del mes: %2$s</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
@@ -427,6 +447,15 @@
     <string name="has_mamual_hide_theme">Ocultos</string>
     <string name="has_mamual_hide_wallpaper">Ocultos</string>
     <string name="head_portraits">Foto del perfil</string>
+    <string name="health_chart_calories_unit">Calorías</string>
+    <string name="health_chart_sleep_time_format">%1$s h %2$s min</string>
+    <string name="health_chart_sleep_time_good">Suficiente</string>
+    <string name="health_chart_sleep_time_low">Insuficiente</string>
+    <string name="health_chart_sleep_time_normal">Normal</string>
+    <string name="health_chart_sleep_time_very_good">Bueno</string>
+    <string name="health_chart_step_count_unit">Pasos</string>
+    <string name="health_no_data">No hay datos de salud</string>
+    <string name="health_sleep_desc">Duración del sueño %1$s, calidad del sueño: %2$s</string>
     <string name="hide_free_aod">"No mostrar temas gratuitos"</string>
     <string name="hide_free_font">Ocultar fuentes gratuitas</string>
     <string name="hide_free_icons">"No mostrar iconos gratis"</string>
@@ -450,6 +479,8 @@
     <string name="home_apply_failured">"No se puede aplicar el fondo de pantalla de la Pantalla de inicio"</string>
     <string name="home_apply_success">Fondo de pantalla de la Pantalla de inicio aplicado</string>
     <string name="home_daily">Destacados diarios</string>
+    <string name="humidity_format">Humedad %s</string>
+    <string name="humidity_format_with_unit">%s</string>
     <string name="i_know">Aceptar </string>
     <string name="icon_content_description">Icono de diálogo</string>
     <string name="icon_pad_setting_find_more_title">Más iconos</string>
@@ -468,7 +499,7 @@ Para desactivar esto, vete a Ajustes &gt; Sonido y vibración &gt; Perfil de ví
     <string name="incall_show_remove_success">Se ha eliminado el vídeo de perfil</string>
     <string name="incall_show_title">Videos de perfil</string>
     <string name="incompatible_dialog_cancel">"No aplicar"</string>
-    <string name="incompatible_dialog_message">"Este tema no es compatible con la versión de MIUI instalada en tu dispositivo. Algunas partes de MIUI podrían no funcionar correctamente si aplicas este tema."</string>
+    <string name="incompatible_dialog_message">"Este tema no es compatible con la versión del sistema de tu dispositivo. Es posible que algunas funciones del sistema no funcionen correctamente si aplicas este tema."</string>
     <string name="incompatible_dialog_ok">De acuerdo</string>
     <string name="incompatible_dialog_title">Problemas de compatibilidad</string>
     <string name="install_clock">"Todavía no has instalado Reloj. ¿Descargar ahora?"</string>
@@ -521,9 +552,14 @@ Para desactivar esto, vete a Ajustes &gt; Sonido y vibración &gt; Perfil de ví
     <string name="local_mode_hint">"Estás usando el modo sin conexión.
 Toca para desactivar."</string>
     <string name="local_mode_open">Modo sin conexión</string>
+    <string name="local_notification_default_title">Temas</string>
+    <string name="local_notification_font_trial_title">Echa un vistazo a nuevas fuentes</string>
+    <string name="local_notification_update_theme_title">Actualiza tus temas</string>
     <string name="local_photos">Fotos locales</string>
     <string name="local_resouce_creator_name">Desarrollador: %1$s</string>
     <string name="lock_screen_apply">Establecer como pantalla de bloqueo</string>
+    <string name="lock_screen_keyguard_guide_popup">Echa un vistazo a todas las funciones y diseño de la pantalla de bloqueo personalizadas</string>
+    <string name="lock_screen_keyguard_tip_title">Nueva pantalla de bloqueo personalizada</string>
     <string name="lockscreen_apply_failured">"No se pudo aplicar el fondo de pantalla en la pantalla de bloqueo"</string>
     <string name="lockscreen_apply_failured_but_home_apply_success">"Fondo de pantalla de la pantalla de inicio aplicado. No se pudo aplicar el fondo de pantalla de la Pantalla de bloqueo."</string>
     <string name="lockscreen_apply_success">Fondo de pantalla de bloqueo aplicado</string>
@@ -534,6 +570,7 @@ Toca para desactivar."</string>
     <string name="lockscreen_magazine_system_subscribe">%1$s fondos de pantalla</string>
     <string name="lockscreen_magazine_system_title">Local</string>
     <string name="lockscreen_magazine_title">Carrusel de fondos de pantalla</string>
+    <string name="lockscreen_tip_content">Mantén pulsada la pantalla de bloqueo para empezar a editar. Hazlo realmente tuyo con nuevas opciones de personalización y plantillas.</string>
     <string name="lockscreen_wallpaper">Pantalla de bloqueo</string>
     <string name="lockstyle_personal_settings">Personalización</string>
     <string name="login_theme">Iniciar sesión en Temas</string>
@@ -564,16 +601,22 @@ Toca aquí para iniciar sesión ahora."</string>
     <string name="miui_clock_city_name_second">Segundo reloj</string>
     <string name="miui_clock_fancy_colon"></string>
     <string name="miui_digital_clock_dot">:</string>
-    <string name="miui_lock_screen_date">EEEE dd/MM</string>
-    <string name="miui_lock_screen_date_12">EEEE dd/MM</string>
-    <string name="miui_lock_screen_date_two_lines">"EEEE
-dd/MM"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"EEEE
-dd/MM"</string>
+    <string name="miui_lock_screen_date">EEE, dd MMM</string>
+    <string name="miui_lock_screen_date_12">EEE, dd MMM</string>
+    <string name="miui_lock_screen_date_two_lines">"dd MMM
+EEE"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"dd MMM
+EEE"</string>
     <string name="miui_lock_screen_large_date">"EEE
-dd/MM"</string>
+d/M"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
-dd/MM"</string>
+d/M"</string>
+    <string name="miui_magazine_c_clock_style2_date">d/M EE</string>
+    <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, dd MMM</string>
+    <string name="miui_magazine_clock_date">d/M</string>
+    <string name="miui_magazine_clock_date_content_description">dd/MM</string>
+    <string name="miui_rhombus_clock_date">dd MMMM</string>
+    <string name="miui_smart_frame_clock_date">d/M</string>
     <string name="miui_vertical_time_format_12">"hh
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH
@@ -748,7 +791,7 @@ mm"</string>
     <string name="online_precust_scenery">Escenario</string>
     <string name="online_search_hint">Buscar recursos online</string>
     <string name="order_list">Historial de compras</string>
-    <string name="ota_recovery_theme_dialog_message">Es posible que algunos elementos del tema utilizado anteriormente no sean compatibles con la nueva versión de MIUI. Los elementos incompatibles serán reemplazados por opciones predeterminadas.</string>
+    <string name="ota_recovery_theme_dialog_message">Algunos elementos del tema utilizado anteriormente podrían no ser compatibles con la última versión del sistema. Los elementos incompatibles serán reemplazados por opciones predeterminadas.</string>
     <string name="ota_recovery_theme_dialog_title">Restaurando el tema original</string>
     <string name="ota_recovery_theme_notity_btn">Restaurar</string>
     <string name="ota_recovery_theme_notity_content">"Puede volver al tema que ha estado usando antes de la actualización"</string>
@@ -770,6 +813,7 @@ Ver y usar los elementos que compró o agregó a favoritos."</string>
     <string name="personalize_default_font">Fuente por defecto</string>
     <string name="personalize_fingerprint_style_title">Huella dactilar</string>
     <string name="personalize_icon_title">Iconos</string>
+    <string name="personalize_item_more_setting">Ajustes adicionales</string>
     <string name="personalize_notify_ringtone_title">Notificaciones</string>
     <string name="personalize_notify_style_title">Efectos</string>
     <string name="personalize_recommend_switch_desc">Recibe recomendaciones personalizadas basadas en la identificación del dispositivo</string>
@@ -923,6 +967,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="pull_down_view_refresh">Refrescar</string>
     <string name="pull_down_view_title">"Novedades"</string>
     <string name="purchased">Órdenes</string>
+    <string name="rain_probability_desc">Probabilidad de precipitaciones: %s</string>
     <string name="read_and_agree_account_privacy"><Data>\"He leido y acepto el &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%3$s\"&gt;Acuerdo de Usuario&lt;/a&gt;&lt;/font&gt; y la &lt;font color=\"#37A5FF\"&gt;&lt;a href=\"%4$s\"&gt;Política de Priacidad&lt;/a&gt;&lt;/font&gt; de la cuenta Xiaomi.\"</Data></string>
     <string name="recently_used">Usado recientemente</string>
     <string name="recommend_trigger">Recomendaciones personalizadas</string>
@@ -1100,6 +1145,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="resource_restore_succ">Restaurado</string>
     <string name="resource_ringtone_default">Tonos de llamada</string>
     <string name="resource_ringtone_playing_error">Error</string>
+    <string name="resource_ringtone_too_large_waring">Los archivos de tono de llamada deben ser %1$d MB o más pequeños</string>
     <string name="resource_ringtone_volume_mute">Timbre silenciado</string>
     <string name="resource_save_to_note">Guardar en notas</string>
     <string name="resource_search_color_hint_blue">Azul</string>
@@ -1160,6 +1206,10 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="resource_waiting_download">Esperando</string>
     <string name="resource_waiting_pause">Pausar</string>
     <string name="resource_wallpaper_download">Descargar fondo de pantalla</string>
+    <string name="restore_default_change_wallpaper_when_special_lockscreen">"Actualmente estás usando una plantilla de pantalla de bloqueo. Si continúa, su pantalla de bloqueo será restaurada por defecto y sus fondos de pantalla de inicio y de bloqueo serán reemplazados. ¿Aplicar ahora?"</string>
+    <string name="restore_default_lock_style_apply_superwallpaper">"Esta plantilla de pantalla de bloqueo no soporta Super fondos de pantalla. Una vez aplicada, la pantalla de bloqueo se revertirá a la predeterminada y los fondos de pantalla de inicio y bloqueo serán reemplazados. ¿Aplicar ahora?"</string>
+    <string name="restore_default_lockscreen_when_special_lock_style">"Actualmente está utilizando una plantilla de pantalla de bloqueo. Si continúa, su pantalla de bloqueo será restaurada por defecto. ¿Aplicar ahora?"</string>
+    <string name="restore_history_lock_screen_when_apply_theme">"Actualmente estás usando un tema de terceros. Si cambia el fondo de pantalla de bloqueo, esto puede causar que el reloj de la pantalla de bloqueo sea restaurado por defecto. ¿Aplicar ahora?"</string>
     <string name="restore_home_icon_text">Añadir un acceso directo en la pantalla de inicio</string>
     <string name="restore_icon_later">Puedes añadir, otra vez, el acceso directo en la pantalla de inicio desde Ajustes</string>
     <string name="ringtone_confirm_dialog_message">"La duración de este tono de llamada es relativamente larga. ¿Usarlo de todos modos?"</string>
@@ -1209,6 +1259,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="share_content_text_first_theme">¡Mira esto! El tema \"%1$s\" le da a tu dispositivo un aspecto completamente nuevo.</string>
     <string name="share_content_text_first_wallpaper">¡Mira esto! El fondo de pantalla \"%1$s\" le da a tu dispositivo un aspecto diferente.</string>
     <string name="share_content_text_second">" ¡Encuentra tu propio estilo en %1$s!"</string>
+    <string name="share_content_topic">\#Temas Xiaomi#</string>
     <string name="share_copy_theme_url">Copiar URL del tema</string>
     <string name="share_copy_url_success">Copiado</string>
     <string name="share_copy_wallpaper_url">Copiar URL de fondo de pantalla</string>
@@ -1241,12 +1292,18 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="show_phone_wallpaper">Mostrar fondos de pantalla del teléfono</string>
     <string name="show_theme_community">Atajo de la comunidad</string>
     <string name="show_theme_community_desc">Mostrar u ocultar el acceso directo de la comunidad de Temas</string>
+    <string name="somatosensory_temperature_format">Sensación térmica %s°</string>
     <string name="still_apply">Aplicar</string>
     <string name="storage_migration_exit_msg">Para que los temas sean compatibles con las próximas versiones de Android, trasladamos los elementos descargados a una nueva ubicación. Reinicie la aplicación para aplicar cambios y ver su contenido descargado.</string>
     <string name="storage_permission_denied_desc">Permitir que los temas accedan al almacenamiento para poder ver elementos</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
+    <string name="sunrise_time_format">Amanecer %s</string>
+    <string name="sunrise_time_format_desc">Hora del amanecer: %s</string>
+    <string name="sunrise_time_format_tomorrow_desc">"Amanecer de mañana: %s"</string>
+    <string name="sunset_time_format">Atardecer %s</string>
+    <string name="sunset_time_format_desc">Hora del atardecer: %s</string>
     <string name="super_wallpaper">Super fondos de pantalla</string>
     <string name="super_wallpaper_dialog_content">El ahorro de batería desactivará las características dinámicas de los fondos de pantalla.</string>
     <string name="super_wallpaper_list_footer_text">¡Estén atentos a nuestros nuevos lanzamientos!</string>
@@ -1481,6 +1538,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="using_theme_next_automatic_update">Actualizaciones automáticas</string>
     <string name="using_theme_next_automatic_update_summary">Actualizar automáticamente vía Wi-Fi los temas descargados cuando la pantalla esté bloqueada</string>
     <string name="using_theme_show_ad">Recomendaciones</string>
+    <string name="uvi_format_desc">Índice ultravioleta: %1$s, %2$s</string>
     <string name="v7_preference_off">APAGADO</string>
     <string name="v7_preference_on">ENCENDIDO</string>
     <string name="version_update">Comprobar actualizaciones</string>
@@ -1538,6 +1596,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="wallpaper_loop_title">Presentación de diapositivas de papel tapiz</string>
     <string name="wallpaper_loop_title_desk_wallpaper">Presentación de diapositivas del fondo de pantalla de la pantalla de inicio</string>
     <string name="wallpaper_loop_title_lock_walpaper">Presentación de diapositivas de fondo de pantalla de bloqueo</string>
+    <string name="wallpaper_magic_mode_preview_tip">Vista previa de pantalla de bloqueo</string>
     <string name="wallpaper_no_favorite">No hay elementos todavía.</string>
     <string name="wallpaper_no_record">No hay elementos todavía.</string>
     <string name="wallpaper_online">Fondos de pantalla en línea</string>
@@ -1577,9 +1636,10 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="wallpaper_static">Estático</string>
     <string name="warning_miui_optimization_closed_dialog_agree">Ajustes</string>
     <string name="warning_miui_optimization_closed_dialog_disagree">Aplicar</string>
-    <string name="warning_miui_optimization_closed_dialog_message">"Parece que no está activada la optimización MIUI. Así, el este tema no funcionará correctamente. No obstante, puedes aplicarlo o activar la optimización MIUI en Ajustes."</string>
+    <string name="warning_miui_optimization_closed_dialog_message">"Parece que no ha activado la optimización del sistema. Sin ella, este tema no funcionará correctamente cuando se aplique. Puede aplicarlo de todos modos o activar la optimización del sistema en Configuración."</string>
     <string name="warning_miui_optimization_closed_dialog_title">Atención</string>
     <string name="warning_subscribe_wallpaper_group_content">"Ha activado la presentación de diapositivas de la pantalla de inicio. %1$s se aplicará a su pantalla de inicio."</string>
+    <string name="weather_no_data">No hay datos del tiempo</string>
     <string name="wechat_not_found">WeChat no está instalado</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mié</string>
@@ -1589,6 +1649,19 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="wifi_check_confirm">Confirmar</string>
     <string name="wifi_check_message">¿Usar datos móviles para descargar actualizaciones?</string>
     <string name="wifi_check_tip">"No volver a mostrar"</string>
+    <string name="wind_direction_0">Viento N</string>
+    <string name="wind_direction_1">Viento NE</string>
+    <string name="wind_direction_1_f">Viento NE</string>
+    <string name="wind_direction_2">Viento E</string>
+    <string name="wind_direction_3">Viento SE</string>
+    <string name="wind_direction_3_f">Viento SE</string>
+    <string name="wind_direction_4">Viento S</string>
+    <string name="wind_direction_5">Viento SO</string>
+    <string name="wind_direction_5_f">Viento SO</string>
+    <string name="wind_direction_6">Viento O</string>
+    <string name="wind_direction_7">Viento NO</string>
+    <string name="wind_direction_7_f">Viento NO</string>
+    <string name="wind_format">%1$s | Nivel %2$s</string>
     <string name="xiaoai_speech_not_installed_download">Descargas</string>
     <string name="xiaoai_speech_not_installed_message">Descarga e instala el asistente de voz IA de Mi para continuar.</string>
     <string name="xiaoai_speech_not_installed_title">"El asistente de voz IA de Mi no está instalado."</string>

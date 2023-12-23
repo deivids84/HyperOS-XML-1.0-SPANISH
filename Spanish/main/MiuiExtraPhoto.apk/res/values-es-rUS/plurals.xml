@@ -68,4 +68,12 @@
         <item quantity="other">Hace %d minutos</item>
         <item quantity="one">Hace 1 minuto</item>
     </plurals>
+    <plurals name="talkback_selection_denominator">
+        <item quantity="other">%1$d artículos en total</item>
+        <item quantity="one">%1$d artículos en total</item>
+    </plurals>
+    <plurals name="talkback_selection_numerator">
+        <item quantity="other">Seleccionado %1$d artículos</item>
+        <item quantity="one">Seleccionado %1$d artículo</item>
+    </plurals>
 </resources>

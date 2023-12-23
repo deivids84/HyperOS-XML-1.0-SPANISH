@@ -32,7 +32,7 @@
     <string name="afternoon">Tarde</string>
     <string name="agree_description">Permite a esta aplicación conectarse a internet para poder usar todas sus funciones.</string>
     <string name="alert_message_clear_records">¿Eliminar grabaciones seleccionadas?</string>
-    <string name="alert_message_delete_record_title">¿Eliminar grabación?</string>
+    <string name="alert_message_delete_record_title">Eliminar grabación</string>
     <string name="allowed">Concedido</string>
     <string name="am">AM</string>
     <string name="app_name">Grabadora</string>
@@ -40,6 +40,7 @@
     <string name="app_record_preference_title">Grabadora de llamadas</string>
     <string name="back">Volver</string>
     <string name="bottomsheet_action_expand_halfway">Expandir a la mitad</string>
+    <string name="btn_continue_record_description">Reanudar grabación</string>
     <string name="button_queue_for_wifi">Esperar</string>
     <string name="button_start_now">Descarga</string>
     <string name="call_record">Llamadas grabadas</string>
@@ -118,9 +119,6 @@
     <string name="invisible_mode_dialog_title">"Estas en modo incógnito"</string>
     <string name="invisible_mode_error_tip">Desactive el modo de incógnito en la Configuración para poder usar el micrófono</string>
     <string name="item_view_role_description">Pestaña</string>
-    <string name="keywords_search_call_record">Grabar llamadas;Grabar llamada;Grabación llamada;Grabaciones de llamadas</string>
-    <string name="keywords_search_record">Nueva grabación;Añadir grabación;Grabación;Grabaciones;Transcripción;Transcribir;Grabadora;Grabadora de voz;Grabadora de sonido;Aplicación grabadora;Aplicación de grabación;¿Cómo grabo?;¿Cómo grabo sonido?;Dónde está la grabadora;Grabadora MIUI</string>
-    <string name="keywords_search_record_list">Grabadora;Transcribir;Transcripciones;Grabar;Compartir grabación;Compartir grabaciones;Grabando;Grabaciones</string>
     <string name="korea_permission_phone">Teléfono</string>
     <string name="korea_permission_phone_resc">Para acceder al estado del dispositivo y gestionar grabaciones durante llamadas</string>
     <string name="korea_permission_record">Micrófono</string>
@@ -174,6 +172,10 @@
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
+    <string name="miuix_item_view_role_description">Tab</string>
+    <string name="miuix_navigator_content_switch_description">Show sidebar</string>
+    <string name="miuix_navigator_multiple_choice">Seleccionar</string>
+    <string name="miuix_navigator_navigator_switch_description">Hide sidebar</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -287,6 +289,10 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="online_recognize_progress">Transcribiendo %s…</string>
     <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="path_soundrecorder_setting">Aplicaciones del sistema/Grabadora</string>
+    <string name="pause_status_focus_notification">Pausado</string>
+    <string name="permission_bluetooth">Estado de conexión Bluetooth de acceso</string>
+    <string name="permission_bluetooth_dialog_description">Permitir que este dispositivo se conecte a dispositivos cercanos para poder cambiar de dispositivo al reproducir grabaciones.</string>
+    <string name="permission_bluetooth_title">Permisos necesarios</string>
     <string name="permission_desc">Detalles de permisos</string>
     <string name="permission_dialog_cancel">Cancelar</string>
     <string name="permission_dialog_ok">Ajustes</string>
@@ -376,6 +382,7 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="recording_quality_high">Alta calidad</string>
     <string name="recording_quality_low">Baja calidad</string>
     <string name="recording_quality_standard">Calidad normal</string>
+    <string name="recording_status_focus_notification">Grabando</string>
     <string name="recording_stopped">Detenido</string>
     <string name="recovery">Restaurar</string>
     <string name="recovery_failed_dialog_button">Entendido</string>
@@ -441,6 +448,7 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="status_bar_back">Pulse para volver a la grabadora</string>
     <string name="status_bar_recording">Grabando…</string>
     <string name="status_bar_recording_pause">Grabación en pausa</string>
+    <string name="stop_status_focus_notification">Terminado</string>
     <string name="storage_permission_dialog_title">Se requieren permisos de almacenamiento</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
@@ -511,6 +519,8 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="thursday_short">Jue</string>
     <string name="thursday_shortest">Jue</string>
     <string name="time_picker_dialog_title">Establecer hora</string>
+    <string name="toast_enter_silent_mode">Grabación. Modo silencioso activado.</string>
+    <string name="toast_exit_silent_mode">Grabación finalizada. Modo silencioso desactivado.</string>
     <string name="toast_max_record_time">%1$s puede grabar hasta %2$s</string>
     <string name="toast_uninstall_fileexplorer">"El Gestor de archivos no está instalado"</string>
     <string name="today">Hoy</string>
@@ -518,6 +528,7 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="trash_box">Elementos eliminados recientemente</string>
     <string name="trash_box_close_tip">Cerrar aviso</string>
     <string name="trash_box_delete_all">¿Eliminar permanentemente todos los elementos de la basura?</string>
+    <string name="trash_delete">Eliminar</string>
     <string name="tuesday">Martes</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>

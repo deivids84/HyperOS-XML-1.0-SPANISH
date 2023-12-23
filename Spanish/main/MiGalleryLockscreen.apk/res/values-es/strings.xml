@@ -34,6 +34,13 @@
     <string name="about_newest">Carrusel de Fondos está actualizado.</string>
     <string name="about_permission">Permisos</string>
     <string name="about_update">Actualizar</string>
+    <string name="action_more_dlg_add_to_loop">Añadir a presentación</string>
+    <string name="action_more_dlg_apply">Establecer como fondo de pantalla de bloqueo</string>
+    <string name="action_more_dlg_dislike">"No me gusta esto"</string>
+    <string name="action_more_dlg_my_favor">Añadir a favoritos</string>
+    <string name="action_more_dlg_save">Descargar fondo de pantalla</string>
+    <string name="action_more_dlg_settings">Más ajustes</string>
+    <string name="action_more_dlg_share">Compartir</string>
     <string name="actionbar_button_up_description">Atrás</string>
     <string name="ad_btn_connecting">Conectando</string>
     <string name="ad_btn_download_continue">Continuar</string>
@@ -48,14 +55,14 @@
     <string name="add">Agregar</string>
     <string name="add_cw_fail_tip">"No se puede añadir el fondo de pantalla"</string>
     <string name="add_cw_success_tip">Fondo de pantalla añadido correctamente</string>
-    <string name="add_first_cw_toast1">Agregado. Se ha activado Carrusel de Fondos de pantalla y comenzado la presentación de diapositivas.</string>
-    <string name="add_first_cw_toast2">Se han añadido algunos elementos. Se ha activado Carrusel de Fondos de pantalla y comenzó la presentación de diapositivas.</string>
-    <string name="add_first_cw_toast3">Fondos de pantalla agregados. Se ha activado Carrusel de Fondos de pantalla y comenzó la presentación de diapositivas.</string>
-    <string name="add_first_cw_toast4">Activó el carrusel de papel tapiz y comenzó la presentación de diapositivas.</string>
+    <string name="add_first_cw_toast1">Añadido con éxito. Mostrar los fondos de pantalla seleccionados.</string>
+    <string name="add_first_cw_toast2">Añadidos algunos fondos de pantalla seleccionados con éxito</string>
+    <string name="add_first_cw_toast3">Fondos de pantalla añadidos con éxito</string>
+    <string name="add_first_cw_toast4">El carrusel de fondo de pantalla está activado. Mostrar los fondos de pantalla seleccionados.</string>
     <string name="add_launch_hint_text">Añadir a la pantalla de inicio</string>
     <string name="add_local_picture">Galería</string>
     <string name="add_online_picture">Imágenes en línea</string>
-    <string name="add_to_cw">Añadir a la presentación</string>
+    <string name="add_to_cw">Añadir a diapositivas personalizadas</string>
     <string name="add_wallpaper">Agregar fondos de pantalla</string>
     <string name="addcw_apply_btn_txt">Añadir fondo</string>
     <string name="afternoon">Tarde</string>
@@ -68,7 +75,9 @@
     <string name="app_self_upgrade_dlg_postive_btn">Actualizar ahora</string>
     <string name="app_self_upgrade_dlg_title">Actualización disponible</string>
     <string name="app_self_upgrade_toast_downloading_install">Actualizando…</string>
+    <string name="applied_and_added_to_custom_wallpaper">"Añadido con éxito a tu presentación de diapositivas. &lt;font color ='#3482FF'&gt;&lt;a href='%1$s'&gt;Ver&lt;/font&gt;&lt;/a&gt;"</string>
     <string name="apply">Aplicar</string>
+    <string name="apply_success_toast">Fondo de pantalla configurado con éxito</string>
     <string name="apply_to_above_all">Establecer ambos</string>
     <string name="apply_to_screenlock">Establecer como pantalla de bloqueo</string>
     <string name="apply_to_wallpaper">Establecer como pantalla de inicio</string>
@@ -127,9 +136,9 @@
     <string name="custom_wallpaper_des">Activa Carrusel de Fondos de pantalla y agrega tus fotos e imágenes en línea para que automáticamente aparezcan en la presentación de diapositivas.</string>
     <string name="cw_add">Añadir</string>
     <string name="cw_add2">Añadir (%1$d)</string>
-    <string name="cw_add_fail">"No se pudo agregar a la presentación de diapositivas"</string>
-    <string name="cw_add_num_tip">"No se pueden agregar más elementos a la presentación de diapositivas"</string>
-    <string name="cw_add_success">Añadido a la presentación de diapositivas</string>
+    <string name="cw_add_fail">"No se pudo agregar"</string>
+    <string name="cw_add_num_tip">"No se puede seleccionar más fondos de pantalla para añadir"</string>
+    <string name="cw_add_success">Añadido con éxito</string>
     <string name="cw_add_tip_fail">"No se pudo agregar"</string>
     <string name="cw_add_wallpaper">Añadir fondo de pantalla</string>
     <string name="cw_add_wallpaper_more_recomm">Mas recomendaciones</string>
@@ -154,8 +163,8 @@
     <string name="cw_my_fav">Favoritos</string>
     <string name="cw_permission_tip">Permite que Carrusel de Fondos acceda al almacenamiento en Configuración&gt; Configuración de la aplicación.</string>
     <string name="cw_wallpaper_empty_dlg_btn">Lo tengo</string>
-    <string name="cw_wallpaper_empty_dlg_content">"No has agregado ningún elemento a tu presentación de diapositivas. Cambiado a recomendaciones."</string>
-    <string name="cw_wallpaper_empty_dlg_title">No hay elementos</string>
+    <string name="cw_wallpaper_empty_dlg_content">"No has añadido ningún fondo de pantalla a tu presentación de diapositivas personalizada. El carrusel de fondos de pantalla mostrará los fondos de pantalla recomendados."</string>
+    <string name="cw_wallpaper_empty_dlg_title">No hay elementos añadidos</string>
     <string name="cw_wallpaper_manager">Administrar fondos de pantalla</string>
     <string name="date_picker_lunar">Calendario Chino Tradicional</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
@@ -207,14 +216,15 @@
     <string name="disable_dlg_ok">Apagar</string>
     <string name="disable_dlg_title">Desactivar Carrusel de Fondos?</string>
     <string name="dislike">Borrar</string>
+    <string name="dlg_add_to_loop_success_toast">Fondo de pantalla añadido a presentación</string>
     <string name="dlg_cancel">Cancelar</string>
     <string name="dlg_ok">Aplicar</string>
     <string name="double_click_to_exit_activity">Pulsa otra vez para salir</string>
     <string name="early_morning">Mañana</string>
     <string name="edit_wallpaper">Administrar fondos de pantalla</string>
-    <string name="enable_toast_ar">Cambiado a recomendaciones</string>
-    <string name="enable_toast_cw">Cambiado a presentación de diapositivas</string>
-    <string name="enable_toast_cwo">Activó el carrusel de papel tapiz y comenzó la presentación de diapositivas.</string>
+    <string name="enable_toast_ar">Mostrar fondos de pantalla recomendados</string>
+    <string name="enable_toast_cw">Mostrar diapositivas personalizadas</string>
+    <string name="enable_toast_cwo">Fondo de pantalla carrusel y diapositivas personalizadas están activadas</string>
     <string name="enable_toast_subscribe">Activó el carrusel de fondos de pantalla y activó las suscripciones.</string>
     <string name="eras_ad">DC</string>
     <string name="eras_bc">AC</string>
@@ -224,7 +234,7 @@
     <string name="explorer_activity_title">Carrusel de papel tapiz</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menú desplegable</string>
     <string name="external_storage_permission">Acceder al almacenamiento</string>
-    <string name="external_storage_permission_summary">Para seleccionar fondos de pantalla personalizados y guardar elementos descargados</string>
+    <string name="external_storage_permission_summary">Permite que esta aplicación acceda a los archivos de tu dispositivo para poder añadir tus propios fondos de pantalla al carrusel de fondos de pantalla y guardar el contenido descargado en tu dispositivo.</string>
     <string name="favor_list_no_data">No hay elementos aquí.</string>
     <string name="favor_list_title">Favoritos</string>
     <string name="favor_success">Añadido a favoritos</string>
@@ -257,13 +267,14 @@
     <string name="idbct_title">Tipos de red</string>
     <string name="later">"No apague"</string>
     <string name="launch_bg_permission_exception">Permitir que Wallpaper Carousel muestre ventanas emergentes mientras se ejecuta en segundo plano en Seguridad</string>
+    <string name="left_lks_detail_entrance">Ver más</string>
     <string name="like">Agregar a los favoritos</string>
     <string name="liked">Añadido a favoritos</string>
     <string name="lks_cta_dont_mention">"No volver a mostrar"</string>
     <string name="lks_cta_ok">Aceptar</string>
     <string name="lks_cta_reject">"No aceptar"</string>
     <string name="lks_cta_summary1">Carrusel de fondos de pantalla proporciona las siguientes características:</string>
-    <string name="lks_cta_summary2">"1. Fondos de pantalla actualizados automáticamente&lt;br&gt;2. Imágenes e historias frescas enviadas a la pantalla de bloqueo&lt;br&gt;3. Opciones de personalización&lt;br&gt;Se necesita conexión a Internet para funcionar normalmente.&lt;br&gt;&lt;br&gt;Para brindar servicios adicionales, es posible que solicitemos permiso para acceder y guardar elementos en el almacenamiento del dispositivo. Lee y acepta nuestro &lt;font color ='#37A5FF'&gt;&lt;a href='%1$s'&gt;Acuerdo de Usuario&lt;/font&gt;&lt;/a&gt; y &lt;font color ='#37A5FF'&gt;&lt;a href='%2$s'&gt;Política de Privacidad&lt;/font&gt;&lt;/a&gt; antes de continuar."</string>
+    <string name="lks_cta_summary2">"1. Fondos de pantalla actualizados automáticamente&lt;br&gt;2. Imágenes e historias nuevas enviadas a la pantalla de bloqueo&lt;br&gt;3. Opciones de personalización&lt;br&gt;Esta función necesita conectarse a internet para funcionar con normalidad.&lt;br&gt;&lt;br&gt;Para proporcionar servicios adicionales, podríamos pedir permiso para acceder y guardar elementos en el almacenamiento de este dispositivo. Lea y acepte nuestro &lt;font color ='#0D84FF'&gt;&lt;a href='%1$s'&gt;Acuerdo de usuario&lt;/font&gt;&lt;/a&gt; y &lt;font color ='#0D84FF'&gt;&lt;a href='%2$s'&gt;Política de privacidad&lt;/font&gt;&lt;/a&gt; antes de continuar."</string>
     <string name="lks_cta_title">Términos y condiciones</string>
     <string name="lks_data_warning_toast_1">"Estás usando los datos móviles para ver los fondos de pantalla.
 Se pueden generar cargos adicionales."</string>
@@ -286,6 +297,11 @@ Se pueden generar cargos adicionales."</string>
     <string name="lks_loop_icon_open_dlg">La presentación de diapositivas en la pantalla de bloqueo está activa y ofrece imágenes e historias nuevas diariamente.</string>
     <string name="lks_loop_icon_open_ok">Entendido</string>
     <string name="lks_more_pics_coming_toast">Imágenes nuevas en camino</string>
+    <string name="lks_new_data_loaded">Cargado correctamente</string>
+    <string name="lks_new_data_warning">Esta función está usando datos móviles</string>
+    <string name="lks_new_user_guide_horizontal">Desliza hacia la izquierda y la derecha para ver más imágenes</string>
+    <string name="lks_new_user_guide_left">Desliza a la izquierda para ver más imágenes</string>
+    <string name="lks_new_user_guide_up">Desliza hacia arriba para ver más información</string>
     <string name="lks_new_user_help_anime">Desliza hacia arriba para ver más de Carrusel de fondos de pantalla</string>
     <string name="lks_no_network">"No se pudo conectar a la red"</string>
     <string name="lks_please_reload">Recargar</string>
@@ -308,10 +324,6 @@ Se pueden generar cargos adicionales."</string>
     <string name="llks_pop_top_title">Nuevos fondos de pantalla</string>
     <string name="llks_pop_top_title_backup">Imágenes frescas</string>
     <string name="llks_setting_view_title">Pantalla adicional</string>
-    <string name="llks_simple_mode">Modo Lite</string>
-    <string name="llks_simple_mode_desc">Diseño simplificado y accesos directos adicionales</string>
-    <string name="llks_standard_mode">Predeterminado</string>
-    <string name="llks_standard_mode_desc">Fondos de pantalla, historias y recomendaciones diarias</string>
     <string name="llks_subscribe">Suscribirse</string>
     <string name="llks_subscribe_sucess">Suscrito correctamente</string>
     <string name="llks_tools_gallery_name">Carrusel de fondos de pantalla</string>
@@ -341,6 +353,16 @@ Se pueden generar cargos adicionales."</string>
     <string name="logout_summary">"No podrá sincronizar sus suscripciones y configuraciones personalizadas en todos los dispositivos después de cerrar sesión. ¿Cerrar sesión de todos modos?"</string>
     <string name="logout_title">¿Cerrar sesión?</string>
     <string name="look_str">Popular</string>
+    <string name="loop_service_dlg_content">La presentación de diapositivas automáticamente se realiza a través de imágenes en pantalla de bloqueo adaptadas a sus preferencias, incluyendo temas como viajes, comida, arte, entretenimiento y más. ¿Activar el bloqueo de pantalla de presentación y añadir esta imagen?</string>
+    <string name="loop_service_dlg_negative">No ahora</string>
+    <string name="loop_service_dlg_positive">Encender</string>
+    <string name="loop_service_dlg_positive_toast_day">Slideshow está activado. El fondo de pantalla cambiará todos los días. Puedes ajustar la duración en los ajustes del carrusel del fondo de pantalla.</string>
+    <string name="loop_service_dlg_positive_toast_hour_1">El fondo de pantalla cambiará cada hora. Puedes ajustar la duración en los ajustes del carrusel del fondo de pantalla.</string>
+    <string name="loop_service_dlg_positive_toast_hour_3">El fondo de pantalla cambiará cada 3 horas. Puedes ajustar la duración en los ajustes del carrusel del fondo de pantalla.</string>
+    <string name="loop_service_dlg_positive_toast_minutes_15">La presentación está activada. El fondo de pantalla cambiará cada 15 minutos. Puedes ajustar la duración en los ajustes del carrusel del fondo de pantalla.</string>
+    <string name="loop_service_dlg_positive_toast_minutes_5">La presentación está activada. El fondo de pantalla cambiará cada 5 minutos. Puedes ajustar la duración en los ajustes del carrusel del fondo de pantalla.</string>
+    <string name="loop_service_dlg_positive_toast_unlock">Slideshow está activado. El fondo de pantalla cambiará cada vez que el dispositivo desbloquee. Puede ajustar la duración en los ajustes del carrusel del fondo de pantalla.</string>
+    <string name="loop_service_dlg_title">¿Activar pantalla de bloqueo de presentaciones?</string>
     <string name="main_fragment_title_discover">Descubrir</string>
     <string name="main_fragment_title_home">Recomendar</string>
     <string name="main_fragment_title_home_excellent">Destacado</string>
@@ -506,7 +528,6 @@ mm"</string>
     <string name="open_guid_des">Vaya a Configuración&gt; Permisos&gt; Otros permisos&gt; Carrusel de Fondos y otorgue a la aplicación todos los permisos necesarios.</string>
     <string name="open_sub_title">Seleccionar categorias</string>
     <string name="open_title">Carrusel de papel tapiz</string>
-    <string name="open_unable">"Carrusel de Fondos solo funciona con la pantalla de bloqueo predeterminada de MIUI."</string>
     <string name="opened">Activado</string>
     <string name="pager_load_hd">Ver imagen original</string>
     <string name="passport_access_denied">Acceso denegado</string>
@@ -711,6 +732,7 @@ mm"</string>
     <string name="pull_to_refresh_pull_up_label">Tire hacia arriba para actualizar</string>
     <string name="pull_to_refresh_refreshing_label">Refrescante…</string>
     <string name="pull_to_refresh_release_label">Suéltelo para actualizar</string>
+    <string name="reach_custom_limitation">"No se pueden añadir más fondos de pantalla. &lt;font color ='#3482FF'&gt;&lt;a href='%1$s'&gt;Administrar&lt;/font&gt;&lt;/a&gt;"</string>
     <string name="recommend_switch_desc">Reciba recomendaciones de contenido según sus preferencias</string>
     <string name="recommend_switch_dlg_close">Apagar</string>
     <string name="recommend_switch_dlg_desc">"No podrá recibir recomendaciones basadas en sus preferencias si desactiva esta función."</string>
@@ -721,7 +743,7 @@ mm"</string>
     <string name="remove">Eliminar</string>
     <string name="req_permission_dis_tip">Permisos requeridos</string>
     <string name="require_permission">Permisos requeridos</string>
-    <string name="require_permission_text">Para poder guardar y ver elementos, permita que Wallpaper Carousel acceda al almacenamiento.</string>
+    <string name="require_permission_text">Esta aplicación necesita permiso para acceder a archivos en tu dispositivo para poder añadir tus propios fondos de pantalla al carrusel de fondos de pantalla y guardar el contenido descargado en tu dispositivo.</string>
     <string name="resource_apply">Aplicar</string>
     <string name="resource_no_network_text">Comprueba tu conexión de red y vuelve a intentarlo</string>
     <string name="revoke_button">Retirar</string>
@@ -753,6 +775,7 @@ mm"</string>
     <string name="see_detail">Ver</string>
     <string name="see_more">Ver más</string>
     <string name="see_more_content">Ver más</string>
+    <string name="select_at_least_one_mode">Seleccione un modo carrusel de fondo de pantalla</string>
     <string name="select_package">Seleccionar versión</string>
     <string name="select_photo_album">Seleccionar imágenes</string>
     <string name="select_picture">Seleccionar imágenes</string>
@@ -761,12 +784,21 @@ mm"</string>
     <string name="setting_about_item_des">Versión</string>
     <string name="setting_about_item_title">Acerca de Carrusel de Fondos</string>
     <string name="setting_des">Los servicios de presentación de diapositivas son proporcionados por Carrusel de Fondo de Pantalla. Busque \"Carrusel de Fondo de Pantalla\" en la aplicación Configuración para ver todas las opciones disponibles.</string>
+    <string name="setting_des_custom_only">Nuestra función de presentación de diapositivas ahora es completamente personalizable. Puedes ajustar la frecuencia con la que cambia tu fondo de pantalla en Ajustes &gt; Pantalla de bloqueo &gt; Ajustes del carrusel de fondo.</string>
+    <string name="setting_des_recommend_selected">"Nuestra función de presentación de diapositivas es ahora totalmente personalizable. Obtenga recomendaciones de imágenes que le guste y añada las suyas. Puedes ajustar la frecuencia con la que cambia tu fondo de pantalla en Ajustes &gt; Pantalla de bloqueo &gt; Ajustes del carrusel del fondo de pantalla."</string>
     <string name="setting_head">Ajustes</string>
     <string name="setting_ok">Ajustes</string>
     <string name="setting_tip">"No mostrar otra vez"</string>
-    <string name="setting_title">Diapositivas</string>
+    <string name="setting_title">Añadido con éxito</string>
     <string name="settings">Ajustes</string>
     <string name="share">Compartir</string>
+    <string name="share_dlg_more">Más</string>
+    <string name="share_dlg_qq">Enviar a QQ</string>
+    <string name="share_dlg_save">Guardar en Galería</string>
+    <string name="share_dlg_title">Compartir fondo</string>
+    <string name="share_dlg_wechat">Enviar a un amigo</string>
+    <string name="share_dlg_wechat_moment">Momentos de WeChat</string>
+    <string name="share_dlg_weibo">Enviar a Weibo</string>
     <string name="share_today_morning">Compartir</string>
     <string name="shield">"Bloquear: "</string>
     <string name="shield_failed">"No se pudo bloquear el elemento"</string>
@@ -809,7 +841,7 @@ mm"</string>
     <string name="solar_term_winter_begins">Comienza el invierno</string>
     <string name="solar_term_winter_solstice">Solsticio de invierno</string>
     <string name="sst_auto_recommand_desc">Suscríbete a tus categorías favoritas para recibir diariamente imágenes e historias nuevas en la pantalla de bloqueo.</string>
-    <string name="sst_auto_recommand_title">Obtener recomendaciones para fondos de pantalla personalizados</string>
+    <string name="sst_auto_recommand_title">Recomendar fondos de pantalla</string>
     <string name="sst_change_wallpaper_desc">"Seleccione donde le gustaría aplicar el fondo de pantalla"</string>
     <string name="sst_change_wallpaper_desk">Pantalla de inicio</string>
     <string name="sst_change_wallpaper_lock">Bloquear pantalla</string>
@@ -821,7 +853,7 @@ mm"</string>
     <string name="sst_cover_chg_enable_title">Mostrar al cargar</string>
     <string name="sst_custom_wallpaper_desc">Selecciona imágenes de la galería y recomendaciones</string>
     <string name="sst_custom_wallpaper_title">Presentación personalizada</string>
-    <string name="sst_custom_wallpaper_title2">Diapositivas</string>
+    <string name="sst_custom_wallpaper_title2">Seleccionar mis fondos de pantalla</string>
     <string name="sst_disable_unopen">Característica beta</string>
     <string name="sst_effect_next_wallpaper">Establecer un nuevo fondo de pantalla para aplicar los cambios.</string>
     <string name="sst_favor_desc">Ver los fondos de pantalla favoritos</string>
@@ -860,13 +892,13 @@ mm"</string>
     <string name="sst_subscrible_manager_title_bar_text">Administrar Suscripciones</string>
     <string name="sst_subscripted">Subscrito</string>
     <string name="sst_subscripted2">Categorías disponibles</string>
-    <string name="sst_switch_wallpaper_order_desc">Selecciona el orden con el que se actualizan los fondos de pantalla.</string>
+    <string name="sst_switch_wallpaper_order_desc">Seleccione la orden de la diapositiva</string>
     <string name="sst_switch_wallpaper_order_fixed">Secuencia</string>
     <string name="sst_switch_wallpaper_order_random">Aleatorio</string>
     <string name="sst_switch_wallpaper_order_title">Actualizar orden</string>
     <string name="sst_wallpaper_define_desc">Administrar</string>
-    <string name="sst_wallpaper_define_title">Mi pase de diapositivas</string>
-    <string name="sst_wallpaper_define_title2">Añadir imágenes</string>
+    <string name="sst_wallpaper_define_title">Diapositivas personalizadas</string>
+    <string name="sst_wallpaper_define_title2">Añadir diapositivas</string>
     <string name="sst_wallpaper_history_des">Ver recomendaciones recientes</string>
     <string name="sst_wallpaper_history_title">Historial</string>
     <string name="sst_wifi_only_desc">Desactivar para actualizar fondos de pantalla solo a través de Wi-Fi</string>
@@ -977,12 +1009,11 @@ mm"</string>
     <string name="today">Hoy</string>
     <string name="tomorrow">Mañana</string>
     <string name="top_search_tip">Busca las categorías que te gustan</string>
-    <string name="torch">Linterna</string>
     <string name="tuesday">Martes</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
     <string name="understand_band_story">Aprender más</string>
-    <string name="uninstall_introducation_text_desc">Carrusel de Fondos de pantalla proporciona imágenes nuevas de calidad en la pantalla de bloqueo. Asegúrate de que puedes prescindir de sus características antes de desinstalar la aplicación.</string>
+    <string name="uninstall_introducation_text_desc">Wallpaper Carousel ofrece imágenes nuevas y de alta calidad directamente a su pantalla de bloqueo. Asegúrese de que puede prescindir de sus características antes de desinstalar la aplicación.</string>
     <string name="uninstall_introduction_text_title">Sobre Carrusel de fondos</string>
     <string name="uninstall_warning_text_desc">"Sin el Carrusel no podrás recibir nuevos fondos de pantalla de bloqueo, sin embargo podrás descargar e instalar otra vez la aplicación. ¿Seguro de eliminarla?"</string>
     <string name="uninstall_warning_text_title">Borrar Carrusel de fondos</string>
@@ -992,6 +1023,7 @@ mm"</string>
     <string name="v7_preference_on">ACTIVAR</string>
     <string name="view_privacy_policy">Política de Privacidad</string>
     <string name="wallpaper">Fondo de pantalla</string>
+    <string name="wallpaper_added_success_toast">Fondo de pantalla añadido correctamente</string>
     <string name="wallpaper_feed_title">También te puede gustar</string>
     <string name="wallpaper_relations_title">Recomendado</string>
     <string name="wednesday">Miércoles</string>

@@ -35,10 +35,13 @@
     <string name="ai_mode_auto">Automático</string>
     <string name="ai_mode_manual">Manualmente</string>
     <string name="ai_mode_subtitles">Subtítulos</string>
+    <string name="align_satellite_model_exit">Salir</string>
+    <string name="align_satellite_model_use">Comenzar</string>
     <string name="am">AM</string>
     <string name="antifraud_center">Plataforma de advertencia antifraude</string>
     <string name="antifraud_center_incoming_prompt">"No pierda ninguna llamada de la plataforma oficial de advertencia antifraude"</string>
     <string name="antispam_local_marked">Marcado localmente</string>
+    <string name="antispam_notification_text">Pulsa para activar las funciones DND inteligentes</string>
     <string name="antispam_notification_title">Número desconocido</string>
     <string name="antispam_provider">Identificado por %s</string>
     <string name="bluetooth_permission_content">Se actualizaron los permisos del sistema. Permite que esta aplicación acceda a los nombres de tus dispositivos Bluetooth para poder verlos.</string>
@@ -64,7 +67,7 @@
     <string name="call_progress_info_user_busy">La otra persona está ocupada ahora. Por favor llame más tarde.</string>
     <string name="call_progress_info_user_call_rejected">Tu número está actualmente fuera de servicio</string>
     <string name="call_record_wait_label">Esperando</string>
-    <string name="call_recording_deny_permission_msg">"Ha denegado el permiso de grabación, no se puede grabar."</string>
+    <string name="call_recording_deny_permission_msg">"No se puede grabar. Conceder permisos en Ajustes primero."</string>
     <string name="call_recording_error_low_storage">No hay suficiente espacio de almacenamiento.</string>
     <string name="call_recording_error_privacy">"No se puede grabar mientras esté en Modo Invitado"</string>
     <string name="call_recording_error_sd_access">"No se puede acceder a la tarjeta SD"</string>
@@ -161,6 +164,8 @@
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="fmt_time_12hour">"h 'en punto'"</string>
     <string name="fmt_time_24hour">"HH 'en punto'"</string>
+    <string name="focus_notification_on_call">Llamando…</string>
+    <string name="focus_notification_on_ringing">Llamada entrante</string>
     <string name="font_camera_tip">Dobla el dispositivo para usar la cámara frontal</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
@@ -190,15 +195,16 @@
     <string name="midnight">Noche</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar todo</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Más</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Eliminar</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Deseleccionar todo</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todo</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Buscar</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
@@ -304,13 +310,33 @@
     <string name="relay_cal_from_device_name">Desde %1$s</string>
     <string name="relay_call">Ataque</string>
     <string name="relay_call_device_name">Dispositivo conectado (%1$s)</string>
-    <string name="relay_deny_permission_msg">"No se pueden transferir llamadas sin el permiso para grabar audio"</string>
-    <string name="relay_grant_permissions_on_phone">Concede permiso para grabar audio en tu dispositivo</string>
-    <string name="relay_known">Entendido</string>
-    <string name="relay_network_error">Error de red</string>
-    <string name="relay_network_error_msg">"No se pueden recibir llamadas en este dispositivo por un error de red. Deja el dispositivo en su sitio."</string>
+    <string name="relay_call_unable_to_work">"No se puede utilizar esta función para llamadas transferidas"</string>
+    <string name="relay_device_local">Este dispositivo</string>
+    <string name="relay_device_type_pc">Ordenador</string>
+    <string name="relay_stop_recorder">Grabación detenida</string>
     <string name="remind_unlock_message">Tu dispositivo está bloqueado. \"%s\" estará disponible al desbloquear. ¿Desbloquear dispositivo ahora?</string>
     <string name="respond_via_sms_custom_message">Personalizar SMS</string>
+    <string name="satellite_call_failed">Señal interrumpida. Inténtalo de nuevo.</string>
+    <string name="satellite_diable_earpiece">"No se puede usar auriculares con llamadas por satélite"</string>
+    <string name="satellite_dialog_button">Ventana floreciente</string>
+    <string name="satellite_dialog_cancel">Cancelar</string>
+    <string name="satellite_guide_down">"Invierte tu dispositivo en
+para poner la pelota en el área azul"</string>
+    <string name="satellite_guide_found">Encontrado satélite</string>
+    <string name="satellite_guide_left">"Ingrese su dispositivo a la izquierda de
+para poner el icono del satélite en la zona azul"</string>
+    <string name="satellite_guide_right">"Inicia el dispositivo derecho
+para poner el icono del satélite en la zona azul"</string>
+    <string name="satellite_guide_searching">Buscando satélite…</string>
+    <string name="satellite_guide_searching_floating">Buscando…</string>
+    <string name="satellite_guide_up">"Invierte tu dispositivo hacia arriba
+para poner la pelota en el área azul"</string>
+    <string name="satellite_incall_tip">Altavoz activado</string>
+    <string name="satellite_service_provider">Proporcionado por China Telecom</string>
+    <string name="satellite_state">"No mover tu dispositivo"</string>
+    <string name="satellite_state_connected">"Conectado al satélite. No muevas tu dispositivo."</string>
+    <string name="satellite_state_connected_floating">"No mover tu dispositivo"</string>
+    <string name="satellite_state_connecting">Conectando… (%ds)</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>

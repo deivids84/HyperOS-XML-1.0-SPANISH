@@ -283,16 +283,24 @@ Desactive el interruptor para dejar de sincronizar."</string>
     <string name="browserFrameFileErrorLabel">Error de archivo</string>
     <string name="browserFrameFormResubmitMessage">"La página que intenta ver contiene datos que ya se han enviado. Si reenvía los datos, las acciones anteriores (búsquedas o compras) se repetirán."</string>
     <string name="browserFrameNetworkErrorLabel">Error de conexión</string>
+    <string name="browser_slide_video_history">Reciente</string>
+    <string name="browser_slide_video_like">Liked</string>
+    <string name="browser_slide_video_my">Profile</string>
     <string name="browser_wallpaper">Fondos de pantalla</string>
+    <string name="browser_wallpaper_activity">Promotions</string>
     <string name="browser_wallpaper_application">Aplicar</string>
     <string name="browser_wallpaper_art">Arte</string>
     <string name="browser_wallpaper_currently_in_use">Aplicado</string>
+    <string name="browser_wallpaper_gallery">My photos</string>
     <string name="browser_wallpaper_landscape">Paisaje</string>
     <string name="browser_wallpaper_more_btn">Ver más</string>
+    <string name="browser_wallpaper_my">My wallpapers</string>
     <string name="browser_wallpaper_preview">Vista previa</string>
+    <string name="browser_wallpaper_sub">Get recommendations for holiday-themed and special wallpapers</string>
     <string name="browser_wallpaper_subtitle">Personaliza el navegador Mi con fondos de pantalla hermosos.</string>
     <string name="browser_wallpaper_system_default">Predeterminado</string>
     <string name="browser_wallpaper_title">Fondos de pantalla</string>
+    <string name="browser_wallpaper_toast">Turn off the Promotions toggle to be able to switch wallpapers</string>
     <string name="btn_agree">Aceptar</string>
     <string name="btn_cancel">Cancelar</string>
     <string name="camera_permission_name">Usar cámara</string>
@@ -458,10 +466,12 @@ Desactive el interruptor para dejar de sincronizar."</string>
     <string name="confirm_privacy_password">Dibuje su patrón de desbloqueo</string>
     <string name="confirm_unbundled_phone_dialog_message">Este número telefónico fue asociado a la Cuenta Mi %2$s el %1$s. Dejará de estar asociado a la Cuenta Mi %3$s. ¿Continuar?</string>
     <string name="connection_lost">Desconectado</string>
+    <string name="content_center_title">Content Center</string>
     <string name="content_collection_done">Agregado a Favoritos con éxito</string>
     <string name="content_recommend">Recomendado</string>
     <string name="contextmenu_add_contact">Añadir contacto</string>
     <string name="contextmenu_copy">Copiar</string>
+    <string name="contextmenu_copy_image">Copy image</string>
     <string name="contextmenu_copylink">Copiar URL de enlace</string>
     <string name="contextmenu_dial_dot">Marcar…</string>
     <string name="contextmenu_download_image">Guardar imagen</string>
@@ -486,6 +496,8 @@ Desactive el interruptor para dejar de sincronizar."</string>
     <string name="continue_reading">Continuar leyendo</string>
     <string name="continue_watch_video">Continuar viendo</string>
     <string name="copy">Copiar</string>
+    <string name="copy_image_failed">"Couldn't copy"</string>
+    <string name="copy_image_success">Copied successfully</string>
     <string name="copy_success">Copiado</string>
     <string name="copy_toast_msg">Enlace copiado al portapapeles</string>
     <string name="copy_url">Copiar dirección</string>
@@ -510,13 +522,13 @@ Las páginas que visite no aparecerán en el historial."</string>
     <string name="date_picker_lunar">Calendario chino tradicional</string>
     <string name="date_time_picker_dialog_title">Ajustar fecha y hora</string>
     <string name="debug_crash">Habilitar la depuración de fallos</string>
+    <string name="debug_user_firebase_config_list_title">Firebase Config List</string>
+    <string name="debug_user_firebase_config_reset">Reset</string>
+    <string name="debug_user_firebase_config_reset_confirm_dialog">Firebase configs will be reset</string>
+    <string name="debug_user_firebase_config_reset_loading_dialog">Processing…</string>
+    <string name="debug_user_firebase_config_search_hint">Search config</string>
     <string name="debug_youtube_file">Depurar archivo de youtube</string>
     <string name="debug_youtube_in_release">Depurar youtube en la versión</string>
-    <string name="decompress">Extraer</string>
-    <string name="decompress_fail">"No se pudo extraer"</string>
-    <string name="decompress_success">Extraído</string>
-    <string name="decompress_view">Vista</string>
-    <string name="decompress_viewer_label">Administrador de archivos (Mi Browser)</string>
     <string name="decompressed_files">Archivos extraídos</string>
     <string name="deeplink_intrercept_hint">Esta ventana emergente sugerirá abrir una aplicación.</string>
     <string name="deeplink_intrercept_second_hint">El sitio web está a punto de abrir una aplicación. Se detuvo esta acción por ahora.</string>
@@ -694,7 +706,7 @@ Envíe este código al supervisor."</string>
     <string name="empty_history_hint">El historial está vacío</string>
     <string name="empty_snapshot_hint">Vacío</string>
     <string name="enable_geolocation_confirm_message">Desactivar los servicios de ubicación afectará las recomendaciones que recibe.</string>
-    <string name="enable_miui_lite_plus">Habilitar la depuración de MiuiLite+</string>
+    <string name="enable_miui_lite_plus">Enable Lite+ debug</string>
     <string name="enable_notification_permission_in_settings">Permite que las notificaciones en Ajustes puedan usar esta función.</string>
     <string name="encrypt_success">Ocultado correctamente</string>
     <string name="encrypting">Encriptando…</string>
@@ -984,7 +996,6 @@ Envíe este código al supervisor."</string>
     <string name="ignore_add_game_center_dialog_this_week">"No mostrar esta semana"</string>
     <string name="ignore_add_pwa_dialog_today">"No mostrar hoy"</string>
     <string name="improve_mi_browser_pe">Ayúdenos a mejorar el Navegador Mi</string>
-    <string name="in_secureaccess">Se ha cambiado el Navegador al modo seguro</string>
     <string name="incognito_message">"Ahora puede navegar en privado y otras personas que usen este dispositivo no podrán ver su actividad. Sin embargo, las descargas y marcadores aún serán guardados."</string>
     <string name="incognito_off">Modo incógnito desactivado.</string>
     <string name="incognito_on">"¡Está en incógnito!"</string>
@@ -1059,6 +1070,7 @@ Envíe este código al supervisor."</string>
     <string name="list_menu_rename_file">Renombrar</string>
     <string name="list_menu_rename_result_fail">"No se pudo renombrar"</string>
     <string name="list_menu_rename_result_repeat">Un archivo con este nombre ya existe</string>
+    <string name="load_failure">"Couldn't load"</string>
     <string name="load_more">Ver más</string>
     <string name="loading">Un momento…</string>
     <string name="loading_tips">Arrastre hacia abajo para actualizar</string>
@@ -1217,6 +1229,7 @@ Envíe este código al supervisor."</string>
     <string name="more_option">Más opciones</string>
     <string name="more_privacy">Más opciones de privacidad</string>
     <string name="more_recommend">Más recomendaciones</string>
+    <string name="more_videos">More videos</string>
     <string name="morning">Mañana</string>
     <string name="most_visited_sites">Más visitado</string>
     <string name="most_visited_sites_switch">Mostrar los sitios más visitados en la página de inicio</string>
@@ -1485,13 +1498,15 @@ Dejar esta página ahora?"</string>
     <string name="navigationbar_rightbutton_actiontext_go">Ir</string>
     <string name="navigationbar_rightbutton_actiontext_search">Buscar</string>
     <string name="net_error">Error de red</string>
-    <string name="network_show_wifi_setting_tip_dialog_description">Se encontró un punto de acceso móvil cercano. ¿Conectarse?</string>
-    <string name="network_show_wifi_setting_tip_dialog_title">Red Wi-Fi disponible</string>
     <string name="new_update_available">Hay una actualización disponible</string>
     <string name="news_flow_more_recommend">Más elementos recomendados</string>
     <string name="news_load_failed">Toque para reintentar</string>
     <string name="news_loading">Cargando…</string>
     <string name="news_native_see_all">Artículo completo</string>
+    <string name="news_video_history">History</string>
+    <string name="news_video_history_empty">Nothing here yet</string>
+    <string name="news_video_invisible_item">"Can't view this video"</string>
+    <string name="news_video_no_more_videos">"That's all for now"</string>
     <string name="next">Siguiente</string>
     <string name="nf_choose_reason">Describa el problema</string>
     <string name="nf_content_gif_label">GIF</string>
@@ -1926,15 +1941,15 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="privacy_agreement">Acuerdo de Usuario</string>
     <string name="privacy_authorize_cannot_revoke_dialog_msg">"Esta acción requiere cargar su ID de rendimiento, lo que no se puede hacer en modo incógnito. Salga del modo incógnito y vuelva a intentarlo."</string>
     <string name="privacy_authorize_network_error">Su dispositivo debe conectarse a la red para que pueda retirar el consentimiento. Verifique la configuración de su red y vuelva a intentarlo.</string>
-    <string name="privacy_authorize_revoke">Revocar</string>
+    <string name="privacy_authorize_revoke">Withdraw</string>
     <string name="privacy_authorize_revoke_dialog_msg">Después de revocar la autorización, Mi Navegador dejará de recolectar datos y toda la información previamente recolectada será eliminada de los servidores. Esto podría volver a Mi Navegador inutilizable. ¿Revocar autorización?</string>
-    <string name="privacy_authorize_revoke_dialog_title">Revocando autorización</string>
-    <string name="privacy_authorize_revoke_failed">"No se pudo revocar la autorización"</string>
-    <string name="privacy_authorize_revoke_success">Autorización revocada con éxito</string>
-    <string name="privacy_authorize_revoke_time">Revocar (%1$d s)</string>
-    <string name="privacy_authorize_revoking">Revocando autorización…</string>
-    <string name="privacy_authorize_summary">Active o desactive el interruptor para conceder o revocar su autorización</string>
-    <string name="privacy_authorize_title">Autorización</string>
+    <string name="privacy_authorize_revoke_dialog_title">Withdrawal of consent</string>
+    <string name="privacy_authorize_revoke_failed">"Couldn't withdraw consent"</string>
+    <string name="privacy_authorize_revoke_success">Consent withdrawn successfully</string>
+    <string name="privacy_authorize_revoke_time">Withdraw (%1$ds)</string>
+    <string name="privacy_authorize_revoking">Withdrawing consent…</string>
+    <string name="privacy_authorize_summary">Toggle the switch on and off to grant or withdraw your consent</string>
+    <string name="privacy_authorize_title">Withdrawal of consent</string>
     <string name="privacy_btn_more">Más</string>
     <string name="privacy_disagree">"No aceptar"</string>
     <string name="privacy_improve_performance">Programa de experiencia de usuario</string>
@@ -2025,6 +2040,7 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="reboot">Reiniciar</string>
     <string name="recent_apk_status_install">INSTALADO</string>
     <string name="recommend">Recomendado</string>
+    <string name="recommend_bottom_guide">Swipe up to see more videos</string>
     <string name="recommend_button">Seguir (%s)</string>
     <string name="recommend_description">"Hemos seleccionado algunos creadores que te podría gustar seguir."</string>
     <string name="record_permission_name">Grabar audio</string>
@@ -2163,8 +2179,6 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="search_yahoo">Yahoo!</string>
     <string name="search_yicha">Yicha</string>
     <string name="secure_download_in_xiaomi_market">Descargar en App Store</string>
-    <string name="secureaccess">Cambiar a modo seguro</string>
-    <string name="secureaccess_cancel">Ignorar</string>
     <string name="security_url_confirm_message">Apagar esta función puede conllevar riesgos de seguridad.</string>
     <string name="security_warning">Alerta de seguridad</string>
     <string name="security_warnings_confirm_message">Apagar esta función puede conllevar riesgos de seguridad.</string>
@@ -2209,8 +2223,8 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="setting_swipe_up">Desliza hacia arriba en la pantalla de inicio</string>
     <string name="settings_search_online_apps">Tiendas de aplicaciones</string>
     <string name="settings_search_online_apps_desc">Contenido de las tiendas de aplicaciones</string>
-    <string name="share_image_text">¡Mira lo que compartí! @MIUI</string>
-    <string name="share_page_text">Mira lo que compartí: %1$s @MIUI| %2$s</string>
+    <string name="share_image_text">I shared a photo, take a look! @Mi Browser</string>
+    <string name="share_page_text">Look what I shared: %1$s @Mi Browser | %2$s</string>
     <string name="share_slide_video_text">¡Mira lo que compartí! %1$s</string>
     <string name="shear_plate_permission_name">Acceder o guardar elementos en el portapapeles</string>
     <string name="short_cut_name_novel">Libros gratuitos</string>
@@ -2236,6 +2250,7 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="skip_current_version">Omitir esta versión</string>
     <string name="sku_price_everymonth">%1$s cada mes</string>
     <string name="slide_card">Desliza para más</string>
+    <string name="slide_next_video_text">"Next video: "</string>
     <string name="smart_subtitle">"Obtén un resumen del contenido del artículo, generado por la IA, para ver los puntos principales de un vistazo."</string>
     <string name="smart_summary">Resumen inteligente</string>
     <string name="sms_send_success">Enviado con éxito</string>
@@ -2336,8 +2351,6 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="support_pwa">PWA</string>
     <string name="survey_feedback_general">De acuerdo</string>
     <string name="switchText">SÍ</string>
-    <string name="switch_proxy_dialog_msg">"Se ha detectado un secuestro en la red. Use la app de seguridad integrada de MIUI o informe de esto a su compañía."</string>
-    <string name="switch_proxy_dialog_title">Secuestro de la red</string>
     <string name="sync_alert_checkbox_bookmark">Marcadores</string>
     <string name="sync_alert_checkbox_history">Historial de navegación</string>
     <string name="sync_bookmark">Sincronizar marcadores</string>
@@ -2459,6 +2472,10 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="tuesday">Martes</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>
+    <string name="turn_off_dia_btn_cancel">Cancel</string>
+    <string name="turn_off_dia_btn_turn_off">Turn off</string>
+    <string name="turn_off_dia_content">"If you turn off Content Center, you won't be able to swipe up from the Home screen. You can edit the action for this gesture in Settings &gt; Home screen. Turn off Content Center now?"</string>
+    <string name="turn_off_dia_title">Turn off Content Center?</string>
     <string name="twitter_moments">Momentos de Twitter</string>
     <string name="type_not_support">"Este formato de archivo no es soportado. Extraiga este archivo y vuelva a intentarlo."</string>
     <string name="unSwitchText">NO</string>
@@ -2486,8 +2503,6 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="url_suggest_indicator_bookmark">Marcadores/Historial</string>
     <string name="url_suggest_indicator_hoturl">Popular</string>
     <string name="url_suggest_indicator_mostvisited">Más visitados</string>
-    <string name="use_cellular_network_alert_message">"Wi-Fi no disponible. ¿Quiere utilizar la red móvil?"</string>
-    <string name="use_cellular_network_alert_title">Uso de datos</string>
     <string name="user_avatar_update_title">Cambiar foto de perfil</string>
     <string name="user_avatar_uploading">Un momento…</string>
     <string name="user_defined_webpage">Agregar a la página de inicio</string>
@@ -2497,10 +2512,16 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
 Siempre puede inhabilitar en Ajustes &gt; Privacidad y Seguridad"</string>
     <string name="user_experience_disagree">"No participar"</string>
     <string name="user_experience_title">Programa de Experiencia del Usuario</string>
+    <string name="user_guide_agree">Agree</string>
     <string name="user_guide_color_mode_info">Modo claro y Modo oscuro están disponibles</string>
     <string name="user_guide_color_mode_title">Seleccionar esquema de colores</string>
     <string name="user_guide_control_privacy_tips">Controle completamente su privacidad</string>
+    <string name="user_guide_disagree">"Don't agree"</string>
+    <string name="user_guide_privacy_message">Read and agree to our &lt;font color=#0a84ff&gt;&lt;a href=%1$s style=color:#0a84ff;&gt;Privacy Policy&lt;/a&gt;&lt;/font&gt; and &lt;font color=#0a84ff&gt;&lt;a href=%2$s style=color:#0a84ff;&gt;User Agreement&lt;/a&gt;&lt;/font&gt; before using Content Center.</string>
+    <string name="user_guide_provide_service_content">Popular videos and news</string>
+    <string name="user_guide_provide_service_title">This feature provides the following services:</string>
     <string name="user_guide_read_info_tips">Para poder incluir aplicaciones en los resultados de búsqueda, el Navegador Mi necesita acceder a la lista de aplicaciones instaladas en tu dispositivo.</string>
+    <string name="user_guide_turn_off_feature">To turn off this feature, tap &lt;font color=#0a84ff&gt;&lt;u&gt;here&lt;/u&gt;&lt;/font&gt;.</string>
     <string name="user_id_hint">Correo/Teléfono/Cuenta Mi</string>
     <string name="username">Nombre</string>
     <string name="uuid">UUID (haga clic para exportar)</string>
@@ -2533,10 +2554,17 @@ Siempre puede inhabilitar en Ajustes &gt; Privacidad y Seguridad"</string>
 https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_downloader_fail">"No se pudo descargar este elemento"</string>
     <string name="video_downloader_retry">Vuelva a intentarlo</string>
+    <string name="video_feedback_description">Recopilamos y utilizamos la información que introduzcas arriba para mejorar tu experiencia de usuario. Para obtener más información sobre cómo recopilamos y procesamos su información personal, consulte nuestra Política de Privacidad.</string>
+    <string name="video_feedback_description_title">Esta información se utilizará sólo para recomendaciones de contenido</string>
+    <string name="video_feedback_not_sumbit_toast">Seleccione una respuesta antes de enviarla</string>
+    <string name="video_feedback_thanks">Gracias por tus comentarios</string>
     <string name="video_guess_you_like">Te puede interesar</string>
     <string name="video_play_next">Siguiente</string>
     <string name="video_replay_btn">Repetir</string>
+    <string name="video_report_entrance">Informe</string>
+    <string name="video_report_submit">Enviar</string>
     <string name="video_retry_btn">Reintentar</string>
+    <string name="video_select_report_reason">Seleccione una razón</string>
     <string name="video_view_more">Más</string>
     <string name="view_certificate">Ver certificado</string>
     <string name="view_details">Ver detalles</string>
@@ -2602,6 +2630,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_ad_clear_dialog_confirm">Eliminar</string>
     <string name="web_ad_clear_dialog_msg">¿Eliminar ahora etiquetas publicitarias de \"%s\"?</string>
     <string name="web_ad_clear_dialog_title">Eliminar etiqueta publicitaria</string>
+    <string name="web_app_center">Mini programas</string>
     <string name="web_enhance_dialog_cancel">Cancelar</string>
     <string name="web_enhance_dialog_confirm">OK </string>
     <string name="web_enhance_dialog_msg">¿Empezar ahora a bloquear anuncios en %s?</string>
@@ -2721,6 +2750,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="whatsapp_tab_status">Estatus</string>
     <string name="whatsapp_webpage_btn">Ver</string>
     <string name="whatsapp_webpage_tips">Capturador de estados de WhatsApp</string>
+    <string name="withdraw_dia_content">Si retira su consentimiento a la Política de privacidad del Centro de contenido, esta función dejará de recopilar su información personal. Cualquier información personal previamente recopilada y cargada en nuestros servidores será eliminada. Una vez que retire su consentimiento, ya no podrá utilizar el Centro de contenido. ¿Retirar el consentimiento ahora?</string>
     <string name="xiaomi_sign_in_btn_txt">Iniciar sesión o crear una cuenta</string>
     <string name="year_month_day_format">dd \'de\' MMM. yyyy</string>
     <string name="yes">Yes</string>
