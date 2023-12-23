@@ -142,7 +142,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_frequence">Programar copia de seguridad</string>
     <string name="cloud_backup_detail_frequence_every_7_day">Cada %d días</string>
     <string name="cloud_backup_detail_frequence_every_day">Todos los días</string>
-    <string name="cloud_backup_detail_header_msg">"Ahora puedes hacer una copia de seguridad del diseño de la pantalla de inicio, las aplicaciones, la configuración del sistema y los datos de WeChat del dispositivo. &lt;font color=#0D84FF&gt;&lt;a href=&gt;Pulsa para más información.&lt;/a&gt;&lt;/font&gt;"</string>
+    <string name="cloud_backup_detail_header_msg">"Ahora puede hacer una copia de seguridad del diseño de la pantalla de inicio, las aplicaciones, la configuración del sistema y los datos de WeChat de su dispositivo. &lt;font color=#0D84FF&gt;&lt;a href=&gt;Toque para obtener más información.&lt;/a&gt;&lt;/font&gt; "</string>
     <string name="cloud_backup_detail_header_msg_no_wechat_backup">"Haz copia de seguridad del diseño de la pantalla inicio, lista de aplicaciones y configuración del sistema. &lt;font color=#0D84FF&gt;&lt;a href=&gt;Pulsa para obtener más información&lt;/a&gt;&lt;/font&gt;."</string>
     <string name="cloud_backup_detail_local_backup_size">Tamaño estimado de la copia: %s</string>
     <string name="cloud_backup_detail_manage">Gestionar copias de seguridad</string>
@@ -286,15 +286,16 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="midnight">Noche</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar todo</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Más</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Eliminar</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Deseleccionar todo</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleccionar todo</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Buscar</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>

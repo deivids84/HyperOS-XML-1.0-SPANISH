@@ -46,6 +46,7 @@
     <string name="alarm_notify_snooze_label">%s posponer</string>
     <string name="alarm_permanent_alert">Sonando</string>
     <string name="alarm_repeat">Repetir</string>
+    <string name="alarm_repeat_self_define_button">Personalizar</string>
     <string name="alarm_ringtone_picker">Alarmas</string>
     <string name="alarm_set_new">La alarma sonará en menos de %d minuto.</string>
     <string name="alert">Tono de alarma</string>
@@ -56,14 +57,15 @@
     <string name="alert_xiaoai_ringtone_desc">La IA de Mi está hablando…</string>
     <string name="am">AM</string>
     <string name="app_label">Reloj</string>
+    <string name="app_name">SplitLib</string>
     <string name="auto_silence_entries1">Nunca</string>
-    <string name="auto_silence_entries2"><xliff id="MINUTES" refersto="1">%d</xliff> minuto</string>
-    <string name="auto_silence_entries3"><xliff id="MINUTES" refersto="5">%d</xliff> minutos</string>
-    <string name="auto_silence_entries4"><xliff id="MINUTES" refersto="10">%d</xliff> minutos</string>
-    <string name="auto_silence_entries5"><xliff id="MINUTES" refersto="15">%d</xliff> minutos</string>
-    <string name="auto_silence_entries6"><xliff id="MINUTES" refersto="20">%d</xliff> minutos</string>
-    <string name="auto_silence_entries7"><xliff id="MINUTES" refersto="25">%d</xliff> minutos</string>
-    <string name="auto_silence_entries8"><xliff id="MINUTES" refersto="30">%d</xliff> minutos</string>
+    <string name="auto_silence_entries2"><xliff refersto="1" id="MINUTES">%d</xliff> minuto</string>
+    <string name="auto_silence_entries3"><xliff refersto="5" id="MINUTES">%d</xliff> minutos</string>
+    <string name="auto_silence_entries4"><xliff refersto="10" id="MINUTES">%d</xliff> minutos</string>
+    <string name="auto_silence_entries5"><xliff refersto="15" id="MINUTES">%d</xliff> minutos</string>
+    <string name="auto_silence_entries6"><xliff refersto="20" id="MINUTES">%d</xliff> minutos</string>
+    <string name="auto_silence_entries7"><xliff refersto="25" id="MINUTES">%d</xliff> minutos</string>
+    <string name="auto_silence_entries8"><xliff refersto="30" id="MINUTES">%d</xliff> minutos</string>
     <string name="auto_silence_summary">Establece los minutos trás los que se silenciarán alarmas y temporizadores</string>
     <string name="auto_silence_title">Silenciar automáticamente</string>
     <string name="back">Salir</string>
@@ -92,13 +94,18 @@
     <string name="bedtime_wake_up_time_setting">¿Cuándo te levantarás?</string>
     <string name="bedtime_welcome">Gestiona tu hora de acostarte</string>
     <string name="bedtime_welcome_desc">Mantener un horario de sueño regular y constante es beneficioso para la salud. Establece recordatorios que te ayudarán a irte a la cama y levantarte cada día.</string>
+    <string name="bottomsheet_action_expand_halfway">Desplegar hasta la mitad</string>
     <string name="cancel">Cancelar</string>
     <string name="channel_name_alarm">Alarma</string>
     <string name="channel_name_sleep">Sueño</string>
     <string name="channel_name_stopwatch">Cronómetro</string>
     <string name="channel_name_timer">Temporizador</string>
+    <string name="character_counter_content_description">Caracteres introducidos: %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Límite de caracteres superado (%1$d de %2$d)</string>
+    <string name="chip_text">Texto de chip</string>
     <string name="cities_show_limit_desc">"No se pueden mostrar más relojes"</string>
     <string name="city_time_contrast_desc">Pulsa para comparar la hora en diferentes ciudades</string>
+    <string name="clear_text_end_icon_content_description">Borrar texto</string>
     <string name="clearable_edittext_clear_description">Eliminar</string>
     <string name="click_to_cancel_alarm">Pulsa para desactivar</string>
     <string name="clock_date_time_format_seconds_12">hh:mm:ss</string>
@@ -130,10 +137,12 @@
     <string name="edit_systemtime">Fecha y hora del sistema</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
+    <string name="error_icon_content_description">Error</string>
     <string name="evening">Tarde</string>
     <string name="every_day">Diariamente</string>
     <string name="expand_button_title">Avanzado</string>
     <string name="expired_timers_dismissed">Temporizador descartado</string>
+    <string name="exposed_dropdown_menu_content_description">Mostrar menú desplegable</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d-M</string>
@@ -153,10 +162,12 @@
     <string name="holiday_update_success">Todos los elementos están actualizadas</string>
     <string name="holiday_update_title">Actualizar información acerca de días festivos</string>
     <string name="hour_unit">h +</string>
+    <string name="icon_content_description">Icono del cuadro de diálogo</string>
     <string name="install_weather_app_error">"No se pudo cargar la aplicación"</string>
     <string name="install_weather_app_loading">Un momento…</string>
     <string name="invalid_time">Hora incorrecta: %3$s %1$d: %2$d</string>
     <string name="invalid_timer_length">"La duración del temporizador es inválida"</string>
+    <string name="item_view_role_description">Pestaña</string>
     <string name="korea_permission_calendar">Calendario</string>
     <string name="korea_permission_calendar_desc">Para acceder a la información del evento y enviar recordatorios</string>
     <string name="korea_permission_storage">Almacenamiento</string>
@@ -186,19 +197,22 @@
     <string name="life_post_weather_invalid">Pulsa para obtener información del tiempo</string>
     <string name="life_post_weather_no_network">Conéctate a la red para actualizar información del tiempo</string>
     <string name="listen_news_privacy"><Data>Para proporcionar servicios personalizados e incluir noticias matutinas en tus alarmas, Reloj necesita conexión a Internet. Para ello debes leer y aceptar nuestro &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=\"%3$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿De acuerdo?</Data></string>
+    <string name="look_sleep_data">Ver datos de sueño</string>
+    <string name="material_clock_toggle_content_description">Selecciona AM o PM</string>
+    <string name="material_hour_selection">Seleccionar hora</string>
+    <string name="material_hour_suffix">"%1$s en punto"</string>
+    <string name="material_minute_selection">Seleccionar minutos</string>
+    <string name="material_minute_suffix">%1$s minutos</string>
+    <string name="material_slider_range_end">Fin de rango,</string>
+    <string name="material_slider_range_start">inicio de rango,</string>
+    <string name="material_timepicker_am">A.M.</string>
+    <string name="material_timepicker_clock_mode_description">Cambia al modo de reloj para escribir la hora.</string>
+    <string name="material_timepicker_hour">Hora</string>
+    <string name="material_timepicker_minute">Minuto</string>
+    <string name="material_timepicker_pm">P.M.</string>
+    <string name="material_timepicker_select_time">Seleccionar la hora</string>
+    <string name="material_timepicker_text_input_mode_description">Cambia al modo de introducción de texto para escribir la hora.</string>
     <string name="midnight">Noche</string>
-    <string name="miui_clock_city_name_local">Local</string>
-    <string name="miui_clock_city_name_second">Segundo reloj</string>
-    <string name="miui_lock_screen_date">EEE, dd MMMM</string>
-    <string name="miui_lock_screen_date_12">EEE, d MMM</string>
-    <string name="miui_lock_screen_date_two_lines">"dd MMM
-EEE"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"dd MMM
-EEE"</string>
-    <string name="miui_lock_screen_large_date">"EEE
-d/M"</string>
-    <string name="miui_lock_screen_large_date_12">"EEE
-d/M"</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar todo</string>
@@ -218,6 +232,10 @@ d/M"</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
+    <string name="miuix_item_view_role_description">Pestaña</string>
+    <string name="miuix_navigator_content_switch_description">Mostrar barra lateral</string>
+    <string name="miuix_navigator_multiple_choice">Seleccionar</string>
+    <string name="miuix_navigator_navigator_switch_description">Ocultar barra lateral</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -298,6 +316,33 @@ d/M"</string>
     <string name="more_setting">Más ajustes</string>
     <string name="more_settings">Ajustes</string>
     <string name="morning">Mañana</string>
+    <string name="mtrl_badge_numberless_content_description">Notificación nueva</string>
+    <string name="mtrl_chip_close_icon_content_description">Retirar %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Más de %1$d notificaciones nuevas</string>
+    <string name="mtrl_picker_a11y_next_month">Cambiar al mes siguiente</string>
+    <string name="mtrl_picker_a11y_prev_month">Cambiar al mes anterior</string>
+    <string name="mtrl_picker_announce_current_selection">Selección actual: %1$s</string>
+    <string name="mtrl_picker_date_header_title">Selecciona una fecha</string>
+    <string name="mtrl_picker_date_header_unselected">Fecha seleccionada</string>
+    <string name="mtrl_picker_day_of_week_column_header">Columna de días: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Formato no válido.</string>
+    <string name="mtrl_picker_invalid_format_example">Ejemplo: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Usar: %1$s</string>
+    <string name="mtrl_picker_invalid_range">El periodo no es válido.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Ir al año %1$s</string>
+    <string name="mtrl_picker_out_of_range">Fuera del periodo válido: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Fecha de inicio–%1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s–Fecha de finalización</string>
+    <string name="mtrl_picker_range_header_title">Selecciona un periodo</string>
+    <string name="mtrl_picker_range_header_unselected">Fecha de inicio–Fecha de finalización</string>
+    <string name="mtrl_picker_save">Guardar</string>
+    <string name="mtrl_picker_text_input_date_hint">Fecha</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Fecha de finalización</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Fecha de inicio</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambiar al modo de introducción Calendario</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Toca para seleccionar un día</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Cambiar al modo de introducción Texto</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Toca para seleccionar un año</string>
     <string name="net_permission_cancel">"No aceptar"</string>
     <string name="net_permission_ok">Aceptar</string>
     <string name="network_privacy"><Data>Para obtener la información de los días festivos locales y ajustar las alarmas, Reloj necesita conexión a Internet. Para ello debes leer y aceptar nuestro &lt;a href=\"%2$s\"&gt;Acuerdo de Usuario&lt;/a&gt; y la &lt;a href=\"%3$s\"&gt;Política de Privacidad&lt;/a&gt;. ¿De acuerdo?</Data></string>
@@ -313,16 +358,21 @@ d/M"</string>
     <string name="not_set_temporarily">No, gracias</string>
     <string name="not_update">Ahora no</string>
     <string name="notification_adv_time_entries1">A la hora establecida</string>
-    <string name="notification_adv_time_entries2"><xliff id="MINUTES" refersto="15">%d</xliff> minutos antes</string>
-    <string name="notification_adv_time_entries3"><xliff id="MINUTES" refersto="30">%d</xliff> minutos antes</string>
-    <string name="notification_adv_time_entries4"><xliff id="HOUR" refersto="1">%d</xliff> hora antes</string>
+    <string name="notification_adv_time_entries2"><xliff refersto="15" id="MINUTES">%d</xliff> minutos por adelantado</string>
+    <string name="notification_adv_time_entries3"><xliff refersto="30" id="MINUTES">%d</xliff> minutos por adelantado</string>
+    <string name="notification_adv_time_entries4"><xliff refersto="1" id="HOUR">%d</xliff> hora por adelantado</string>
     <string name="notification_adv_time_entries5">Ninguno</string>
     <string name="notification_permission_desc">"Si no concedes permisos de notificación, no podrás desactivar las alarmas cuando suenen. ¿Conceder permiso?"</string>
+    <string name="notification_permission_dialog_content">Permite que esta aplicación envíe notificaciones para recibir notificaciones de alarmas. Puedes otorgar este permiso en Ajustes.</string>
+    <string name="notification_permission_dialog_not_open">Ahora no</string>
+    <string name="notification_permission_dialog_open">Ajustes</string>
+    <string name="notification_permission_dialog_title">Permisos requeridos</string>
     <string name="oneshot_alarm">Eliminar cuando suene la alarma</string>
     <string name="open_keep_screen">La pantalla se mantendrá encendida</string>
     <string name="open_notification_permission_remind">Permitir que las notificaciones puedan desactivar las alarmas</string>
     <string name="open_sleep_record">Activar</string>
     <string name="other_settings">Ajustes adicionales</string>
+    <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="pause">Pausar</string>
     <string name="permission_desc">Detalles de los permisos</string>
     <string name="permission_granted">Otorgado</string>
@@ -518,6 +568,7 @@ d/M"</string>
     <string name="tv_world_clock_edit_title2">Otras ubicaciones guardadas</string>
     <string name="upcoming_alarm">Siguiente alarma: %s</string>
     <string name="upcoming_alarm_hint">Ahora puedes desactivar esta función</string>
+    <string name="upcoming_alarm_new">Siguiente alarma: %s</string>
     <string name="update_health_app_desc_new">Mi Fitness proporciona la función de seguimiento del sueño. Actualice Mi Fitness a su última versión para acceder a funciones relacionadas.</string>
     <string name="update_health_app_new">Actualizar Mi Fitness</string>
     <string name="update_it">Actualizar</string>

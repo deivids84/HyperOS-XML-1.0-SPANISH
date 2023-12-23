@@ -676,15 +676,16 @@ Declinado:
     <string name="midnight">Noche</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar todo</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Más</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Eliminar</string>
-    <string name="miuix_appcompat_deselect_all">Desmarcar</string>
+    <string name="miuix_appcompat_deselect_all">Deseleccionar todo</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleccionar todo</string>
+    <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
     <string name="miuix_appcompat_search_input_description">Buscar</string>
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
@@ -700,11 +701,6 @@ Declinado:
     <string name="miuix_sbl_tracking_progress_labe_up_none">"Eso es todo por ahora"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Un momento…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"No se pudo cargar los elementos"</string>
-    <string name="miuix_search_action_mode_cancel">Cancelar</string>
-    <string name="miuix_search_history_clear">Borrar historial de búsqueda</string>
-    <string name="miuix_search_history_default_title">Historial de búsqueda</string>
-    <string name="miuix_search_recommendation_default_title">Podrían interesarte estos</string>
-    <string name="miuix_search_recommendation_item_del_des">Eliminar</string>
     <string name="monday">Lunes</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lun</string>
@@ -1069,6 +1065,7 @@ Espera hasta que esté completamente sincronizado o mira el mensaje en tu ordena
     <string name="sign_in_dialog_office365">Edición Personal Office365</string>
     <string name="sign_in_dialog_outlook_enterprise">Edición corporativa Exchange Office365</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (sin calendario)</string>
+    <string name="sign_in_dialog_title">Elija el método de inicio de sesión</string>
     <string name="sign_in_no_useful_provider_error">"No se pueden obtener configuraciones de protocolo de Microsoft. Utilice un protocolo diferente o actualice el protocolo de Microsoft."</string>
     <string name="signature">"
 
