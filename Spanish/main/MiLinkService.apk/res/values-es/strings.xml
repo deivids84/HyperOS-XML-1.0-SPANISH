@@ -283,6 +283,9 @@ tus dispositivos?"</string>
     <string name="circulate_open_in_tv">Abrir en TV</string>
     <string name="circulate_pad_app_continuity">"Utilizando el %1$s del teléfono"</string>
     <string name="circulate_pad_card_being_used_camera">"Usando la cámara del teléfono en la tableta"</string>
+    <string name="circulate_pad_card_being_used_cellular">Tablet está usando datos móviles</string>
+    <string name="circulate_pad_card_being_used_cellular_wifi">Señal Wi-Fi compartida con la tableta</string>
+    <string name="circulate_pad_card_being_used_cellular_wifi_china">Señal Wi-Fi compartida con la tableta</string>
     <string name="circulate_pad_card_use_camera">"Usar la cámara del tablet"</string>
     <string name="circulate_pad_card_use_desktop">Compartir pantalla de inicio a tablet</string>
     <string name="circulate_pad_card_using_camera">"Usando la cámara del tablet"</string>
@@ -295,8 +298,12 @@ tus dispositivos?"</string>
     <string name="circulate_phone_app_continuity">Usando %1$s en la tableta</string>
     <string name="circulate_phone_card_being_used_camera">"Usando la cámara del tablet en el teléfono"</string>
     <string name="circulate_phone_card_use_camera">"Usar cámara de teléfono"</string>
+    <string name="circulate_phone_card_use_cellular">"Usar datos móviles del teléfono"</string>
     <string name="circulate_phone_card_use_desktop">"Ver pantalla de inicio del teléfono"</string>
     <string name="circulate_phone_card_using_camera">"Usando la cámara del teléfono…"</string>
+    <string name="circulate_phone_card_using_cellular">"Usando datos móviles del teléfono"</string>
+    <string name="circulate_phone_card_using_cellular_wifi">"Utilizando señal Wi-Fi del teléfono"</string>
+    <string name="circulate_phone_card_using_cellular_wifi_china">"Utilizando señal Wi-Fi del teléfono"</string>
     <string name="circulate_phone_card_using_desktop">"Viendo la pantalla de inicio del teléfono…"</string>
     <string name="circulate_ringfind_button_hint_play">Reproducir sonido</string>
     <string name="circulate_ringfind_button_hint_stop">Parar la reproducción de sonido</string>
@@ -337,6 +344,24 @@ tus dispositivos?"</string>
     <string name="close_invisible_mode_dialog_message">"No puedes usar Mi Smart Play ahora. Desactiva el modo Incógnito para usar esta función."</string>
     <string name="close_invisible_mode_dialog_ok">Ajustes</string>
     <string name="close_invisible_mode_dialog_title">"Estás en modo incógnito"</string>
+    <string name="common_google_play_services_enable_button">Activar</string>
+    <string name="common_google_play_services_enable_text">"%1$s no funcionará a menos que habilites los servicios de Google Play."</string>
+    <string name="common_google_play_services_enable_title">Habilitar servicios de Google Play</string>
+    <string name="common_google_play_services_install_button">Instalar</string>
+    <string name="common_google_play_services_install_text">"%1$s no se ejecutará sin los servicios de Google Play, que faltan en tu dispositivo."</string>
+    <string name="common_google_play_services_install_title">Obtener servicios de Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilidad de los servicios de Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Error de servicios de Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s está teniendo problemas con los servicios de Google Play. Inténtalo de nuevo.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s no se ejecutará sin los servicios de Google Play, que no son compatibles con tu dispositivo."</string>
+    <string name="common_google_play_services_update_button">Actualizar</string>
+    <string name="common_google_play_services_update_text">"%1$s no se ejecutará a menos que actualices los servicios de Google Play."</string>
+    <string name="common_google_play_services_update_title">Actualizar servicios de Google Play</string>
+    <string name="common_google_play_services_updating_text">"%1$s no se ejecutará sin los servicios de Google Play, que se están actualizando actualmente."</string>
+    <string name="common_google_play_services_wear_update_text">Se necesita una nueva versión de los servicios de Google Play. Se actualizará pronto.</string>
+    <string name="common_open_on_phone">Abrir en el teléfono</string>
+    <string name="common_signin_button_text">Iniciar sesión</string>
+    <string name="common_signin_button_text_long">Iniciar sesión con Google</string>
     <string name="config_wifi_label_china">Conferencia Xiaomi Tapcast Wi-Fi</string>
     <string name="config_wifi_label_global">Conferencia Xiaomi Tapcast Wi-Fi</string>
     <string name="connect_device_fail">"No se pudo conectar al dispositivo"</string>
@@ -346,6 +371,7 @@ tus dispositivos?"</string>
     <string name="connect_settings_category_connection_car">Características del coche</string>
     <string name="connect_settings_category_hyper_mind">Hipermente</string>
     <string name="connect_settings_category_personal_device">Dispositivos personales</string>
+    <string name="connect_settings_communication_sharing">Anclaje inalámbrico</string>
     <string name="connect_settings_connect_permission">Interconectividad y permisos</string>
     <string name="connect_settings_connect_privacy">Privacidad</string>
     <string name="connect_settings_connection_service">Interconectividad Xiaomi</string>
@@ -363,7 +389,7 @@ tus dispositivos?"</string>
     <string name="connect_settings_summary"><Data>Descubra automáticamente los dispositivos cercanos que hayan iniciado sesión en su cuenta Xiaomi y conéctelos entre sí para realizar una variedad de tareas en múltiples dispositivos. &lt;a href=%1$s&gt;Más información&lt;/a&gt;</Data></string>
     <string name="connect_settings_summary_connection_service">Permite que tus dispositivos interactúen sin cables entre sí</string>
     <string name="connect_settings_summary_corp_phone">Responder llamadas en tabletas cercanas o computadoras conectadas a su cuenta Xiaomi</string>
-    <string name="connect_settings_summary_hyper_mind">Adapta automáticamente los dispositivos cercanos a sus necesidades basándose en sus patrones de uso. Esta característica es alimentada por Mi AI.</string>
+    <string name="connect_settings_summary_hyper_mind">Esta característica aprende sus patrones y los utiliza para controlar sus dispositivos domésticos inteligentes. Desarrollado por Mi AI.</string>
     <string name="connect_settings_summary_relay_app">Continuar tareas en la misma aplicación en otro dispositivo</string>
     <string name="connect_settings_summary_share_clipboard">Pegar texto e imágenes a otros dispositivos en %d minutos después de copiarlos en este dispositivo</string>
     <string name="connect_settings_summary_share_launcher_pad">Ver e interactuar con las pantallas de inicio de teléfonos cercanos conectados a tu cuenta de Xiaomi</string>
@@ -380,6 +406,7 @@ tus dispositivos?"</string>
     <string name="controller_auth_cancel">Cancelar</string>
     <string name="controller_auth_title">Verificar control remoto</string>
     <string name="copy">Copiar</string>
+    <string name="copy_toast_msg">Enlace copiado al portapapeles</string>
     <string name="current_wifi_tv">Red actual</string>
     <string name="date_picker_lunar">Calendario chino tradicional</string>
     <string name="date_time_picker_dialog_title">Ajustar fecha y hora</string>
@@ -455,6 +482,9 @@ Consulta la ayuda si tienes problemas para conectarte."</string>
     <string name="evening">Tarde</string>
     <string name="expand_button_title">Avanzado</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar el menú desplegable</string>
+    <string name="fallback_menu_item_copy_link">Copiar enlace</string>
+    <string name="fallback_menu_item_open_in_browser">Abrir en el navegador</string>
+    <string name="fallback_menu_item_share_link">Compartir enlace</string>
     <string name="file_read_des">Para mostrar fotos y otros archivos en monitores externos</string>
     <string name="find_device_close">Entendido</string>
     <string name="find_device_notification_content_phone">%1$s está buscando este dispositivo usando %2$s. Desbloquea para detener la reproducción de sonido.</string>
@@ -601,11 +631,37 @@ Si necesitas activar Miracast, pulsa el botón [MENU] y selecciona Mis aplicacio
     <string name="help_page_text_55_global">"Si no puedes conectar a la red, comprueba que el equipo externo admite la función Miracast y que está encendido. En algunos modelos, la función se denomina \"Pantalla inalámbrica\", \"Duplicación de pantalla\" o \"Pantallas múltiples\".
 %1$d. Si encuentras algún problema, puedes informarlo usando nuestra aplicación."</string>
     <string name="help_page_text_end">"Si la marca de tu dispositivo no está en la lista, contacta con el fabricante para conocer más sobre la funcionalidad de emisión."</string>
+    <string name="hm_always">Recordar</string>
+    <string name="hm_conflict_title">Patrón pausado: %1$s</string>
+    <string name="hm_conflict_toast">Tienes una escena inteligente o automatización conflictiva. Edítalo en la aplicación primero.</string>
+    <string name="hm_go_to_help">Ver ayuda</string>
+    <string name="hm_go_to_login">Iniciar sesión</string>
+    <string name="hm_go_to_open_setting">Encender</string>
+    <string name="hm_habit_info_describe">"Permite que los dispositivos se adapten a tus necesidades
+aprendiendo cómo los usas"</string>
+    <string name="hm_habit_info_empty_describe">"Sigue usando tus dispositivos
+para que Xiaomi HyperMind pueda aprender y refinar los patrones"</string>
+    <string name="hm_habit_info_list_empty">Patrones de aprendizaje…</string>
+    <string name="hm_help">Ayuda</string>
+    <string name="hm_knew">Entendido</string>
+    <string name="hm_pause_habit">Pausa</string>
+    <string name="hm_please_login_mi_account">Inicia sesión en tu cuenta de Xiaomi para empezar</string>
+    <string name="hm_remember">Recordar</string>
+    <string name="hm_resume_habit">Reanudar</string>
+    <string name="hm_setup">Ajustes</string>
+    <string name="hm_time_has_paused">Pausado</string>
+    <string name="hm_time_just_remembered">Aprendidos justo ahora</string>
+    <string name="hm_time_long_ago">Hace mucho tiempo</string>
+    <string name="hm_time_not_executed">Aún no usado</string>
+    <string name="hm_time_recent_week">Esta semana</string>
+    <string name="hm_time_today">Hoy</string>
+    <string name="hm_time_yesterday">Ayer</string>
+    <string name="hm_toast_log_in">Inicie sesión primero en su cuenta Xiaomi</string>
     <string name="hm_xiaomi_hyper_mind">Hipermente de Xiaomi</string>
     <string name="hyper_mind">Hipermente</string>
     <string name="hyper_mind_close_warning">Atención</string>
     <string name="hyper_mind_close_warning_checkbox">"No volver a mostrar"</string>
-    <string name="hyper_mind_close_warning_content">HyperMind dejará de recopilar datos y de aprender sus patrones de uso después de que lo apague. Si necesita eliminar los datos que ya se han recopilado, &lt;a href=%1$s&gt;toque aquí&lt;/a&gt;.</string>
+    <string name="hyper_mind_close_warning_content">Si desactiva esta función, HyperMind ya no podrá aprender o usar sus patrones. Si quieres retirar tu consentimiento para nuestra recopilación de tus datos, pulsa &lt;a href=%1$s&gt;aquí&lt;/a&gt;.</string>
     <string name="hyper_mind_close_warning_ok">Entendido</string>
     <string name="hyper_mind_xiaomi">Xiaomi</string>
     <string name="icon_content_description">Icono de diálogo</string>
@@ -1078,6 +1134,7 @@ Asegúrate de que has activado el Turbo de Juego antes de lanzar juegos."</strin
     <string name="trust_device_manager">Gestionar dispositivos de confianza</string>
     <string name="trust_device_none">Aquí no hay dispositivos de confianza</string>
     <string name="trust_device_title">Dispositivos de confianza</string>
+    <string name="try_multipurpose_equipment">Sigue usando dispositivos para adaptarlos a tus necesidades</string>
     <string name="tuesday">Martes</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Mar</string>

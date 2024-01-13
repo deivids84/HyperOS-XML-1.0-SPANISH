@@ -104,4 +104,8 @@
         <item quantity="other">Hace %d minutos</item>
         <item quantity="one">Hace 1 minuto</item>
     </plurals>
+    <plurals name="remember_number_habit">
+        <item quantity="other">Patrones %1$d recordados</item>
+        <item quantity="one">Patrón %1$d recordado</item>
+    </plurals>
 </resources>

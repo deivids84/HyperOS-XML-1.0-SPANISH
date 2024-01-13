@@ -1106,7 +1106,6 @@ Espera %2$d segundos antes de intentarlo otra vez."</string>
     <string name="mmiErrorWhileRoaming">No se puede cambiar la configuración de desvío de llamadas desde tu teléfono mientras estás en itinerancia.</string>
     <string name="mmiFdnError">La operación solo es válida para números de marcación fija.</string>
     <string name="mobile_no_internet">La red móvil no tiene acceso a Internet</string>
-    <string name="month_day_year" formatted="false">%-e de %B de %Y</string>
     <string name="more_item_label">Más</string>
     <string name="move_button_text">Toca el botón de marco para poder mover toda la ventana</string>
     <string name="mte_override_notification_message">Puede afectar al rendimiento y la estabilidad. Reinicia para desactivarlo. Si está activado en arm64.memtag.bootctl, establécelo de antemano a ninguno.</string>

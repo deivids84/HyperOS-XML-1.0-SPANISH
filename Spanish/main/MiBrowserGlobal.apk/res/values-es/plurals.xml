@@ -152,6 +152,10 @@
         <item quantity="one">Ahora mismo</item>
         <item quantity="other">Ahora mismo</item>
     </plurals>
+    <plurals name="mggc_ins_back_seconds_remaining">
+        <item quantity="other">&lt;font color=#0D84FF&gt;%1$d&lt;/font&gt; segundos restantes</item>
+        <item quantity="one">&lt;font color=#0D84FF&gt;%1$d&lt;/font&gt; segundos restantes</item>
+    </plurals>
     <plurals name="mins_ago">
         <item quantity="other">Hace %1$d minutos</item>
         <item quantity="one">Hace %1$d minuto</item>
@@ -311,5 +315,9 @@
     <plurals name="web_permission_protect_subtitle_time">
         <item quantity="other">%s veces</item>
         <item quantity="one">%s vez</item>
+    </plurals>
+    <plurals name="web_preload_hint_dialog_title">
+        <item quantity="other">¡La semana pasada, Mi Browser aumentó la velocidad de carga de la página web para ti %d veces!</item>
+        <item quantity="one">¡La semana pasada, Mi Browser aumentó la velocidad de carga de la página web para ti %d vez!</item>
     </plurals>
 </resources>

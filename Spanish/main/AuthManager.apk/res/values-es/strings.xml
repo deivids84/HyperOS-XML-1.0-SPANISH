@@ -16,7 +16,7 @@
     <string name="HIPS_Perm_Body_Sensors">Sensores corporales</string>
     <string name="HIPS_Perm_Body_Sensors_Desc">usar sensores corporales (p. ej. frecuencia cardíaca)</string>
     <string name="HIPS_Perm_Calendar">Leer eventos del calendario</string>
-    <string name="HIPS_Perm_Calendar_Desc">leer tus eventos de calendario</string>
+    <string name="HIPS_Perm_Calendar_Desc">Editar eventos del calendario</string>
     <string name="HIPS_Perm_Call">Llamadas de teléfono</string>
     <string name="HIPS_Perm_CallLog">Historial de llamadas</string>
     <string name="HIPS_Perm_CallLog_Desc">escribir y eliminar en el historial de llamadas</string>
@@ -24,7 +24,7 @@
     <string name="HIPS_Perm_Contact">Contactos</string>
     <string name="HIPS_Perm_Contact_Desc">editar contactos</string>
     <string name="HIPS_Perm_External_Storage">Almacenamiento interno</string>
-    <string name="HIPS_Perm_External_Storage_Desc">añadir y eliminar archivos en el almacenamiento interno del dispositivo</string>
+    <string name="HIPS_Perm_External_Storage_Desc">Añadir y eliminar archivos en el almacenamiento interno del dispositivo</string>
     <string name="HIPS_Perm_Intl_group_name_calendar">Calendario</string>
     <string name="HIPS_Perm_Intl_group_name_call_log">Historial de llamadas</string>
     <string name="HIPS_Perm_Intl_group_name_camera">Cámara</string>
@@ -33,7 +33,7 @@
     <string name="HIPS_Perm_Location_Desc">obtener ubicación precisa (con GPS y red de datos)</string>
     <string name="HIPS_Perm_NEARBY_DEVICES">Dispositivos cercanos</string>
     <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Descubre y conecta dispositivos cercanos mediante Bluetooth y Wi-Fi</string>
-    <string name="HIPS_Perm_PhoneID">Obtener información del dispositivo</string>
+    <string name="HIPS_Perm_PhoneID">Acceder a la información de la llamada</string>
     <string name="HIPS_Perm_PhoneID_Desc">acceder al número de teléfono, IMEI e IMSI</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">Acceder al número de teléfono y estado del dispositivo</string>
     <string name="HIPS_Perm_ROOT">Acceso privilegiado</string>

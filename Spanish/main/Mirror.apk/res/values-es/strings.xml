@@ -192,10 +192,10 @@ Puedes iniciar otra sesión en tu ordenador."</string>
     <string name="midnight">Noche</string>
     <string name="mirror_call_closed">Esta llamada fue contestada en otro dispositivo</string>
     <string name="mirror_have_been_opened">Pantalla de Inicio + activada</string>
-    <string name="mirror_to_settings_connectivity_remote_pad_content">Puede activar los servicios de interconectividad en Ajustes &gt; Interconectividad.</string>
-    <string name="mirror_to_settings_connectivity_remote_pad_title">Activar los servicios de interconectividad en la tablet</string>
-    <string name="mirror_to_settings_connectivity_remote_pc_content">Puede activar los servicios de interconectividad en Ajustes &gt; Interconectividad.</string>
-    <string name="mirror_to_settings_connectivity_remote_pc_title">Activar servicios de interconectividad en el ordenador</string>
+    <string name="mirror_to_settings_connectivity_remote_pad_content">Puede activar la Interconectividad de Xiaomi en su tableta en Ajustes &gt; Interconectividad.</string>
+    <string name="mirror_to_settings_connectivity_remote_pad_title">La interconectividad de Xiaomi está apagada</string>
+    <string name="mirror_to_settings_connectivity_remote_pc_content">Puede activar la Interconectividad Xiaomi en su computadora en Ajustes &gt; Interconectividad.</string>
+    <string name="mirror_to_settings_connectivity_remote_pc_title">La interconectividad de Xiaomi está apagada</string>
     <string name="mirror_to_settings_phone_content">¿Activar pantalla de inicio + ahora?</string>
     <string name="mirror_to_settings_remote_pad_content">Puedes activar la pantalla de inicio + en Ajustes &gt; Interconectividad.</string>
     <string name="mirror_to_settings_remote_pad_title">Activar pantalla de inicio + en la tableta</string>
@@ -309,7 +309,7 @@ Puedes iniciar otra sesión en tu ordenador."</string>
     <string name="notification_channel_name_download">Mostrar progreso de descarga</string>
     <string name="notification_mirror">La otra persona está compartiendo su pantalla. Inténtalo más tarde.</string>
     <string name="notification_state_cancel">Desconectar</string>
-    <string name="notification_state_content">"Este dispositivo está conectado al ordenador %1$s. Puedes compartir dispositivos, archivos e imágenes."</string>
+    <string name="notification_state_content">"Este dispositivo está conectado al ordenador de %1$s. Puedes compartir archivos e imágenes ahora, así como usar controles entre dispositivos."</string>
     <string name="notification_state_title">Conectado</string>
     <string name="notify_clip_action_browser">Visitar</string>
     <string name="notify_clip_action_call">Llamar</string>
@@ -335,7 +335,7 @@ Puedes iniciar otra sesión en tu ordenador."</string>
     <string name="pad_pc_mirror_introduction_summary">Duplicar la pantalla del ordenador en tu tablet</string>
     <string name="pad_pc_mirror_introduction_title">Pantalla duplicada</string>
     <string name="pad_pc_share_introduction_summary">"Usa el ratón y el teclado del ordenador con esta tablet"</string>
-    <string name="pad_pc_share_introduction_title">Dispositivos de entrada</string>
+    <string name="pad_pc_share_introduction_title">Controles de dispositivos múltiples</string>
     <string name="pad_settings_bluetooth_enable_summary">Activa Bluetooth para encontrar dispositivos cercanos. ¿Activar?</string>
     <string name="pad_settings_bluetooth_enable_title">Activar Bluetooth</string>
     <string name="pad_settings_click_toast_msg">Conectar usando Xiaomi PC Manager en su computadora</string>
@@ -507,8 +507,8 @@ Puedes iniciar otra sesión en tu ordenador."</string>
     <string name="share_pc_folder_multi_error_dialog_ok">Entendido</string>
     <string name="share_pc_folder_multi_error_dialog_title">"No se pudo transferir todos los elementos"</string>
     <string name="share_stop_share_to_start_screen">Deja de transmitir, para compartir tu pantalla</string>
-    <string name="share_to_settings_phone_content">¿Activar los servicios de interconectividad ahora?</string>
-    <string name="share_to_settings_title">Activar servicios de interconectividad</string>
+    <string name="share_to_settings_phone_content">¿Activar la interconectividad de Xiaomi ahora?</string>
+    <string name="share_to_settings_title">Interconectividad Xiaomi</string>
     <string name="sink_pc_click_again_to_finish_extent">Pulsa otra vez para desactivar la extensión de pantalla</string>
     <string name="sink_pc_click_again_to_finish_mirror">Pulsa otra vez para detener la duplicación de pantalla</string>
     <string name="softap_connect_fail_message">"No se ha podido establecer conexión"</string>

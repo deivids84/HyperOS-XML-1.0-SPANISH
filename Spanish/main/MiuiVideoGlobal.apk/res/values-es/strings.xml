@@ -87,7 +87,6 @@
     <string name="afternoon">Tarde</string>
     <string name="agree">Aceptar</string>
     <string name="agree_and_continue">Aceptar</string>
-    <string name="agree_label">De acuerdo</string>
     <string name="ai_animation_music_text">Banda sonora IA</string>
     <string name="ai_music_save_cancel">Cancelar</string>
     <string name="ai_music_save_dialog_title">Guardar</string>
@@ -182,6 +181,7 @@
     <string name="chromecast_playing">"Estás viendo este video con Chromecast"</string>
     <string name="clear_text_end_icon_content_description">Borrar texto</string>
     <string name="clearable_edittext_clear_description">Limpiar</string>
+    <string name="click_to_open_ad">Toca para aprender más</string>
     <string name="click_to_open_pip">Toque para cambiar a picture-in-picture</string>
     <string name="click_to_play_video_push_context">Toca para reproducir el video</string>
     <string name="click_to_reload_more">Toca para cargar más</string>
@@ -262,8 +262,6 @@
     <string name="date_picker_lunar">Calendario Chino Tradicional</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
     <string name="day">día</string>
-    <string name="default_message_body">Cuerpo del mensaje</string>
-    <string name="default_title">Título</string>
     <string name="default_upgrade_hint">"¡Hola!
 Mi Video está listo para una actualización.
 ¡Actualice la aplicación ahora para ver nuestras nuevas funcionalidades!
@@ -768,6 +766,8 @@ para vídeos"</string>
     <string name="local_subtitle_input_keyword_text">Buscar palabras clave</string>
     <string name="local_tip_act_for_android_u">Editar</string>
     <string name="local_tip_info_for_android_u">"Sólo has permitido que Mi Video muestre algunos vídeos."</string>
+    <string name="local_tip_info_for_no_audio">"No se puede acceder a los archivos de audio guardados en el dispositivo. Conceda los permisos necesarios primero."</string>
+    <string name="local_tip_info_for_no_video">"No se puede acceder a los vídeos guardados en su dispositivo. Conceda los permisos requeridos primero."</string>
     <string name="local_video_create_a_new_playlist">Nueva lista de reproducción</string>
     <string name="local_video_date">Fecha</string>
     <string name="local_video_dialog_default">Predeterminado</string>
@@ -1436,6 +1436,7 @@ Solo usaremos este permiso para encontrar los videos que buscas, y no accederemo
     <string name="popup_pip_activate_button">Ajustes</string>
     <string name="popup_pip_not_activated">Permita que Mi Video use la picture-in-picture primero.</string>
     <string name="popup_window_home_tip">Descargar videos en línea</string>
+    <string name="popup_window_small_tag_tip">Toca una etiqueta para ver todos los vídeos de esa categoría</string>
     <string name="pre_ad">·Anuncio</string>
     <string name="preference_copied">\"%1$s\" copiado al portapapeles.</string>
     <string name="privacy_agree_subtitle">El consentimiento a la Política de privacidad le permite utilizar todas las funciones de Mi Video</string>
@@ -1468,7 +1469,6 @@ Solo usaremos este permiso para encontrar los videos que buscas, y no accederemo
     <string name="recommend_slide_to_more">Desliza para más</string>
     <string name="recommend_switch_alert">Para eliminar esta sección ve a los ajustes en Mi Vídeo</string>
     <string name="recommend_to_you">Recomendado para ti</string>
-    <string name="reject_all_label">Rechazar todo</string>
     <string name="reload_sub_title">Pulsa para intentarlo otra vez.</string>
     <string name="reload_title">"No se pudo conectar a la red."</string>
     <string name="remaining_space">Disponible: %s</string>
@@ -1540,13 +1540,14 @@ Solo usaremos este permiso para encontrar los videos que buscas, y no accederemo
     <string name="settings_inline_auto_play_wify">Reproducción automática solo con Wi-Fi</string>
     <string name="settings_inline_title">Reproducción automática de la página de inicio</string>
     <string name="settings_manager_hidden_folder">Administrar videos ocultos</string>
+    <string name="shake_or_click_to_open_ad">Sacudir o tocar para aprender más</string>
+    <string name="shake_to_open_ad">Sacudir para aprender más</string>
     <string name="share">Compartir</string>
     <string name="share_text_before_link">Mira y descarga excelentes videos gratis en Mi Video</string>
     <string name="share_ugc_content">¡Echa un vistazo a %1$s! #%2$s (%3$s)</string>
     <string name="share_ugc_join">Unirse</string>
     <string name="share_ugc_waitting">Generando enlace…</string>
     <string name="shorts_assemble_ad_recommend">Recomendado</string>
-    <string name="show_options_label">Mostrar opciones</string>
     <string name="show_the_location">Tipos de notificaciones</string>
     <string name="sign_in">Iniciando sesión</string>
     <string name="sign_in_google_account">Inicia sesión con Google</string>
@@ -1556,7 +1557,9 @@ Solo usaremos este permiso para encontrar los videos que buscas, y no accederemo
     <string name="sign_in_title">Inica sesión con tu Mi Account</string>
     <string name="skip_ad">Saltar</string>
     <string name="slid_fail_message">"No se pudo guardar"</string>
+    <string name="slide_or_click_to_open_ad">Deslice o toque para aprender más</string>
     <string name="slide_save_message">Generando vídeo…</string>
+    <string name="slide_to_open_ad">Deslice para aprender más</string>
     <string name="small_video_load_more_hint">Desliza hacia arriba para reproducir más videos</string>
     <string name="small_video_tab_expose_hint">Pulsa para ver más vídeos cortos</string>
     <string name="sms_send_success">Enviado</string>

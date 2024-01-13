@@ -58,7 +58,7 @@
     <string name="cta_agree_desc">Permita que esta aplicación se conecte a Internet y conceda los permisos obligatorios enumerados anteriormente.</string>
     <string name="cta_btn_agree">Aceptar</string>
     <string name="cta_btn_disagree">"No estoy de acuerdo"</string>
-    <string name="cta_main_purpose">¡Te damos la bienvenida al editor de capturas de pantalla! Esta aplicación te permite recortar y editar tus capturas de pantalla.</string>
+    <string name="cta_main_purpose"><string name="cta_main_purpose">¡Bienvenido al Editor de capturas de pantalla! Puedes utilizar esta aplicación para recortar y editar tus capturas de pantalla. Esta aplicación necesita conectarse a Internet y acceder a archivos de audio y video en su dispositivo para poder brindar los servicios necesarios.</string></string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Para guardar capturas de pantalla</string>
     <string name="date_picker_lunar">Calendario Tradicional Chino</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
@@ -273,6 +273,7 @@
     <string name="screenshot_long_screenshot">Desplazar</string>
     <string name="screenshot_save">Guardar</string>
     <string name="screenshot_send">Enviar</string>
+    <string name="screenshot_succeed">Captura de pantalla de Took exitosa</string>
     <string name="screenshot_thumbnail">Miniatura de captura de pantalla</string>
     <string name="scroll_annotation">Desplazarse y anotar</string>
     <string name="scroll_annotation_btn_quit">Salir de las anotaciones</string>

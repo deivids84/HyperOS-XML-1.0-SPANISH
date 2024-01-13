@@ -172,6 +172,10 @@
         <item quantity="other">hace %d minutos</item>
         <item quantity="one">hace 1 minuto</item>
     </plurals>
+    <plurals name="provision_sync_items_status_off_title">
+        <item quantity="other">"La sincronización no está activada para objetos %s"</item>
+        <item quantity="one">"La sincronización no está activada para el elemento %s"</item>
+    </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s servicios serán sincronizados con Xiaomi Cloud</item>
         <item quantity="one">%s servicio será sincronizado con Xiaomi Cloud</item>

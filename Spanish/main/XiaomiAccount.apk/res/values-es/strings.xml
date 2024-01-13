@@ -31,6 +31,7 @@
     <string name="about_mi_account">Acerca de la cuenta Xiaomi</string>
     <string name="accept">Permitir</string>
     <string name="account_and_password">Contraseña</string>
+    <string name="account_auth_failed_message">"Las credenciales de inicio de sesión de la cuenta %1$sde Xiaomi han caducado. Inténtalo de nuevo."</string>
     <string name="account_bind_devices">Dispositivos</string>
     <string name="account_bind_secure_email_title">Añadir correo electrónico</string>
     <string name="account_bind_secure_phone_title">Añadir número de teléfono</string>
@@ -172,6 +173,23 @@ Puedes iniciar sesión usando %s ahora."</string>
     <string name="failed_dup_secure_phone_number">Este número de teléfono ya está asociado con otra cuenta Xiaomi</string>
     <string name="family_service">Servicios familiares</string>
     <string name="family_service_not_open">Invitar a los miembros</string>
+    <string name="fido2_client_for_fingerprint_auth">Toque para verificar mediante huella dactilar</string>
+    <string name="fido2_close_fingerprint_auth">Apagando</string>
+    <string name="fido2_close_fingerprint_auth_desc">¿Desactivar la verificación de huella dactilar?</string>
+    <string name="fido2_err_already_registered">Esta cuenta ya ha activado esta característica</string>
+    <string name="fido2_err_def">Se ha producido un error. Espere uno o dos minutos y vuelva a intentarlo.</string>
+    <string name="fido2_err_not_regisetered">"Esta cuenta aún no ha activado esta característica"</string>
+    <string name="fido2_err_not_support">"Esta característica no está soportada en este dispositivo"</string>
+    <string name="fido2_err_security">"Riesgos de seguridad detectados. No se puede utilizar esta característica."</string>
+    <string name="fido2_err_service_exception">Se ha producido un error en el servidor. Espere uno o dos minutos y vuelva a intentarlo.</string>
+    <string name="fido2_err_timeout">Se ha agotado el tiempo de espera. Espere uno o dos minutos y vuelva a intentarlo.</string>
+    <string name="fido2_fingerprint_auth">Verificación de huella digital</string>
+    <string name="fido2_fingerprint_auth_desc"><Data>Utilice su huella digital para iniciar sesión en su cuenta Xiaomi y verificar su identidad &lt;a href=&gt;Más información&lt;/a&gt;</Data></string>
+    <string name="fido2_fingerprint_changed_and_afresh_register">La huella digital de tu dispositivo ha cambiado. Verifica tu cuenta de nuevo para poder activar la verificación de la huella digital.</string>
+    <string name="fido2_fingerprint_verify">Verificación de huella digital</string>
+    <string name="fido2_psw_changed_and_afresh_register">Su contraseña ha cambiado. Verifique su huella dactilar de nuevo.</string>
+    <string name="fido2_setting_ps_notify">"Necesitarás establecer una contraseña de cuenta para poder usar la verificación de huella digital. Puede hacerlo en Ajustes &gt; Cuenta Xiaomi &gt; Seguridad de la cuenta &gt; Contraseña."</string>
+    <string name="fido2_verify_fingerprint">Verificar huella digital</string>
     <string name="find_device">Encontrar dispositivo</string>
     <string name="find_device_access_denied">"No se pudo obtener el estado, acceso negado"</string>
     <string name="find_device_account_error">"No se pudo obtener el estado debido a un error de cuenta"</string>
@@ -218,6 +236,7 @@ Puedes iniciar sesión usando %s ahora."</string>
     <string name="get_identity_auth_url_failed">"No se pudo verificar la identificación"</string>
     <string name="get_phone_bind_exceed_limit">"Solo puedes asociar %d cuentas Xiaomi con un número de teléfono."</string>
     <string name="get_phone_verifycode_exceed_limit">"No puedo enviar más códigos de verificación a este número"</string>
+    <string name="go_to_setting">Ajustes</string>
     <string name="google_login">Iniciar sesión con Google</string>
     <string name="has_no_new_version">Actualizado</string>
     <string name="health_action_activate">Activar</string>
@@ -237,6 +256,7 @@ Puedes iniciar sesión usando %s ahora."</string>
     <string name="indeterminate">Ni marcado ni desmarcado</string>
     <string name="input_email_address_notice">"Enviaremos un correo electrónico con un código de verificación a la dirección que nos proporciones."</string>
     <string name="input_new_pwd">Introduce nueva contraseña</string>
+    <string name="input_ps">Introduzca contraseña</string>
     <string name="io_error_title">Confirma la red</string>
     <string name="item_view_role_description">Pestaña</string>
     <string name="just_a_second">Un momento…</string>
@@ -255,6 +275,7 @@ Puedes iniciar sesión usando %s ahora."</string>
     <string name="login_notification_button_text">Iniciar sesión</string>
     <string name="login_notification_desc">Disfruta de servicios en la nube, espacio de almacenamiento familiar y más</string>
     <string name="login_notification_title">Iniciar sesión con tu cuenta Xiaomi</string>
+    <string name="login_or_register_by_other_way">Usar otro método</string>
     <string name="login_with_other">Más opciones</string>
     <string name="logout_account">Cerrar sesión</string>
     <string name="logout_failed">"No se pudo cerrar sesión"</string>
@@ -736,13 +757,14 @@ Puedes iniciar sesión usando %s ahora."</string>
     <string name="qrcode_login_entry_text"><Data>¿Has iniciado sesión en otro dispositivo?. Usa &lt;a href=&gt;inicio de sesión rápido&lt;/a&gt;</Data></string>
     <string name="qrcode_login_load_refresh"><Data>El código QR ha caducado. Pulsa para &lt;a href=&gt;actualizarlo&lt;/a&gt;.</Data></string>
     <string name="qrcode_login_load_retry"><Data>\"No se pudo cargar. &lt;a href=&gt;Inténtalo otra vez&lt;/a&gt;.\"</Data></string>
-    <string name="qrcode_login_message">"Escanea con tu dispositivo Xiaomi o la aplicación Escáner de tu tablet, Mi Home, u otra aplicación Xiaomi para iniciar sesión"</string>
+    <string name="qrcode_login_message">Escanear con Mi AI Scanner u otra aplicación Xiaomi para iniciar sesión en tu cuenta Xiaomi</string>
     <string name="qrcode_login_title">Escanear para iniciar sesión</string>
     <string name="range_end">Final de intervalo</string>
     <string name="range_start">Inicio de intervalo</string>
     <string name="recycle_phone_notification_msg">Parece que su número de teléfono ha sido reciclado. Toque para actualizar.</string>
     <string name="recycle_phone_notification_title">Riesgo de seguridad de la cuenta Xiaomi</string>
     <string name="removing_account">Cerrando sesión…</string>
+    <string name="reopen">Encender</string>
     <string name="request_open_permission">Permisos requeridos</string>
     <string name="request_use_camera_message">"¿Permitir que la cuenta Xiaomi acceda a la cámara del dispositivo?"</string>
     <string name="request_use_camera_title">Acceso a la cámara</string>
@@ -783,6 +805,7 @@ Puedes iniciar sesión usando %s ahora."</string>
     <string name="send">Enviar</string>
     <string name="service_error">Error del servicio</string>
     <string name="set_success">Cambiado correctamente</string>
+    <string name="setting_ps">Ajustes de contraseña</string>
     <string name="sign_in">Iniciando sesión</string>
     <string name="sim_card">Tarjeta SIM</string>
     <string name="sim_changed_notification_msg">Pulsa para actualizar el teléfono de recuperación y mantener tu cuenta segura.</string>

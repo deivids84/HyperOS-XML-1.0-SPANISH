@@ -46,6 +46,7 @@
     <string name="alarm_notify_snooze_label">%s posponer</string>
     <string name="alarm_permanent_alert">Sonando</string>
     <string name="alarm_repeat">Repetir</string>
+    <string name="alarm_repeat_self_define">Personalizar</string>
     <string name="alarm_repeat_self_define_button">Personalizar</string>
     <string name="alarm_ringtone_picker">Alarmas</string>
     <string name="alarm_set_new">La alarma sonará en menos de %d minuto.</string>
@@ -383,6 +384,7 @@
     <string name="privacy_policy_title">Política de Privacidad</string>
     <string name="privacy_settings_title">Privacidad</string>
     <string name="query_privacy_policy">Ver Política de Privacidad</string>
+    <string name="read_device_internal_storage">Acceso al almacenamiento</string>
     <string name="read_external_storage_permission_desc">Para establecer tonos de llamada personalizados</string>
     <string name="read_internal_storage">Acceder al almacenamiento</string>
     <string name="remark_hint">Introducir etiqueta</string>

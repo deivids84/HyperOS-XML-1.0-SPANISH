@@ -1649,6 +1649,7 @@ para personalizar la Galería"</string>
     <string name="mark_operation_succeeded">Añadido correctamente</string>
     <string name="mark_people_ignore_info_message">Mantén pulsadas las fotos de personas para añadirlas a los grupos</string>
     <string name="media_type_burst_photo">Estallar</string>
+    <string name="media_type_cinematic">Modo de película</string>
     <string name="media_type_clone_photo">Clones</string>
     <string name="media_type_doc_photo">Documentos</string>
     <string name="media_type_fast_motion_video">Time-lapse</string>
@@ -2670,7 +2671,6 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="select_origin_tip">Archivo original (%s)</string>
     <string name="send">Enviar</string>
     <string name="send_diagnosis_log">Enviar los registros</string>
-    <string name="send_dolby_vision_duration_more_than_40s">Los vídeos de Dolby Vision de más de 4 minutos solo se pueden compartir en su formato original que podría no ser compatible con el dispositivo receptor. ¿Continuar de todos modos?</string>
     <string name="send_dolby_vision_video_continue">Continuar</string>
     <string name="send_email_activate_message">Correo de verificación enviado</string>
     <string name="send_file_beautify_failed">"No se pudo compartir"</string>
@@ -2682,6 +2682,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="send_public_url">Enviar URL del álbum</string>
     <string name="send_secret_file_failed">"No se pudo compartir"</string>
     <string name="send_secret_file_space_low">No hay suficiente espacio de almacenamiento</string>
+    <string name="send_special_video_duration_more_than_40s">Los vídeos procesados que son más largos de %d minutos sólo pueden ser compartidos en su formato original, que podría no ser compatible con el dispositivo receptor. ¿Continuar de todos modos?</string>
     <string name="service_error">Error del servidor</string>
     <string name="service_is_provided_by_miui_cloud_service">Este servicio es proporcionado por Xiaomi Cloud</string>
     <string name="set_as_baby_lock_wallpaper">Establecer como fondo de Pantalla de bloqueo</string>
@@ -3224,6 +3225,8 @@ Hasta el %1$s, puedes mover tus elementos a Google Fotos o visitar i.mi.com para
     <string name="tip_capture_time">Hora de captura:</string>
     <string name="tip_file_info">Información del archivo:</string>
     <string name="tip_file_path">Ruta local:</string>
+    <string name="tip_leica_authentic">Leica Auténtica</string>
+    <string name="tip_leica_vibrant">Leica Vibrant</string>
     <string name="tip_not_download">No se encuentra en el dispositivo. Se descargará de Xiaomi Cloud mientras se reproduce.</string>
     <string name="tip_screenshot_package_info">Nombre de la aplicación:</string>
     <string name="tips_for_photo_page_selection">Puedes tocar elementos para verlos</string>

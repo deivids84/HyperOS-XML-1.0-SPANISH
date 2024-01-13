@@ -2026,7 +2026,7 @@ Confirme la configuración de su cuenta de llamadas predeterminada."</string>
     <string name="t9_indexing_rebuilding_message">Recontruyendo índices T9…</string>
     <string name="technology_news_disable">Noticias tecnológicas inhabilitadas</string>
     <string name="technology_news_enable">Noticias tecnológicas habilitadas</string>
-    <string name="telephony_setting">Teléfono</string>
+    <string name="telephony_setting">Aplicaciones/Otros Ajustes/Ajustes de Aplicaciones del Sistema / Teléfono</string>
     <string name="telocation_auto_country_code">Introduce código de país</string>
     <string name="telocation_auto_country_code_summary">Añadir prefijo de país automáticamente antes de marcar</string>
     <string name="telocation_call_assistant">Asistente de marcado</string>

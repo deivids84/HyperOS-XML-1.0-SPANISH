@@ -289,15 +289,15 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="online_recognize_progress">Transcribiendo %s…</string>
     <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="path_soundrecorder_setting">Aplicaciones del sistema/Grabadora</string>
-    <string name="pause_status_focus_notification">Pausado</string>
+    <string name="pause_status_focus_notification">Grabación pausada</string>
     <string name="permission_bluetooth">Estado de conexión Bluetooth de acceso</string>
     <string name="permission_bluetooth_dialog_description">Permitir que este dispositivo se conecte a dispositivos cercanos para poder cambiar de dispositivo al reproducir grabaciones.</string>
     <string name="permission_bluetooth_title">Permisos necesarios</string>
     <string name="permission_desc">Detalles de permisos</string>
     <string name="permission_dialog_cancel">Cancelar</string>
     <string name="permission_dialog_ok">Ajustes</string>
-    <string name="permission_notification_description">Para enviar alertas grabando, reproduciendo y descargando contenido</string>
-    <string name="permission_notification_dialog_description">"Para enviar alertas sobre el estado de la aplicación"</string>
+    <string name="permission_notification_description">Esta aplicación necesita permiso para enviar notificaciones para poder enviar alertas al grabar, reproducir y descargar contenido.</string>
+    <string name="permission_notification_dialog_description">"Esta aplicación necesita permiso para enviar notificaciones para poder enviar alertas sobre el estado actual de la aplicación."</string>
     <string name="permission_notification_title">Permisos necesarios</string>
     <string name="permission_read_phone_state">Acceder a la información del dispositivo</string>
     <string name="permission_read_phone_state_description">Para acceder al estado de la llamada para detener automáticamente la grabación al recibir llamadas</string>
@@ -448,7 +448,7 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="status_bar_back">Pulse para volver a la grabadora</string>
     <string name="status_bar_recording">Grabando…</string>
     <string name="status_bar_recording_pause">Grabación en pausa</string>
-    <string name="stop_status_focus_notification">Terminado</string>
+    <string name="stop_status_focus_notification">Grabación finalizada</string>
     <string name="storage_permission_dialog_title">Se requieren permisos de almacenamiento</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
