@@ -786,6 +786,7 @@
     <string name="thursday_short">Jue</string>
     <string name="thursday_shortest">Jue</string>
     <string name="time_picker_dialog_title">Establecer hora</string>
+    <string name="to_view_alarm_content">Toca para ver</string>
     <string name="toast_cancel_to_insert_image">"No se pudo añadir la imagen."</string>
     <string name="toast_excerpt_end">Se ha creado el fragmento</string>
     <string name="toast_excerpt_no_content">No hay extractos</string>

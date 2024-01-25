@@ -138,7 +138,7 @@
     <string name="backup_theme_progress_message">Realizando backup…</string>
     <string name="backup_theme_success_message">Se ha creado un backup de la configuración actual del tema.</string>
     <string name="basic_mode">Modo offline</string>
-    <string name="basic_mode_desc">"Los temas no se conectarán a Internet y solo usarán contenido local. No se recopilará su información personal."</string>
+    <string name="basic_mode_desc">"No permitir que esta aplicación se conecte a internet, solo acceder y usar elementos en tu dispositivo (e. . Fotos, audio y vídeos). Ninguna de sus datos personales será recopilada."</string>
     <string name="boot_audio_dialog_cancel">Cancelar</string>
     <string name="boot_audio_dialog_confirm">Aceptar</string>
     <string name="boot_audio_dialog_content">El audio de arranque está desactivado ahora. ¿Volver a encenderlo y aplicar este sonido?</string>
@@ -147,7 +147,7 @@
     <string name="both_all_apply_success">Fondo de pantalla aplicado</string>
     <string name="bottomsheet_action_expand_halfway">Expandir a la mitad</string>
     <string name="browse_mode">Modo en línea</string>
-    <string name="browse_mode_desc">"Los temas se conectarán a Internet y utilizarán contenido tanto local como en línea. No se recopilará su información personal."</string>
+    <string name="browse_mode_desc">Permitir que esta aplicación se conecte a internet, acceder al contenido en línea, así como usar elementos en tu dispositivo (e. . Fotos, audio y vídeos). Ninguna de sus datos personales será recopilada.</string>
     <string name="browser_local_resource">Recursos locales</string>
     <string name="can_not_apply">No se puede aplicar</string>
     <string name="can_not_apply_error">"Este formato de video no es compatible"</string>

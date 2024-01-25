@@ -522,6 +522,7 @@ Toque \"%1$s\" y luego seleccione \"%2$s\"."</string>
     <string name="toast_enter_silent_mode">Grabación. Modo silencioso activado.</string>
     <string name="toast_exit_silent_mode">Grabación finalizada. Modo silencioso desactivado.</string>
     <string name="toast_max_record_time">%1$s puede grabar hasta %2$s</string>
+    <string name="toast_stop">Grabación finalizada</string>
     <string name="toast_uninstall_fileexplorer">"El Gestor de archivos no está instalado"</string>
     <string name="today">Hoy</string>
     <string name="tomorrow">Mañana</string>

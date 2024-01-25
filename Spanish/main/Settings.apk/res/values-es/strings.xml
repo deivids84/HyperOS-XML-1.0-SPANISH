@@ -3030,6 +3030,10 @@ Envía este código al técnico."</string>
     <string name="display_cutout_emulation">Recorte de la pantalla</string>
     <string name="display_cutout_emulation_keywords">recorte de la pantalla, corte</string>
     <string name="display_dashboard_summary">Fondo de pantalla, suspensión, tamaño de la fuente</string>
+    <string name="display_notification_icon_0">Ninguna</string>
+    <string name="display_notification_icon_1">Icono %d</string>
+    <string name="display_notification_icon_3">Iconos %d</string>
+    <string name="display_notification_icon_5">Iconos %d</string>
     <string name="display_prompt_confirm">Entendido</string>
     <string name="display_settings">Pantalla</string>
     <string name="display_settings_new">Pantalla y brillo</string>
@@ -9270,6 +9274,7 @@ Prueba a utilizar una ^3 más rápida o utiliza esta ^4 como almacenamiento port
     <string name="title_quick_control_all_devices">Mostrar controles de dispositivos inteligentes</string>
     <string name="title_regional_pref_footer">Si una aplicación no admite preferencias regionales, usará sus ajustes predeterminados de configuración regional.</string>
     <string name="title_show_notification_icon">Mostrar iconos de notificaciones</string>
+    <string name="title_show_notification_icon_count">Número de iconos de notificación mostrados</string>
     <string name="title_smart_device_control">Controles de dispositivos inteligentes</string>
     <string name="title_special_features_health_global">Ritmo cardíaco</string>
     <string name="title_unavailable_locale">%s no está disponible</string>
