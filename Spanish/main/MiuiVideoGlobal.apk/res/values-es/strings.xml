@@ -1561,6 +1561,10 @@ Solo usaremos este permiso para encontrar los videos que buscas, y no accederemo
     <string name="slide_save_message">Generando vídeo…</string>
     <string name="slide_to_open_ad">Deslice para aprender más</string>
     <string name="small_video_load_more_hint">Desliza hacia arriba para reproducir más videos</string>
+    <string name="small_video_report">Reporte</string>
+    <string name="small_video_report_dialog_title">Seleccione una razón</string>
+    <string name="small_video_report_submit">Enviar</string>
+    <string name="small_video_report_success">¡Gracias por tus comentarios!</string>
     <string name="small_video_tab_expose_hint">Pulsa para ver más vídeos cortos</string>
     <string name="sms_send_success">Enviado</string>
     <string name="sns_access_token_expired_warning">La sesión ha caducado. Iníciala otra vez para conectar esta cuenta.</string>

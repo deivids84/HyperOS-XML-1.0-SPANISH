@@ -884,6 +884,7 @@ Permite a las Notas grabar audio."</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADO</string>
     <string name="view_all_notes">Ver todo</string>
+    <string name="warn_cannot_add_more_content">"Esta nota ha alcanzado su longitud máxima. Cualquier contenido que añadas no será guardado."</string>
     <string name="warn_cannot_add_new_bullet">"No se puede agregar una nueva lista con viñetas porque la nota es demasiado larga"</string>
     <string name="warn_cannot_add_new_checkbox">"No se puede agregar una nueva casilla de verificación porque la nota es demasiado larga"</string>
     <string name="warn_cannot_add_new_content">"No se puede agregar contenido porque la nota es demasiado larga"</string>

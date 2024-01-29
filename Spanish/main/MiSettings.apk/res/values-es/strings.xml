@@ -275,6 +275,8 @@ no se generan en el segundo espacio"</string>
     <string name="focus_time_exception_tip">Parece que la hora del sistema ha cambiado. Modo Concentración desactivado.</string>
     <string name="follow_apps_settings">Basada en los ajustes de la aplicación</string>
     <string name="follow_sim1">Aplicar ajustes de SIM 1</string>
+    <string name="footer_global_fps">"
+%1$d. Al activar el modo Rendimiento, la tasa de actualización se cambiará al máximo del sistema de %2$d Hz. Los ajustes de la aplicación de alta velocidad no estarán disponibles temporalmente."</string>
     <string name="footer_max_fps" formatted="false">"
 %d. La frecuencia de actualización se puede ajustar hasta %s Hz en aplicaciones y juegos compatibles."</string>
     <string name="force_rest">Usar descansos de sesión</string>
@@ -522,7 +524,6 @@ no se generan en el segundo espacio"</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="preview">Previsualizar</string>
     <string name="primary_color_region">Original</string>
-    <string name="primary_color_region_chinese_only">nature</string>
     <string name="primary_color_region_summary">Identificar la gama de color a través de la calibración de color</string>
     <string name="privacy_policy">Política de Privacidad</string>
     <string name="puffin">Atlantic puffin</string>
@@ -585,30 +586,6 @@ no se generan en el segundo espacio"</string>
     <string name="sms_received_sound_title">Mensaje entrante</string>
     <string name="snow_leopard">Snow leopard</string>
     <string name="snowy_owl">Snowy owl</string>
-    <string name="solar_term_autumn_begins">Comienzo del Otoño</string>
-    <string name="solar_term_autumn_equinox">Equinocio de otoño</string>
-    <string name="solar_term_clear_and_bright">Claro y brillante</string>
-    <string name="solar_term_cold_dews">Escarcha</string>
-    <string name="solar_term_grain_buds">Criaturas completas</string>
-    <string name="solar_term_grain_in_ear">Sembrar mijo</string>
-    <string name="solar_term_grain_rain">Lluvia de trigo</string>
-    <string name="solar_term_great_cold">Frío intenso</string>
-    <string name="solar_term_great_heat">Ola de calor</string>
-    <string name="solar_term_heavy_snow">Nieve intensa</string>
-    <string name="solar_term_hoar_frost_falls">Helada</string>
-    <string name="solar_term_insects_awaken">Insectos despiertan</string>
-    <string name="solar_term_light_snow">Nieve ligera</string>
-    <string name="solar_term_slight_cold">Frío moderado</string>
-    <string name="solar_term_slight_heat">Calor moderado</string>
-    <string name="solar_term_spring_begins">Comienzo de la Primavera</string>
-    <string name="solar_term_stopping_the_heat">El calor se retira</string>
-    <string name="solar_term_summer_begins">Empieza el verano</string>
-    <string name="solar_term_summer_solstice">Solsticio de verano</string>
-    <string name="solar_term_the_rains">Chubascos de primavera</string>
-    <string name="solar_term_vernal_equinox">Equinocio de verano</string>
-    <string name="solar_term_white_dews">Rocío</string>
-    <string name="solar_term_winter_begins">Empieza el invierno</string>
-    <string name="solar_term_winter_solstice">Solsticio de invierno</string>
     <string name="southern_elephant_seal">Southern elephant seal</string>
     <string name="southern_ground_hornbill">Ground hornbill</string>
     <string name="split_page_authorization">¡Te damos la bienvenida a Horas de pantalla! Puedes establecer los límites de uso de pantalla y ver estadísticas. Pulsa \"Inicio\" para activar esta función.</string>
@@ -646,7 +623,6 @@ no se generan en el segundo espacio"</string>
     <string name="the_armed_forces_day">Día de las Fuerzas Armadas</string>
     <string name="the_armys_day">Día del Ejército Popular de Liberación</string>
     <string name="the_childrens_day">"Día de los niños"</string>
-    <string name="the_chinese_youth_day">Día de la juventud</string>
     <string name="the_christmas_day">Navidad</string>
     <string name="the_double_ninth_festival">Festival del doble noveno</string>
     <string name="the_dragon_boat_festival">Festival del barco del dragón</string>

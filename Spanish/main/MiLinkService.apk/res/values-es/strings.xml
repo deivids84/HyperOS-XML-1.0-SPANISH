@@ -436,8 +436,6 @@ tus dispositivos?"</string>
     <string name="dialog_nearbydevice_permission_message">Permite que el dispositivo acceda a los dispositivos cercanos para usar las funciones de transmisión.</string>
     <string name="dialog_nearbydevice_permission_title">Permisos necesarios</string>
     <string name="dialog_nfc_cast_wifi_off">Activa el Wi-Fi para poder emitir usando el NFC. ¿Activar ahora?</string>
-    <string name="dialog_no_device_message"><Data>&lt;xliff:g id=count refersto=1&gt;%1$d&lt;/xliff:g&gt;. Conecta tu dispositivo y el televisor a la misma red Wi-Fi.&lt;br&gt;&lt;br&gt;&lt;xliff:g id=count refersto=2&gt;%2$d&lt;/xliff:g&gt;. En algunos televisores, esta función solo está disponible cuando la duplicación de pantalla está activada. Lee &lt;a href=milink://com.milink.service/specification&gt;\"Ayuda\"&lt;/a&gt; para más información.</Data></string>
-    <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1&gt;%1$d&lt;/xliff:g&gt;. Conecta tu dispositivo y el televisor a la misma red Wi-Fi.&lt;br&gt;&lt;br&gt;&lt;xliff:g id=count refersto=2&gt;%2$d&lt;/xliff:g&gt;. En algunos televisores, esta función solo está disponible cuando la duplicación de pantalla está activada. Lee &lt;a href=milink://com.milink.service/specification&gt;\"Ayuda\"&lt;/a&gt; para más información.</Data></string>
     <string name="dialog_ok">Ok</string>
     <string name="dialog_only_suport_content">Retransmitir fotos, vídeos o música</string>
     <string name="dialog_open_wifi_bt">Activar</string>
@@ -517,8 +515,6 @@ Consulta la ayuda si tienes problemas para conectarte."</string>
     <string name="global_privacy_positive">Aceptar</string>
     <string name="global_privacy_screencast">Mientras grabas o envías contenido, el uso de esta función puede capturar información sensible que se muestre en pantalla o se reproduzca en el dispositivo, como audio, contraseñas, información de pagos, fotos y mensajes.</string>
     <string name="global_privacy_tip">&lt;Data&gt;Necesitamos recopilar la información personal necesaria para brindarte los servicios básicos y optimizar el proceso de transmisión. Puedes aprender cómo manejamos la información que recopilamos en nuestra &lt;a href=%1$s&gt;Política de Privacidad&lt;/a&gt;. Puedes retirar tu consentimiento a la Política de Privacidad en los Ajustes en cualquier momento.&lt;/Data&gt;</string>
-    <string name="google_crash_reporting_api_key">AIzaSyCT3cdzuEQqqpgj9d6LhTMnwZdDnFFJRVU</string>
-    <string name="google_storage_bucket">milink-73be7.appspot.com</string>
     <string name="hang_up">Emitir con la pantalla apagada</string>
     <string name="hang_up_alert_dialog_content">Sigue emitiendo contenido con la pantalla de tu dispositivo apagada. Esta función reduce el consumo de energía. Presiona el botón de Encendido para activar la pantalla.</string>
     <string name="hang_up_alert_dialog_neg">Cancelar</string>
@@ -1073,7 +1069,6 @@ Asegúrate de que has activado el Turbo de Juego antes de lanzar juegos."</strin
     <string name="the_armed_forces_day">Día de las Fuerzas Armadas</string>
     <string name="the_armys_day">Día del Ejército Popular de Liberación</string>
     <string name="the_childrens_day">"Día de los niños"</string>
-    <string name="the_chinese_youth_day">Día de la juventud</string>
     <string name="the_christmas_day">Navidad</string>
     <string name="the_double_ninth_festival">Festival del doble noveno</string>
     <string name="the_dragon_boat_festival">Festival del barco del dragón</string>
@@ -1113,8 +1108,6 @@ Asegúrate de que has activado el Turbo de Juego antes de lanzar juegos."</strin
     <string name="tile_label">Emitir</string>
     <string name="tile_label_v2">Servicios de interconectividad</string>
     <string name="time_picker_dialog_title">Establecer hora</string>
-    <string name="time_picker_label_hour">h</string>
-    <string name="time_picker_label_minute">min</string>
     <string name="toast_guide_show_more">Aprender más</string>
     <string name="toast_guide_title">Conoce nuestras nuevas funciones aquí</string>
     <string name="toast_invisible_mode">"Estás en incógnito. No puedes utilizar la transmisión ahora."</string>

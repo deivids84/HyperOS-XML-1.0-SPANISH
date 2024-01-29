@@ -153,6 +153,10 @@ Mawrth Vallis"</string>
     <string name="month_september">Septiembre</string>
     <string name="month_september_short">Sep</string>
     <string name="month_september_shortest">Sep</string>
+    <string name="moon_id">luna</string>
+    <string name="moon_summary">"El \"un pequeño paso\" de la humanidad hacia la exploración del espacio"</string>
+    <string name="moon_super_wallpaper_label">La Luna</string>
+    <string name="moon_title">La Luna</string>
     <string name="morning">Mañana</string>
     <string name="night">Tarde-noche</string>
     <string name="noon">Mediodía</string>

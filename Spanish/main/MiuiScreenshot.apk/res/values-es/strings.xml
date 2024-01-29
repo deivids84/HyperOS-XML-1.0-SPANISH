@@ -107,6 +107,10 @@
     <string name="image_decode_failed">"No se pudo decodificar la imagen"</string>
     <string name="image_not_found">"No se pudo encontrar la imagen"</string>
     <string name="loading_text_format" formatted="false">Eliminando información privada de fotos (%d/%d)…</string>
+    <string name="long_screenshot_content_auto">Tomando captura de pantalla…</string>
+    <string name="long_screenshot_content_loading">Solo un segmento…</string>
+    <string name="long_screenshot_content_manual">Ajuste manualmente el punto final de la captura de pantalla, luego pulse \"Hecho\".</string>
+    <string name="long_screenshot_done">Hecho</string>
     <string name="long_screenshot_error">Ha ocurrido un error. Vuelve a intentarlo.</string>
     <string name="long_screenshot_guide_text">"Pulsa para realizar una captura de pantalla desplazable"</string>
     <string name="long_screenshot_intercepted_error">Se ha producido una interrupción. La captura de pantalla se guardó en la Galería.</string>
@@ -114,6 +118,7 @@
     <string name="long_screenshot_processing">Procesando…</string>
     <string name="long_screenshot_processing_description_accessibility">Procesando</string>
     <string name="long_screenshot_stop">Listo</string>
+    <string name="long_screenshot_title">Captura de pantalla de desplazamiento</string>
     <string name="long_screenshot_top_msg">Creando captura de pantalla…</string>
     <string name="long_screenshot_top_msg_description_accessibility">Creando captura de pantalla</string>
     <string name="long_screenshot_top_msg_manual">Corta la captura de pantalla y pulsa el botón para finalizar</string>
