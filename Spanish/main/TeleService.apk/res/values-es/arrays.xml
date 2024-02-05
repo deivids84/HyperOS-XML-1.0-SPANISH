@@ -9,9 +9,6 @@
         <item>Ocultar número</item>
         <item>Mostrar número</item>
     </string-array>
-    <string-array name="clir_values_default_only">
-        <item>POR DEFECTO</item>
-    </string-array>
     <string-array name="list_language_entries">
         <item>Inglés</item>
         <item>Francés</item>

@@ -490,14 +490,6 @@
         <item>Rosa</item>
         <item>Naranja</item>
     </string-array>
-    <string-array name="common_password_business_clickable_default">
-        <item>true</item>
-        <item>true</item>
-        <item>true</item>
-        <item>falso</item>
-        <item>true</item>
-        <item>falso</item>
-    </string-array>
     <string-array name="common_password_business_names">
         <item>Pantalla de bloqueo</item>
         <item>Contraseña de privacidad</item>
@@ -981,13 +973,6 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
     <string-array name="smart_home_entries">
         <item>Hogar inteligente</item>
         <item>Ninguno</item>
-    </string-array>
-    <string-array name="special_locale_names_global">
-        <item>简体 中文</item>
-        <item>繁體 中文 (台灣)</item>
-        <item>繁體 中文 (香港)</item>
-        <item>Español (América)</item>
-        <item>Português (Brasil)</item>
     </string-array>
     <string-array name="startup_hips_action">
         <item>Permitir</item>

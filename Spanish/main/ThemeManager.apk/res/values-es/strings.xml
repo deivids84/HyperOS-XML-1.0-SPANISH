@@ -599,8 +599,6 @@ Toca aquí para iniciar sesión ahora."</string>
     <string name="mine_tab_title_purchase">Compras</string>
     <string name="miui_clock_city_name_local">Local</string>
     <string name="miui_clock_city_name_second">Segundo reloj</string>
-    <string name="miui_clock_fancy_colon"></string>
-    <string name="miui_digital_clock_dot">:</string>
     <string name="miui_lock_screen_date">EEE, dd MMM</string>
     <string name="miui_lock_screen_date_12">EEE, dd MMM</string>
     <string name="miui_lock_screen_date_two_lines">"dd MMM
@@ -1340,7 +1338,6 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversario del Levantamiento de la Ley Marcial</string>
     <string name="the_arbor_day">Día del árbol</string>
     <string name="the_armed_forces_day">Día de las Fuerzas Armadas</string>
-    <string name="the_chinese_youth_day">Día de la Juventud</string>
     <string name="the_double_ninth_festival">Festival del Doble Nueve</string>
     <string name="the_dragon_boat_festival">Festival del Bote del Dragón</string>
     <string name="the_easter_day">Pascua</string>

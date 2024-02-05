@@ -628,7 +628,6 @@
     <string name="deleting_fdn_contact">Eliminando número de marcación fija...</string>
     <string name="description_delete_button">retroceso</string>
     <string name="description_dial_button">marcar</string>
-    <string name="description_dialpad_back">Volver</string>
     <string name="description_dialpad_button">mostrar teclado</string>
     <string name="description_dialpad_overflow">Más opciones</string>
     <string name="description_image_button_eight">ocho</string>
@@ -1283,7 +1282,6 @@ esperando para el código de desbloqueo"</string>
     <string name="national_disable">Noticias nacionales inhabilitadas</string>
     <string name="national_enable">Noticias nacionales habilitadas</string>
     <string name="netcheck_title">Diagnósticos de redes móviles</string>
-    <string name="network_1x">1x</string>
     <string name="network_4G">4G (recomendado)</string>
     <string name="network_4G_pure">4G</string>
     <string name="network_5G">5G</string>

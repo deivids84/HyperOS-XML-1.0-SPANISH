@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Intelligentpickfree">Detectar voz</string>
-    <string name="MiSans_title">MiSans</string>
     <string name="Sound_Settings">Efectos de sonido</string>
     <string name="a11y_settings_label">Ajustes de accesibilidad</string>
     <string name="abc_action_bar_home_description">Ir a inicio</string>
@@ -5380,8 +5379,6 @@ No podrá revertir esta acción."</string>
     <string name="menu_key">Menú</string>
     <string name="menu_key_communal">superior_nivel_comunal</string>
     <string name="menu_new">Nuevo APN</string>
-    <string name="menu_new_display_open">Abrir en nueva ventana</string>
-    <string name="menu_pc_open">Abrir con un programa de computadora</string>
     <string name="menu_proc_stats_duration">Duración</string>
     <string name="menu_proc_stats_type">Tipo de estadísticas</string>
     <string name="menu_proc_stats_type_background">En segundo plano</string>
@@ -8651,9 +8648,6 @@ Esto es posible por una credencial de confianza instalada en tu dispositivo."</s
     <string name="status_eid">EID</string>
     <string name="status_esim_id">EID</string>
     <string name="status_icc_id">ICCID</string>
-    <string name="status_iccid">ICCID</string>
-    <string name="status_imei">IMEI</string>
-    <string name="status_imei_sv">IMEI SV</string>
     <string name="status_latest_area_info">Información de operador</string>
     <string name="status_meid_number">MEID</string>
     <string name="status_min_number">MIN</string>
@@ -9187,7 +9181,6 @@ Prueba a utilizar una ^3 más rápida o utiliza esta ^4 como almacenamiento port
     <string name="the_armed_forces_day">Día de las Fuerzas Armadas</string>
     <string name="the_armys_day">Día del PLA</string>
     <string name="the_childrens_day">"Día de los niños"</string>
-    <string name="the_chinese_youth_day">Día de la juventud</string>
     <string name="the_christmas_day">Navidad</string>
     <string name="the_double_ninth_festival">Festival del doble Noveno</string>
     <string name="the_dragon_boat_festival">Festival del barco dragón</string>
@@ -9443,7 +9436,6 @@ Prueba a utilizar una ^3 más rápida o utiliza esta ^4 como almacenamiento port
     <string name="twohours">1 hora</string>
     <string name="tx_link_speed_label">Transmitir velocidad de enlace:</string>
     <string name="tx_wifi_speed">Velocidad de enlace de transmisión</string>
-    <string name="ucar_screen_projection_title">CarWith</string>
     <string name="unadapt_embedded">"Las ventanas paralelas no están disponibles"</string>
     <string name="under_keyguard">Pantalla apagada</string>
     <string name="unimportant">No importante</string>
@@ -10310,9 +10302,7 @@ Para más información, consulta la Política de Privacidad del operador."</stri
     <string name="wifi_display_status_not_available">No disponible</string>
     <string name="wifi_display_wps_config">Configuración WPS</string>
     <string name="wifi_dns1">DNS 1</string>
-    <string name="wifi_dns1_hint">8.8.8.8</string>
     <string name="wifi_dns2">DNS 2</string>
-    <string name="wifi_dns2_hint">8.8.4.4</string>
     <string name="wifi_do_not_provide_eap_user_cert">No proporcionar</string>
     <string name="wifi_do_not_validate_eap_server">"No validar"</string>
     <string name="wifi_do_not_validate_eap_server_warning">nulo</string>
@@ -10380,7 +10370,6 @@ Para más información, consulta la Política de Privacidad del operador."</stri
     <string name="wifi_forget_dialog_title">¿Olvidar red?</string>
     <string name="wifi_frequency">Frecuencia</string>
     <string name="wifi_gateway">Router</string>
-    <string name="wifi_gateway_hint">192.168.1.1</string>
     <string name="wifi_generation">Usar iconos específicos de cada generación</string>
     <string name="wifi_generation_icon_display">Iconos</string>
     <string name="wifi_generation_status">Wi-Fi %1$d</string>
@@ -10424,7 +10413,6 @@ Configurar la red como oculta no cambiará la configuración del router."</strin
     <string name="wifi_info_reconnect">"No se pudo conectar. Inténtalo otra vez."</string>
     <string name="wifi_install_credentials">Instalar certificados</string>
     <string name="wifi_ip_address">Dirección IP</string>
-    <string name="wifi_ip_address_hint">192.168.1.128</string>
     <string name="wifi_ip_settings">Ajustes de IP</string>
     <string name="wifi_ip_settings_invalid_dns">Introduce una dirección DNS válida.</string>
     <string name="wifi_ip_settings_invalid_gateway">Introduce una dirección de puerta de enlace válida.</string>
@@ -10558,38 +10546,14 @@ Configurar la red como oculta no cambiará la configuración del router."</strin
     <string name="wifi_security">Seguridad</string>
     <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
-    <string name="wifi_security_dpp">DPP</string>
-    <string name="wifi_security_eap">802.1x EAP</string>
-    <string name="wifi_security_eap_suiteb">WPA3-Enterprise de 192 bits</string>
-    <string name="wifi_security_eap_wpa">WPA-Enterprise</string>
-    <string name="wifi_security_eap_wpa2_wpa3">WPA2 / WPA3-Enterprise</string>
     <string name="wifi_security_none">Nada</string>
     <string name="wifi_security_none_owe">Ninguno / Abierto mejorado</string>
     <string name="wifi_security_owe">Apertura mejorada</string>
-    <string name="wifi_security_passpoint">Passpoint</string>
-    <string name="wifi_security_psk_sae">WPA2 / WPA3-Personal</string>
-    <string name="wifi_security_sae">WPA3-Personal</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
-    <string name="wifi_security_short_dpp">DPP</string>
-    <string name="wifi_security_short_eap">802.1x</string>
-    <string name="wifi_security_short_eap_suiteb">Suite-B-192</string>
-    <string name="wifi_security_short_eap_wpa">WPA-EAP</string>
-    <string name="wifi_security_short_eap_wpa2_wpa3">RSN-EAP</string>
     <string name="wifi_security_short_none_owe">Ninguno / OWE</string>
-    <string name="wifi_security_short_owe">DEBER</string>
-    <string name="wifi_security_short_psk_sae">WPA2 / WPA3</string>
-    <string name="wifi_security_short_sae">WPA3</string>
-    <string name="wifi_security_short_wep">WEP</string>
-    <string name="wifi_security_short_wpa">WPA</string>
-    <string name="wifi_security_short_wpa2">WPA2</string>
-    <string name="wifi_security_short_wpa_wpa2">WPA / WPA2</string>
     <string name="wifi_security_wapi_cert">WAPI CERT</string>
     <string name="wifi_security_wapi_psk">WAPI PSK</string>
-    <string name="wifi_security_wep">WEP</string>
-    <string name="wifi_security_wpa">WPA PSK</string>
-    <string name="wifi_security_wpa2">WPA2 PSK</string>
-    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
     <string name="wifi_select_network">Seleccionar una red Wi-Fi</string>
     <string name="wifi_setting_category">Redes disponibles</string>
     <string name="wifi_setting_frequency_band_error">Se ha producido un problema estableciendo la banda de frecuencia.</string>
@@ -10948,7 +10912,6 @@ puedes utilizar también las redes de otros usuarios."</string>
     <string name="zen_mode_calls_footer">Para asegurarte de que las llamadas permitidas suenan, comprueba que el dispositivo está configurado para sonar</string>
     <string name="zen_mode_calls_header">Llamadas que pueden interrumpirte</string>
     <string name="zen_mode_calls_list">llamadas</string>
-    <string name="zen_mode_calls_summary_one">Permitir llamadas de %1$s</string>
     <string name="zen_mode_calls_summary_two">%1$s y %2$s</string>
     <string name="zen_mode_calls_title">Llamadas</string>
     <string name="zen_mode_choose_rule_type">Elige un tipo de programación</string>

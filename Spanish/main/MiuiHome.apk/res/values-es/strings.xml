@@ -240,7 +240,6 @@
     <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">Herramientas</string>
     <string name="default_screen_preview_title">Establecer pantalla predeterminada</string>
-    <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="delete">Eliminar</string>
     <string name="delete_category_dialog_content">"No podrás restaurar esta categoría si la eliminas. ¿Eliminar de todos modos?"</string>
     <string name="delete_category_dialog_title">¿Eliminar esta categoría?</string>
@@ -362,7 +361,6 @@ Seguridad mejorada."</string>
     <string name="layout_guide_description">"Si no te gusta el cajón de aplicaciones, puedes volver a la pantalla de inicio clásica. Usa el acceso de configuración en la pantalla de inicio y cambia de modo."</string>
     <string name="layout_guide_tip_title">Puedes volver a las formas antiguas con un solo toque</string>
     <string name="layout_guide_title">Cómo quitar el cajón de aplicaciones</string>
-    <string name="lib_name">Filamento Android</string>
     <string name="like">Añadir a favoritos</string>
     <string name="liked">Añadido a favoritos</string>
     <string name="local_apps">Aplicaciones locales</string>
@@ -708,7 +706,6 @@ Seguridad mejorada."</string>
     <string name="status_paused">Pausado</string>
     <string name="status_pending">En espera</string>
     <string name="suggestions">Sugerencias</string>
-    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>

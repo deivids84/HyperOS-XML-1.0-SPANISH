@@ -1008,7 +1008,6 @@ No perderás datos de aplicaciones."</string>
     <string name="beauty_portrait_center">Marco de enfoque</string>
     <string name="beauty_portrait_center_desc">Identifica y centra las caras en videollamadas y reuniones. No es compatible con algunas aplicaciones.</string>
     <string name="beauty_settings">Ajustes</string>
-    <string name="before_execute_notify">before_exclude_notify</string>
     <string name="begin_date">Reinicio del período de facturación</string>
     <string name="behavior_widget_get_installed_apps">Aplicaciones accedidas</string>
     <string name="behavior_widget_get_location">Ubicación accedida</string>
@@ -1874,7 +1873,6 @@ voluntario"</string>
     <string name="exception_notify_message">"No se han podido calcular las estadísticas de datos debido a un error. Reinicia para restaurar."</string>
     <string name="exception_titile">Ha ocurrido un error</string>
     <string name="exit">Salir</string>
-    <string name="exit_category">exit_category</string>
     <string name="exit_dialog_exit">Salir</string>
     <string name="exit_dialog_garbage_clean_message">La cantidad de basura en tu dispositivo es de más de %s. ¿Limpiar basura?</string>
     <string name="exit_dialog_garbage_clean_message_new">&lt;Data&gt;El Limpiador puede liberar &lt;font color=#0099ff&gt;%s&lt;/font&gt; de espacio de almacenamiento. ¿Limpiar ahora?&lt;/Data&gt;</string>
@@ -2055,14 +2053,6 @@ voluntario"</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="fmt_time_12hour">"h 'en punto'"</string>
     <string name="fmt_time_24hour">"HH 'en punto'"</string>
-    <string name="fmt_time_second_millis">"s.S's'"</string>
-    <string name="fmt_time_timezone">T z</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
-    <string name="fmt_weekday_time_timezone">W T z</string>
-    <string name="fmt_weekday_timezone">W z</string>
     <string name="fod_authentication_shift_button">Cancelar</string>
     <string name="fod_button_finger">Usar huella</string>
     <string name="fod_button_password">Introducir contraseña</string>
@@ -4858,7 +4848,6 @@ Como %2$s proporciona sus servicios en base a la recopilación de la informació
     <string name="send_sms_title">¿Permitir a %s enviar mensajes?</string>
     <string name="set_applock_password">Establecer contraseña</string>
     <string name="set_complete">Establecido</string>
-    <string name="set_exit_condition">set_exit_condition</string>
     <string name="set_location">Establecer ubicación</string>
     <string name="set_mixed_password_name">Establecer contraseña</string>
     <string name="set_now">Ajustes</string>
@@ -5042,30 +5031,6 @@ Como %2$s proporciona sus servicios en base a la recopilación de la informació
     <string name="sms_smart_engine_update">Actualizar automáticamente el filtro de SMS</string>
     <string name="sms_smart_engine_update_now">Actualizar</string>
     <string name="sms_stranger_block">Bloqueado</string>
-    <string name="solar_term_autumn_begins">Comienzo del Otoño</string>
-    <string name="solar_term_autumn_equinox">Equinocio de otoño</string>
-    <string name="solar_term_clear_and_bright">Claro y brillante</string>
-    <string name="solar_term_cold_dews">Escarcha</string>
-    <string name="solar_term_grain_buds">Criaturas completas</string>
-    <string name="solar_term_grain_in_ear">Siembra de mijo</string>
-    <string name="solar_term_grain_rain">Lluvia de trigo</string>
-    <string name="solar_term_great_cold">Frío intenso</string>
-    <string name="solar_term_great_heat">Ola de calor</string>
-    <string name="solar_term_heavy_snow">Nieve intensa</string>
-    <string name="solar_term_hoar_frost_falls">Helada</string>
-    <string name="solar_term_insects_awaken">Los insectos despiertan</string>
-    <string name="solar_term_light_snow">Nieve ligera</string>
-    <string name="solar_term_slight_cold">Frío moderado</string>
-    <string name="solar_term_slight_heat">Calor moderado</string>
-    <string name="solar_term_spring_begins">Comienzo de la Primavera</string>
-    <string name="solar_term_stopping_the_heat">El calor se retira</string>
-    <string name="solar_term_summer_begins">Comienza el Verano</string>
-    <string name="solar_term_summer_solstice">Solsticio de verano</string>
-    <string name="solar_term_the_rains">Chubascos de primavera</string>
-    <string name="solar_term_vernal_equinox">Equinocio de primavera</string>
-    <string name="solar_term_white_dews">Rocío</string>
-    <string name="solar_term_winter_begins">Empieza el invierno</string>
-    <string name="solar_term_winter_solstice">Solsticio de invierno</string>
     <string name="sorted_dialog_title">Ordenar por</string>
     <string name="sp_abnormal_scan_summary">Detecta y resuelve problemas</string>
     <string name="sp_abnormal_scan_title">Solucionar problemas</string>
@@ -5733,7 +5698,6 @@ El formateo eliminará el contenido existente en la ^2. Para evitar perder conte
     <string name="the_armed_forces_day">Día de las Fuerzas Armadas</string>
     <string name="the_armys_day">Día del Ejército Popular de Liberación</string>
     <string name="the_childrens_day">"Día de los niños"</string>
-    <string name="the_chinese_youth_day">Día de la juventud</string>
     <string name="the_christmas_day">Navidad</string>
     <string name="the_double_ninth_festival">Festival del doble noveno</string>
     <string name="the_dragon_boat_festival">Festival del barco del dragón</string>
@@ -6250,8 +6214,6 @@ Activar una de las funciones desactivará la otra."</string>
     <string name="warningcenter_disaster_level_title">Niveles de advertencia</string>
     <string name="warningcenter_disaster_list_title">Advertencias de desastres</string>
     <string name="warningcenter_disaster_local">Localizar</string>
-    <string name="warningcenter_disaster_mai">霾</string>
-    <string name="warningcenter_disaster_orange">橙色 预警</string>
     <string name="warningcenter_disaster_place_settings">Región</string>
     <string name="warningcenter_disaster_place_subscribe">Seleccione región</string>
     <string name="warningcenter_disaster_receive_info">Formato de advertencia</string>

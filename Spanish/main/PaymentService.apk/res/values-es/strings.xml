@@ -188,7 +188,6 @@ Compruebe su fecha local y vuelva a intentarlo."</string>
     <string name="mibi_frozen_text"><Data>Su cuenta está congelada. &lt;font color=#33aaff&gt;Póngase en contacto con nuestro servicio de atención al cliente.&lt;/font&gt;</Data></string>
     <string name="mibi_frozen_text_pad">Su cuenta está congelada. Póngase en contacto con 400–100–3399.</string>
     <string name="mibi_get_phone_format_error">Verificar número de teléfono</string>
-    <string name="mibi_get_phone_num_prefix">+86</string>
     <string name="mibi_get_phone_num_summary">Ingrese el número de teléfono utilizado para los pagos</string>
     <string name="mibi_get_phone_num_title">Ingrese el número de teléfono</string>
     <string name="mibi_get_phone_sms_prompt">Código de verificación enviado a %1$s</string>
@@ -711,30 +710,6 @@ Debido a que la prestación de los servicios de MiCoin se basa en la recopilaci�
     <string name="saturday_shortest">Sáb</string>
     <string name="search_menu_title">Buscar</string>
     <string name="send">Enviar</string>
-    <string name="solar_term_autumn_begins">Comienza el otoño</string>
-    <string name="solar_term_autumn_equinox">Equinoccio de otoño</string>
-    <string name="solar_term_clear_and_bright">Claro y brillante</string>
-    <string name="solar_term_cold_dews">Rocío frio</string>
-    <string name="solar_term_grain_buds">Criaturas plenarias</string>
-    <string name="solar_term_grain_in_ear">Siembra de mijo</string>
-    <string name="solar_term_grain_rain">Lluvia de trigo</string>
-    <string name="solar_term_great_cold">Frío severo</string>
-    <string name="solar_term_great_heat">Ola de calor</string>
-    <string name="solar_term_heavy_snow">Fuertes nevadas</string>
-    <string name="solar_term_hoar_frost_falls">Escarcha</string>
-    <string name="solar_term_insects_awaken">Los insectos despiertan</string>
-    <string name="solar_term_light_snow">Nieve ligera</string>
-    <string name="solar_term_slight_cold">Frío moderado</string>
-    <string name="solar_term_slight_heat">Calor moderado</string>
-    <string name="solar_term_spring_begins">Comienza la primavera</string>
-    <string name="solar_term_stopping_the_heat">El calor se retira</string>
-    <string name="solar_term_summer_begins">Comienza el verano</string>
-    <string name="solar_term_summer_solstice">Solsticio de verano</string>
-    <string name="solar_term_the_rains">Lluvias de primavera</string>
-    <string name="solar_term_vernal_equinox">Equinoccio de verano</string>
-    <string name="solar_term_white_dews">Rocío</string>
-    <string name="solar_term_winter_begins">Comienza el invierno</string>
-    <string name="solar_term_winter_solstice">Solsticio de invierno</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
@@ -744,7 +719,6 @@ Debido a que la prestación de los servicios de MiCoin se basa en la recopilaci�
     <string name="the_armed_forces_day">Día de las Fuerzas Armadas</string>
     <string name="the_armys_day">Día del PLA</string>
     <string name="the_childrens_day">"Día del Niño"</string>
-    <string name="the_chinese_youth_day">Día de la Juventud</string>
     <string name="the_christmas_day">Navidad</string>
     <string name="the_double_ninth_festival">Festival del Doble Nueve</string>
     <string name="the_dragon_boat_festival">Festival del Bote Dragón</string>
