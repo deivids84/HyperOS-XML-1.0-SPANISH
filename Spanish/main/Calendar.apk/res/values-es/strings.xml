@@ -336,7 +336,7 @@
     <string name="holiday_name_empty">"El nombre del festivo no puede estar vacío"</string>
     <string name="holiday_name_exists">Este festivo ya existe</string>
     <string name="holiday_name_special_character_warning">"Los nombres de festivos no pueden contener caracteres especiales"</string>
-    <string name="holiday_saved">Guardado correctamente</string>
+    <string name="holiday_saved">Guardado</string>
     <string name="holidays_title">Festivos</string>
     <string name="horoscope">Horóscopo</string>
     <string name="horoscope_card_title">"Horóscopo de hoy"</string>

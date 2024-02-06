@@ -222,7 +222,7 @@
     <string name="comment_model_reply_comment">"Responder a %s: "</string>
     <string name="comment_model_report">Reportar</string>
     <string name="comment_model_report_fail">"No se pudo reportar"</string>
-    <string name="comment_model_report_success">Se ha reportado</string>
+    <string name="comment_model_report_success">Se ha informado</string>
     <string name="comment_model_send_fail">"No se pudo enviar"</string>
     <string name="comment_model_send_fail_frequently">¡No tan rápido! Espera un par de minutos e inténtalo otra vez.</string>
     <string name="comment_model_send_forbid_tips">Cuenta suspendida</string>
@@ -317,7 +317,7 @@ Necesita recopilar información personal necesaria para los servicios básicos. 
     <string name="dialog_privacy_revoke_description">"Estás a punto de retirar el consentimiento a la Política de Privacidad de Mi Vídeo. Dejaremos de recopilar información personal. La ya recopilada y retenida se eliminará dentro del período específico según lo requieran las leyes aplicables. Retirar el consentimiento a la Política de Privacidad se considerará como una negativa a aceptar servicios en línea basados en la información personal recopilada."</string>
     <string name="dialog_privacy_revoke_fail">El dispositivo necesita conexión a la red para retirar el consentimiento. Comprueba los ajustes de red e inténtalo otra vez.</string>
     <string name="dialog_privacy_revoke_ok">Retirar</string>
-    <string name="dialog_privacy_revoke_success">Se ha retirado</string>
+    <string name="dialog_privacy_revoke_success">Se ha retirado el consentimiento</string>
     <string name="dialog_privacy_revoke_title">Retiro del consentimiento</string>
     <string name="dialog_privacy_revoking">Retirando el consentimiento…</string>
     <string name="dialog_privacy_title">Términos y Condiciones</string>
@@ -1487,7 +1487,7 @@ Solo usaremos este permiso para encontrar los videos que buscas, y no accederemo
     <string name="report_content_rubbish">Spam o información engañosa</string>
     <string name="report_content_sexy">Contenido sexual explícito</string>
     <string name="report_content_violence">Discurso de odio</string>
-    <string name="report_success">Reportado</string>
+    <string name="report_success">Informado</string>
     <string name="request_camera_permission_message">Protegeremos tu información personal de acuerdo con las leyes y regulaciones pertinentes. Esta aplicación necesita los siguientes permisos para funcionar normalmente:&lt;br&gt;&lt;br&gt;&lt;b&gt;Uso de la cámara (para configurar tu foto del perfil)&lt;/b&gt;&lt;br&gt;&lt;br&gt;Si no aceptas otorgar estos permisos, no podrás usar algunas funciones de la aplicación; sin embargo, su funcionalidad básica seguirá estando disponible. Siempre puedes cambiar los permisos y autorizacion en Ajustes.</string>
     <string name="resend_active_email">Reenviar</string>
     <string name="resend_email_reach_limit_message">"Has solicitado demasiados correos de verificación. Asegúrate de que el mensaje de verificación no está en la carpeta de correo no deseado."</string>
@@ -1733,7 +1733,7 @@ Solo usaremos este permiso para encontrar los videos que buscas, y no accederemo
     <string name="title_selected">Seleccionada</string>
     <string name="toast_bookmark_add_success">Marcador agregado</string>
     <string name="toast_bookmark_already_created">Este marcador ya existe</string>
-    <string name="toast_bookmark_edit_success">Marcador editado correctamente</string>
+    <string name="toast_bookmark_edit_success">Marcador editado</string>
     <string name="toast_bookmark_input_name">Ingrese el nombre del marcador</string>
     <string name="toast_bookmark_input_url">Introducir URL</string>
     <string name="toast_bookmark_success_to_add">Marcador agregado</string>

@@ -50,7 +50,6 @@
     <string name="eras_bc">AC</string>
     <string name="evening">Tarde</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>

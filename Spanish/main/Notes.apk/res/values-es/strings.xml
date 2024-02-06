@@ -329,7 +329,7 @@
     <string name="miui_penengine_setting_show_black_background">Negro</string>
     <string name="miui_penengine_setting_show_grid_background">Punteado</string>
     <string name="miui_penengine_setting_show_white_background">Blanco</string>
-    <string name="miui_penengine_toast_add_to_clip">Copiado con éxito</string>
+    <string name="miui_penengine_toast_add_to_clip">Copiado</string>
     <string name="miui_penengine_tool_brush">Herramienta seleccionada</string>
     <string name="miui_penengine_tool_brush_stroke1">Ancho del trazo uno</string>
     <string name="miui_penengine_tool_brush_stroke2">Ancho del trazo dos</string>

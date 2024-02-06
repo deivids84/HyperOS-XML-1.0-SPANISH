@@ -87,7 +87,7 @@ Sostén el dispositivo como si estuvieras haciendo una llamada y habla al micró
 4. La foto tomada debe aparecer en la pantalla. Pulsa Pass para completar la prueba."</string>
     <string name="cit_camera_hardware_check">Detectando funciones del hardware de la cámara. Espera...</string>
     <string name="cit_camera_rearsub">Prueba de subcámara en curso, espera....</string>
-    <string name="cit_digital_hall_sensor_cali_summary">Mantenga el dispositivo cerrado para la calibración</string>
+    <string name="cit_digital_hall_sensor_cali_summary">Mantén el dispositivo cerrado para la calibración</string>
     <string name="cit_digital_hall_sensor_cali_title">Prueba de calibración digital de hall</string>
     <string name="cit_esim_check_summary">A continuación se muestra el estado de eSIM. La visualización correcta de su estado indica que la prueba ha pasado</string>
     <string name="cit_esim_check_title">Tarjeta eSIM</string>
@@ -142,9 +142,9 @@ Haga clic en el botón Iniciar adquisición de datos
 Controlar el dispositivo cerca y lejos del dispositivo"</string>
     <string name="sar_sensor_test_err_angle">El dispositivo no está situado en el ángulo correcto</string>
     <string name="sar_sensor_test_next_step">Deflector de control cerca del dispositivo</string>
-    <string name="sar_sensor_test_summary">"Rotar el dispositivo, ponerlo en el dispositivo
-Haga clic en el botón \"Calibrar\"
-Después de calibrar con éxito, controle el dispositivo cerca y alejado del dispositivo"</string>
+    <string name="sar_sensor_test_summary">"Gira el dispositivo y colócalo en el soporte.
+Pulsa en el botón Iniciar calibración.
+Una vez calibrado, acerca y aleja el soporte del dispositivo."</string>
     <string name="search_menu_title">Buscar</string>
     <string name="sidebottom_mic_check_record_tip">Grabando. Di algo al micrófono, en la parte inferior del dispositivo</string>
     <string name="sidetop_mic_check_record_tip">Grabando. Di algo al micrófono, en la parte superior del dispositivo</string>

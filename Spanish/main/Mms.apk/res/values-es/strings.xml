@@ -190,7 +190,7 @@ Inténtelo de nuevo."</string>
     <string name="converting_vcard_failed">"No se pudo convertir el contacto"</string>
     <string name="copy">Copiar</string>
     <string name="copy_message">Copiar</string>
-    <string name="copy_message_success">Copiado con éxito</string>
+    <string name="copy_message_success">Copiado</string>
     <string name="copy_message_text">Copiar</string>
     <string name="copy_message_text_success">Texto copiado</string>
     <string name="copy_to_sdcard">Guardar archivo adjunto</string>
@@ -1180,6 +1180,6 @@ Si no acepta conceder dichos permisos ni compartir o subir su información perso
     <string name="yesterday">Ayer</string>
     <string name="you_have_new_message">Tienes nuevos mensajes</string>
     <string name="zero_sms_feedback_message">Los mensajes reportados son subidos a nuestros servidores junto con el número telefónico del remitente. Estos mensajes solo son usados para mejorar la funcionalidad de la Lista negra.</string>
-    <string name="zero_sms_feedback_success">Se ha reportado</string>
+    <string name="zero_sms_feedback_success">Se ha informado</string>
     <string name="zero_sms_feedback_title">Reportar</string>
 </resources>

@@ -123,7 +123,7 @@
     <string name="bh_express_number">Número de paquete</string>
     <string name="bh_fetch_balance">Consultar saldo</string>
     <string name="bh_flow_exceed">Superó el límite</string>
-    <string name="bh_funtion_desc">¡Bienvenido a Servicios Mi Carrier! Puede utilizar esta aplicación para consultar el saldo de su teléfono, comprar minutos de llamadas y datos móviles, y más.</string>
+    <string name="bh_funtion_desc">¡Te damos la bienvenida a los servicios del operador! Con esta aplicación puedes consultar el saldo de tu teléfono, comprar minutos de llamadas y datos móviles y más.</string>
     <string name="bh_get_balance_success">Se ha comprobado. Podría retrasarse la actualización aquí.</string>
     <string name="bh_get_charge_phone_number">Seleccionar desde contactos</string>
     <string name="bh_goto_granted">Conceder permisos</string>
@@ -193,7 +193,7 @@
     <string name="bh_refreshing_sim_state">Actualizando el estado de la SIM…</string>
     <string name="bh_save">Guardar</string>
     <string name="bh_save_desc">Guarde este número para usarlo en la próxima recarga</string>
-    <string name="bh_save_sccuss">Guardado correctamente</string>
+    <string name="bh_save_sccuss">Guardado</string>
     <string name="bh_saved_number">Número guardado: %1$s</string>
     <string name="bh_should_login_to_buy">Inicia sesión en la cuenta Xiaomi para comprar minutos de llamada y datos móviles</string>
     <string name="bh_similar_number_hint">Este número es similar a %1$s. ¿Completar este número de todos modos?</string>

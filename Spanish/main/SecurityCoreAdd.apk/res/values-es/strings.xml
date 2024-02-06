@@ -887,8 +887,8 @@ para acceder desde la Pantalla de bloqueo"</string>
     <string name="stylus_ota_check_failed_battery">"No se pudo comprobar. La batería del stylus se está agotando."</string>
     <string name="stylus_ota_check_failed_info">"No se pudo comprobar la versión del firmware. Vuelve a juntar con el stylus."</string>
     <string name="stylus_ota_check_update">Buscar actualizaciones</string>
-    <string name="stylus_ota_completed">Actualizado con éxito</string>
-    <string name="stylus_ota_completed_tip">Firmware actualizado con éxito. Junta con el stylus para vincular.</string>
+    <string name="stylus_ota_completed">Actualizado</string>
+    <string name="stylus_ota_completed_tip">Firmware actualizado. Coloca el stylus para emparejarlo.</string>
     <string name="stylus_ota_current_firmware_version">Versión de firmware</string>
     <string name="stylus_ota_demands">"Mantén el Bluetooth activado durante la actualización. Asegúrate de que la batería no baje del %1$s."</string>
     <string name="stylus_ota_download_failed">"No se pudo descargar el firmware"</string>

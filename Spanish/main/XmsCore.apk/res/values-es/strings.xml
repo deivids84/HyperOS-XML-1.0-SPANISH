@@ -154,8 +154,8 @@
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
     <string name="system_app_is_restore">Restaurando elementos del sistema…</string>
-    <string name="system_app_restore_completed">Restaurado con éxito</string>
-    <string name="system_app_restore_completed_detail">Todos los elementos del sistema han sido restaurados con éxito</string>
+    <string name="system_app_restore_completed">Restaurado</string>
+    <string name="system_app_restore_completed_detail">Todos los elementos del sistema están restaurados</string>
     <string name="system_app_restore_failed">Ha ocurrido un error</string>
     <string name="system_app_restore_failed_detail">"No se pudo restaurar los elementos del sistema. Comprueba los ajustes de tu red y no reinicies ni apagues tu dispositivo hasta que los elementos estén completamente restaurados. Pulsa el botón de más abajo para volver a intentarlo."</string>
     <string name="system_restore">Restaurar elementos</string>

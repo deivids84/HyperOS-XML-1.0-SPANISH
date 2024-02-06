@@ -180,7 +180,7 @@ https://appleid.apple.com/#!&amp;page=signin para apagar"</string>
     <string name="dialog_request_all_permission_title">Permisos necesarios</string>
     <string name="dialog_request_network_btn_negative">Salir</string>
     <string name="dialog_request_network_btn_positive">De acuerdo</string>
-    <string name="dialog_request_permission_message">"¡Bienvenido a Mi Mover! Puedes usar esta aplicación para transferir datos desde tu dispositivo antiguo a uno nuevo. Los datos se transferirán entre los dos dispositivos y no se subirán a nuestros servidores."</string>
+    <string name="dialog_request_permission_message">"¡Te damos la bienvenida a Mi Mover! Con esta aplicación puedes transferir datos desde tu dispositivo antiguo a uno nuevo. Los datos se transferirán entre ellos y no se subirán a nuestros servidores."</string>
     <string name="dialog_request_permission_message_buttom_content">Permitir a esta app conectarse a Internet y otorgar los permisos obligatorios listados arriba.</string>
     <string name="dialog_request_permission_message_extra_summary">Estos permisos son necesarios para realizar tareas y funciones básicas en la app.</string>
     <string name="dialog_request_permission_message_extra_title">Permisos obligatorios</string>
@@ -477,7 +477,7 @@ Abre WeChat y ve a Yo &gt; Ajustes &gt; General &gt; Respaldo y migración."</st
     <string name="new_trans_intro_question_1">"%d. ¿Por qué no puedo ver el punto de acceso del nuevo dispositivo en el antiguo?"</string>
     <string name="new_trans_intro_question_2">%d. ¿Cuál es la contraseña del punto de acceso?</string>
     <string name="new_trans_intro_question_3">"%d. ¿Por qué dice que no hay suficiente espacio de almacenamiento en el dispositivo antiguo?"</string>
-    <string name="new_trans_intro_question_4">"%d. ¿Por qué no se transfieren todas las aplicaciones con éxito?"</string>
+    <string name="new_trans_intro_question_4">"%d. ¿Por qué no se transfieren todas las aplicaciones?"</string>
     <string name="new_trans_intro_question_5">"%d. ¿Por qué no se transfieren correctamente las contraseñas de algunas cuentas de aplicaciones de terceros?"</string>
     <string name="new_trans_intro_question_6">"%d. ¿Por qué no se pueden transferir datos de la aplicación desde un dispositivo que no sea Xiaomi?"</string>
     <string name="new_trans_intro_question_7">%d. Si dejo Mi Mover en medio de una transferencia, ¿tendré que empezar de nuevo la próxima vez?</string>

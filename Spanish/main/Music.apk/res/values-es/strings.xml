@@ -1731,13 +1731,13 @@ Sea Feliz"</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADO</string>
     <string name="version_info">Versión</string>
-    <string name="video_dislike">Dislike</string>
+    <string name="video_dislike">No me gusta</string>
     <string name="video_dislike_toast">"Recomendaremos menos de este tipo de contenido"</string>
     <string name="video_loading_fail">"No se pudo cargar el vídeo"</string>
     <string name="video_play_cellular">"Tu dispositivo no está conectado al Wi-Fi. ¿Usar datos móviles?"</string>
     <string name="video_replay_btn">Volver a reproducir</string>
     <string name="video_report">Reporte</string>
-    <string name="video_report_reason_one">Nudidad o contenido sexual</string>
+    <string name="video_report_reason_one">Desnudos o contenido sexual</string>
     <string name="video_report_reason_three">Violencia física o amenazas</string>
     <string name="video_report_reason_two">Delito violento</string>
     <string name="video_report_toast">Gracias por tus comentarios</string>

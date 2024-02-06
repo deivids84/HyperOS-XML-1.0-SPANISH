@@ -53,7 +53,7 @@
     <string name="circulate_cta_agree">Acepto</string>
     <string name="circulate_cta_all_purpose">Pantalla de Inicio + es parte de los Servicios de Interconectividad de Xiaomi. Te permite ver e interactuar con las pantallas de inicio de otros dispositivos conectados. Para poder trabajar normalmente, este servicio necesita conectarse a Internet y requiere los siguientes permisos:</string>
     <string name="circulate_cta_app_name">Interconectividad Xiaomi</string>
-    <string name="circulate_cta_desc_phone_miui15_14">Bienvenido a la Interconexión Xiaomi! Puedes usar esta aplicación para convertir contenido en pantalla, transferir reproducción multimedia a través de dispositivos, usar Mi Smart Play, funciones de interconectividad del dispositivo y handoff de la aplicación. Esta aplicación necesita conectarse a internet y requiere los siguientes permisos para poder funcionar normalmente:</string>
+    <string name="circulate_cta_desc_phone_miui15_14">¡Te damos la bienvenida a la Interconexión Xiaomi! Con esta aplicación puedes emitir contenido en pantalla, transferir reproducción multimedia a través de dispositivos, usar Mi Smart Play, funciones de conectividad del dispositivo y transferencia de aplicaciones. Necesita conexión a Internet y los siguientes permisos para funcionar normalmente:</string>
     <string name="circulate_cta_exit">"No acepto"</string>
     <string name="circulate_cta_new_app_name">Pantalla de Inicio+</string>
     <string name="circulate_cta_premission_bluetooth">Para conectar dispositivos y transferir datos entre ellos a través de Bluetooth</string>
@@ -141,7 +141,7 @@
     <string name="guide_window_btn_know">Entiendo</string>
     <string name="guide_window_operation">Deslícese de un lado al centro de la pantalla</string>
     <string name="guide_window_title">Regresar</string>
-    <string name="handoff_cta_all_purpose">Bienvenido a los Servicios de Interconectividad de Xiaomi! Te permiten iniciar tareas en un dispositivo y continuar con ellas en la misma aplicación en otros dispositivos conectados. Para poder trabajar normalmente, estos servicios necesitan conectarse a Internet.</string>
+    <string name="handoff_cta_all_purpose">¡Te damos la bienvenida a la Interconexión Xiaomi! Con esta aplicación puedes iniciar tareas en un dispositivo y continuar con ellas en la misma app en otros dispositivos conectados. Necesita conexión a Internet para funcionar normalmente.</string>
     <string name="handoff_switch_is_closed">App handoff desactivado</string>
     <string name="hint_password">Introduzca contraseña</string>
     <string name="hint_password_error">Contraseña incorrecta</string>

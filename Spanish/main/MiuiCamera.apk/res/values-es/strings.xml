@@ -217,7 +217,7 @@
     <string name="accessibility_setting">Ajustes</string>
     <string name="accessibility_shutter_button">Botón del obturador</string>
     <string name="accessibility_shutter_capture_button">Tomar foto mientras se graba vídeo</string>
-    <string name="accessibility_shutter_complete_button">Capturado correctamente</string>
+    <string name="accessibility_shutter_complete_button">Capturado</string>
     <string name="accessibility_shutter_end_button">Detener</string>
     <string name="accessibility_shutter_next_button">Siguiente</string>
     <string name="accessibility_shutter_pause_button">Pausar</string>
@@ -424,7 +424,7 @@ y autoajustar las preferencias"</string>
     <string name="beauty_body_slim_count_tip">Los efectos de figura solo funcionan en fotos de una persona</string>
     <string name="beauty_body_whole">Cuerpo</string>
     <string name="beauty_clear">Limpiar</string>
-    <string name="beauty_clear_toast">Efectos de belleza restablecidos</string>
+    <string name="beauty_clear_toast">Efectos de belleza eliminados</string>
     <string name="beauty_fragment_tab_name_3d_beauty">Modo belleza</string>
     <string name="beauty_fragment_tab_name_3d_makeup">Maquillaje</string>
     <string name="beauty_fragment_tab_name_3d_remodeling">Remodelando</string>
@@ -568,7 +568,7 @@ y autoajustar las preferencias"</string>
     <string name="cinemaster_no_devices_monitor">No hay monitores conectados</string>
     <string name="cinemaster_toast_camera_disconnect">Cámara %s desconectada de la configuración multicámara.</string>
     <string name="cinemaster_toast_monitor_all_disconnect">Todos los monitores están desconectados</string>
-    <string name="cinemaster_toast_monitor_connect">Monitor conectado con éxito</string>
+    <string name="cinemaster_toast_monitor_connect">Monitor conectado</string>
     <string name="cinemaster_toast_monitor_disconnect">Monitor desconectado de la configuración multicámara</string>
     <string name="cinemaster_toast_monitor_play_error">Cámara %s desconectada de la configuración multicámara debido a un error</string>
     <string name="cinemaster_wifi_24g_tips">"Cambia a una red de %s GHz para optimizar la estabilidad de la alimentación del monitor"</string>
@@ -2372,8 +2372,8 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="remote_online_unavailable">"No se pudo encontrar dispositivos cercanos"</string>
     <string name="remote_online_waiting">Esperando a que el otro dispositivo se conecte…</string>
     <string name="remote_online_whats">¿Cómo funciona la Grabación dual?</string>
-    <string name="reset_manual_picture_style_custom_toast">Parámetros restablecidos con éxito</string>
-    <string name="reset_manual_picture_style_new_toast">Parámetros restablecidos con éxito</string>
+    <string name="reset_manual_picture_style_custom_toast">Parámetros restablecidos</string>
+    <string name="reset_manual_picture_style_new_toast">Parámetros restablecidos</string>
     <string name="reset_manual_picture_style_toast">Parámetros restablecidos</string>
     <string name="reset_manually_parameter_confirmed">OK</string>
     <string name="reset_manually_parameter_hint">Restablecer</string>
@@ -2633,12 +2633,12 @@ Mantiene el sujeto nítido mientras difumina el fondo."</string>
     <string name="tip_ultra_raw_off">Ultra RAW: Desactivado</string>
     <string name="tip_ultra_wide_boken_off">Modo cuerpo completo: Desactivado</string>
     <string name="title_doc4_recognize_page_hint">Arrastra o pulsa para seleccionar el área de texto</string>
-    <string name="title_item_context_menu_doc4_copy_done">Copiado con éxito</string>
+    <string name="title_item_context_menu_doc4_copy_done">Copiado</string>
     <string name="title_pref_camera_doc4">Reconocer texto</string>
     <string name="title_snap_double_confirm">Confirmar otra vez</string>
     <string name="toast_burst_snap_forbidden_when_audio_capture_open">"No se puede usar el Modo ráfaga mientras la captura por sonido está activada"</string>
-    <string name="toast_camera_connect_success">Conectado con éxito. Estás viendo el contenido de la cámara.</string>
-    <string name="toast_monitor_connect_success">Conectado con éxito. Estás viendo la previsualización compartida.</string>
+    <string name="toast_camera_connect_success">Conectado. Viendo la transmisión de la cámara.</string>
+    <string name="toast_monitor_connect_success">Conectado. Viendo la previsualización compartida.</string>
     <string name="toast_monitor_connect_timeout">El otro dispositivo cerró la previsualización compartida</string>
     <string name="toast_saving">Guardando fotos…</string>
     <string name="toast_start_audio_capture">Haz un sonido para tomar una foto</string>
@@ -2784,7 +2784,7 @@ Puedes usar los botones a continuación para editar texto, obtener una vista pre
     <string name="video_prompter_edit_exit_dialog_title">¿Dejar de editar?</string>
     <string name="video_prompter_edit_format_not_supported">"Este formato no es compatible"</string>
     <string name="video_prompter_edit_import_fail">"No se pudo importar"</string>
-    <string name="video_prompter_edit_import_success">Importado con éxito</string>
+    <string name="video_prompter_edit_import_success">Importado</string>
     <string name="video_prompter_edit_import_success_partially">Este texto es demasiado largo. Solo una parte fue importada.</string>
     <string name="video_prompter_edit_tip_dialog_cancel">Cancelar</string>
     <string name="video_prompter_edit_tip_dialog_message">"Puedes importar archivos DOC, DOCX y TXT. No se mostrarán imágenes, tablas ni hipervínculos."</string>

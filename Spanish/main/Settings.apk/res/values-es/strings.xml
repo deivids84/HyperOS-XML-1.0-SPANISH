@@ -552,7 +552,7 @@ Para pasar de una función a otra, desliza hacia arriba con tres dedos y mantén
     <string name="add_fingerprint_put_finger_msg">Coloca el dedo en el sensor y levántalo cuando sientas una vibración.</string>
     <string name="add_fingerprint_put_finger_title">Añadir huella</string>
     <string name="add_fingerprint_similar_fingerprint_input_error_msg">Mueve el dedo ligeramente</string>
-    <string name="add_fingerprint_success_msg">Añadido correctamente</string>
+    <string name="add_fingerprint_success_msg">Añadido</string>
     <string name="add_fingerprint_text">Añadir huella</string>
     <string name="add_fingerprint_toast_text">Coloca el dedo en el sensor</string>
     <string name="add_front_fingerprint_instruction_msg">El sensor de huellas está integrado en el botón Inicio del dispositivo.</string>
@@ -4099,7 +4099,7 @@ El área donde puedes confirmar que el bloqueo de la pantalla se moverá a la de
     <string name="gxzw_vibrate_summary">"Vibrar mientras se reproduce la animación de desbloqueo de huellas dactilares"</string>
     <string name="gxzw_vibrate_title">Vibra mientras desbloqueas</string>
     <string name="handle_ota_connect_first">Conectar grip</string>
-    <string name="handle_ota_finish_fw">Actualizado con éxito</string>
+    <string name="handle_ota_finish_fw">Actualizado</string>
     <string name="handle_ota_update_failed">"No se pudo actualizar"</string>
     <string name="handle_ota_update_title">Actualizaciones de firmware</string>
     <string name="handle_ota_updating_firmware">Un momento…</string>
@@ -5709,7 +5709,7 @@ Continúa para acceder a los ajustes adicionales."</string>
     <string name="miui_tof_screen_on_close_tip_dialog_negative">Desactivar</string>
     <string name="miui_tof_screen_on_close_tip_dialog_positive">Mantener activado</string>
     <string name="miui_tof_screen_on_close_tip_dialog_title">Aviso de privacidad</string>
-    <string name="miui_tof_screen_on_msg">Cuando el dispositivo detecta a una persona cerca, la pantalla se encenderá, intentará reconocer una cara y se desbloqueará si tiene éxito.</string>
+    <string name="miui_tof_screen_on_msg">Cuando el dispositivo detecte a una persona, la pantalla se encenderá y se desbloqueará si reconoce su cara.</string>
     <string name="miui_tof_screen_on_open_dialog_msg">Activa \"%s\" para evitar que tu dispositivo muestre inmediatamente tu Pantalla de inicio o el contenido de la aplicación cuando reconozca tu cara.</string>
     <string name="miui_tof_screen_on_open_dialog_title">Activar \"%s\"</string>
     <string name="miui_tof_screen_on_success_toast">\"Reconocer caras cuando hay dispositivos cerca\" está activado. Por tu privacidad, activa también \"Permanecer en la Pantalla de bloqueo después de desbloquear\".</string>
@@ -8910,8 +8910,8 @@ Prueba a utilizar una ^3 más rápida o utiliza esta ^4 como almacenamiento port
     <string name="stylus_ota_check_failed_battery">"No se pudo comprobar. La batería de su lápiz óptico se está agotando."</string>
     <string name="stylus_ota_check_failed_info">"No se pudo verificar la versión del firmware. Vuelva a conectar su lápiz óptico."</string>
     <string name="stylus_ota_check_update">Buscar actualizaciones</string>
-    <string name="stylus_ota_completed">Actualizado correctamente</string>
-    <string name="stylus_ota_completed_tip">Firmware actualizado correctamente. Conecte el lápiz para emparejar.</string>
+    <string name="stylus_ota_completed">Actualizado</string>
+    <string name="stylus_ota_completed_tip">Firmware actualizado. Coloca el stylus para emparejarlo.</string>
     <string name="stylus_ota_current_firmware_version">Versión de firmware</string>
     <string name="stylus_ota_demands">"Mantenga el Bluetooth activado durante la actualización. Asegúrate de que la batería no baje de %1$s."</string>
     <string name="stylus_ota_download_failed">"No se pudo descargar el firmware"</string>
@@ -10518,7 +10518,7 @@ Configurar la red como oculta no cambiará la configuración del router."</strin
     <string name="wifi_repair_fail_title">"No se pudo restaurar"</string>
     <string name="wifi_repair_ongoing">"Restaurando… No salir de esta página."</string>
     <string name="wifi_repair_pass_desc">Por favor comprueba si tu problema ha desaparecido, si no, haz un comentario a nuestro ingeniero</string>
-    <string name="wifi_repair_pass_title">Restaurado con éxito</string>
+    <string name="wifi_repair_pass_title">Restaurado</string>
     <string name="wifi_require_sim_card_to_connect">Requiere SIM para conectarse</string>
     <string name="wifi_require_specific_sim_card_to_connect">Requiere %s SIM para conectarse</string>
     <string name="wifi_required_info_text">Para completar la instalación, el dispositivo necesita acceso Wi-Fi. Después de la instalación, puedes cambiar entre datos móviles y Wi-Fi.</string>

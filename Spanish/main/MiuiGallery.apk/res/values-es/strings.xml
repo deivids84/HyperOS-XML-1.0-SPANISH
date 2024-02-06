@@ -168,7 +168,7 @@ Intenta crear la imagen de IA con diferentes fotos."</string>
     <string name="ai_creation_count_limit_msg">"No se puede crear más retratos hoy. ¡Vuelve mañana!"</string>
     <string name="ai_creation_delete_msg">¿Eliminar este registro de historial ahora?</string>
     <string name="ai_creation_delete_title">Atención</string>
-    <string name="ai_creation_record_footer_tips">Sólo puede ver los elementos creados en este dispositivo. Se eliminarán después de cerrar sesión en su cuenta de Xiaomi.</string>
+    <string name="ai_creation_record_footer_tips">Solo puedes ver los elementos creados en este dispositivo. Se eliminarán después de cerrar sesión en tu cuenta Xiaomi.</string>
     <string name="ai_creation_recreate_button">Empezar de nuevo</string>
     <string name="ai_creation_save_failed_msg">"No se pudo guardar. Inténtelo de nuevo."</string>
     <string name="ai_creation_save_success_msg">Guardado correctamente</string>
@@ -182,7 +182,7 @@ Intenta crear la imagen de IA con diferentes fotos."</string>
     <string name="ai_deal_tile_text">Calculando el tiempo requerido…</string>
     <string name="ai_delete_image_fail">"No se pudo eliminar. Inténtelo de nuevo."</string>
     <string name="ai_delete_image_progress_message">Eliminando…</string>
-    <string name="ai_delete_image_success">Imagen IA eliminada con éxito</string>
+    <string name="ai_delete_image_success">Imagen IA eliminada</string>
     <string name="ai_download_filter_photo_so_confirm_btn">Descargar</string>
     <string name="ai_download_filter_photo_so_downloading">Descargando plug-in…</string>
     <string name="ai_download_filter_photo_so_message">Para poder utilizar todas las funciones de retrato AI, descargue el complemento primero.</string>
@@ -216,8 +216,8 @@ Selecciona otras fotos en su lugar e inténtalo de nuevo."</string>
     <string name="ai_image_creating_failed_msg">"No se pudo crear la imagen para %s"</string>
     <string name="ai_image_creating_msg">Creando imagen para %s</string>
     <string name="ai_image_creation_over_limit_title">"No se pueden crear más retratos"</string>
-    <string name="ai_image_invalid">"Se eliminó con éxito la imagen AI de %s"</string>
-    <string name="ai_image_invalid_in_update">"Actualizando la imagen IA de %sahora. Espera hasta que se actualice e inténtalo de nuevo."</string>
+    <string name="ai_image_invalid">"Se ha eliminado la imagen AI de %s"</string>
+    <string name="ai_image_invalid_in_update">"Actualizando la imagen IA de %s ahora. Espera hasta que se actualice e inténtalo otra vez."</string>
     <string name="ai_image_manager_empty_msg">"No se pueden ver las fotos utilizadas para crear imágenes IA en versiones anteriores de este servicio en otro dispositivo"</string>
     <string name="ai_image_manager_empty_msg_net">No hay fotos aquí</string>
     <string name="ai_image_manager_re_create_tip">Añade o elimina fotos para actualizar tu imagen de IA</string>
@@ -227,7 +227,7 @@ Selecciona otras fotos en su lugar e inténtalo de nuevo."</string>
     <string name="ai_image_over_limit_button_create">Continuar</string>
     <string name="ai_image_over_limit_title">"No se puede crear la imagen IA"</string>
     <string name="ai_image_over_limit_title_update">"No se pueden actualizar imágenes IA ahora"</string>
-    <string name="ai_image_privacy_message"><Data>\"¡Bienvenido a retratos con IA!&lt;br/&gt;Para poder brindarle servicios, necesitamos recopilar la información personal necesaria:&lt;br/&gt;&lt;xliff:g refersto=1 id=INDEX_1&gt;%1$s&lt;/xliff:g&gt;Para crear retratos con IA, deberá cargar &lt;b&gt;fotos de personas&lt;/b&gt; en nuestros servidores Recopilaremos y procesaremos la información sobre sus &lt;b&gt;caras&lt;/b&gt; para generar un modelo de IA.&lt;br/&gt;&lt;xliff:g refersto=2 id=INDEX_2&gt;%2$s&lt;/xliff:g&gt;Cuando subas &lt;b&gt;fotos de personas&lt;/b&gt;, sincronizaremos &lt;b&gt;sus nombres y fotos de perfil&lt;/b&gt; de los álbumes correspondientes y asociar esta información con imágenes de IA.&lt;br/&gt;&lt;xliff:g refersto=3 id=INDEX_3&gt;%3$s&lt;/xliff:g&gt;Cuando crea imágenes de IA basadas en texto, recopilaremos la &lt;b&gt;descripción&lt;/b&gt; que usted proporciona para generar imágenes.&lt;br/&gt;Solo recopilamos información personal que es necesaria para las características específicas de nuestros productos y servicios que utiliza. Puede aprender cómo recopilamos y procesamos información personal en la &lt;a href=\"%4$s\"&gt;Política de privacidad de AI Portraits&lt;/a&gt;&lt;br/&gt;Lea y acepte &lt;a href=\"%5$s\"&gt;Acuerdo de usuario de AI Portraits&lt;/a&gt; y &lt;a href=\"%6$s\"&gt;Política de privacidad de AI Portraits&lt;/a&gt; antes de continuar. \"</Data></string>
+    <string name="ai_image_privacy_message"><Data>\"¡Te damos la bienvenida Retratos con IA!&lt;br/&gt;Para prestar nuestros servicios, necesitamos recopilar la información personal necesaria:&lt;br/&gt;&lt;xliff:g refersto=1 id=INDEX_1&gt;%1$s&lt;/xliff:g&gt;Para crear retratos con IA, debes cargar &lt;b&gt;fotos de personas&lt;/b&gt; en nuestros servidores Recopilaremos y procesaremos la información sobre sus &lt;b&gt;caras&lt;/b&gt; para generar un modelo de IA.&lt;br/&gt;&lt;xliff:g refersto=2 id=INDEX_2&gt;%2$s&lt;/xliff:g&gt;Cuando subas &lt;b&gt;fotos de personas&lt;/b&gt;, sincronizaremos &lt;b&gt;sus nombres y fotos del perfil&lt;/b&gt; de los álbumes correspondientes y asociaremos esta información con imágenes de IA.&lt;br/&gt;&lt;xliff:g refersto=3 id=INDEX_3&gt;%3$s&lt;/xliff:g&gt;Cuando crees imágenes de IA basadas en texto, recopilaremos la &lt;b&gt;descripción&lt;/b&gt; que proporciones para generar imágenes.&lt;br/&gt;Solo recopilamos información personal necesaria para las características específicas de nuestros productos y servicios. Puedes ver cómo recopilamos y procesamos la información personal en la &lt;a href=\"%4$s\"&gt;Política de Privacidad de AI Portraits&lt;/a&gt;&lt;br/&gt;Lee y acepta el &lt;a href=\"%5$s\"&gt;Acuerdo de Usuario de Retratos con IA&lt;/a&gt; y la &lt;a href=\"%6$s\"&gt;Política de Privacidad de Retratos con IA&lt;/a&gt; antes de continuar. \"</Data></string>
     <string name="ai_input_name_hint">Introducir nombre</string>
     <string name="ai_loading">Solo un segmento…</string>
     <string name="ai_multi_window_tip">"Esta página no puede ser vista en la pantalla de Sdiit"</string>
@@ -375,7 +375,7 @@ Las mejores fotos se han seleccionado automáticamente. Puedes añadir más foto
     <string name="alert_secret_album_message_lower_case">  desliza hacia abajo en \"Álbumes\" para ver</string>
     <string name="alert_secret_album_message_new">Desliza hacia abajo en \"Álbumes\" para ver los elementos privados.</string>
     <string name="alert_secret_album_title">Cómo ver un álbum privado</string>
-    <string name="alert_secret_album_title_new">Agregado correctamente</string>
+    <string name="alert_secret_album_title_new">Añadido</string>
     <string name="alert_selection_description">Galería analizará fotos similares y marcará los mejores disparos.</string>
     <string name="alert_selection_title">Seleccionar el mejor disparo</string>
     <string name="all_faces">Fotos con esta persona</string>
@@ -1553,7 +1553,7 @@ disponibles"</string>
     <string name="magic_matting_error_px">"Este tamaño de imagen no es soportado"</string>
     <string name="magic_matting_face_fail">"No se pudo procesar la cara"</string>
     <string name="magic_matting_load_data_fail">"No se pudo cargar los datos"</string>
-    <string name="magic_matting_module_finish">Complemento \"Recorte\" descargado correctamente</string>
+    <string name="magic_matting_module_finish">Se ha descargado el plug-in \"Recorte\"</string>
     <string name="magic_matting_module_loading">Descargando el complemento \"Recorte\"…</string>
     <string name="magic_max_px">Esta imagen es demasiado grande</string>
     <string name="magic_mix_px">La imagen es demasiado pequeña</string>
@@ -1597,7 +1597,7 @@ disponibles"</string>
     <string name="main_save_error_msg">"No se pudieron guardar los cambios debido a un error"</string>
     <string name="main_save_origin">Guardar archivos originales</string>
     <string name="manual_hide_manage">Añadir archivos \".nomedia\"</string>
-    <string name="manual_hide_state">Añadidos los archivos \".nomedia\"</string>
+    <string name="manual_hide_state">Se han añadido los archivos \".nomedia\"</string>
     <string name="map_album">Mapa</string>
     <string name="map_album_detail_page_title">Ubicación</string>
     <string name="map_enable_position_service_message">Para ver fotos y videos en el mapa, primero active los servicios de ubicación.</string>
@@ -2186,7 +2186,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="photo_editor_remover">Eliminar</string>
     <string name="photo_editor_remover2_download_failed">"No se pudo descargar AI Erase 2.0. Comprueba los ajustes de red e inténtalo otra vez."</string>
     <string name="photo_editor_remover2_download_failed_msg">"No se pudo descargar. Comprueba los ajustes de red e inténtalo otra vez."</string>
-    <string name="photo_editor_remover2_download_finish">Borrado de IA 2.0 descargado</string>
+    <string name="photo_editor_remover2_download_finish">Se ha descargado Borrado de IA 2.0</string>
     <string name="photo_editor_remover2_download_sdk_without_wifi_msg">"Parece que no estás conectado a Wi-Fi. ¿Usar %1$d MB de datos móviles para descargar Goma de borrar IA 2.0?"</string>
     <string name="photo_editor_remover2_download_sdk_without_wifi_title">Descargar Goma de borrar IA 2.0</string>
     <string name="photo_editor_remover2_edit_type_free">Manualmente</string>
@@ -2627,7 +2627,7 @@ La transcodificación puede llevar algo de tiempo cuando utilizas esta función 
     <string name="segment_copy">Copiar</string>
     <string name="segment_copy_fail">"No se pudo copiar"</string>
     <string name="segment_copy_processing">Copiando…</string>
-    <string name="segment_copy_success">Copiado con éxito</string>
+    <string name="segment_copy_success">Copiado</string>
     <string name="segment_no_result">"No se pudo detectar el sujeto de esta foto"</string>
     <string name="segment_save">Guardar</string>
     <string name="segment_save_fail">"No se pudo guardar"</string>
@@ -3176,7 +3176,7 @@ Hasta el %1$s, puedes mover tus elementos a Google Fotos o visitar i.mi.com para
     <string name="tip_file_path">Ruta local:</string>
     <string name="tip_leica_authentic">Leica Auténtica</string>
     <string name="tip_leica_master_portrait">Retrato Maestro</string>
-    <string name="tip_leica_portrait">Leica Retrato</string>
+    <string name="tip_leica_portrait">Retrato Leica</string>
     <string name="tip_leica_vibrant">Leica Vibrant</string>
     <string name="tip_not_download">No se encuentra en el dispositivo. Se descargará de Xiaomi Cloud mientras se reproduce.</string>
     <string name="tip_screenshot_package_info">Nombre de la aplicación:</string>
@@ -3688,7 +3688,7 @@ Hasta el %1$s, puedes mover tus elementos a Google Fotos o visitar i.mi.com para
     <string name="vlog_unzip_file_fail">"No se pudo descomprimir el archivo"</string>
     <string name="vlog_video_adjust_order">Reorganizar vídeos</string>
     <string name="vlog_video_importing">Importando vídeo…</string>
-    <string name="vlog_video_saved_in_my_create">Guardado en creatividad</string>
+    <string name="vlog_video_saved_in_my_create">Guardado en Creatividad</string>
     <string name="vlog_video_selected_not_support">"No se puede editar el vídeo seleccionado"</string>
     <string name="vlog_video_trans_code_cons">Importando…</string>
     <string name="voice_assistant">Entrada de voz</string>

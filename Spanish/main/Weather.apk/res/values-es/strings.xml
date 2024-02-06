@@ -267,7 +267,7 @@ Leer y aceptar la nueva versión de %2$s antes de continuar."</string>
     <string name="incognito_mode_dialog_summary">"Estás incógnito. No puedes usar los servicios de ubicación ahora."</string>
     <string name="incognito_mode_dialog_title">"Eres incógnita"</string>
     <string name="index_item_experience_now">Instalar ahora</string>
-    <string name="index_item_install_dialog">Instalado %1$s con éxito. ¿Abrir ahora?</string>
+    <string name="index_item_install_dialog">Se ha instalado %1$s. ¿Abrir ahora?</string>
     <string name="index_item_install_now">Instalar ahora</string>
     <string name="index_item_installing">Instalando</string>
     <string name="indices_desc_humidity">Humedad %1$s%%</string>
@@ -295,8 +295,8 @@ Toque en la pantalla para agregar o cambiar manualmente la ciudad"</string>
     <string name="location_tag">Localizar</string>
     <string name="main_activity_hourly_forecast_card_more_title">Más</string>
     <string name="manager_city_option_add_city_back_search">Volver a buscar</string>
-    <string name="manager_city_option_add_city_content">Se añadió esta ciudad para iniciar la página con éxito</string>
-    <string name="manager_city_option_add_city_title">Añadido con éxito</string>
+    <string name="manager_city_option_add_city_content">Se ha añadido esta ciudad a la página de inicio</string>
+    <string name="manager_city_option_add_city_title">Añadido</string>
     <string name="manager_city_option_add_home">Añadir a la página de inicio</string>
     <string name="manager_city_option_view_on_home">Ver en la página de inicio</string>
     <string name="menu_location">Ubicaciones</string>

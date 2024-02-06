@@ -237,8 +237,8 @@
         <item quantity="one">Recibida %2$d imagen de %1$s. Pulsa para ver.</item>
     </plurals>
     <plurals name="successfully_sent_files">
-        <item quantity="other">Se enviaron %2$d archivos a %1$s</item>
-        <item quantity="one">Se envió %2$d archivo a %1$s</item>
+        <item quantity="other">Se han enviado %2$d archivos a %1$s</item>
+        <item quantity="one">Se ha enviado %2$d archivo a %1$s</item>
     </plurals>
     <plurals name="successfully_sent_images">
         <item quantity="other">Se han enviado %2$d imágenes a %1$s</item>

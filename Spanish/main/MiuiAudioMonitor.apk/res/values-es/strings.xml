@@ -34,8 +34,8 @@
     <string name="assistant_note_two">Toca el acceso directo para grabar llamadas</string>
     <string name="call_assistant">Asistente VoIP</string>
     <string name="call_in_progress">llamada en progreso</string>
-    <string name="call_recording_notification_complete_one">Grabado con éxito. Toca para ver.</string>
-    <string name="call_recording_notification_complete_other">Llamadas %d grabadas con éxito</string>
+    <string name="call_recording_notification_complete_one">Grabado. Toca para ver.</string>
+    <string name="call_recording_notification_complete_other">Se han grabado %d llamadas</string>
     <string name="call_recording_notification_title">Grabadora de llamadas de voz</string>
     <string name="call_recording_notification_title_error">"No se pudo grabar llamada de voz"</string>
     <string name="camera_bt_record_start_mic">Utilizando este dispositivo para grabar audio</string>
@@ -46,8 +46,8 @@
     <string name="close">Cerrar</string>
     <string name="copy">Copiar</string>
     <string name="cta_HIPS_Perm_Location_Desc">Para grabar llamadas y audio</string>
-    <string name="cta_main_purpose">"¡Bienvenido a Voice Call Recorder! Puede utilizar esta aplicación para grabar llamadas de voz realizadas en aplicaciones de terceros. Esta aplicación accederá a los apodos de llamadas para nombrar las grabaciones guardadas.
-Nota que la violación de los derechos de privacidad de otras personas es ilegal. No puede utilizar ninguna información obtenida a través de esta función para violar la privacidad de los demás. Si utiliza la información anterior de forma ilegal, asumirá todos los riesgos legales que se deriven de ella.
+    <string name="cta_main_purpose">"¡Te damos la bienvenida a la Grabación de Llamadas! Esta aplicación permite grabar llamadas de voz realizadas en aplicaciones de terceros. Usará el nombre del interlocutor para nombrar las grabaciones guardadas.
+Ten en cuenta que es ilegal violar los derechos de privacidad de otras personas usando las grabaciones obtenidas. Si las utilizas de forma ilegal asumirás toda la responsabilida legal que se derive de tus actos.
 "</string>
     <string name="custom_define_perference_title">Detalles de permisos</string>
     <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Para grabar llamadas y audio</string>
@@ -96,7 +96,7 @@ Nota que la violación de los derechos de privacidad de otras personas es ilegal
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionada %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
@@ -184,8 +184,8 @@ Nota que la violación de los derechos de privacidad de otras personas es ilegal
     <string name="voice_recoding_progress">"Grabando llamada: "</string>
     <string name="voice_recoding_summer">Grabar llamadas de voz y guardarlas en Grabación</string>
     <string name="voip_assistant">Asistente VoIP</string>
-    <string name="voip_assistant_purpose">"¡Bienvenido al asistente VoIP! Puedes utilizar esta aplicación para grabar llamadas de voz realizadas en aplicaciones de terceros. Esta aplicación accederá a los apodos de llamadas para nombrar las grabaciones guardadas.
-Nota que la violación de los derechos de privacidad de otras personas es ilegal. No puede utilizar ninguna información obtenida a través de esta función para violar la privacidad de los demás. Si utiliza la información anterior de forma ilegal, asumirá todos los riesgos legales que se deriven de ella.
+    <string name="voip_assistant_purpose">"¡Te damos la bienvenida al asistente de Llamadas VoIP! Esta aplicación permite grabar llamadas de voz realizadas en aplicaciones de terceros. Usará el nombre del interlocutor para nombrar las grabaciones guardadas.
+Ten en cuenta que es ilegal violar los derechos de privacidad de otras personas usando las grabaciones obtenidas. Si las utilizas de forma ilegal asumirás toda la responsabilida legal que se derive de tus actos.
 "</string>
     <string name="voip_call_assistant">Asistente VoIP</string>
     <string name="voip_notice">Toca para mostrar %s</string>

@@ -305,7 +305,7 @@ For the purposes of risk prevention, statistics, and analytical processing, we n
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Deslice hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado correctamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelte para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Todo por ahora"</string>

@@ -749,7 +749,7 @@ Lea y acepte la nueva versión de %3$s antes de continuar."</string>
     <string name="public_net_error_title">"No se pudo conectar a la red"</string>
     <string name="public_open_feedback_service">Comenzar</string>
     <string name="public_please_authorize">Se requieren permisos para continuar</string>
-    <string name="public_welcome_use_feedback_service">¡Bienvenido a Servicios y comentarios! Puedes usar esta aplicación para enviar comentarios, ver preguntas frecuentes, solicitar devoluciones e intercambios de productos, y mucho más.</string>
+    <string name="public_welcome_use_feedback_service">¡Te damos la bienvenida a Servicios y Comentarios! Con esta aplicación puedes enviar comentarios, ver preguntas frecuentes, solicitar devoluciones, intercambios de productos, y más.</string>
     <string name="qq_login_btn_content_description">Iniciar sesión con QQ</string>
     <string name="refresh">Actualizar</string>
     <string name="register_by_local_phone_long_text">Crear una cuenta</string>

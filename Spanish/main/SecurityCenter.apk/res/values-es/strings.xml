@@ -165,7 +165,7 @@
     <string name="adb_login_xiaomi_account">Antes, inicia sesión en tu cuenta Xiaomi</string>
     <string name="add_auto_task_desktop_icon">Agregar acceso directo a la pantalla de inicio</string>
     <string name="add_bill_reminder_alarm">Establecer advertencia de saldo del teléfono</string>
-    <string name="add_done">Añadido correctamente</string>
+    <string name="add_done">Añadido</string>
     <string name="add_game">Añadir juego</string>
     <string name="add_game_notification_summary">Pulsa para ejecutar y acelerar la velocidad</string>
     <string name="add_miservice_dialog_content">%s requiere que añadas el Marco de Servicios de Xiaomi a la lista de excepciones. Puedes recibir notificaciones de aplicaciones incorporadas de MIUI y otras aplicaciones de terceros.</string>
@@ -1398,8 +1398,8 @@ Sin embargo, algunas de tus transacciones aún no están completas. Para retirar
     <string name="cta_dialog_negative">Salir</string>
     <string name="cta_dialog_positive">Aceptar</string>
     <string name="cta_dialog_title">Conexión a internet</string>
-    <string name="cta_main_purpose">"¡Bienvenido a Seguridad! Puedes usar Seguridad y sus módulos (incluyendo los componentes de seguridad MIUI y los servicios del sistema) para liberar espacio de almacenamiento, escanear tu dispositivo en busca de virus, controlar el uso de la batería, optimizar tu dispositivo para jugar, gestionar aplicaciones, recibir alertas de terremotos y mucho más. Los elementos de seguridad de MIUI se conectarán a internet y realizarán análisis de seguridad mientras instalas aplicaciones y realizas pagos."</string>
-    <string name="cta_main_purpose_new">"¡Bienvenido a Security! Puede utilizar Seguridad y sus módulos (incluyendo componentes de seguridad del sistema, seguridad y servicios del sistema, Joyose y Limpiador) para liberar espacio de almacenamiento. escanea tu dispositivo en busca de virus, controla el uso de la batería, optimiza tu dispositivo para juegos, gestiona aplicaciones, recibe advertencias tempranas de terremotos y mucho más. Los componentes de seguridad del sistema se conectarán a Internet y realizarán análisis de seguridad mientras está instalando aplicaciones y realizando pagos."</string>
+    <string name="cta_main_purpose">"¡Te damos la bienvenida a Seguridad! Puedes usar Seguridad y sus módulos (incluidos los componentes de MIUI y los servicios del sistema) para liberar espacio de almacenamiento, escanear el dispositivo buscando virus, controlar el uso de la batería, optimizar el dispositivo para juegos, administrar aplicaciones, recibir alertas tempranas de terremotos y más. Los componentes de seguridad de MIUI conectarán a Internet y realizarán escaneos de seguridad al instalar aplicaciones y realizar pagos."</string>
+    <string name="cta_main_purpose_new">"¡Te damos la bienvenida a Seguridad! Puedes usar Seguridad y sus módulos (incluidos los componentes de MIUI y los servicios del sistema) para liberar espacio de almacenamiento, escanear el dispositivo buscando virus, controlar el uso de la batería, optimizar el dispositivo para juegos, administrar aplicaciones, recibir alertas tempranas de terremotos y más. Los componentes de seguridad de MIUI conectarán a Internet y realizarán escaneos de seguridad al instalar aplicaciones y realizar pagos."</string>
     <string name="cta_settings">Permitir conectarse a internet y acceder a la ubicación</string>
     <string name="current_network_state_not_need_diagnose">La conexión a Internet es correcta.</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Para usar la lista de bloqueo y hacer llamadas a contactos de emergencia cuando se emiten advertencias de terremoto</string>
@@ -2335,7 +2335,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_game_video_page_null">Graba los momentos clave de tus sesiones de juego</string>
     <string name="gb_game_video_record_finish_tips">Se ha guardado en Game Turbo el vídeo grabado manualmente</string>
     <string name="gb_game_video_save">Guardar</string>
-    <string name="gb_game_video_save_tip">Guardado correctamente</string>
+    <string name="gb_game_video_save_tip">Guardado</string>
     <string name="gb_game_video_type_ai_record">Grabar usando IA</string>
     <string name="gb_game_video_type_manual">Manualmente</string>
     <string name="gb_game_video_type_manual_record">Grabar manualmente</string>

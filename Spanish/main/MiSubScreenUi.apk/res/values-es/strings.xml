@@ -91,9 +91,6 @@ dd/MM"</string>
     <string name="friday_shortest">Vie</string>
     <string name="gallery_page_name">De la galería</string>
     <string name="has_add_contact">Añadido</string>
-    <string name="hello_blank2_fragment">Hola fragmento blank2</string>
-    <string name="hello_blank_fragment">Hola fragmento en blanco</string>
-    <string name="hello_world">¡Hola Mundo Cuadrado!</string>
     <string name="icon_content_description">Icono del cuadro de diálogo</string>
     <string name="item_view_role_description">Pestaña</string>
     <string name="letter_space">Espaciado entre caracteres</string>
@@ -227,7 +224,6 @@ dd/MM"</string>
     <string name="saturday_shortest">Sáb</string>
     <string name="search_menu_title">Buscar</string>
     <string name="send">Enviar</string>
-    <string name="service_name">MiplayAudio</string>
     <string name="small_display_style">Pantalla trasera</string>
     <string name="sps_cancel">Mantén pulsado para salir</string>
     <string name="step_to_image_community">Encuentra más en la comunidad Xiaomi</string>

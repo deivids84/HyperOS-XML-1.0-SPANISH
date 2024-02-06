@@ -55,9 +55,9 @@
     <string name="add">Agregar</string>
     <string name="add_cw_fail_tip">"No se puede añadir el fondo de pantalla"</string>
     <string name="add_cw_success_tip">Fondo de pantalla añadido correctamente</string>
-    <string name="add_first_cw_toast1">Añadido con éxito. Mostrar los fondos de pantalla seleccionados.</string>
-    <string name="add_first_cw_toast2">Añadidos algunos fondos de pantalla seleccionados con éxito</string>
-    <string name="add_first_cw_toast3">Fondos de pantalla añadidos con éxito</string>
+    <string name="add_first_cw_toast1">Añadido. Mostrar los fondos de pantalla seleccionados.</string>
+    <string name="add_first_cw_toast2">Añadidos algunos fondos de pantalla seleccionados</string>
+    <string name="add_first_cw_toast3">Fondos de pantalla añadidos</string>
     <string name="add_first_cw_toast4">El carrusel de fondo de pantalla está activado. Mostrar los fondos de pantalla seleccionados.</string>
     <string name="add_launch_hint_text">Añadir a la pantalla de inicio</string>
     <string name="add_local_picture">Galería</string>
@@ -75,9 +75,9 @@
     <string name="app_self_upgrade_dlg_postive_btn">Actualizar ahora</string>
     <string name="app_self_upgrade_dlg_title">Actualización disponible</string>
     <string name="app_self_upgrade_toast_downloading_install">Actualizando…</string>
-    <string name="applied_and_added_to_custom_wallpaper">"Añadido con éxito a tu presentación de diapositivas. &lt;font color ='#3482FF'&gt;&lt;a href='%1$s'&gt;Ver&lt;/font&gt;&lt;/a&gt;"</string>
+    <string name="applied_and_added_to_custom_wallpaper">"Añadido a tu presentación de diapositivas. &lt;font color ='#3482FF'&gt;&lt;a href='%1$s'&gt;Ver&lt;/font&gt;&lt;/a&gt;"</string>
     <string name="apply">Aplicar</string>
-    <string name="apply_success_toast">Fondo de pantalla configurado con éxito</string>
+    <string name="apply_success_toast">Fondo de pantalla configurado</string>
     <string name="apply_to_above_all">Establecer ambos</string>
     <string name="apply_to_screenlock">Establecer como pantalla de bloqueo</string>
     <string name="apply_to_wallpaper">Establecer como pantalla de inicio</string>
@@ -138,7 +138,7 @@
     <string name="cw_add2">Añadir (%1$d)</string>
     <string name="cw_add_fail">"No se pudo agregar"</string>
     <string name="cw_add_num_tip">"No se puede seleccionar más fondos de pantalla para añadir"</string>
-    <string name="cw_add_success">Añadido con éxito</string>
+    <string name="cw_add_success">Añadido</string>
     <string name="cw_add_tip_fail">"No se pudo agregar"</string>
     <string name="cw_add_wallpaper">Añadir fondo de pantalla</string>
     <string name="cw_add_wallpaper_more_recomm">Mas recomendaciones</string>
@@ -789,7 +789,7 @@ mm"</string>
     <string name="setting_head">Ajustes</string>
     <string name="setting_ok">Ajustes</string>
     <string name="setting_tip">"No mostrar otra vez"</string>
-    <string name="setting_title">Añadido con éxito</string>
+    <string name="setting_title">Añadido</string>
     <string name="settings">Ajustes</string>
     <string name="share">Compartir</string>
     <string name="share_dlg_more">Más</string>

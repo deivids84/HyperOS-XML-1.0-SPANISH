@@ -283,7 +283,7 @@
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionada %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
@@ -418,7 +418,7 @@
     <string name="passport_checking_account">Comprobando contraseña…</string>
     <string name="passport_clear_input">Limpiar contenido introducido</string>
     <string name="passport_copy_link">Copiar URL</string>
-    <string name="passport_copy_to_clipboard_successful">Copiado con éxito</string>
+    <string name="passport_copy_to_clipboard_successful">Copiado</string>
     <string name="passport_dialog_captcha_title">Código</string>
     <string name="passport_dialog_doing_login">Iniciar sesión…</string>
     <string name="passport_dialog_doing_register">Creando cuenta…</string>

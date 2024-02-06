@@ -44,7 +44,7 @@
     <string name="agree">De acuerdo</string>
     <string name="am">AM</string>
     <string name="app_all_purpose">¡Te damos la bienvenida al Gestor de Archivos! Con esta aplicación puedes administrar los archivos almacenados en el dispositivo.</string>
-    <string name="app_all_purpose_global">¡Bienvenido al Gestor de archivos! Puedes utilizar esta aplicación para previsualizar y gestionar los archivos almacenados en tu dispositivo.</string>
+    <string name="app_all_purpose_global">¡Te damos la bienvenida al Gestor de Archivos! Con esta aplicación puedes administrar los archivos almacenados en el dispositivo.</string>
     <string name="app_all_purpose_pad">¡Te damos la bienvenida al Gestor de Archivos! Con esta aplicación puedes administrar los archivos almacenados en el dispositivo.</string>
     <string name="app_function">Administra archivos en tu dispositivo</string>
     <string name="app_name">Gestor de archivos</string>
@@ -171,7 +171,7 @@ Intenta mover archivos de tu dispositivo a Mi Drive."</string>
     <string name="copy_failed">"No se pudo copiar"</string>
     <string name="copy_to">Copiar a…</string>
     <string name="create_folder">Crear</string>
-    <string name="create_shortcut_success">Acceso directo creado correctamente</string>
+    <string name="create_shortcut_success">Se ha creado el acceso directo</string>
     <string name="cta_function_account_operation">Para iniciar rápidamente la sesión en tu cuenta Xiaomi</string>
     <string name="cta_use_sync_midrive_file">Para sincronizar archivos en Mi Drive</string>
     <string name="data_consume_dialog_message">"Estás usando datos móviles ahora. Si continúas, se utilizarán %s de datos."</string>
@@ -955,7 +955,7 @@ Intenta mover archivos de tu dispositivo a Mi Drive."</string>
     <string name="widget_added_fail_content">%1$s ya está en la pantalla de inicio</string>
     <string name="widget_added_fail_tips">"No se pudo añadir"</string>
     <string name="widget_added_success_content">Se ha añadido %1$s a la pantalla de inicio</string>
-    <string name="widget_added_success_tips">Añadido correctamente</string>
+    <string name="widget_added_success_tips">Añadido</string>
     <string name="widget_choose_document_please">Seleccionar documento</string>
     <string name="widget_choose_file">Pulsa para añadir archivos</string>
     <string name="widget_choose_fragment_title">Seleccionar el tipo de archivo</string>

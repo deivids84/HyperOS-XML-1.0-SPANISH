@@ -1508,7 +1508,7 @@ Inténtalo otra vez o contacta con el servicio de atención al cliente para cons
     <string name="phone_report_title">Leer información de llamadas entrantes</string>
     <string name="pin2_attempts">"
 Quedan %d intentos."</string>
-    <string name="pin2_changed">PIN%d cambiado con éxito</string>
+    <string name="pin2_changed">PIN%d cambiado.</string>
     <string name="pin2_error_exception">Error en la tarjeta SIM o en la red</string>
     <string name="pin2_invalid">"No se ha actualizado FDN porque el código PIN que has introducido es incorrecto."</string>
     <string name="pin2_invalid_or_name_is_too_long">Ha introducido un PIN no válido o el nombre introducido es demasiado largo.</string>

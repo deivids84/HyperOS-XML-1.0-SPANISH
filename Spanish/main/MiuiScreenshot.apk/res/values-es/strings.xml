@@ -58,7 +58,7 @@
     <string name="cta_agree_desc">Permita que esta aplicación se conecte a Internet y conceda los permisos obligatorios enumerados anteriormente.</string>
     <string name="cta_btn_agree">Aceptar</string>
     <string name="cta_btn_disagree">"No estoy de acuerdo"</string>
-    <string name="cta_main_purpose"><string name="cta_main_purpose">¡Bienvenido al Editor de capturas de pantalla! Puedes utilizar esta aplicación para recortar y editar tus capturas de pantalla. Esta aplicación necesita conectarse a Internet y acceder a archivos de audio y video en su dispositivo para poder brindar los servicios necesarios.</string></string>
+    <string name="cta_main_purpose"><string name="cta_main_purpose">¡Te damos la bienvenida al Editor de capturas de pantalla! Con esta aplicación puedes recortar y editar tus capturas de pantalla. Necesita conexión a Internet y acceso a archivos de audio y video para proporcionar sus servicios.</string></string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Para guardar capturas de pantalla</string>
     <string name="date_picker_lunar">Calendario Tradicional Chino</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>
@@ -98,7 +98,7 @@
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
     <string name="functions_are_being_developed">Esta característica estará disponible pronto. ¡Manténganse al tanto!</string>
-    <string name="global_main_purpose">¡Te damos la bienvenida al editor de capturas de pantalla! Esta aplicación te permite recortar y editar tus capturas de pantalla. Necesita conexión a Internet para funcionar normalmente.</string>
+    <string name="global_main_purpose">¡Te damos la bienvenida al Editor de capturas de pantalla! Con esta aplicación puedes recortar y editar tus capturas de pantalla. Necesita conexión a Internet para funcionar normalmente.</string>
     <string name="global_pad">Mi tablet</string>
     <string name="global_pc">Mi portátil</string>
     <string name="global_phone">Mi teléfono</string>
@@ -144,7 +144,7 @@
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado correctamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelte para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
@@ -238,7 +238,7 @@
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sáb</string>
     <string name="saturday_shortest">Sáb</string>
-    <string name="save_success">Guardado correctamente</string>
+    <string name="save_success">Guardado</string>
     <string name="scanning_device_tips">Búsqueda de dispositivos cercanos… Asegúrese de que el otro dispositivo esté en modo detectable.</string>
     <string name="screen_doodle_talkback_size">Ancho de la línea del garabato</string>
     <string name="screen_editor_btn_delete">Eliminar</string>

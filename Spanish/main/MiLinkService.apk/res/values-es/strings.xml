@@ -934,7 +934,7 @@ para que Xiaomi HyperMind pueda aprender y refinar los patrones"</string>
     <string name="privacy_revoke_dialog_message">"Si continúas, retirarás el consentimiento a la Política de Privacidad de HappyCast. La información personal ya recopilada se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables a menos que se requiera lo contrario. Como HappyCast proporciona sus servicios en base a la recopilación de la información personal necesaria, el retirar el consentimiento se considerará como una negativa a aceptar los servicios de HappyCast. ¿Retirar el consentimiento?"</string>
     <string name="privacy_revoke_dialog_revoke">Retirar</string>
     <string name="privacy_revoke_dialog_title">Retiro del consentimiento</string>
-    <string name="privacy_revoke_succeed">Consentimiento retirado con éxito</string>
+    <string name="privacy_revoke_succeed">Se ha retirado el consentimiento</string>
     <string name="privacy_revoking_warning">Retirando consentimiento…</string>
     <string name="privacy_setting_category_1">Política de privacidad</string>
     <string name="privacy_setting_category_2">Política de privacidad de HappyCast</string>
@@ -967,7 +967,7 @@ Lee y acepta nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y nuestra &
     <string name="prompt_camera_prepare">Conectando…</string>
     <string name="prompt_camera_success">Conectado</string>
     <string name="quick_settings">Ajustes</string>
-    <string name="quick_settings_close_tips">Activado con éxito. Desactiva en cualquier momento en Ajustes &gt; Notificaciones &amp; barra de estado.</string>
+    <string name="quick_settings_close_tips">Activado. Desactívalo en cualquier momento desde Ajustes &gt; Notificaciones &amp; barra de estado.</string>
     <string name="quick_settings_device_dialog_check_box">"No volver a mostrar"</string>
     <string name="quick_settings_device_dialog_message">"Si activas esta función, podrás descubrir televisores, altavoces y coches cercanos en el centro de control. ¿Activar ahora?"</string>
     <string name="quick_settings_device_dialog_positive">Encender</string>

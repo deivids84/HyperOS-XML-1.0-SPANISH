@@ -1100,7 +1100,7 @@ d/M"</string>
     <string name="miui_snooze_toast_hint_until_unlock_screen">"Las próximas notificaciones se ocultarán hasta que se bloquee el dispositivo. "</string>
     <string name="miui_snooze_until_unlock_screen">Hasta bloquearse</string>
     <string name="miui_snooze_user_set_fail">Ve a Ajustes &gt; Notificaciones &amp; Centro de control para más opciones</string>
-    <string name="miui_snooze_user_set_success">Aplicado con éxito. Ve a Ajustes &gt; Notificaciones &amp; Centro de control para más opciones.</string>
+    <string name="miui_snooze_user_set_success">Aplicado. En Ajustes &gt; Notificaciones &amp; Centro de control hay más opciones.</string>
     <string name="miui_unimportant_notifications">Notificaciones anteriores</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>

@@ -494,7 +494,7 @@ Protocolo de conexión más rápido."</string>
     <string name="tv_calibration_doing">Calibrando…</string>
     <string name="tv_calibration_doing_text">Mantén la parte trasera de tu teléfono contra el centro de la pantalla de TV</string>
     <string name="tv_calibration_done">Calibración completa</string>
-    <string name="tv_calibration_done_text">"La pantalla de color de su TV ha sido calificada con éxito."</string>
+    <string name="tv_calibration_done_text">"El color de la pantalla de la TV se ha calibrado."</string>
     <string name="tv_calibration_pre">Calibración de color</string>
     <string name="tv_calibration_pre_text">"Calibrar la pantalla de color de su televisor usando su teléfono"</string>
     <string name="tv_calibration_start">"Coloca la cámara trasera del teléfono firmemente en el centro de la pantalla"</string>

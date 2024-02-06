@@ -69,7 +69,7 @@
     <string name="convertion_unit_finance">Finanzas</string>
     <string name="copy">Copiar</string>
     <string name="cosDesc">coseno</string>
-    <string name="cta_desc">¡Bienvenido a la Calculadora! Esta aplicación combina las características de una calculadora regular con múltiples convertidores y funciones de estilo de vida. Esta aplicación necesita conectarse a internet para funcionar con normalidad.</string>
+    <string name="cta_desc">¡Te damos la bienvenida a Calculadora! Esta aplicación combina las características de una calculadora regular con múltiples convertidores y funciones para tu vida diaria. Necesita conexión a Internet para funcionar adecuadamente.</string>
     <string name="currency_update_connect_to_get_data">Tipos de cambio proporcionados por Webull. Conéctate a internet para obtener la información más reciente.</string>
     <string name="currency_update_support">Tipos de cambio proporcionados por Webull.</string>
     <string name="currency_update_time_format">Tipos de cambio proporcionados por Webull (%s)</string>
@@ -231,7 +231,7 @@ El LPR de un año y cinco años se cotizarán el día 20 de cada mes (pueden pro
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado correctamente</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Suelta para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">"Eso es todo por ahora"</string>
@@ -296,7 +296,7 @@ El LPR de un año y cinco años se cotizarán el día 20 de cada mes (pueden pro
     <string name="permission_option_desc_miui12">"Se requiere de estos permisos al usar las funciones adicionales."</string>
     <string name="permission_option_miui12">Permisos opcionales</string>
     <string name="permission_privacy_link">&lt;Data&gt;Antes de usar esta aplicación, lee acepta nuestro &lt;a href=%1$s&gt;Acuerdo de Usuario&lt;/a&gt; y &lt;a href=%2$s&gt;Política de Privacidad&lt;/a&gt;.&lt;/Data&gt;</string>
-    <string name="permission_purpose_miui12_system">¡Bienvenido a la Calculadora! Esta aplicación combina las funciones de una calculadora normal con multitud de convertidores y funciones para tu vida diaria.</string>
+    <string name="permission_purpose_miui12_system">¡Te damos la bienvenida a Calculadora! Esta aplicación combina las funciones de una calculadora normal con múltiples convertidores y funciones para tu vida diaria.</string>
     <string name="permission_remove_desc_miui12">Permite a esta aplicación conectarse a internet y otorga los permisos requeridos para poder usar todas sus funciones.</string>
     <string name="permission_title_miui12">Atención</string>
     <string name="piDesc">pi</string>

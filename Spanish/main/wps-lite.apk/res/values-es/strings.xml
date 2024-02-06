@@ -290,7 +290,7 @@
     <string name="public_secre_dialog_exit">Salir</string>
     <string name="public_secre_dialog_positive">Aceptar</string>
     <string name="public_secre_dialog_tips_agree">Si acepta los términos y condiciones de nuestro Acuerdo de usuario y Política de privacidad, toque \"Aceptar\" para comenzar a utilizar nuestros servicios.</string>
-    <string name="public_secre_dialog_tips_small">¡Bienvenido a Mi Doc Viewer (con tecnología WPS)! Puede utilizar esta aplicación para ver documentos en su dispositivo.</string>
+    <string name="public_secre_dialog_tips_small">¡Te damos la bienvenida a Mi Doc Viewer (con tecnología WPS)! Con esta aplicación puedes ver documentos en el dispositivo.</string>
     <string name="public_secre_dialog_title">Declaracion de privacidad</string>
     <string name="public_selectAll">Seleccionar todo</string>
     <string name="public_selectText">Seleccionar</string>

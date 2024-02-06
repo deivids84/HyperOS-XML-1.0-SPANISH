@@ -572,7 +572,7 @@ debería crear una copia de seguridad de iCloud primero."</string>
     <string name="notif_icloud_loading_summary">Cargando datos…</string>
     <string name="notif_icloud_logining">Iniciar sesión en iCloud en el antiguo dispositivo iOS…</string>
     <string name="notif_icloud_need_wifi_summary">Esperando conexión Wi-Fi</string>
-    <string name="notif_icloud_saved_summary">Importado correctamente</string>
+    <string name="notif_icloud_saved_summary">Importado</string>
     <string name="notif_icloud_saving_summary">Restaurando datos…</string>
     <string name="notif_miasist_try_to_connect">Mi PC Suite está intentando conectarse con tu dispositivo</string>
     <string name="notif_parse_select_descript_error">"No se pudo sincronizar la lista de elementos copiados."</string>
