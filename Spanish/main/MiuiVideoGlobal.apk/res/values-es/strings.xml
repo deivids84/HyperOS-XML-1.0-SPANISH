@@ -1530,6 +1530,7 @@ Solo usaremos este permiso para encontrar los videos que buscas, y no accederemo
     <string name="sending">Enviando…</string>
     <string name="service_error">Error de servidor</string>
     <string name="set_success">Cambiado</string>
+    <string name="setting_privacy_title">Términos y condiciones</string>
     <string name="settings_inline_auto_play">Reproducción automática activada</string>
     <string name="settings_inline_auto_play_close">Reproducción automática desactivada</string>
     <string name="settings_inline_auto_play_tip_close_forever">Siempre desactivada</string>

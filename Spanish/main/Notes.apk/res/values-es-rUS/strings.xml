@@ -3,7 +3,7 @@
     <string name="MM">mm</string>
     <string name="MOBILE_QQ">mobileqq</string>
     <string name="SINA">sina.</string>
-    <string name="TENCENT">tencent.</string>
+    <string name="TENCENT">decente.</string>
     <string name="WEIBO">weibo</string>
     <string name="abc_action_bar_home_description">Navegar a la página principal</string>
     <string name="abc_action_bar_up_description">Navegar hacia arriba</string>
@@ -43,8 +43,8 @@
     <string name="actionbar_button_up_description">Atrás</string>
     <string name="actionbar_close_description">Cerrar</string>
     <string name="actionbar_home_description">Atrás</string>
-    <string name="add_account_desc">¿Sincronizar tus notas con tu cuenta Xiaomi?</string>
-    <string name="added_to_clipboard">Copiado</string>
+    <string name="add_account_desc">¿Sincroniza tus notas con tu cuenta de Xiaomi?</string>
+    <string name="added_to_clipboard">Copiado con éxito</string>
     <string name="afternoon">Tarde</string>
     <string name="alarm_bar_title">Recordatorio</string>
     <string name="alert_action_edit_anyway">Continuar editando</string>
@@ -63,7 +63,7 @@
     <string name="app_notification_info">Notas se está ejecutando en segundo plano</string>
     <string name="app_widget_name_create_note">Crear notas</string>
     <string name="app_widget_name_create_todo">Crear tareas</string>
-    <string name="app_widget_name_fast_entry">Accesos directos</string>
+    <string name="app_widget_name_fast_entry">Atajos</string>
     <string name="app_widget_name_new">Notas</string>
     <string name="application_icon">Ícono de aplicación</string>
     <string name="audio_btn_mode_meeting">Reunión</string>
@@ -88,11 +88,10 @@
     <string name="canvas_is_too_large_to_share">Este artículo es demasiado grande para compartirlo</string>
     <string name="character_counter_content_description">Caracteres ingresados %1$d de %2$d</string>
     <string name="character_counter_overflowed_content_description">Límite de caracteres excedido %1$d de %2$d</string>
-    <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="chip_text">Chip de texto</string>
     <string name="clear_text_end_icon_content_description">Borrar texto</string>
     <string name="clearable_edittext_clear_description">Borrar</string>
-    <string name="clip_resource_deleted">Este elemento ya no está disponible</string>
+    <string name="clip_resource_deleted">Este artículo ya no está disponible</string>
     <string name="close">Cerrar</string>
     <string name="cloud_trash_bin_title">Notas eliminadas en la nube</string>
     <string name="confirm_cancel">"Rechazar"</string>
@@ -107,7 +106,7 @@
     <string name="cta_dialog_title">Se necesitan permisos</string>
     <string name="cta_v2_agree_desc">Permitir a esta aplicación conectarse a internet y conceder los permisos obligatorios arriba mencionados.</string>
     <string name="cta_v2_app_purpose_v12">¡Bienvenido a Notas! Puede usar esta aplicación para crear tareas y notas que contengan texto, imágenes y audio.</string>
-    <string name="cta_v2_app_purpose_v12_lite">¡Te damos la bienvenida a las Notas! Con esta aplicación puedes crear anotaciones y tareas.</string>
+    <string name="cta_v2_app_purpose_v12_lite">¡Bienvenido a Notas! Puedes usar esta aplicación para crear notas y tareas.</string>
     <string name="data_empty_note">No hay notas aún</string>
     <string name="data_empty_todo">No hay tareas aún</string>
     <string name="date_calculate_today">0 días</string>
@@ -127,7 +126,7 @@
     <string name="dialog_button_confirm_delete">Eliminar</string>
     <string name="dialog_button_continue_work">Continuar</string>
     <string name="dialog_button_move">Mover</string>
-    <string name="dialog_expert_as_markdown">Exportar como formato Markdown</string>
+    <string name="dialog_expert_as_markdown">Exportar como Markdown</string>
     <string name="dialog_privacy_revoke_tips">"Después de revocar la autorización, la aplicación dejará de recolectar información y todos los datos relacionados se eliminarán de los servidores. Esto podría hacer que la aplicación sea prácticamente inutilizable. ¿Desea revocar la autorización? Para garantizar la seguridad de su cuenta, inicie sesión en i.mi.com antes de revocar la autorización de los servicios de la nube."</string>
     <string name="dialog_share_as_pic">Compartir nota como imagen</string>
     <string name="dialog_share_as_text">Compartir nota como texto</string>
@@ -184,7 +183,7 @@
     <string name="edit_header_lock_description">Nota oculta</string>
     <string name="edit_note_hint_title">Título</string>
     <string name="enable_sync">Sincronizar</string>
-    <string name="enable_sync_desc">¿Sincronizar tus notas con tu cuenta Xiaomi (%1$s)?</string>
+    <string name="enable_sync_desc">¿Sincroniza tus notas con tu cuenta de Xiaomi (%1$s)?</string>
     <string name="eras_ad">d.C</string>
     <string name="eras_bc">a.C</string>
     <string name="error_contact_not_exist">"El contacto no existe"</string>
@@ -207,34 +206,14 @@
     <string name="exposed_dropdown_menu_content_description">Mostrar menú desplegable</string>
     <string name="float_note_empty">No hay notas</string>
     <string name="float_note_title">Notas</string>
-    <string name="fmt_date">D</string>
-    <string name="fmt_date_day">dd</string>
-    <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_day">dd</string>
-    <string name="fmt_date_numeric_month">MM</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
-    <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month">MMM. yyyy</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_time">D T</string>
-    <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">"hh"</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
-    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
-    <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">hh aa</string>
     <string name="fmt_time_24hour">"H"</string>
-    <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
     <string name="fmt_time_millis">"S"</string>
     <string name="fmt_time_minute">"m"</string>
@@ -242,15 +221,11 @@
     <string name="fmt_time_minute_second_millis">"m:s.S"</string>
     <string name="fmt_time_second">"s"</string>
     <string name="fmt_time_second_millis">"s.S"</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_long">E</string>
-    <string name="fmt_weekday_short">E</string>
     <string name="folder_exist">Ya existe una carpeta con este nombre</string>
     <string name="folder_note">Carpetas de notas</string>
     <string name="folder_operation_rename">Renombrar</string>
     <string name="folder_other">Otras carpetas</string>
-    <string name="foler_pinned">Carpetas fijadas</string>
+    <string name="foler_pinned">Carpetas Ancladas</string>
     <string name="format_move_note_out_folder">Esta nota fue movida</string>
     <string name="format_move_note_to_folder">Movida a %1$s</string>
     <string name="friday">Viernes</string>
@@ -277,7 +252,7 @@
     <string name="info_note_enter_desktop">Agregada a la pantalla de inicio</string>
     <string name="insert_image_menu_take_photo_by_local_device">Tomar foto con este dispositivo</string>
     <string name="insert_image_menu_take_photo_by_remote_device">Haz una foto con %1$s</string>
-    <string name="insert_image_size_limit_tip">"Esta imagen supera los %d MB. Se ha comprimido automáticamente."</string>
+    <string name="insert_image_size_limit_tip">"Esta imagen tiene más de %d MB. Se comprimió automáticamente."</string>
     <string name="item_view_role_description">Pestaña</string>
     <string name="last_excerpt_unfinish_hint">El último extracto está incompleto</string>
     <string name="library_android_database_sqlcipher_libraryDescription">API de Android SQLite basada en SQLCipher</string>
@@ -286,17 +261,11 @@
     <string name="login_sync">Iniciar sesión y sincronizar</string>
     <string name="manage_folders">Administrar carpetas</string>
     <string name="marketSdkVersion">3.2.22</string>
-    <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Seleccione AM o PM</string>
     <string name="material_hour_selection">Seleccione la hora</string>
     <string name="material_hour_suffix">"%1$s en punto"</string>
     <string name="material_minute_selection">Seleccione los minuto</string>
     <string name="material_minute_suffix">%1$s minutos</string>
-    <string name="material_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
-    <string name="material_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
-    <string name="material_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
-    <string name="material_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
-    <string name="material_motion_easing_standard">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
     <string name="material_slider_range_end">Rango final,</string>
     <string name="material_slider_range_start">Rango inicial,</string>
     <string name="material_timepicker_am">AM</string>
@@ -393,7 +362,7 @@
     <string name="miui_plus_relay_waring_data_not_find">"No se pudo encontrar el elemento que estás viendo en otro dispositivo. Asegúrese de que todos los elementos estén sincronizados."</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Anular la selección de todo</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar todo</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Más</string>
@@ -403,7 +372,7 @@
     <string name="miuix_appcompat_cloud_state_syncing">Sincronizando con la nube…</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Eliminar</string>
-    <string name="miuix_appcompat_deselect_all">Anular la selección de todo</string>
+    <string name="miuix_appcompat_deselect_all">Deseleccionar todo</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleccionar todo</string>
     <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
@@ -469,7 +438,6 @@
     <string name="mtrl_badge_numberless_content_description">Nueva notificación</string>
     <string name="mtrl_chip_close_icon_content_description">Quitar %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Más de %1$d notificaciones nuevas</string>
-    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_a11y_next_month">Cambiar al próximo mes</string>
     <string name="mtrl_picker_a11y_prev_month">Cambiar al mes anterior</string>
     <string name="mtrl_picker_announce_current_selection">Selección actual: %1$s</string>
@@ -503,7 +471,7 @@
     <string name="new_audio_create_done_talkback_des">Creado</string>
     <string name="new_audio_create_talkback_des">Toque para crear una nota de texto. Mantenga presionado para crear una nota de voz. Suelte el botón para detener la grabación y crear la nota, o deslice hacia arriba para cancelar.</string>
     <string name="new_data_empty_note">No hay elementos todavía</string>
-    <string name="new_lite_audio_create_talkback_des">Pulsa para añadir una nota</string>
+    <string name="new_lite_audio_create_talkback_des">Toca para crear una nota</string>
     <string name="new_sync_desc_state_disable">Activar sincronización en la nube para notas, tareas y más</string>
     <string name="night">Noche</string>
     <string name="no_network">"No se puede conectar a la red"</string>
@@ -522,7 +490,7 @@
     <string name="note_link_web">Ver en el navegador</string>
     <string name="note_mindnote_entrance_hint_newversion">"Empiece a escribir "</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Crear un mapa mental</string>
-    <string name="note_mindnote_not_support_in_phone_model">"No se puede editar mapas mentales en este dispositivo"</string>
+    <string name="note_mindnote_not_support_in_phone_model">"No se pueden editar mapas mentales en este dispositivo"</string>
     <string name="note_not_text_stub">Sin texto</string>
     <string name="note_sort_way">Seleccione como desea ordenar sus notas</string>
     <string name="note_write_hint">Empezar a escribir</string>
@@ -551,10 +519,6 @@
     <string name="pad_note_list_not_text_stub">Sin texto</string>
     <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="paste_unsupported_data">"No se puede pegar este contenido"</string>
-    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
-    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="pc_action_create_new_folder">Carpeta</string>
     <string name="pc_action_create_new_mind_note">Mapa mental</string>
     <string name="pc_action_create_new_normal_note">Nota</string>
@@ -597,7 +561,7 @@
     <string name="permission_storage_desc_new_v12">Para añadir imágenes a las notas y guardar las notas como imágenes</string>
     <string name="permission_storage_desc_pad_new_v12">Para añadir imágenes a las notas y guardar las notas como imágenes</string>
     <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI recolectará sus grabaciones de voz y ID del dispositivo para transcribir audio y crear notas de voz. Aprenda más en la &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; de Mi AI.&lt;/Data&gt;</string>
-    <string name="permission_xiaoai_desc_m"><Data>Para brindar servicios de transcripción de voz a texto, Mi AI necesita recopilar la entrada de audio y el IMEI de su dispositivo. Lea y acepte la Declaración de intercambio de datos de terceros de &lt;a href=\"%1$s\"&gt;Notes&lt;/a&gt; antes de continuar. También puede obtener más información leyendo la Política de privacidad de Mi AI &lt;a href=\"%2$s\"&gt;&lt;/a&gt;.</Data></string>
+    <string name="permission_xiaoai_desc_m"><Data>Para proporcionar servicios de transcripción de voz a texto, Mi AI necesita recopilar la entrada de audio y el IMEI de su dispositivo. Lea y acepte el &lt;a href=\"%1$s\"&gt;Notas Declaración de intercambio de datos de terceros&lt;/a&gt; antes de continuar. También puede obtener más información leyendo Mi AI &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt;.</Data></string>
     <string name="permission_xiaoai_desc_new"><Data>Para proporcionar servicios de transcripción de voz a texto, Mi AI necesita recopilar la entrada de audio y la identificación de su dispositivo, que se genera aleatoriamente. Lea y acepte nuestra &lt;a href=\"%1$s\"&gt;Notes Declaración de intercambio de datos de terceros&lt;/a&gt; antes de continuar. También puede obtener más información leyendo la Política de privacidad de &lt;a href=\"%2$s\"&gt;&lt;/a&gt;.</Data></string>
     <string name="permission_xiaoai_title">Dictado a texto</string>
     <string name="permlab_accessNote">Acceso a las notas</string>
@@ -655,23 +619,23 @@
     <string name="rich_text_collapse_description">Ocultar editor de formato de texto</string>
     <string name="rich_text_expand_description">Mostrar editor de formato de texto</string>
     <string name="rich_text_font_decrease_description">Texto más pequeño</string>
-    <string name="rich_text_font_first_level_description">Encabezado de primer nivel</string>
+    <string name="rich_text_font_first_level_description">Título de primer nivel</string>
     <string name="rich_text_font_increase_description">Texto más grande</string>
-    <string name="rich_text_font_second_level_description">Encabezado de segundo nivel</string>
+    <string name="rich_text_font_second_level_description">Título de segundo nivel</string>
     <string name="rich_text_font_third_level_description">Encabezado de tercer nivel</string>
     <string name="rich_text_hightlight_description">Destacados</string>
     <string name="rich_text_indent_left_description">Sangría izquierda</string>
-    <string name="rich_text_indent_right_description">Sangría derecha</string>
+    <string name="rich_text_indent_right_description">Sangrar derecha</string>
     <string name="rich_text_italic_description">Cursiva</string>
     <string name="rich_text_left_description">Alinear a la izquierda</string>
     <string name="rich_text_orderlist_description">Lista numerada</string>
-    <string name="rich_text_quote_description">Cita</string>
+    <string name="rich_text_quote_description">Cotización</string>
     <string name="rich_text_right_description">Derecha</string>
-    <string name="rich_text_split_description">Divisor</string>
+    <string name="rich_text_split_description">Divider</string>
     <string name="rich_text_strikethrough_description">Tachado</string>
-    <string name="rich_text_tasklist_description">Lista de verificación</string>
+    <string name="rich_text_tasklist_description">Checklist</string>
     <string name="rich_text_underline_description">Subrayado</string>
-    <string name="rich_text_unorderlist_description">Lista de viñetas</string>
+    <string name="rich_text_unorderlist_description">Lista de balas</string>
     <string name="saturday">Sábado</string>
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">Sáb.</string>
@@ -710,32 +674,8 @@
     <string name="sns_content_default">Compartir foto</string>
     <string name="sns_footer_text">Creado con Notas</string>
     <string name="sns_title_edit">Compartir nota</string>
-    <string name="solar_term_autumn_begins">Comienzo del Otoño</string>
-    <string name="solar_term_autumn_equinox">Equinocio de otoño</string>
-    <string name="solar_term_clear_and_bright">Claro y brillante</string>
-    <string name="solar_term_cold_dews">Escarcha</string>
-    <string name="solar_term_grain_buds">Criaturas completas</string>
-    <string name="solar_term_grain_in_ear">Sembrar mijo</string>
-    <string name="solar_term_grain_rain">Lluvia de trigo</string>
-    <string name="solar_term_great_cold">Frío intenso</string>
-    <string name="solar_term_great_heat">Ola de calor</string>
-    <string name="solar_term_heavy_snow">Nieve intensa</string>
-    <string name="solar_term_hoar_frost_falls">Helada</string>
-    <string name="solar_term_insects_awaken">Insectos despiertan</string>
-    <string name="solar_term_light_snow">Nieve ligera</string>
-    <string name="solar_term_slight_cold">Frío moderado</string>
-    <string name="solar_term_slight_heat">Calor moderado</string>
-    <string name="solar_term_spring_begins">Comienzo de la Primavera</string>
-    <string name="solar_term_stopping_the_heat">El calor se retira</string>
-    <string name="solar_term_summer_begins">Empieza el verano</string>
-    <string name="solar_term_summer_solstice">Solsticio de verano</string>
-    <string name="solar_term_the_rains">Chubascos de primavera</string>
-    <string name="solar_term_vernal_equinox">Equinocio de verano</string>
-    <string name="solar_term_white_dews">Rocío</string>
-    <string name="solar_term_winter_begins">Empieza el invierno</string>
-    <string name="solar_term_winter_solstice">Solsticio de invierno</string>
     <string name="splash_note">Stylus</string>
-    <string name="stealth_mode_tip">"Estás de incógnito. No puedes usar el micrófono ahora."</string>
+    <string name="stealth_mode_tip">"Estás incógnito. No puedes usar el micrófono ahora."</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom.</string>
@@ -753,7 +693,6 @@
     <string name="the_armed_forces_day">Día de las Fuerzas Armadas</string>
     <string name="the_armys_day">Dia del PLA</string>
     <string name="the_childrens_day">"Día de los niños"</string>
-    <string name="the_chinese_youth_day">Día de la juventud</string>
     <string name="the_christmas_day">Navidad</string>
     <string name="the_double_ninth_festival">Festival del doble noveno</string>
     <string name="the_dragon_boat_festival">Festival del barco del dragón</string>
@@ -810,8 +749,7 @@
     <string name="thursday_short">Jue</string>
     <string name="thursday_shortest">Jue</string>
     <string name="time_picker_dialog_title">Ajustar hora</string>
-    <string name="time_picker_label_hour">h</string>
-    <string name="time_picker_label_minute">min</string>
+    <string name="to_view_alarm_content">Toca para ver</string>
     <string name="toast_cancel_to_insert_image">"No se pudo agregar la imagen."</string>
     <string name="toast_excerpt_end">Extracto creado con éxito</string>
     <string name="toast_excerpt_no_content">No hay extractos aquí</string>
@@ -830,7 +768,7 @@
     <string name="toast_refuse_to_record_when_in_multi_window_new">"No se puede usar esta función en Pantalla dividida o ventanas flotantes"</string>
     <string name="toast_refuse_to_use_external_storage">"Los permisos de almacenamiento están restringidos.
 Permita a Notas leer el contenido de su tarjeta SD."</string>
-    <string name="toast_refuse_to_use_photos_in_excerpt">Permite a esta aplicación acceder a tus fotos, para añadir imágenes a las notas</string>
+    <string name="toast_refuse_to_use_photos_in_excerpt">Permite que esta aplicación acceda a tus fotos para poder añadir imágenes a las notas</string>
     <string name="toast_refuse_to_use_record_audio">"Los permisos del micrófono están restringidos.
 Permita a Notas grabar audio."</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Permita que Notas acceda al almacenamiento para poder agregar imágenes a sus notas</string>
@@ -909,6 +847,7 @@ Permita a Notas grabar audio."</string>
     <string name="v7_preference_off">DESACTIVADA</string>
     <string name="v7_preference_on">ACTIVADA</string>
     <string name="view_all_notes">Ver todo</string>
+    <string name="warn_cannot_add_more_content">"Esta nota ha alcanzado su longitud máxima. Cualquier contenido que añadas no será guardado."</string>
     <string name="warn_cannot_add_new_bullet">"No se puede agregar una nueva lista con viñetas porque la nota es demasiado larga"</string>
     <string name="warn_cannot_add_new_checkbox">"No se puede agregar una nueva casilla de verificación porque la nota es demasiado larga"</string>
     <string name="warn_cannot_add_new_content">"No se puede agregar contenido porque la nota es demasiado larga"</string>
@@ -918,7 +857,7 @@ Permita a Notas grabar audio."</string>
     <string name="warn_cannot_add_new_picture">"No se puede agregar una nueva imagen porque la nota es demasiado larga"</string>
     <string name="warn_cannot_add_new_style">"No se puede agregar un nuevo formato porque la nota es demasiado larga"</string>
     <string name="warn_enter_browse_mode">"Estás en modo solo lectura"</string>
-    <string name="warn_enter_browse_mode_forbid_create">"No puedes editar notas en modo solo lectura"</string>
+    <string name="warn_enter_browse_mode_forbid_create">"No se puede crear o editar notas en modo de sólo lectura"</string>
     <string name="web_sso_login_fail">Necesitas iniciar sesión de nuevo</string>
     <string name="web_sso_login_message">Iniciando sesión…</string>
     <string name="webview_reload">Inténtalo de nuevo</string>
@@ -927,7 +866,7 @@ Permita a Notas grabar audio."</string>
     <string name="wednesday_shortest">Mie</string>
     <string name="widget_all_notes_name">Todas las notas</string>
     <string name="widget_all_todo_name">Todas las tareas</string>
-    <string name="widget_click_check">Pulsa para ver</string>
+    <string name="widget_click_check">Toca para ver</string>
     <string name="widget_create_select_size">Seleccionar tamaño</string>
     <string name="widget_empty_content">Toca para seleccionar una nota</string>
     <string name="widget_note_list_page_title">Seleccionar nota</string>
@@ -937,8 +876,8 @@ Permita a Notas grabar audio."</string>
     <string name="widget_size_item_super_big">Muy grande</string>
     <string name="widget_size_not_support">"Widgets extra grandes no soportados en este dispositivo"</string>
     <string name="widget_take_notes_title">Notas</string>
-    <string name="xiaomi_market_sdk_update_dialog_cancel">Ahora no</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">No ahora</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Actualizar</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">Hay una actualización disponible</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Una actualización está disponible</string>
     <string name="yesterday">Ayer</string>
 </resources>

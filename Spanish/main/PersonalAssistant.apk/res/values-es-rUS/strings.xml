@@ -31,11 +31,11 @@
     <string name="afternoon">Tarde</string>
     <string name="am">AM</string>
     <string name="app_name">Ver indicador de puntos de buscapersonas</string>
-    <string name="bottomsheet_action_expand_halfway">Expandir a la mitad</string>
-    <string name="character_counter_content_description">Escritos %1$d de %2$d caracteres</string>
-    <string name="character_counter_overflowed_content_description">Límite de caracteres excedido (%1$d de %2$d)</string>
-    <string name="chip_text">Texto de la ficha</string>
-    <string name="clear_text_end_icon_content_description">Borrar el texto</string>
+    <string name="bottomsheet_action_expand_halfway">Expandir a mitad de camino</string>
+    <string name="character_counter_content_description">Caracteres ingresados en %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Límite de caracteres superado %1$d de %2$d</string>
+    <string name="chip_text">Chip texto</string>
+    <string name="clear_text_end_icon_content_description">Borrar texto</string>
     <string name="clearable_edittext_clear_description">Claro</string>
     <string name="close">Cerrar</string>
     <string name="copy">Copiar</string>
@@ -59,33 +59,33 @@
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
     <string name="icon_content_description">Icono de diálogo</string>
-    <string name="item_view_role_description">Pestaña</string>
+    <string name="item_view_role_description">Tab</string>
     <string name="label">Etiqueta</string>
-    <string name="material_clock_toggle_content_description">Selecciona AM o MP</string>
-    <string name="material_hour_selection">Selecciona la hora</string>
-    <string name="material_hour_suffix">"%1$s en punto"</string>
-    <string name="material_minute_selection">Selecciona los minutos</string>
-    <string name="material_minute_suffix">%1$s minutos</string>
-    <string name="material_slider_range_end">Final de intervalo,</string>
-    <string name="material_slider_range_start">Inicio de intervalo,</string>
-    <string name="material_timepicker_am">AM</string>
-    <string name="material_timepicker_clock_mode_description">Cambia al modo reloj para establecer la hora.</string>
+    <string name="material_clock_toggle_content_description">Seleccionar AM o MP</string>
+    <string name="material_hour_selection">Seleccionar hora</string>
+    <string name="material_hour_suffix">"%1$s en reloj"</string>
+    <string name="material_minute_selection">Seleccionar minutos</string>
+    <string name="material_minute_suffix">%1$s minutos</string>
+    <string name="material_slider_range_end">Fin del rango</string>
+    <string name="material_slider_range_start">Inicio del rango</string>
+    <string name="material_timepicker_am">M</string>
+    <string name="material_timepicker_clock_mode_description">Cambiar al modo reloj para la entrada de tiempo.</string>
     <string name="material_timepicker_hour">Hora</string>
     <string name="material_timepicker_minute">Minuto</string>
-    <string name="material_timepicker_pm">PM</string>
-    <string name="material_timepicker_select_time">Selecciona la hora</string>
-    <string name="material_timepicker_text_input_mode_description">Cambiar al modo texto para establecer la hora.</string>
+    <string name="material_timepicker_pm">MP</string>
+    <string name="material_timepicker_select_time">Seleccionar hora</string>
+    <string name="material_timepicker_text_input_mode_description">Cambiar al modo de entrada de texto para la hora de entrada.</string>
     <string name="midnight">Noche</string>
-    <string name="miuix_access_state_desc">Seleccionada</string>
-    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Anular selección</string>
+    <string name="miuix_access_state_desc">Seleccionado</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índices</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar todo</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Más</string>
     <string name="miuix_appcompat_cancel_description">Cancelar</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Eliminar</string>
-    <string name="miuix_appcompat_deselect_all">Anular selección</string>
+    <string name="miuix_appcompat_deselect_all">Deseleccionar todo</string>
     <string name="miuix_appcompat_deselect_all_description">Desmarcar todos</string>
     <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
@@ -94,7 +94,7 @@
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
     <string name="miuix_indexer_collect">Colecciones</string>
-    <string name="miuix_indexer_selected">Seleccionado %s</string>
+    <string name="miuix_indexer_selected">Seleccionada %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Desliza hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado correctamente</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando...</string>
@@ -149,40 +149,40 @@
     <string name="month_september_shortest">Sep</string>
     <string name="more">MÁS</string>
     <string name="morning">Mañana</string>
-    <string name="mtrl_badge_numberless_content_description">Notificación nueva</string>
-    <string name="mtrl_chip_close_icon_content_description">Elimina %1$s</string>
-    <string name="mtrl_exceed_max_badge_number_content_description">Más de %1$d notificaciones nuevas</string>
-    <string name="mtrl_picker_a11y_next_month">Cambiar al mes próximo</string>
+    <string name="mtrl_badge_numberless_content_description">Nueva notificación</string>
+    <string name="mtrl_chip_close_icon_content_description">Eliminar %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Más de %1$d notificaciones nuevas</string>
+    <string name="mtrl_picker_a11y_next_month">Cambiar al mes siguiente</string>
     <string name="mtrl_picker_a11y_prev_month">Cambiar al mes anterior</string>
     <string name="mtrl_picker_announce_current_selection">Selección actual: %1$s</string>
-    <string name="mtrl_picker_confirm">Aceptar</string>
+    <string name="mtrl_picker_confirm">Ok</string>
     <string name="mtrl_picker_date_header_title">Seleccionar fecha</string>
     <string name="mtrl_picker_date_header_unselected">Fecha seleccionada</string>
-    <string name="mtrl_picker_day_of_week_column_header">Columna de los días: %1$s</string>
+    <string name="mtrl_picker_day_of_week_column_header">Columna de días: %1$s</string>
     <string name="mtrl_picker_invalid_format">Formato no válido.</string>
     <string name="mtrl_picker_invalid_format_example">Ejemplo: %1$s</string>
-    <string name="mtrl_picker_invalid_format_use">Usar: %1$s</string>
-    <string name="mtrl_picker_invalid_range">Intervalo inválido.</string>
-    <string name="mtrl_picker_navigate_to_year_description">Desplazar al año %1$s</string>
-    <string name="mtrl_picker_out_of_range">Fuera del intervalo: %1$s</string>
-    <string name="mtrl_picker_range_header_only_end_selected">Fecha inicial – %1$s</string>
-    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Fecha final</string>
-    <string name="mtrl_picker_range_header_title">Seleccionar intervalo</string>
-    <string name="mtrl_picker_range_header_unselected">Fecha de inicio – Fecha de final</string>
+    <string name="mtrl_picker_invalid_format_use">Uso: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Invalid range.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navegar al año %1$s</string>
+    <string name="mtrl_picker_out_of_range">Fuera de rango: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Fecha de inicio – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Fecha de fin</string>
+    <string name="mtrl_picker_range_header_title">Seleccionar rango</string>
+    <string name="mtrl_picker_range_header_unselected">Fecha de inicio - Fecha de fin</string>
     <string name="mtrl_picker_save">Guardar</string>
     <string name="mtrl_picker_text_input_date_hint">Fecha</string>
-    <string name="mtrl_picker_text_input_date_range_end_hint">Fecha final</string>
-    <string name="mtrl_picker_text_input_date_range_start_hint">Fecha inicial</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Fecha de fin</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Fecha de inicio</string>
     <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambiar al modo de entrada de calendario</string>
-    <string name="mtrl_picker_toggle_to_day_selection">Pulsa para cambiar a la selección del día</string>
-    <string name="mtrl_picker_toggle_to_text_input_mode">Cambiar al modo entrada de texto</string>
-    <string name="mtrl_picker_toggle_to_year_selection">Pulsa para cambiar a la selección del año</string>
-    <string name="mtrl_timepicker_confirm">Aceptar</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Pulse para cambiar a seleccionar un día</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Cambiar al modo de entrada de texto</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Pulse para cambiar para seleccionar un año</string>
+    <string name="mtrl_timepicker_confirm">Ok</string>
     <string name="night">Noche</string>
     <string name="noon">Mediodía</string>
     <string name="not_set">Sin definir</string>
-    <string name="pa_accessibility_home_search">"Buscar, 
-pulsa dos veces para comenzar"</string>
+    <string name="pa_accessibility_home_search">"Buscar 
+Toque dos veces para comenzar"</string>
     <string name="pa_accessibility_home_widget_drag">Arrastrando elemento</string>
     <string name="pa_accessibility_home_widget_drag_move">Mover a la fila %1$d, posición %2$d</string>
     <string name="pa_accessibility_home_widget_drop_workspace">Movido a la fila %1$d, posición %2$d</string>
@@ -198,33 +198,33 @@ pulsa dos veces para comenzar"</string>
     <string name="pa_accessibility_picker_bigBanner_widget_collection">Colecciones de widgets</string>
     <string name="pa_accessibility_picker_home_appList_entrance">Ver lista de widgets compatibles</string>
     <string name="pa_accessibility_picker_home_bigBanner_slected">"%1$s. 
-Pulsa dos veces para comenzar."</string>
+Doble toque para comenzar."</string>
     <string name="pa_accessibility_picker_home_maml_slected">"%1$s. %2$s. 
-Pulsa dos veces para ver los detalles. 
-Pulsa dos veces y mantén pulsado para arrastrar."</string>
-    <string name="pa_accessibility_picker_home_maml_slected_for_pay">"%1$s, %2$s, 
-Pulsa dos veces para ir a la página de detalles"</string>
+Presiona dos veces para ver la página de detalles. 
+Presiona dos veces y mantén para arrastrar."</string>
+    <string name="pa_accessibility_picker_home_maml_slected_for_pay">"%1$s,%2$s, 
+点按两次即可进入详情页"</string>
     <string name="pa_accessibility_picker_home_search">Buscar widgets</string>
     <string name="pa_accessibility_picker_home_smallBanner_slected">"%1$s. 
-Pulsa dos veces para comenzar."</string>
+Doble toque para comenzar."</string>
     <string name="pa_accessibility_picker_home_title">Añadir widget</string>
-    <string name="pa_accessibility_picker_home_widget_replace">Seleccionado %s. Cambiando widgets.</string>
-    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">"%s 
-Pulsa dos veces el botón inferior para reemplazarlo con otro widget."</string>
-    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">"%s. Estado de la instalación: %3$s. El botón \"Cambiar\" está debajo. 
-Púlsalo dos veces para hacerlo."</string>
-    <string name="pa_accessibility_picker_home_widget_slected">"%1$s, %2$s, Estado de la instalación: %3$s.
-Pulsa dos veces para ver más detalles. 
-Pulsa dos veces y mantén pulsado para mover."</string>
+    <string name="pa_accessibility_picker_home_widget_replace">Seleccionados %s. Cambiando widgets.</string>
+    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">"%s. 
+Toque dos veces el botón debajo de él para reemplazarlo con otro widget."</string>
+    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">"%s. Estado de instalación: %3$s. El botón \"Cambiar\" está debajo. 
+Pulse dos veces para cambiar."</string>
+    <string name="pa_accessibility_picker_home_widget_slected">"%1$s, %2$s, Estado de instalación: %3$s, 
+toque dos veces para obtener más detalles, 
+pulse dos veces y mantenga presionado para mover."</string>
     <string name="pa_accessibility_picker_home_widget_slected_for_pay">"%1$s, %2$s, estado de instalación: %3$s.
-Pulsa dos veces para ver los detalles."</string>
+Toca dos veces para ver los detalles."</string>
     <string name="pa_accessibility_picker_home_widget_slected_no_drag">"%1$s, %2$s, estado de instalación: %3$s.
 Toca dos veces para ver los detalles."</string>
     <string name="pa_accessibility_picker_home_widget_with_add_slected">"%1$s, fila %2$d, número %3$d. 
-Pulsa dos veces para ver los detalles."</string>
+Doble toque para ver los detalles."</string>
     <string name="pa_accessibility_picker_order_list_to_theme">Temas abiertos</string>
     <string name="pa_accessibility_picker_search_cancel">Barra de búsqueda de widgets. Toca dos veces para cancelar.</string>
-    <string name="pa_accessibility_picker_search_clear">Borrar el texto</string>
+    <string name="pa_accessibility_picker_search_clear">Borrar texto</string>
     <string name="pa_accessibility_picker_search_tips">Barra de búsqueda de widgets. Toca dos veces para buscar.</string>
     <string name="pa_accessibility_picker_status_installed">Instalado</string>
     <string name="pa_accessibility_picker_status_uninstalled">No instalado</string>
@@ -244,7 +244,7 @@ Pulsa dos veces para ver los detalles."</string>
     <string name="pa_accessibility_picker_widget_group_all" formatted="false">Tienda de widgets. Seleccione para ver todos los widgets de %s. Toca dos veces para ver todos los widgets de %s.</string>
     <string name="pa_accessibility_picker_widget_group_item" formatted="false">Tienda de widgets. %s Seleccionado. Toca dos veces para abrir la descripción del widget. El elemento contiene %s widget.</string>
     <string name="pa_accessibility_picker_widget_maml_detail_edit_add_to_minus_desktop">Doble toque para editar.</string>
-    <string name="pa_accessibility_widget_slected_status">%1$s. Estado de la instalación: %2$s.</string>
+    <string name="pa_accessibility_widget_slected_status">%1$s. Estado de instalación: %2$s.</string>
     <string name="pa_announce_for_delete_gadget_and_widget">Widget</string>
     <string name="pa_app_label">Bóveda de aplicaciones</string>
     <string name="pa_base_time_just_now">Justo ahora</string>
@@ -289,7 +289,7 @@ Pulsa dos veces para ver los detalles."</string>
     <string name="pa_express_detail_list_empty_text">"Los elementos pueden aparecer aquí con un retraso.
 También puede realizar un seguimiento de la entrega urgente en los sitios web oficiales de los servicios de mensajería."</string>
     <string name="pa_express_detail_more">Más</string>
-    <string name="pa_express_detail_order_number_prefix">Número del pedido: %s</string>
+    <string name="pa_express_detail_order_number_prefix">Número de pedido: %s</string>
     <string name="pa_express_dialog_sign_message">¿Marcar este paquete como entregado? Su estado ya no se actualizará después de eso.</string>
     <string name="pa_express_empty_extra">Seguir</string>
     <string name="pa_express_empty_title">No hay información de entrega aquí</string>
@@ -381,9 +381,9 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="pa_express_widget_order_42">Ingrese el número de seguimiento</string>
     <string name="pa_express_widget_post">Enviar paquete</string>
     <string name="pa_express_widget_search">Buscar</string>
-    <string name="pa_filter_accessibility_filter_item">%s. Pulsa dos veces para otras selecciones.</string>
-    <string name="pa_filter_accessibility_filter_popup_item_selected">Pulsa dos veces para seleccionar %s.</string>
-    <string name="pa_filter_accessibility_filter_popup_item_unselected">%s. Pulsa dos veces para seleccionar.</string>
+    <string name="pa_filter_accessibility_filter_item">%s. Toca dos veces para filtrar otras selecciones.</string>
+    <string name="pa_filter_accessibility_filter_popup_item_selected">Doble toque para seleccionar %s.</string>
+    <string name="pa_filter_accessibility_filter_popup_item_unselected">%s. Toca dos veces para seleccionar.</string>
     <string name="pa_filter_replace_bt">Aplicar</string>
     <string name="pa_filter_search_title">Resultados para \"%s\"</string>
     <string name="pa_filter_title">Más widgets</string>
@@ -404,7 +404,7 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="pa_lite_setting_private_auth_summary">Las sugerencias de aplicaciones se basarán en sus datos de uso</string>
     <string name="pa_lite_setting_private_policy">Política de privacidad</string>
     <string name="pa_lite_setting_service_covid">Herramientas diarias</string>
-    <string name="pa_lite_setting_service_covid_summry">Las funciones que usas a diario, todas en un solo lugar</string>
+    <string name="pa_lite_setting_service_covid_summry">Las características que usas diariamente, todas en un solo lugar</string>
     <string name="pa_lite_setting_service_express">Entrega urgente</string>
     <string name="pa_lite_setting_service_express_summry">Seguimiento de sus paquetes de entrega urgente</string>
     <string name="pa_lite_setting_service_management">Administrar servicios</string>
@@ -441,8 +441,8 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="pa_olympic_label">Medallas</string>
     <string name="pa_olympic_medal_count">Total de medallas</string>
     <string name="pa_olympic_medals_description">Consulta el ranking de medallas olímpicas</string>
-    <string name="pa_open_personal_assistant_dialog_desc">"Si desactivas la Bóveda de Aplicaciones, no podrás usar sus widgets o acceder a ellos deslizando a la derecha la pantalla de inicio. ¿Desactivar?"</string>
-    <string name="pa_open_personal_assistant_dialog_title">¿Desactivar la Bóveda de Aplicaciones?</string>
+    <string name="pa_open_personal_assistant_dialog_desc">"Si desactivas la bóveda de la aplicación, no podrás usar widgets o acceder a ellos deslizando a la derecha en la pantalla de inicio. ¿Desactivar de todos modos?"</string>
+    <string name="pa_open_personal_assistant_dialog_title">¿Desactivar la bóveda de aplicación?</string>
     <string name="pa_operation_switch_summary">Ver widgets populares recientes</string>
     <string name="pa_operation_switch_title">Promociones populares</string>
     <string name="pa_pad_privacy_text">Widgets de la pantalla de inicio</string>
@@ -466,7 +466,7 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="pa_picker_detail_bottom_bt_text_upgrade">Actualice la aplicación para usar sus widgets</string>
     <string name="pa_picker_detail_bottom_download_app_and_add_widget">Instalar aplicación</string>
     <string name="pa_picker_detail_bottom_update_app_and_add_widget">Actualizar la aplicación</string>
-    <string name="pa_picker_detail_bt_loading">Espera un momento…</string>
+    <string name="pa_picker_detail_bt_loading">Solo un segmento…</string>
     <string name="pa_picker_detail_dialog_open_pa_in_setting_message">Abra la bóveda de aplicaciones para agregar widgets desde allí.</string>
     <string name="pa_picker_detail_dialog_open_pa_in_setting_title">Usar bóveda de aplicaciones</string>
     <string name="pa_picker_detail_download_app_dialog_cancel">Cancelar</string>
@@ -489,13 +489,13 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="pa_picker_detail_net_error">Error de red. Toca para volver a intentarlo.</string>
     <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Solo un segundo…</string>
     <string name="pa_picker_detail_small_widget">Widgets</string>
-    <string name="pa_picker_detail_state_error_retry">Algo ha salido mal. Inténtalo otra vez.</string>
-    <string name="pa_picker_detail_suit_price_already_bought">Comprado</string>
-    <string name="pa_picker_detail_suit_price_placeholder">5 monedas Mi</string>
+    <string name="pa_picker_detail_state_error_retry">Algo salió mal. Inténtelo de nuevo.</string>
+    <string name="pa_picker_detail_suit_price_already_bought">Adquirida</string>
+    <string name="pa_picker_detail_suit_price_placeholder">5 Moneda Mi</string>
     <string name="pa_picker_detail_theme_app_cta">Ajustes</string>
     <string name="pa_picker_detail_theme_app_cta_pre">"Para poder usar este widget, primero permita que Temas se conecte a Internet. "</string>
     <string name="pa_picker_detail_theme_app_need_login">Iniciar sesión</string>
-    <string name="pa_picker_detail_theme_app_need_login_pre">"Antes, inicia sesión en tu cuenta Xiaomi. "</string>
+    <string name="pa_picker_detail_theme_app_need_login_pre">"Inicie sesión en su cuenta Xiaomi primero. "</string>
     <string name="pa_picker_detail_view_more">Ver más</string>
     <string name="pa_picker_detail_vp2_indicator">Página seleccionada %1$d de %2$d</string>
     <string name="pa_picker_detail_wait_wifi_download_maml">Este elemento se descargará a través de Wi-Fi</string>
@@ -507,7 +507,7 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="pa_picker_home_search_hint">Buscar widgets</string>
     <string name="pa_picker_home_title">Agregar widgets</string>
     <string name="pa_picker_image_text_share">Compartir</string>
-    <string name="pa_picker_image_text_share_copy_url">Copiar la dirección URL</string>
+    <string name="pa_picker_image_text_share_copy_url">Copiar URL</string>
     <string name="pa_picker_image_text_share_more">Más</string>
     <string name="pa_picker_image_text_share_wechat_favourite">Favoritos de WeChat</string>
     <string name="pa_picker_image_text_share_wechat_session">WeChat</string>
@@ -526,15 +526,15 @@ También puede realizar un seguimiento de la entrega urgente en los sitios web o
     <string name="pa_picker_no_relevant_content">"No se encontraron resultados"</string>
     <string name="pa_picker_order_go_to_allow_cta">Permitir</string>
     <string name="pa_picker_order_go_to_login">Iniciar sesión</string>
-    <string name="pa_picker_order_login_xiaomi_account">Inicia sesión en tu cuenta Xiaomi para usar esta función.</string>
-    <string name="pa_picker_order_theme_app_cta_pre">Permite a esta aplicación la conexión a Internet para usar esta función.</string>
+    <string name="pa_picker_order_login_xiaomi_account">Inicia sesión en tu cuenta de Xiaomi para poder usar esta función.</string>
+    <string name="pa_picker_order_theme_app_cta_pre">Permitir que esta aplicación se conecte a internet para poder usar esta función.</string>
     <string name="pa_picker_permission_denied">"La bóveda de aplicaciones necesita acceder al estado de instalación
 para mostrar widgets."</string>
-    <string name="pa_picker_purchase_order">Comprado</string>
-    <string name="pa_picker_recommend_add_limit_toast">"No se puede agregar más widgets"</string>
+    <string name="pa_picker_purchase_order">Adquirida</string>
+    <string name="pa_picker_recommend_add_limit_toast">"No se pueden añadir más widgets"</string>
     <string name="pa_picker_recommend_bottom_button_add">Añadir widget</string>
     <string name="pa_picker_recommend_bottom_button_download_and_add">Añadir widget</string>
-    <string name="pa_picker_recommend_download_tip">Cuando añades un widget, la aplicación asociada se descarga automáticamente</string>
+    <string name="pa_picker_recommend_download_tip">Cuando añadas un widget, la aplicación asociada se descargará automáticamente</string>
     <string name="pa_picker_recommend_title">Recomendado para ti</string>
     <string name="pa_picker_request">Ajustes</string>
     <string name="pa_picker_retry">Intentar otra vez</string>
@@ -557,7 +557,7 @@ Añade widgets para empezar."</string>
     <string name="pa_picker_stack_operate_title">Editar grupo</string>
     <string name="pa_picker_suit_list_activity_title">Paquetes de personalización</string>
     <string name="pa_picker_tab_title_category">Categorias</string>
-    <string name="pa_picker_tab_title_fun">Descubrir</string>
+    <string name="pa_picker_tab_title_fun">Descubre</string>
     <string name="pa_picker_tab_title_recommend">Destacado</string>
     <string name="pa_picker_theme_app_version_error">Se ha producido un error</string>
     <string name="pa_picker_tips_count_limit_forbidden">"No se pueden añadir más widgets. Elimina algunos para agregar otros."</string>
@@ -567,8 +567,8 @@ Añade widgets para empezar."</string>
     <string name="pa_picker_toast_count_limit_forbidden_for_type">"No se pueden agregar más widgets de este tipo"</string>
     <string name="pa_picker_toast_count_limit_warning">Agregado exitosamente. Recuerde que colocar demasiados widgets en su pantalla de inicio puede ralentizar su dispositivo.</string>
     <string name="pa_picker_toast_screen_cell_locked">"El diseño de su pantalla de inicio está bloqueado. No se pueden agregar widgets."</string>
-    <string name="pa_picker_widget_select_uninstall_description">%1$s, no está instalado</string>
-    <string name="pa_picker_widget_select_upgrade_description">%1$s, hay una actualización disponible</string>
+    <string name="pa_picker_widget_select_uninstall_description">%1$s, no instalado</string>
+    <string name="pa_picker_widget_select_upgrade_description">%1$s, actualización disponible</string>
     <string name="pa_privacy_text">Privacidad</string>
     <string name="pa_read_storage_permission_description">Para mostrar el fondo de pantalla de inicio como fondo de la aplicación</string>
     <string name="pa_recommend_add_btn">Comienzo</string>
@@ -598,8 +598,8 @@ Añade widgets para empezar."</string>
     <string name="pa_setting_app_usage_auth_dialog_title">Atención</string>
     <string name="pa_setting_bugreport">Comentarios</string>
     <string name="pa_setting_new_simplify_title_bar">Caja fuerte</string>
-    <string name="pa_setting_perm_empty">Aún no hay nada aquí</string>
-    <string name="pa_setting_personalized_recommenddation_swicth_summary">Obtén recomendaciones de widgets sobre la base de tus intereses</string>
+    <string name="pa_setting_perm_empty">Nada aquí aún</string>
+    <string name="pa_setting_personalized_recommenddation_swicth_summary">Obtén recomendaciones de widgets basadas en tus intereses</string>
     <string name="pa_setting_personalized_recommenddation_swicth_title">Recomendaciones personalizadas</string>
     <string name="pa_setting_privacy_auth">Permitir analizar el uso de la aplicación</string>
     <string name="pa_setting_privacy_auth_summary">"Recibirás sugerencias basadas en tus hábitos de uso"</string>
@@ -640,7 +640,7 @@ Añade widgets para empezar."</string>
     <string name="pa_setting_privacy_revoke_positive">Entendido</string>
     <string name="pa_setting_privacy_third_parties">Declaración sobre el intercambio de datos con terceros</string>
     <string name="pa_setting_privacy_view_priv">Ver política de privacidad</string>
-    <string name="pa_setting_simplify_title_bar">Bóveda de Aplicaciones</string>
+    <string name="pa_setting_simplify_title_bar">Caja fuerte</string>
     <string name="pa_setting_version">Versión：%1$s</string>
     <string name="pa_shopping_dialog_privacy_authorize_message">¡Te damos la bienvenida a Compras! Puedes usar este widget para obtener descuentos y ofertas de compra. Lee y acepta nuestra Declaración de Servicios de terceros y la Política de Privacidad antes de continuar.</string>
     <string name="pa_shopping_dialog_privacy_authorize_title">Términos y Condiciones</string>
@@ -664,9 +664,9 @@ Añade widgets para empezar."</string>
     <string name="pa_shopping_widget_no_network_content_desc">"No es posible conectar a la red"</string>
     <string name="pa_shopping_widget_no_privacy_content_desc">Aceptar la Política de Privacidad de Compras para usar esta función. Pulsa para ver.</string>
     <string name="pa_shopping_widget_no_privacy_content_main_desc">Compras</string>
-    <string name="pa_shopping_widget_no_privacy_content_sub_desc">Concede permiso a este widget para obtener cupones y ofertas en tus plataformas de comercio electrónico favoritas</string>
+    <string name="pa_shopping_widget_no_privacy_content_sub_desc">Concede los permisos de este widget para obtener cupones y ofertas para tus plataformas de comercio electrónico favoritas</string>
     <string name="pa_shopping_widget_no_setting_content_desc">Ajustes</string>
-    <string name="pa_shopping_widget_np_privacy_bottom_text">Conceder</string>
+    <string name="pa_shopping_widget_np_privacy_bottom_text">Otorgar</string>
     <string name="pa_shopping_widget_title">Compras</string>
     <string name="pa_shortcut_accessibility_description">"La bóveda de la aplicaciones proporciona accesos directos para aplicaciones de terceros seleccionadas. Estos accesos directos no funcionarán si desactiva la función."</string>
     <string name="pa_shortcut_accessibility_service">Bóveda de aplicaciones</string>
@@ -773,7 +773,7 @@ Añade widgets para empezar."</string>
     <string name="pa_vertical_center">Disposición vertical. Alineado al centro.</string>
     <string name="pa_vertical_left">Disposición vertical. Alineado a la izquierda.</string>
     <string name="pa_vertical_right">Disposición vertical. Alineado a la derecha.</string>
-    <string name="pa_widget_advert_loading_dialog_message">Un momento…</string>
+    <string name="pa_widget_advert_loading_dialog_message">Solo un segmento…</string>
     <string name="pa_widget_menu_edit">Editar</string>
     <string name="pa_widget_menu_edit_card_in_stack">Editar \"%s\"</string>
     <string name="pa_widget_menu_edit_stack">Editar grupo</string>
@@ -792,14 +792,14 @@ Añade widgets para empezar."</string>
     <string name="pa_widget_need_download_permission">Permisos</string>
     <string name="pa_widget_need_download_privacy">Privacidad</string>
     <string name="pa_widget_need_download_version">Versión %1$s</string>
-    <string name="pa_world_cup_widget_authority_tip">Otorgar los permisos para ver información de los partidos de la Copa del Mundo FIFA.</string>
-    <string name="pa_world_cup_widget_authorize">Conceder</string>
-    <string name="pa_world_cup_widget_operation_fail_toast">"No se pudo completar esta acción. Espera un par de minutos e inténtalo otra vez."</string>
+    <string name="pa_world_cup_widget_authority_tip">Otorgar permisos para poder ver información sobre los partidos de la Copa Mundial de la FIFA.</string>
+    <string name="pa_world_cup_widget_authorize">Otorgar</string>
+    <string name="pa_world_cup_widget_operation_fail_toast">"No se pudo completar la acción. Espere uno o dos minutos y vuelva a intentarlo."</string>
     <string name="pa_world_cup_widget_request_error_tip">Se ha producido un error de red</string>
-    <string name="pa_world_cup_widget_request_retry">Inténtalo otra vez</string>
-    <string name="pa_world_cup_widget_reserve_success_toast">"Recibirás un recordatorio antes del comienzo del partido"</string>
-    <string name="pa_world_cup_widget_title">Copa del Mundo FIFA</string>
-    <string name="password_toggle_content_description">Mostrar la contraseña</string>
+    <string name="pa_world_cup_widget_request_retry">Inténtalo de nuevo</string>
+    <string name="pa_world_cup_widget_reserve_success_toast">"Recibirás un recordatorio antes de que comience esta partida"</string>
+    <string name="pa_world_cup_widget_title">Copa Mundial de la FIFA</string>
+    <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>
     <string name="saturday">Sábado</string>
@@ -807,73 +807,9 @@ Añade widgets para empezar."</string>
     <string name="saturday_shortest">Sáb</string>
     <string name="search_menu_title">Buscar</string>
     <string name="send">Enviar</string>
-    <string name="solar_term_autumn_begins">Comienzo del Otoño</string>
-    <string name="solar_term_autumn_equinox">Equinocio de otoño</string>
-    <string name="solar_term_clear_and_bright">Claro y brillante</string>
-    <string name="solar_term_cold_dews">Escarcha</string>
-    <string name="solar_term_grain_buds">Criaturas completas</string>
-    <string name="solar_term_grain_in_ear">Sembrar mijo</string>
-    <string name="solar_term_grain_rain">Lluvia de trigo</string>
-    <string name="solar_term_great_cold">Frío intenso</string>
-    <string name="solar_term_great_heat">Ola de calor</string>
-    <string name="solar_term_heavy_snow">Nieve intensa</string>
-    <string name="solar_term_hoar_frost_falls">Helada</string>
-    <string name="solar_term_insects_awaken">Insectos despiertan</string>
-    <string name="solar_term_light_snow">Nieve ligera</string>
-    <string name="solar_term_slight_cold">Frío moderado</string>
-    <string name="solar_term_slight_heat">Calor moderado</string>
-    <string name="solar_term_spring_begins">Comienzo de la Primavera</string>
-    <string name="solar_term_stopping_the_heat">El calor se retira</string>
-    <string name="solar_term_summer_begins">Empieza el verano</string>
-    <string name="solar_term_summer_solstice">Solsticio de verano</string>
-    <string name="solar_term_the_rains">Chubascos de primavera</string>
-    <string name="solar_term_vernal_equinox">Equinocio de verano</string>
-    <string name="solar_term_white_dews">Rocío</string>
-    <string name="solar_term_winter_begins">Empieza el invierno</string>
-    <string name="solar_term_winter_solstice">Solsticio de invierno</string>
     <string name="sunday">Domingo</string>
     <string name="sunday_short">Dom</string>
     <string name="sunday_shortest">Dom</string>
-    <string name="the_anniversary_of_lifting_martial_law">Aniversario del Levantamiento de la Ley Marcial</string>
-    <string name="the_anti_aggression_day">Día de la lucha contra la agresión</string>
-    <string name="the_arbor_day">Día del árbol</string>
-    <string name="the_armed_forces_day">Día de las Fuerzas Armadas</string>
-    <string name="the_armys_day">Día del PLA</string>
-    <string name="the_childrens_day">"Día del Niño"</string>
-    <string name="the_chinese_youth_day">Día de la Juventud</string>
-    <string name="the_christmas_day">Navidad</string>
-    <string name="the_double_ninth_festival">Festival del Doble Nueve</string>
-    <string name="the_dragon_boat_festival">Festival del Bote del Dragón</string>
-    <string name="the_easter_day">Pascua</string>
-    <string name="the_eve_of_the_spring_festival">Feliz Año Nuevo Chino</string>
-    <string name="the_fifth_day">Quinto día del año nuevo chino</string>
-    <string name="the_fools_day">"Día de los Inocentes de Abril"</string>
-    <string name="the_forth_day">Cuarto día del año nuevo chino</string>
-    <string name="the_hksar_establishment_day">Día del Establecimiento de la Región Administrativa Especial de Hong Kong</string>
-    <string name="the_international_womens_day">"Día de la Mujer"</string>
-    <string name="the_laba_festival">Festival de Laba</string>
-    <string name="the_labour_day">Día del Trabajo</string>
-    <string name="the_lantern_festival">Festival de los Faroles de Primavera</string>
-    <string name="the_mid_autumn_festival">Festival de mediados de otoño</string>
-    <string name="the_national_day">Día Nacional</string>
-    <string name="the_national_father_day">"Cumpleaños de Sun Yat-sen"</string>
-    <string name="the_new_years_day">Año Nuevo</string>
-    <string name="the_night_of_sevens">Día chino del Amor</string>
-    <string name="the_partys_day">Día del CPC</string>
-    <string name="the_peace_day">Día de la conmemoración</string>
-    <string name="the_retrocession_day">Aplicaciones</string>
-    <string name="the_second_day">Segundo día del Año Nuevo Chino</string>
-    <string name="the_seventh_day">Séptimo día del Año Nuevo Chino</string>
-    <string name="the_sixth_day">Sexto día del Año Nuevo Chino</string>
-    <string name="the_spirit_festival">Festival fantasma</string>
-    <string name="the_spring_festival">Año Nuevo Chino</string>
-    <string name="the_teachers_day">"Día del profesor"</string>
-    <string name="the_third_day">Tercer día del Año Nuevo Chino</string>
-    <string name="the_tw_childrens_day">"Día del Niño"</string>
-    <string name="the_tw_youth_day">Día de la Juventud</string>
-    <string name="the_united_nations_day">Día de las Naciones Unidas</string>
-    <string name="the_valentines_day">"Día de San Valentín"</string>
-    <string name="the_water_lantern_festival">Festival de las Luces de Agua</string>
     <string name="thursday">Jueves</string>
     <string name="thursday_short">Jue</string>
     <string name="thursday_shortest">Jue</string>

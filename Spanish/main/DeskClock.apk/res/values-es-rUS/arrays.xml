@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="alarm_in_furture_new_array">
-        <item>La alarma sonará en menos de %d minuto</item>
-        <item>La alarma sonará en %1$s</item>
-        <item>La alarma sonará en %2$s</item>
-        <item>La alarma sonará en %1$s %2$s</item>
-        <item>La alarma sonará en %3$s</item>
-        <item>La alarma sonará en %1$s %3$s</item>
-        <item>La alarma sonará en %2$s %3$s</item>
-        <item>La alarma sonará en %1$s %2$s %3$s</item>
+        <item>Alarma en menos de %d minuto</item>
+        <item>Alarma en %1$s</item>
+        <item>Alarma en %2$s</item>
+        <item>Alarma en %1$s %2$s</item>
+        <item>Alarma en %3$s</item>
+        <item>Alarma en %1$s %3$s</item>
+        <item>Alarma en %2$s %3$s</item>
+        <item>Alarma en %1$s %2$s %3$s</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>Una vez</item>
@@ -34,65 +34,6 @@
         <item>La alarma sonará en %2$s y %3$s.</item>
         <item>La alarma sonará en %1$s %2$s y %3$s.</item>
     </string-array>
-    <string-array name="alphabet_table">
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="aqi_value">
         <item>Bueno</item>
         <item>Satisfactorio</item>
@@ -107,13 +48,13 @@
         <item>Días laborables</item>
     </string-array>
     <string-array name="bedtime_guide_repeat_type_international">
-        <item>Lunes a Viernes</item>
-        <item>Cada día</item>
+        <item>Lunes a Vie</item>
+        <item>Todos los días</item>
     </string-array>
     <string-array name="bedtime_repeat_entires_international">
-        <item>Cada día</item>
-        <item>Lunes a Viernes</item>
-        <item>Personalizada</item>
+        <item>Todos los días</item>
+        <item>Lunes a Vie</item>
+        <item>Personalizado</item>
     </string-array>
     <string-array name="bedtime_repeat_entries">
         <item>Todos los días</item>
@@ -222,7 +163,7 @@
         <item>Bakú</item>
         <item>Bangkok</item>
         <item>Beirut</item>
-        <item>Calcuta</item>
+        <item>Kolkata</item>
         <item>Damasco</item>
         <item>Daca</item>
         <item>Dubái</item>
@@ -308,7 +249,7 @@
         <item>Sofía</item>
         <item>Estocolmo</item>
         <item>Tallin</item>
-        <item>Ciudad del Vaticano</item>
+        <item>Ciudad de Vatican</item>
         <item>Viena</item>
         <item>Vilna</item>
         <item>Varsovia</item>

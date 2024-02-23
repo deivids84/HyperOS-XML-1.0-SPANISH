@@ -53,6 +53,7 @@
     <string name="eras_bc">AC</string>
     <string name="evening">Tarde</string>
     <string name="expand_button_title">Avanzado</string>
+    <string name="expand_top_notification">Expandir notificación superior</string>
     <string name="feedback">Comentarios</string>
     <string name="float_notification_snooze_strategy">Ocultar temporalmente</string>
     <string name="float_notification_snooze_summary">Desliza hacia arriba en una notificación flotante para ocultar temporalmente las siguientes</string>

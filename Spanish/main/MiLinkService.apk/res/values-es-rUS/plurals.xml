@@ -5,16 +5,16 @@
         <item quantity="other">Hace 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Hace 1 hora</item>
-        <item quantity="other">Hace 1 hora</item>
+        <item quantity="one">Hace %d horas</item>
+        <item quantity="other">Hace %d horas</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Hace media hora</item>
         <item quantity="other">Hace media hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">En 1 hora</item>
-        <item quantity="other">En 1 hora</item>
+        <item quantity="one">En %d hora</item>
+        <item quantity="other">En %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">En media hora</item>
@@ -25,8 +25,8 @@
         <item quantity="other">Inmediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">en %d min</item>
-        <item quantity="one">en 1 min</item>
+        <item quantity="other">En %d minutos</item>
+        <item quantity="one">En %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ahora mismo</item>
@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Hace %d minutos</item>
-        <item quantity="one">Hace 1 minuto</item>
+        <item quantity="one">Hace %d minutos</item>
     </plurals>
     <plurals name="car_map_hour">
         <item quantity="other">%d horas</item>
@@ -58,11 +58,11 @@
     </plurals>
     <plurals name="circulate_audio_group_subtitle_format">
         <item quantity="other">%1$d dispositivos</item>
-        <item quantity="one">%1$d dispositivo</item>
+        <item quantity="one">Dispositivo %1$d</item>
     </plurals>
     <plurals name="circulate_audio_group_title_format">
         <item quantity="other">%1$d dispositivos</item>
-        <item quantity="one">%1$d dispositivo</item>
+        <item quantity="one">Dispositivo %1$d</item>
     </plurals>
     <plurals name="controller_auth_count_down">
         <item quantity="other">Introduzca el código de %1$s (%2$d segs)</item>
@@ -97,11 +97,15 @@
         <item quantity="one">%d elemento seleccionado</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d notificaciones nuevas</item>
-        <item quantity="one">%d notificación nueva</item>
+        <item quantity="other">%d nuevas notificaciones</item>
+        <item quantity="one">%d nueva notificación</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Hace %d minutos</item>
         <item quantity="one">Hace 1 minuto</item>
+    </plurals>
+    <plurals name="remember_number_habit">
+        <item quantity="other">Patrones %1$d recordados</item>
+        <item quantity="one">Patrón %1$d recordado</item>
     </plurals>
 </resources>

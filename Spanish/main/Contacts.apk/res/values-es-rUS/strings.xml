@@ -91,12 +91,12 @@
     <string name="bh_cancellation_of_carrier_services_result">"Si continúa, cancelará los Servicios de Mi Carrier. Después de eso, dejaremos de recopilar y usar su información personal y eliminaremos su historial de pedidos de forma permanente. Asegúrese de que todas sus transacciones se completen antes de cancelar los servicios."</string>
     <string name="bh_cannot_action">"No se pudo usar %1$s. Instale la aplicación correspondiente primero."</string>
     <string name="bh_cannot_fetch_num">Número de teléfono desconocido</string>
-    <string name="bh_cannot_login_miacount">"No se pudo iniciar sesión en la cuenta Xiaomi"</string>
+    <string name="bh_cannot_login_miacount">"No se pudo iniciar sesión en la cuenta de Xiaomi"</string>
     <string name="bh_card_order_detail">Información de pedido</string>
     <string name="bh_card_order_name">Paquete de servicios</string>
     <string name="bh_card_order_pay_price">Cantidad pagada</string>
     <string name="bh_card_order_price">Precio</string>
-    <string name="bh_cbn">China Broadnet</string>
+    <string name="bh_cbn">Broadnet de China</string>
     <string name="bh_charge_confirm">¿Añadir %2$s CNY a %1$s?</string>
     <string name="bh_charge_continue">Recarga</string>
     <string name="bh_charge_number">Relleno %1$s</string>
@@ -123,10 +123,10 @@
     <string name="bh_express_number">Número de paquete</string>
     <string name="bh_fetch_balance">Consultar saldo</string>
     <string name="bh_flow_exceed">Superó el límite</string>
-    <string name="bh_funtion_desc">¡Bienvenido a Servicios Mi Carrier! Puede utilizar esta aplicación para consultar el saldo de su teléfono, comprar minutos de llamadas y datos móviles, y más.</string>
+    <string name="bh_funtion_desc">¡Bienvenido a Mi Carrier Services! Puedes usar esta aplicación para comprobar el saldo de tu teléfono, comprar minutos de llamadas y datos móviles, y más.</string>
     <string name="bh_get_balance_success">Comprobado con éxito. Es posible que la información se actualice con un retraso aquí.</string>
     <string name="bh_get_charge_phone_number">Seleccionar desde contactos</string>
-    <string name="bh_goto_granted">Conceder permisos</string>
+    <string name="bh_goto_granted">Otorgar permisos</string>
     <string name="bh_goto_open">No concedido</string>
     <string name="bh_goto_set">Establecer</string>
     <string name="bh_i_got_it">Entendido</string>
@@ -195,7 +195,7 @@
     <string name="bh_save_desc">Guarde este número para usarlo en la próxima recarga</string>
     <string name="bh_save_sccuss">Guardado con éxito</string>
     <string name="bh_saved_number">Número guardado: %1$s</string>
-    <string name="bh_should_login_to_buy">Inicia sesión en la cuenta Xiaomi para comprar minutos de llamada y datos móviles</string>
+    <string name="bh_should_login_to_buy">Inicia sesión en la cuenta de Xiaomi para poder comprar minutos de llamadas y datos móviles</string>
     <string name="bh_similar_number_hint">Este número es similar a %1$s. ¿Completar este número de todos modos?</string>
     <string name="bh_stop_carrier_services">Desactivar los servicios de Mi Carrier</string>
     <string name="bh_stop_carrier_services_short">Desactivar los servicios de Mi Carrier</string>
@@ -258,7 +258,7 @@
     <string name="call_home">Llamar a casa</string>
     <string name="call_isdn">Llamar a ISDN</string>
     <string name="call_limit">Restricciones de llamada</string>
-    <string name="call_limit_content">"No se puede llamar a “%s”, solo a números que estén en la lista de contactos autorizados."</string>
+    <string name="call_limit_content">"No se pudo llamar a “%s”. Solo puede llamar a números de teléfono que estén en su lista de contactos aprobados."</string>
     <string name="call_main">Llamar al teléfono principal</string>
     <string name="call_mms">Llamar a MMS</string>
     <string name="call_mobile">Llamar al móvil</string>
@@ -314,7 +314,7 @@
     <string name="callrecordview_menu_show_missed">Llamadas perdidas</string>
     <string name="callrecordview_menu_show_sim">%s llamadas</string>
     <string name="callrecordview_menu_show_stranger">Llamadas de números desconocidos</string>
-    <string name="callrecordview_menu_xiaoaiphone">Asistente de Llamada IA</string>
+    <string name="callrecordview_menu_xiaoaiphone">Asistente de Llamada Mi AI</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_confirmation_dialog_message">¿Descartar los cambios?</string>
     <string name="cancel_confirmation_dialog_title">Cancelar</string>
@@ -417,7 +417,7 @@
     <string name="create_group_dialog_title">Crear un grupo nuevo</string>
     <string name="create_qrcode_fail_message">"No se puede crear código QR"</string>
     <string name="cta_content_seg1"><Data>\"&lt;strong&gt;Aviso importante
-Pulsando \"Aceptar\" abajo, estás conforme con el &lt;font color=#33aaff&gt;&lt;a href =\'https://static.account.xiaomi.com/html/agreement/account/en.html\'&gt;Acuerdo de Servicio de Cuenta Xiaomi&lt;/a&gt;&lt;/font&gt;, &lt;font color=#33aaff&gt;&lt;a href =\'https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html\'&gt;Acuerdo de usuario de Mi Roaming&lt;/a&gt;&lt;/font&gt;, y la &lt;font color=#33aaff&gt;&lt;a href =\'http://www.miui.com/res/doc/privacy/en.html\'&gt;Política de Privacidad&lt;/a&gt;&lt;/font&gt;. Lee estos documentos cuidadosamente hasta que entiendas completamente todos los términos y condiciones relacionados antes de pulsar \"Aceptar\".&lt;/strong&gt;\"</Data></string>
+Al tocar \"Aceptar\" a continuación, estás de acuerdo con &lt;font color=#33aaff&gt;&lt;a href =\'https://static.account.xiaomi.com/html/agreement/account/en.html\'&gt;Acuerdo de servicio de la cuenta de Xiaomi&lt;/a&gt;&lt;/font&gt;, &lt;font color=#33aaff&gt;&lt;a href =\'https://cnbj1-fds.api.xiaomi.com/mimobile-static/mi-carrier-services-useragreement.html\'&gt;Acuerdo de usuario de Mi Roaming&lt;/a&gt;&lt;/font&gt;y &lt;font color=#33aaff&gt;&lt;a href =\'http://www.miui.com/res/doc/privacy/en.html\'&gt;Política de privacidad&lt;/a&gt;&lt;/font&gt;. Lea atentamente estos documentos y comprenda completamente todos los términos y condiciones relacionados antes de aceptar.&lt;/strong&gt;\"</Data></string>
     <string name="cta_content_seg2">"
 Mi Roaming necesita conectarse a Internet y acceder a la información de su ubicación para funcionar normalmente. Además, Mi Roaming puede recopilar, usar y compartir su información personal. Su información personal estará protegida de acuerdo con las leyes y regulaciones locales."</string>
     <string name="cta_dialog_cancel">Salir</string>
@@ -569,15 +569,15 @@ Motivo: \"%s\""</string>
     <string name="exporting_contact_failed_title">"No se pudo exportar"</string>
     <string name="exporting_contact_list_message">Exportando a %s.</string>
     <string name="exporting_contact_list_title">Exportando datos de contacto</string>
-    <string name="exporting_vcard_canceled_title">Exportación de %s cancelada.</string>
-    <string name="exporting_vcard_finished_title">Exportación %s finalizada.</string>
+    <string name="exporting_vcard_canceled_title">Exportación de %s cancelada</string>
+    <string name="exporting_vcard_finished_title">Exportación finalizada %s</string>
     <string name="external_profile_title">Mi perfil de %1$s</string>
-    <string name="fail_reason_could_not_initialize_exporter">"No es posible iniciar la exportación: \"%s\"."</string>
-    <string name="fail_reason_could_not_open_file">"No se pudo abrir \"%1$s\": %2$s."</string>
-    <string name="fail_reason_error_occurred_during_export">Ha ocurrido un error durante la exportación: \"%s\".</string>
+    <string name="fail_reason_could_not_initialize_exporter">"No se pudo inicializar la exportación: %s"</string>
+    <string name="fail_reason_could_not_open_file">"No se pudo abrir \"%1$s\": %2$s"</string>
+    <string name="fail_reason_error_occurred_during_export">Se ha producido un error durante la exportación: %s</string>
     <string name="fail_reason_io_error">Error de E/S</string>
     <string name="fail_reason_low_memory_during_import">Memoria insuficiente. El archivo podría ser demasiado grande.</string>
-    <string name="fail_reason_no_exportable_contact">No hay contactos que exportar.</string>
+    <string name="fail_reason_no_exportable_contact">Contacto exportable no encontrado</string>
     <string name="fail_reason_not_supported">"Formato no admitido."</string>
     <string name="fail_reason_too_long_filename">El nombre de archivo necesario es demasiado largo (\"%s\").</string>
     <string name="fail_reason_too_many_vcard">Demasiados archivos vCard en la memoria.</string>
@@ -620,8 +620,9 @@ Motivo: \"%s\""</string>
     <string name="groups_list_empty">Sin grupos</string>
     <string name="hide_app_description_content">"Contactos es una aplicación del sistema. Aún podrá usarlo a través de la aplicación Teléfono después de eliminar el acceso directo de la pantalla de inicio."</string>
     <string name="hide_app_description_title">¿Eliminar \"Contactos\" de la pantalla de inicio?</string>
+    <string name="hint_distance">Mantenga los dos dispositivos cerca unos de otros durante el proceso de importación para asegurarse de que permanecen conectados.</string>
     <string name="hint_findContacts">Buscar contactos</string>
-    <string name="hint_more_contact">Combinar contactos duplicados</string>
+    <string name="hint_more_contact">Si la importación crea contactos duplicados, utilice la función \"Fusionar contactos duplicados\".</string>
     <string name="hybrid_check_network">Ajustes de red</string>
     <string name="hybrid_data_error">Ha ocurrido un error</string>
     <string name="hybrid_locating_fail">"No se pudo determinar su ubicación"</string>
@@ -655,7 +656,7 @@ Motivo: \"%s\""</string>
     <string name="import_to_xiaomi_account_progress_message">Importando…</string>
     <string name="import_to_xiaomi_account_title">Importar a la cuenta Xiaomi</string>
     <string name="import_vcard_dialog_message">¿Importar vCard?</string>
-    <string name="importing_sim_contacts_miui">Importando contactos de la tarjeta SIM…</string>
+    <string name="importing_sim_contacts_miui">Importando contactos desde la tarjeta SIM</string>
     <string name="importing_sim_contacts_miui_prepare">Preparando contactos …</string>
     <string name="importing_vcard_canceled_title">Importación %s canceleda</string>
     <string name="importing_vcard_description">Importando %s</string>
@@ -739,7 +740,7 @@ Motivo: \"%s\""</string>
     <string name="missing_required_permission">No tiene habilitada una autorización necesaria.</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
     <string name="miuix_alphabet_indexer_name">Barra de índice</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Anular selección</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar todo</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Más</string>
@@ -749,7 +750,7 @@ Motivo: \"%s\""</string>
     <string name="miuix_appcompat_cloud_state_syncing">Sincronizando con la nube…</string>
     <string name="miuix_appcompat_confirm_description">Confirmar</string>
     <string name="miuix_appcompat_delete_description">Eliminar</string>
-    <string name="miuix_appcompat_deselect_all">Anular selección</string>
+    <string name="miuix_appcompat_deselect_all">Deseleccionar todo</string>
     <string name="miuix_appcompat_deselect_all_description">Deseleccionar todo</string>
     <string name="miuix_appcompat_edit">Editar</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Cancelar</string>
@@ -759,10 +760,10 @@ Motivo: \"%s\""</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
-    <string name="miuix_item_view_role_description">Pestaña</string>
-    <string name="miuix_navigator_content_switch_description">Mostrar barra lateral</string>
+    <string name="miuix_item_view_role_description">Tab</string>
+    <string name="miuix_navigator_content_switch_description">Show sidebar</string>
     <string name="miuix_navigator_multiple_choice">Seleccionar</string>
-    <string name="miuix_navigator_navigator_switch_description">Esconder barra lateral</string>
+    <string name="miuix_navigator_navigator_switch_description">Hide sidebar</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Deslice hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -862,9 +863,11 @@ Pulsa \"%1$s\" y luego selecciona \"%2$s\"."</string>
     <string name="notification_click_detail">Toque para ver detalles</string>
     <string name="notification_micloudsync_delete_contact">Xiaomi Cloud quiere eliminar algunos de sus contactos</string>
     <string name="notification_missedCallTitle">Llamada perdida</string>
-    <string name="notification_missedCall_call_back">Devolver la llamada</string>
+    <string name="notification_missedCall_call_back">Devolver</string>
     <string name="notification_missedCall_message">Enviar SMS</string>
     <string name="notification_missedCallsTitle">Llamadas perdidas</string>
+    <string name="notification_title_export">Exportar contactos</string>
+    <string name="notification_title_import">Importar contactos</string>
     <string name="open_contact">Ver contacto</string>
     <string name="open_dial_pad_description">Abrir teclado</string>
     <string name="option_delete_contact">Eliminar</string>
@@ -973,7 +976,7 @@ Pulsa \"%1$s\" y luego selecciona \"%2$s\"."</string>
     <string name="preference_smart_group_title">Grupos inteligentes</string>
     <string name="preference_tone_title">Tonos</string>
     <string name="preference_yellowpage_function_setting">Configuración de páginas amarillas</string>
-    <string name="presentation_payphone">Teléfono público</string>
+    <string name="presentation_payphone">Teléfono</string>
     <string name="presentation_private">Número privado</string>
     <string name="presentation_unknown">Número desconocido</string>
     <string name="previous">Anterior</string>
@@ -1040,9 +1043,9 @@ Pulsa \"%1$s\" y luego selecciona \"%2$s\"."</string>
     <string name="remove_blacklist">Desbloquear</string>
     <string name="remove_blacklist_dialog_message">¿Mostrar llamadas y mensajes de este número?</string>
     <string name="remove_blacklist_dialog_title">¿Desbloquear este número?</string>
-    <string name="remove_duplicate">"Esta función le ayuda a encontrar y fusionar contactos duplicados.
+    <string name="remove_duplicate">"Esta función te ayuda a encontrar y combinar contactos duplicados.
 
-Para comenzar, toque \"Fusionar\" en la parte inferior de la pantalla."</string>
+Para empezar, pulsa \"Combinar\" en la parte inferior de tu pantalla."</string>
     <string name="residual_time_description">%1$sdía%2$shora</string>
     <string name="restore_app_btn_cancel">Cancelar</string>
     <string name="restore_app_btn_restore">Aceptar</string>
@@ -1164,31 +1167,6 @@ Para comenzar, toque \"Fusionar\" en la parte inferior de la pantalla."</string>
     <string name="sms_work">Enviar mensaje al trabajo</string>
     <string name="sms_work_mobile">Enviar mensaje al móvil del trabajo</string>
     <string name="sms_work_pager">Enviar mensaje al buscapersonas del trabajo</string>
-    <string name="solar_calendar">公历</string>
-    <string name="solar_term_autumn_begins">Comienzo del Otoño</string>
-    <string name="solar_term_autumn_equinox">Equinocio de otoño</string>
-    <string name="solar_term_clear_and_bright">Claro y brillante</string>
-    <string name="solar_term_cold_dews">Escarcha</string>
-    <string name="solar_term_grain_buds">Criaturas completas</string>
-    <string name="solar_term_grain_in_ear">Sembrar mijo</string>
-    <string name="solar_term_grain_rain">Lluvia de trigo</string>
-    <string name="solar_term_great_cold">Frío intenso</string>
-    <string name="solar_term_great_heat">Ola de calor</string>
-    <string name="solar_term_heavy_snow">Nieve intensa</string>
-    <string name="solar_term_hoar_frost_falls">Helada</string>
-    <string name="solar_term_insects_awaken">Insectos despiertan</string>
-    <string name="solar_term_light_snow">Nieve ligera</string>
-    <string name="solar_term_slight_cold">Frío moderado</string>
-    <string name="solar_term_slight_heat">Calor moderado</string>
-    <string name="solar_term_spring_begins">Comienzo de la Primavera</string>
-    <string name="solar_term_stopping_the_heat">El calor se retira</string>
-    <string name="solar_term_summer_begins">Empieza el verano</string>
-    <string name="solar_term_summer_solstice">Solsticio de verano</string>
-    <string name="solar_term_the_rains">Chubascos de primavera</string>
-    <string name="solar_term_vernal_equinox">Equinocio de verano</string>
-    <string name="solar_term_white_dews">Rocío</string>
-    <string name="solar_term_winter_begins">Empieza el invierno</string>
-    <string name="solar_term_winter_solstice">Solsticio de invierno</string>
     <string name="special_code_security_exception">"No se pudo completar la acción. Este no es su teclado de marcación predeterminado"</string>
     <string name="splitConfirmation_title">¿Separar contactos?</string>
     <string name="starredList">Destacados</string>
@@ -1219,7 +1197,6 @@ Para comenzar, toque \"Fusionar\" en la parte inferior de la pantalla."</string>
     <string name="the_armed_forces_day">Día de las Fuerzas Armadas</string>
     <string name="the_armys_day">Dia del PLA</string>
     <string name="the_childrens_day">"Día de los niños"</string>
-    <string name="the_chinese_youth_day">Día de la juventud</string>
     <string name="the_christmas_day">Navidad</string>
     <string name="the_double_ninth_festival">Festival del doble noveno</string>
     <string name="the_dragon_boat_festival">Festival del barco del dragón</string>

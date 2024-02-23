@@ -5,7 +5,7 @@
         <item quantity="other">Hace 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Hace %d hora</item>
+        <item quantity="one">Hace %d horas</item>
         <item quantity="other">Hace %d horas</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
@@ -14,7 +14,7 @@
     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="one">En %d hora</item>
-        <item quantity="other">En %d horas</item>
+        <item quantity="other">En %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">En media hora</item>
@@ -26,7 +26,7 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">En %d minutos</item>
-        <item quantity="one">En %d minuto</item>
+        <item quantity="one">En %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ahora mismo</item>
@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Hace %d minutos</item>
-        <item quantity="one">Hace %d minuto</item>
+        <item quantity="one">Hace %d minutos</item>
     </plurals>
     <plurals name="aod_dual_togother_city">
         <item quantity="other">" %1$s horas %2$s"</item>
@@ -67,12 +67,12 @@ Las animaciones más largas se detendrán en este punto."</item>
         <item quantity="other">Hace media hora</item>
     </plurals>
     <plurals name="health_chart_calories_burned_schedule_format_desc">
-        <item quantity="other">%1$s calorías quemadas</item>
-        <item quantity="one">%1$s caloría quemada</item>
+        <item quantity="other">Calorías quemadas de %1$s</item>
+        <item quantity="one">Quemado %1$s Calorie</item>
     </plurals>
     <plurals name="health_chart_calories_goal_schedule_format_desc">
-        <item quantity="other">Objetivo de calorías: %1$s calorías</item>
-        <item quantity="one">Objetivo de calorías: %1$s caloría</item>
+        <item quantity="other">Objetivo de Caloria: %1$s Calorías</item>
+        <item quantity="one">Objetivo de Calorie: %1$s Calorie</item>
     </plurals>
     <plurals name="health_chart_calories_schedule_format">
         <item quantity="other">%1$s/%2$s kcal</item>
@@ -87,32 +87,32 @@ Las animaciones más largas se detendrán en este punto."</item>
         <item quantity="one">Objetivo de actividad: %1$s minuto</item>
     </plurals>
     <plurals name="health_chart_sport_time_schedule_format">
-        <item quantity="other">%1$s/%2$s min</item>
+        <item quantity="other">%1$s/%2$s minutos</item>
         <item quantity="one">%1$s/%2$s min</item>
     </plurals>
     <plurals name="health_chart_stand_count_schedule_format_desc">
-        <item quantity="other">Levantado en %1$s horas</item>
-        <item quantity="one">Levantado en %1$s hora</item>
+        <item quantity="other">Almacenamiento dentro de %1$s horas</item>
+        <item quantity="one">Almacenar dentro de %1$s hora</item>
     </plurals>
     <plurals name="health_chart_stand_goal_schedule_format_desc">
-        <item quantity="other">Objetivo de tiempo levantado: %1$s horas</item>
-        <item quantity="one">Objetivo de tiempo levantado: %1$s hora</item>
+        <item quantity="other">Objetivo permanente: %1$s horas</item>
+        <item quantity="one">Objetivo permanente: %1$s hora</item>
     </plurals>
     <plurals name="health_chart_stand_schedule_format">
-        <item quantity="other">%1$s/%2$s h</item>
-        <item quantity="one">%1$s/%2$s h</item>
+        <item quantity="other">%1$s/%2$s horas</item>
+        <item quantity="one">%1$s/%2$s hora</item>
     </plurals>
     <plurals name="health_chart_step_count_current_schedule_format_desc">
-        <item quantity="other">Conteo de pasos actual: %1$s pasos</item>
-        <item quantity="one">Conteo de pasos actual: %1$s paso</item>
+        <item quantity="other">Número de pasos actual: %1$s pasos</item>
+        <item quantity="one">Número de pasos actual: %1$s paso</item>
     </plurals>
     <plurals name="health_chart_step_count_goal_schedule_format_desc">
-        <item quantity="other">Objetivo de pasos: %1$s pasos</item>
-        <item quantity="one">Objetivo de pasos: %1$s paso</item>
+        <item quantity="other">Objetivo paso: %1$s pasos</item>
+        <item quantity="one">Objetivo paso: %1$s paso</item>
     </plurals>
     <plurals name="health_chart_step_count_schedule_format">
         <item quantity="other">%1$s/%2$s pasos</item>
-        <item quantity="one">%1$s/%2$s paso</item>
+        <item quantity="one">Paso %1$s/%2$s</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="one">En 1 hora</item>

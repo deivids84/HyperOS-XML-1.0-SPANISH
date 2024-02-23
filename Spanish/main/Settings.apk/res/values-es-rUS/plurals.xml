@@ -5,7 +5,7 @@
         <item quantity="other">Hace 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Hace %d hora</item>
+        <item quantity="one">Hace %d horas</item>
         <item quantity="other">Hace %d horas</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
@@ -14,7 +14,7 @@
     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="one">En %d hora</item>
-        <item quantity="other">En %d horas</item>
+        <item quantity="other">En %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">En media hora</item>
@@ -25,7 +25,7 @@
         <item quantity="other">Inmediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">En %d min</item>
+        <item quantity="other">En %d minutos</item>
         <item quantity="one">En %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
@@ -33,8 +33,8 @@
         <item quantity="other">Justo ahora</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Hace %d min</item>
-        <item quantity="one">Hace %d min</item>
+        <item quantity="other">Hace %d minutos</item>
+        <item quantity="one">Hace %d minutos</item>
     </plurals>
     <plurals name="abc_slice_duration_days">
         <item quantity="other">Hace %d días</item>
@@ -169,8 +169,8 @@
         <item quantity="one">%d nueva notificación</item>
     </plurals>
     <plurals name="nrca_info">
-        <item quantity="other">Los cambios se aplicarán en %d s</item>
-        <item quantity="one">Los cambios se aplicarán en %d s</item>
+        <item quantity="other">Los cambios se aplicarán en %d segundos</item>
+        <item quantity="one">Los cambios se aplicarán en %d seg</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Hace %d minutos</item>
@@ -185,8 +185,8 @@
         <item quantity="one">"Está a %1$d paso de acceder a CIT."</item>
     </plurals>
     <plurals name="show_dev_countdown">
-        <item quantity="other">"Estás a %1$d pasos de ser un desarrollador."</item>
-        <item quantity="one">"Estás a %1$d paso de ser un desarrollador."</item>
+        <item quantity="other">"Ahora estás a %1$d pasos de ser un desarrollador."</item>
+        <item quantity="one">"Ahora estás a %1$d paso de ser un desarrollador."</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">"Está a %1$d paso de acceder a la información del dispositivo."</item>

@@ -33,25 +33,25 @@
     <string name="afternoon">Tarde</string>
     <string name="am">AM</string>
     <string name="app_name">Encontrar dispositivo</string>
-    <string name="call_notification_answer_action">Responder</string>
+    <string name="call_notification_answer_action">Respuesta</string>
     <string name="call_notification_answer_video_action">Vídeo</string>
     <string name="call_notification_decline_action">Rechazar</string>
     <string name="call_notification_hang_up_action">Colgar</string>
     <string name="call_notification_incoming_text">Llamada entrante</string>
     <string name="call_notification_ongoing_text">Llamada en curso</string>
-    <string name="call_notification_screening_text">Filtrando una llamada entrante</string>
+    <string name="call_notification_screening_text">Capturar una llamada entrante</string>
     <string name="captcha">Captcha</string>
     <string name="change_find_device_status_failed">"No se pudo desbloquear. %s."</string>
     <string name="clearable_edittext_clear_description">Borrar</string>
     <string name="close">Cerrar</string>
     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">"Para acceder al número de teléfono para localizar este dispositivo cuando no está conectado a Internet"</string>
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">"Para localizar este dispositivo cuando no está conectado a Internet"</string>
-    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Para localizar tu dispositivo y cambiar al modo perdido</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Para localizar tu dispositivo y cambiar al modo Perdido</string>
     <string name="date_picker_lunar">Calendario chino tradicional</string>
     <string name="date_time_picker_dialog_title">Ajustar fecha y hora</string>
     <string name="default_debt_msg_words">"Este dispositivo está bloqueado por un pago de instalación atrasado.
 Contacte a su agente de ventas para más detalles."</string>
-    <string name="default_lock_msg_words">Este dispositivo está asociado con un ID de Cuenta Xiaomi existente. Por razones de seguridad, introduce la contraseña para verificar el dispositivo.</string>
+    <string name="default_lock_msg_words">Este dispositivo está asociado con una cuenta Xiaomi existente. Por razones de seguridad, debe introducir contraseña para verificar el dispositivo.</string>
     <string name="default_lock_msg_words_with_phone">¡Hola! Perdí este dispositivo. ¿Podrías contactarme por favor? ¡Gracias!</string>
     <string name="device_locked">Este dispositivo está bloqueado</string>
     <string name="device_lost">Este dispositivo está perdido</string>
@@ -71,8 +71,8 @@ Contacte a su agente de ventas para más detalles."</string>
     <string name="find_device_capture_notification_title">Encontrar dispositivo está a punto de tomar una foto</string>
     <string name="find_device_crash">Encontrar dispositivo se cerró inesperadamente.</string>
     <string name="find_device_error_access_denied">Acceso denegado.</string>
-    <string name="find_device_error_account_sys_timeout">"No se pudo conectar a Cuenta Xiaomi."</string>
-    <string name="find_device_error_account_unknown_error">Error de Cuenta Xiaomi (%s).</string>
+    <string name="find_device_error_account_sys_timeout">"No se pudo conectar a la cuenta Xiaomi."</string>
+    <string name="find_device_error_account_unknown_error">Error de cuenta Xiaomi (%s).</string>
     <string name="find_device_error_custom">%s</string>
     <string name="find_device_error_network">Error de red.</string>
     <string name="find_device_error_password_changed">Su contraseña ha sido cambiada recientemente.</string>
@@ -88,12 +88,12 @@ Contacte a su agente de ventas para más detalles."</string>
     <string name="find_device_success_title">Encontrar dispositivo está activado</string>
     <string name="find_device_telephony_fault">Encontrar dispositivo: error de telefonía (%s).</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM aaaa</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
-    <string name="fmt_time_12hour">"hora en punto"</string>
+    <string name="fmt_date_short_year_month_day">d MMM aaaa</string>
+    <string name="fmt_time_12hour">"h 'o'''reloj"</string>
     <string name="friday">Viernes</string>
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
@@ -103,7 +103,7 @@ Contacte a su agente de ventas para más detalles."</string>
     <string name="login_failed">"No se pudo iniciar sesión. %s."</string>
     <string name="midnight">Noche</string>
     <string name="miuix_access_state_desc">Seleccionado</string>
-    <string name="miuix_alphabet_indexer_name">Barra de índice</string>
+    <string name="miuix_alphabet_indexer_name">Barra de índices</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deseleccionar todo</string>
     <string name="miuix_appcompat_action_mode_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_action_mode_title_empty">Seleccionar elementos</string>
@@ -120,7 +120,7 @@ Contacte a su agente de ventas para más detalles."</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
     <string name="miuix_indexer_collect">Colecciones</string>
-    <string name="miuix_indexer_selected">Seleccionado %s</string>
+    <string name="miuix_indexer_selected">Seleccionada %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Deslice hacia abajo para actualizar</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Actualizado con éxito</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Actualizando…</string>
@@ -173,7 +173,7 @@ Contacte a su agente de ventas para más detalles."</string>
     <string name="night">Noche</string>
     <string name="noon">Mediodía</string>
     <string name="open_wifi_settings">Abrir ajustes de Wi-Fi</string>
-    <string name="open_wifi_settings_china">Abrir ajustes de WLAN</string>
+    <string name="open_wifi_settings_china">Abrir ajustes Wi-Fi</string>
     <string name="passport_checking_vcode">Comprobando contraseña…</string>
     <string name="passport_error_empty_vcode">Ingrese código de verificación</string>
     <string name="passport_notification_need_unlock_again">Intente desbloquear de nuevo</string>
@@ -182,7 +182,7 @@ Contacte a su agente de ventas para más detalles."</string>
     <string name="passport_vcode_prompt_long">Ingrese código de verificación</string>
     <string name="passport_verify">Verificar</string>
     <string name="password">Ingresar contraseña</string>
-    <string name="phone_locked">Este dispositivo está asociado con una Cuenta Xiaomi (%s). Introduce la contraseña para activar el dispositivo.</string>
+    <string name="phone_locked">Este dispositivo está asociado con una cuenta Xiaomi (%s). Introduzca la contraseña para activar el dispositivo.</string>
     <string name="phone_locked_account_email">, correo asociado: %s</string>
     <string name="phone_locked_account_phone">, número de teléfono asociado: %s</string>
     <string name="pm">PM</string>
@@ -192,30 +192,6 @@ Contacte a su agente de ventas para más detalles."</string>
     <string name="saturday_shortest">Sáb.</string>
     <string name="search_menu_title">Buscar</string>
     <string name="send">Enviar</string>
-    <string name="solar_term_autumn_begins">Comienza el otoño</string>
-    <string name="solar_term_autumn_equinox">Equinoccio de otoño</string>
-    <string name="solar_term_clear_and_bright">Claro y brillante</string>
-    <string name="solar_term_cold_dews">Rocío frio</string>
-    <string name="solar_term_grain_buds">Criaturas plenarias</string>
-    <string name="solar_term_grain_in_ear">Siembra de mijo</string>
-    <string name="solar_term_grain_rain">Lluvia de trigo</string>
-    <string name="solar_term_great_cold">Frío severo</string>
-    <string name="solar_term_great_heat">Ola de calor</string>
-    <string name="solar_term_heavy_snow">Fuertes nevadas</string>
-    <string name="solar_term_hoar_frost_falls">Escarcha</string>
-    <string name="solar_term_insects_awaken">Los insectos despiertan</string>
-    <string name="solar_term_light_snow">Nieve ligera</string>
-    <string name="solar_term_slight_cold">Frío moderado</string>
-    <string name="solar_term_slight_heat">Calor moderado</string>
-    <string name="solar_term_spring_begins">Empieza la primavera</string>
-    <string name="solar_term_stopping_the_heat">El calor se retira</string>
-    <string name="solar_term_summer_begins">El verano comienza</string>
-    <string name="solar_term_summer_solstice">Solsticio de verano</string>
-    <string name="solar_term_the_rains">Lluvias de primavera</string>
-    <string name="solar_term_vernal_equinox">Equinoccio de primavera</string>
-    <string name="solar_term_white_dews">Rocío</string>
-    <string name="solar_term_winter_begins">El invierno comienza</string>
-    <string name="solar_term_winter_solstice">Solsticio de invierno</string>
     <string name="stop_on_empty_captcha">"Captcha no puede estar en blanco"</string>
     <string name="stop_on_empty_password">"La contraseña no puede estar en blanco"</string>
     <string name="sunday">Domingo</string>
@@ -234,7 +210,6 @@ Contacte a su agente de ventas para más detalles."</string>
     <string name="the_armed_forces_day">Día de las Fuerzas Armadas</string>
     <string name="the_armys_day">Dia del PLA</string>
     <string name="the_childrens_day">"Día de los niños"</string>
-    <string name="the_chinese_youth_day">Día de la juventud</string>
     <string name="the_christmas_day">Navidad</string>
     <string name="the_double_ninth_festival">Festival del doble noveno</string>
     <string name="the_dragon_boat_festival">Festival del barco del dragón</string>
@@ -298,20 +273,20 @@ Vaya a id.mi.com, seleccione \"¿Olvidó su contraseña?\" Y siga las instruccio
 
 ¿No puede activar el dispositivo?
 Vaya a i.mi.com/ss y envíe su solicitud para desbloquear el dispositivo."</string>
-    <string name="unlock_help_china">"Conéctate a la red.
-Inserta una tarjeta SIM que funcione y no se conecte a redes WLAN no válidas.
+    <string name="unlock_help_china">"Conectarse a la red.
+Inserte una tarjeta SIM de trabajo y no conecte a redes Wi-Fi inválidas.
 
-¿Has olvidado la contraseña?
-Ve a id.mi.com, selecciona \"¿Olvidaste la contraseña?\" Y sigue las instrucciones.
+¿Olvidó la contraseña?
+Ir a id.mi. om, selecciona \"¿Olvidaste la contraseña?\", y sigue las instrucciones.
 
 ¿No puedes activar el dispositivo?
-Ve a i.mi.com/ss y envía tu solicitud para desbloquear el dispositivo."</string>
+Ve a i.mi.com/ss y envía tu aplicación para desbloquear el dispositivo."</string>
     <string name="unlock_help_title">Ayuda de desbloqueo:</string>
     <string name="unlock_number">Código de desbloqueo: %s</string>
     <string name="unlock_wrong_captcha">El código ingresado es incorrecto</string>
     <string name="unlocking">Activando…</string>
     <string name="verifing_account">Verificando contraseña…</string>
-    <string name="verify_password_failed">"No se pudo verificar el ID de la Cuenta Xiaomi. %s."</string>
+    <string name="verify_password_failed">"No se pudo verificar el ID de la cuenta Xiaomi. %s."</string>
     <string name="wednesday">Miércoles</string>
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mie</string>

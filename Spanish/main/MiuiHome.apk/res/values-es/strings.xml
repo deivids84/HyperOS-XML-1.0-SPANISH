@@ -411,7 +411,7 @@ Seguridad mejorada."</string>
     <string name="mi_wallpaper">Temas MIUI</string>
     <string name="midnight">Noche</string>
     <string name="minus_one_screen">Bóveda de aplicaciones</string>
-    <string name="miui_screen_config_title">Ajustes de Pantalla de inicio</string>
+    <string name="miui_screen_config_title">Diseño de pantalla de inicio</string>
     <string name="miui_setting_config_title">Ajustes de pantalla de inicio</string>
     <string name="miui_widget_menu_replace_text">Cambiar</string>
     <string name="miui_widget_toast_for_not_support_by_pa">"La Bóveda de Aplicaciones no permite widgets de este tamaño"</string>
@@ -617,6 +617,7 @@ Seguridad mejorada."</string>
     <string name="recent_menu_item_unlock">Desbloquear</string>
     <string name="recent_menu_item_worldcirculate">Transferir tareas de la aplicación</string>
     <string name="recent_menu_item_worldcirculate_disable">"No se puede transferir tareas de aplicaciones entre dispositivos conectados"</string>
+    <string name="recent_pin_text">Fijar</string>
     <string name="recents_app_info_button_label">Info. App</string>
     <string name="recents_config_title">Recientes</string>
     <string name="recents_dimiss_task">Borrar</string>
@@ -715,6 +716,7 @@ Seguridad mejorada."</string>
     <string name="switch_personal_assistant_none">Nada</string>
     <string name="switch_screen_button_order">Invertir botones</string>
     <string name="switch_screen_button_order_desc">Invertir botones de Atrás y Menú</string>
+    <string name="system_sdk_disabled_toast">SDK del sistema ha sido deshabilitado. Habilítelo primero.</string>
     <string name="system_shortcuts_edit">Editar</string>
     <string name="system_shortcuts_icon_remove">Eliminar</string>
     <string name="system_shortcuts_more_operation">Info. App</string>

@@ -11,7 +11,7 @@
     <string name="activate_fail_notification_title">Reactivar sincronización</string>
     <string name="activating">Activando…</string>
     <string name="address">Dirección</string>
-    <string name="after_reset_need_restore_system_app">"Parece que has realizado un restablecimiento a los ajustes fábrica. Conéctate a la red y restaura los elementos del sistema para poder usar MIUI con normalidad."</string>
+    <string name="after_reset_need_restore_system_app">"Parece que has realizado un restablecimiento de fábrica. Conéctate a la red y restaura los elementos del sistema para poder usar el dispositivo normalmente."</string>
     <string name="afternoon">PM</string>
     <string name="am">AM</string>
     <string name="birthday">Cumpleaños</string>
@@ -19,7 +19,7 @@
     <string name="check_phone_error_title">Sincronización desactivada</string>
     <string name="check_phone_io_error">"No se puede conectar a la red"</string>
     <string name="clearable_edittext_clear_description">Borrar</string>
-    <string name="click_to_restore">Restaura los elementos del sistema para poder usar MIUI normalmente después de restablecer a los ajustes de fábrica. Pulsa para comenzar.</string>
+    <string name="click_to_restore">Restaurar elementos del sistema para poder usar tu dispositivo normalmente después de un restablecimiento de fábrica. Pulsa para iniciar.</string>
     <string name="close">Cerrar</string>
     <string name="com_android_deskclock">Reloj</string>
     <string name="com_android_download_ui">Descargas</string>
@@ -86,6 +86,7 @@
     <string name="im">IM</string>
     <string name="immersion_button_close_description">Cerrar</string>
     <string name="instruction">Información de seguridad importante</string>
+    <string name="label">SDK del sistema</string>
     <string name="midnight">AM</string>
     <string name="mobile_data_consume">Descargar elementos ahora supone usar %1$s MB de datos móviles. ¿Descargar de todas formas?</string>
     <string name="mobile_data_remind">Aviso de consumo de datos</string>

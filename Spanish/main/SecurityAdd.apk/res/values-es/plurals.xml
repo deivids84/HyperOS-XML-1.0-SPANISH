@@ -96,4 +96,12 @@
         <item quantity="other">Quedan %s minutos de tiempo de pantalla</item>
         <item quantity="one">Queda %s minuto de tiempo de pantalla</item>
     </plurals>
+    <plurals name="satellite_endurance_hour">
+        <item quantity="other">%s horas</item>
+        <item quantity="one">%s h</item>
+    </plurals>
+    <plurals name="satellite_endurance_minute">
+        <item quantity="other">%s minutos</item>
+        <item quantity="one">%s min</item>
+    </plurals>
 </resources>

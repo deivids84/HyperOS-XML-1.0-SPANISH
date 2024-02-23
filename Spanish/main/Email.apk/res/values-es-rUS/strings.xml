@@ -230,7 +230,7 @@ Prefijo de ruta"</string>
     <string name="attendee_needed">Añadir al menos un invitado.</string>
     <string name="auto_login_fail">"No se pudo iniciar sesión automáticamente"</string>
     <string name="auto_login_fail_to_retry">"No se pudo iniciar sesión automáticamente, vuelva a intentarlo."</string>
-    <string name="auto_start_open_prompt">Permitir que la aplicación se inicie automáticamente para sincronizar los correos electrónicos. Puedes conceder este permiso en Ajustes.</string>
+    <string name="auto_start_open_prompt">Permitir que la aplicación se auto inicie para que pueda sincronizar sus correos electrónicos. Puede conceder este permiso en Configuración.</string>
     <string name="bContact_list_search_hint">Buscar contactos bloqueados</string>
     <string name="b_contacts">Lista de bloqueados</string>
     <string name="b_contacts_remove">Eliminar de la lista de bloqueo</string>
@@ -247,7 +247,7 @@ Prefijo de ruta"</string>
     <string name="calendar_remind_gridview_pick_date">Elegir fecha</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_action">Cancelar</string>
-    <string name="cancel_edit">Terminar edición</string>
+    <string name="cancel_edit">Dejar de editar</string>
     <string name="cc">Cc</string>
     <string name="cc_bcc">Cc/Cco</string>
     <string name="cc_heading">"Cc: "</string>
@@ -393,7 +393,7 @@ Prefijo de ruta"</string>
     <string name="drive_card_code">"Código de acceso: "</string>
     <string name="drive_card_tips">%s compartió contigo un elemento almacenado en la nube.</string>
     <string name="drive_card_title">URL de almacenamiento en la nube</string>
-    <string name="drop_sign_operation">¿Terminar la edición y descartar los cambios?</string>
+    <string name="drop_sign_operation">¿Dejar de editar y descartar todos los cambios ahora?</string>
     <string name="dtend">Termina</string>
     <string name="dtstart">Empieza</string>
     <string name="early_morning">Mañana</string>
@@ -544,7 +544,6 @@ Prefijo de ruta"</string>
     <string name="help_weixin_title">"Si tiene alguna pregunta, escríbanos a nuestra cuenta oficial de WeChat: "</string>
     <string name="hide_attachment">Ocultar archivo adjunto</string>
     <string name="hide_password">Ocultar contraseña</string>
-    <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
     <string name="how_to_login_icloud">Cómo iniciar la sesión en el correo iCloud</string>
     <string name="icloud_login_tips">Puedes crear una contraseña para tu correo iCloud aquí: iCloud.com</string>
     <string name="icloud_login_tips_url_part">iCloud.com</string>
@@ -880,7 +879,7 @@ Declinado:
     <string name="pdf_has_signature_prompt_confirm">Copia firmada</string>
     <string name="pdf_has_signature_prompt_message">Parece que este archivo adjunto tiene una copia firmada. ¿Abrirlo en su lugar?</string>
     <string name="pdf_save_error">"No se puede convertir a PDF. Este mensaje es demasiado largo."</string>
-    <string name="pdf_save_local">"Guardado en el dispositivo: "</string>
+    <string name="pdf_save_local">"Guardado correctamente en el dispositivo: "</string>
     <string name="pdf_save_no_body">Espere hasta que el mensaje esté completamente cargado antes de convertir a PDF</string>
     <string name="pdf_save_to">"Guardado en "</string>
     <string name="pdf_signature_add">Agregar una nueva firma</string>
@@ -918,7 +917,7 @@ Declinado:
     <string name="personal_data_collection_summary">Al activar el interruptor usted acepta que recolectemos sus datos personales. Puede desactivar el interruptor, revocar su autorización y eliminar sus datos de nuestros servidores en cualquier momento.</string>
     <string name="personal_data_collection_title">Permitir recoger datos personales</string>
     <string name="pl_select_age">Seleccionar edad</string>
-    <string name="please_save_sign_first">Guardar la firma antes</string>
+    <string name="please_save_sign_first">Guardar firma primero</string>
     <string name="pm">PM</string>
     <string name="preference_copied">Se copió \"%1$s\" en el portapapeles.</string>
     <string name="preferences_signature_dialog_title">Firma</string>
@@ -932,8 +931,6 @@ Declinado:
     <string name="privacy_setting_agree">Acepto</string>
     <string name="progress">Progreso:</string>
     <string name="prompt_title">Preguntar</string>
-    <string name="protocol_graph">grafico</string>
-    <string name="protocol_pop3">pop3</string>
     <string name="pull_to_refresh">Tire hacia abajo para actualizar</string>
     <string name="push">Notificaciones push</string>
     <string name="push_wps_better_confirm_download">Descargar</string>
@@ -998,7 +995,7 @@ Espere hasta que esté completamente sincronizado o vea el mensaje en su computa
     <string name="saturday_short">Sab</string>
     <string name="saturday_shortest">Sáb.</string>
     <string name="save_draft_failed">Error al guardar borrador</string>
-    <string name="save_sign_pdf">Guardar en el dispositivo</string>
+    <string name="save_sign_pdf">Guardar en dispositivo</string>
     <string name="search_bar_text">Buscar remitentes o contactos</string>
     <string name="search_menu_title">Buscar</string>
     <string name="search_remote_again">"No se pudo conectar a la red. Toque para reintentar."</string>
@@ -1062,10 +1059,10 @@ Espere hasta que esté completamente sincronizado o vea el mensaje en su computa
     <string name="show_password">Mostrar contraseña</string>
     <string name="show_server_cet">Ver certificado</string>
     <string name="shrink">Contraer</string>
-    <string name="sign_in_dialog_office365">Edición Personal Office365</string>
-    <string name="sign_in_dialog_outlook_enterprise">Edición corporativa Exchange Office365</string>
+    <string name="sign_in_dialog_office365">Edición Personal de Office365</string>
+    <string name="sign_in_dialog_outlook_enterprise">Edición corporativa de Exchange 365</string>
     <string name="sign_in_dialog_outlook_imap">IMAP (sin calendario)</string>
-    <string name="sign_in_dialog_title">Elija el método de inicio de sesión</string>
+    <string name="sign_in_dialog_title">Elegir método de inicio de sesión</string>
     <string name="sign_in_no_useful_provider_error">"No se pueden obtener configuraciones de protocolo de Microsoft. Utilice un protocolo diferente o actualice el protocolo de Microsoft."</string>
     <string name="signature">"
 
@@ -1081,30 +1078,6 @@ Espere hasta que esté completamente sincronizado o vea el mensaje en su computa
     <string name="size_tera_byte">TB</string>
     <string name="sms_not_found_tip">"No se pudo abrir la aplicación de mensajería SMS predeterminada. Abra la aplicación y envíe el SMS de verificación manualmente."</string>
     <string name="smtp_password_error">La contraseña para el servidor de correo saliente es incorrecta</string>
-    <string name="solar_term_autumn_begins">Comienza el otoño</string>
-    <string name="solar_term_autumn_equinox">Equinoccio de otoño</string>
-    <string name="solar_term_clear_and_bright">Claro y brillante</string>
-    <string name="solar_term_cold_dews">Rocío frio</string>
-    <string name="solar_term_grain_buds">Criaturas plenarias</string>
-    <string name="solar_term_grain_in_ear">Siembra de mijo</string>
-    <string name="solar_term_grain_rain">Lluvia de trigo</string>
-    <string name="solar_term_great_cold">Frío severo</string>
-    <string name="solar_term_great_heat">Ola de calor</string>
-    <string name="solar_term_heavy_snow">Fuertes nevadas</string>
-    <string name="solar_term_hoar_frost_falls">Escarcha</string>
-    <string name="solar_term_insects_awaken">Los insectos despiertan</string>
-    <string name="solar_term_light_snow">Nieve ligera</string>
-    <string name="solar_term_slight_cold">Frio moderado</string>
-    <string name="solar_term_slight_heat">Calor moderado</string>
-    <string name="solar_term_spring_begins">Comienza la primavera</string>
-    <string name="solar_term_stopping_the_heat">El calor se retira</string>
-    <string name="solar_term_summer_begins">Comienza el verano</string>
-    <string name="solar_term_summer_solstice">Solsticio de verano</string>
-    <string name="solar_term_the_rains">Lluvias de primavera</string>
-    <string name="solar_term_vernal_equinox">Equinoccio de primavera</string>
-    <string name="solar_term_white_dews">Rocío</string>
-    <string name="solar_term_winter_begins">Comienza el invierno</string>
-    <string name="solar_term_winter_solstice">Solsticio de invierno</string>
     <string name="sort_attachment">Ordenar por</string>
     <string name="str_select_all">Seleccionar todo</string>
     <string name="str_select_none">Deseleccionar todo</string>
@@ -1126,7 +1099,6 @@ Espere hasta que esté completamente sincronizado o vea el mensaje en su computa
     <string name="the_armed_forces_day">Día de las Fuerzas Armadas</string>
     <string name="the_armys_day">Dia del PLA</string>
     <string name="the_childrens_day">"Día de los niños"</string>
-    <string name="the_chinese_youth_day">Día de la juventud</string>
     <string name="the_christmas_day">Navidad</string>
     <string name="the_double_ninth_festival">Festival del doble noveno</string>
     <string name="the_dragon_boat_festival">Festival del barco del dragón</string>
@@ -1193,7 +1165,7 @@ Espere hasta que esté completamente sincronizado o vea el mensaje en su computa
     <string name="train_card_title_change">Reserva modificada con éxito</string>
     <string name="train_card_title_change_arrival">Destino cambiado con éxito</string>
     <string name="train_card_title_refund">Boleto cancelado con éxito</string>
-    <string name="translated_text_too_long">Selecciona menos texto para copiar e inténtalo otra vez</string>
+    <string name="translated_text_too_long">Selecciona menos texto para copiar e inténtalo de nuevo</string>
     <string name="translation_loading">Un momento…</string>
     <string name="translation_no_result">Sin resultados</string>
     <string name="translation_pronunciation_am">AmE</string>

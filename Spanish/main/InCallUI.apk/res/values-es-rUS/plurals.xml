@@ -5,8 +5,8 @@
         <item quantity="other">Hace 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Hace %d horas</item>
-        <item quantity="other">Hace %d horas</item>
+        <item quantity="one">%d hace una hora</item>
+        <item quantity="other">%d hace una hora</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Hace media hora</item>
@@ -33,8 +33,8 @@
         <item quantity="other">Justo ahora</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Hace %d minutos</item>
-        <item quantity="one">Hace %d minutos</item>
+        <item quantity="other">%d hace minutos</item>
+        <item quantity="one">%d hace min</item>
     </plurals>
     <plurals name="antispam_marked_count">
         <item quantity="other">Reportado por %d usuarios MIUI</item>
@@ -45,44 +45,44 @@
         <item quantity="one">Colgando llamada en %1$s s…</item>
     </plurals>
     <plurals name="call_log_day_in">
-        <item quantity="other">Este número llamó hace %1$s días</item>
-        <item quantity="one">Este número llamó hace %1$s día</item>
+        <item quantity="other">Este número te llamó %1$s días atrás</item>
+        <item quantity="one">Este número te llamó %1$s hace un día</item>
     </plurals>
     <plurals name="call_log_day_out">
-        <item quantity="other">Llamaste a este número hace %1$s días</item>
-        <item quantity="one">Llamaste a este número hace %1$s día</item>
+        <item quantity="other">Llamaste a este número %1$s días atrás</item>
+        <item quantity="one">Has llamado a este número %1$s hace un día</item>
     </plurals>
     <plurals name="call_log_hour_in">
-        <item quantity="other">Este número llamó hace %1$s horas</item>
-        <item quantity="one">Este número llamó hace %1$s hora</item>
+        <item quantity="other">Este número te llamó %1$s Hace horas</item>
+        <item quantity="one">Este número te llamó %1$s hr ago</item>
     </plurals>
     <plurals name="call_log_hour_out">
-        <item quantity="other">Llamaste a este número hace %1$s horas</item>
-        <item quantity="one">Llamaste a este número hace %1$s hora</item>
+        <item quantity="other">Llamaste a este número %1$s Hace horas</item>
+        <item quantity="one">Llamaste a este número %1$s hr ago</item>
     </plurals>
     <plurals name="call_log_minute_in">
-        <item quantity="other">Este número llamó hace %1$s minutos</item>
-        <item quantity="one">Este número llamó hace %1$s minuto</item>
+        <item quantity="other">Este número te llamó %1$s hace minutos</item>
+        <item quantity="one">Este número te llamó %1$s hace min</item>
     </plurals>
     <plurals name="call_log_minute_out">
-        <item quantity="other">Llamaste a este número hace %1$s minutos</item>
-        <item quantity="one">Llamaste a este número hace %1$s minuto</item>
+        <item quantity="other">Llamaste a este número %1$s hace minutos</item>
+        <item quantity="one">Llamaste a este número %1$s hace min</item>
     </plurals>
     <plurals name="call_log_month_in">
-        <item quantity="other">Este número llamó hace %1$s meses</item>
-        <item quantity="one">Este número llamó hace %1$s mes</item>
+        <item quantity="other">Este número te llamó %1$s meses atrás</item>
+        <item quantity="one">Este número te llamó %1$s mes atrás</item>
     </plurals>
     <plurals name="call_log_month_out">
-        <item quantity="other">Llamaste a este número hace %1$s meses</item>
-        <item quantity="one">Llamaste a este número hace %1$s mes</item>
+        <item quantity="other">Has llamado a este número %1$s meses atrás</item>
+        <item quantity="one">Has llamado a este número %1$s mes atrás</item>
     </plurals>
     <plurals name="call_log_year_in">
-        <item quantity="other">Este número llamó hace %1$s años</item>
-        <item quantity="one">Este número llamó hace %1$s año</item>
+        <item quantity="other">Este número te llamó %1$s hace años</item>
+        <item quantity="one">Este número te llamó %1$s hace un año</item>
     </plurals>
     <plurals name="call_log_year_out">
-        <item quantity="other">Llamaste a este número hace %1$s años</item>
-        <item quantity="one">Llamaste a este número hace %1$s año</item>
+        <item quantity="other">Has llamado a este número %1$s años atrás</item>
+        <item quantity="one">Has llamado a este número %1$s hace un año</item>
     </plurals>
     <plurals name="call_recording_notification_complete">
         <item quantity="other">%d llamadas grabadas.</item>
@@ -139,5 +139,11 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">Hace %d minutos</item>
         <item quantity="one">Hace 1 minuto</item>
+    </plurals>
+    <plurals name="satellite_state_fail">
+        <item quantity="other">"Han pasado %d segundos sin conexión al satélite.
+Puedes seguir intentándolo o saliendo ahora."</item>
+        <item quantity="one">"%d segundo ha pasado sin conexión al satélite.
+Puedes seguir intentándolo o saliendo ahora."</item>
     </plurals>
 </resources>

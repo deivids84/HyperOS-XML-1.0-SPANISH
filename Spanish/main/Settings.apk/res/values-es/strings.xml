@@ -7504,19 +7504,14 @@ Reinicia el dispositivo y vuelve a intentarlo."</string>
     <string name="screen_paper_mode_update_white_pkg_list_summary">Actualiza la lista de aplicaciones que usan el modo Lectura automáticamente</string>
     <string name="screen_paper_mode_update_white_pkg_list_title">Actualizar automáticamente</string>
     <string name="screen_paper_texture">Textura</string>
-    <string name="screen_pinning_description">"Cuando se fija una aplicación, ésta puede iniciar otras aplicaciones y es posible que pueda acceder a los datos personales. 
+    <string name="screen_pinning_description">Las aplicaciones ancladas pueden abrir otras aplicaciones y acceder a su información personal</string>
+    <string name="screen_pinning_dialog_message">"Esto es lo que pueden hacer las aplicaciones fijadas:
 
-Para fijar aplicaciones: \u0009
-1. Activa la función de fijar aplicaciones \u0009
-2. Abre aplicaciones recientes \u0009
-3. Pulsa el icono de la aplicación en la parte superior de la pantalla y, a continuación, pulsa Fijar"</string>
-    <string name="screen_pinning_dialog_message">"Al fijar una aplicación: 
+• Acceder a su información personal
+(por ejemplo, contactos y correos electrónicos)
+• Abrir otras aplicaciones
 
-• Es posible que se pueda acceder a datos personales
-  (como contactos y contenido de correos).
-• Es posible que las aplicaciones fijadas abran otras aplicaciones. 
-
-Usa la función de fijar aplicaciones solo con personas de confianza."</string>
+Utilice esta función con precaución al compartir esto dispositivo con otros."</string>
     <string name="screen_pinning_guest_user_description">"Cuando se fija una aplicación, ésta puede iniciar otras aplicaciones y es posible que pueda acceder a los datos personales. 
 
 Si deseas compartir tu dispositivo con alguien, de manera segura, lo mejor es usar un usuario invitado. 
@@ -7525,10 +7520,11 @@ Para fijar aplicaciones: \u0009
 1. Activa la función de fijar aplicaciones \u0009
 2. Abre aplicaciones recientes \u0009
 3. Pulsa el icono de la aplicación en la parte superior de la pantalla y, a continuación, pulsa Fijar"</string>
+    <string name="screen_pinning_summary">Las aplicaciones ancladas permanecerán en Recientes hasta que las desancles</string>
     <string name="screen_pinning_switch_off_text">Desactivado</string>
     <string name="screen_pinning_switch_on_text">Activado</string>
-    <string name="screen_pinning_title">Fijar aplicaciones</string>
-    <string name="screen_pinning_unlock_none">Bloquear dispositivo al desactivar</string>
+    <string name="screen_pinning_title">Permitir anclar aplicaciones</string>
+    <string name="screen_pinning_unlock_none">Verificar bloqueo de pantalla para desbloquear</string>
     <string name="screen_pinning_unlock_password">Solicitar contraseña para desactivar</string>
     <string name="screen_pinning_unlock_pattern">Solicitar patrón de desbloqueo para desactivar</string>
     <string name="screen_pinning_unlock_pin">Solicitar PIN para desactivar</string>

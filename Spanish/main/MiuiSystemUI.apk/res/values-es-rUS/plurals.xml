@@ -17,12 +17,12 @@
         <item quantity="one">Presión atmosférica: %s hectopascal</item>
     </plurals>
     <plurals name="health_chart_calories_burned_schedule_format_desc">
-        <item quantity="other">%1$s calorías quemadas</item>
-        <item quantity="one">%1$s caloría quemada</item>
+        <item quantity="other">Calorías quemadas de %1$s</item>
+        <item quantity="one">Quemado %1$s Calorie</item>
     </plurals>
     <plurals name="health_chart_calories_goal_schedule_format_desc">
-        <item quantity="other">Objetivo de calorías: %1$s calorías</item>
-        <item quantity="one">Objetivo de calorías: %1$s caloría</item>
+        <item quantity="other">Objetivo de Caloria: %1$s Calorías</item>
+        <item quantity="one">Objetivo de Calorie: %1$s Calorie</item>
     </plurals>
     <plurals name="health_chart_calories_schedule_format">
         <item quantity="other">%1$s/%2$s kcal</item>
@@ -37,32 +37,32 @@
         <item quantity="one">Objetivo de actividad: %1$s minuto</item>
     </plurals>
     <plurals name="health_chart_sport_time_schedule_format">
-        <item quantity="other">%1$s/%2$s min</item>
+        <item quantity="other">%1$s/%2$s minutos</item>
         <item quantity="one">%1$s/%2$s min</item>
     </plurals>
     <plurals name="health_chart_stand_count_schedule_format_desc">
-        <item quantity="other">Levantado en %1$s horas</item>
-        <item quantity="one">Levantado en %1$s hora</item>
+        <item quantity="other">Almacenamiento dentro de %1$s horas</item>
+        <item quantity="one">Almacenar dentro de %1$s hora</item>
     </plurals>
     <plurals name="health_chart_stand_goal_schedule_format_desc">
-        <item quantity="other">Objetivo de tiempo levantado: %1$s horas</item>
-        <item quantity="one">Objetivo de tiempo levantado: %1$s hora</item>
+        <item quantity="other">Objetivo permanente: %1$s horas</item>
+        <item quantity="one">Objetivo permanente: %1$s hora</item>
     </plurals>
     <plurals name="health_chart_stand_schedule_format">
-        <item quantity="other">%1$s/%2$s h</item>
-        <item quantity="one">%1$s/%2$s h</item>
+        <item quantity="other">%1$s/%2$s horas</item>
+        <item quantity="one">%1$s/%2$s hora</item>
     </plurals>
     <plurals name="health_chart_step_count_current_schedule_format_desc">
-        <item quantity="other">Conteo de pasos actual: %1$s pasos</item>
-        <item quantity="one">Conteo de pasos actual: %1$s paso</item>
+        <item quantity="other">Número de pasos actual: %1$s pasos</item>
+        <item quantity="one">Número de pasos actual: %1$s paso</item>
     </plurals>
     <plurals name="health_chart_step_count_goal_schedule_format_desc">
-        <item quantity="other">Objetivo de pasos: %1$s pasos</item>
-        <item quantity="one">Objetivo de pasos: %1$s paso</item>
+        <item quantity="other">Objetivo paso: %1$s pasos</item>
+        <item quantity="one">Objetivo paso: %1$s paso</item>
     </plurals>
     <plurals name="health_chart_step_count_schedule_format">
         <item quantity="other">%1$s/%2$s pasos</item>
-        <item quantity="one">%1$s/%2$s paso</item>
+        <item quantity="one">Paso %1$s/%2$s</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
         <item quantity="other">Ingrese su contraseña al menos una vez cada %d horas para no olvidarla</item>

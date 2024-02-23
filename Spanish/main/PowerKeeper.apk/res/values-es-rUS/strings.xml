@@ -45,7 +45,7 @@
     <string name="cloud_russion_addr">Actualizar datos del servidor ruso</string>
     <string name="cloud_staging_addr">Actualizar datos de servidor intermediario</string>
     <string name="config_classify">Ordenar por ajustes de aplicación</string>
-    <string name="config_description">"Tu dispositivo puede identificar aplicaciones específicas con procesos en segundo plano (p. ej. aplicaciones de mensajería y navegación, reproductores multimedia), y aplicar el ahorro de batería de una manera que no influya de forma importante en la actividad que se ejecute en segundo plano."</string>
+    <string name="config_description">"Su dispositivo puede identificar aplicaciones con procesos específicos en segundo plano (p. ej. aplicaciones de mensajería y navegación, reproductores de medios), y aplicar ahorro de batería de una manera que no influya en la actividad importante en segundo plano."</string>
     <string name="config_mode_title">Ajustes de segundo plano</string>
     <string name="config_no_restrict_description">"El economizador de batería no restringe la actividad de las aplicaciones"</string>
     <string name="config_no_restrict_title">Sin restricciones</string>
@@ -171,7 +171,7 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
     <string name="more">Más</string>
     <string name="morning">Mañana</string>
     <string name="night">Tarde</string>
-    <string name="nonui_mode_config_description">"No encender la pantalla para las notificaciones, apagar la luz LED, el sensor de huellas dactilares y los controles táctiles para ahorrar batería cuando tu dispositivo detecte que no estás usando tu dispositivo."</string>
+    <string name="nonui_mode_config_description">"No encender la pantalla para recibir notificaciones, desactivar la luz LED, sensor de huella dactilar, y toque los controles para ahorrar batería cuando el sistema detecta que no está usando su dispositivo."</string>
     <string name="nonui_mode_config_title">Modo no interactivo</string>
     <string name="noon">Midday</string>
     <string name="not_set">Sin definir</string>
@@ -196,9 +196,9 @@ El economizador de batería tratará de forma selectiva las aplicaciones importa
     <string name="search_result_text">"No se encontraron aplicaciones"</string>
     <string name="send">Enviar</string>
     <string name="show_system_app">Mostrar aplicaciones del sistema</string>
-    <string name="sleep_config_enhance_description">"Para ahorrar batería, tu dispositivo cerrará las aplicaciones en segundo plano, restringirá el uso del NFC, Bluetooth, GPS, datos móviles y Wi-Fi y no iluminará la pantalla para recibir notificaciones mientras duermes por la noche."</string>
-    <string name="sleep_config_enhance_description_non_nfc">"Para ahorrar batería, tu dispositivo cerrará las aplicaciones en segundo plano, restringirá el uso del Bluetooth, GPS, datos móviles y Wi-Fi y no iluminará la pantalla para recibir notificaciones mientras duermes por la noche."</string>
-    <string name="sleep_config_enhance_description_pad">"Para ahorrar batería, tu dispositivo cerrará las aplicaciones en segundo plano, restringirá el uso del Bluetooth y del Wi-Fi y no iluminará la pantalla para recibir notificaciones mientras duermes por la noche."</string>
+    <string name="sleep_config_enhance_description">"Para ahorrar batería, tu dispositivo cerrará aplicaciones en segundo plano, restringirá NFC, Bluetooth, GPS, el uso de datos móviles y Wi-Fi, y no encenderá la pantalla para recibir notificaciones mientras duerma por la noche."</string>
+    <string name="sleep_config_enhance_description_non_nfc">"Para ahorrar batería, tu dispositivo cerrará aplicaciones en segundo plano, restringirá Bluetooth, GPS, datos móviles y uso Wi-Fi, y no encenderá la pantalla para recibir notificaciones mientras duerma por la noche."</string>
+    <string name="sleep_config_enhance_description_pad">"Para ahorrar batería, el dispositivo cerrará aplicaciones en segundo plano, restringirá el uso de Bluetooth y Wi-Fi, y no encenderá la pantalla para recibir notificaciones mientras duerma por la noche."</string>
     <string name="sleep_config_enhance_title">Modo suspensión</string>
     <string name="sleepmode_disclaimer_agree">Aceptar</string>
     <string name="sleepmode_disclaimer_cancel">Cancelar</string>

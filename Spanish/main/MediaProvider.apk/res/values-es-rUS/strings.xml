@@ -23,79 +23,79 @@
     <string name="add">Añadir</string>
     <string name="allow">Permitir</string>
     <string name="app_label">Almacenamiento de Medios</string>
-    <string name="bottomsheet_action_expand_halfway">Expandir hasta la mitad</string>
+    <string name="bottomsheet_action_expand_halfway">Expandir a mitad de camino</string>
     <string name="bottomsheet_drag_handle_content_description">Arrastre el asa</string>
     <string name="cache_clearing_dialog_text">A %s le gustaría borrar algunos archivos temporales. Esto puede resultar en un mayor uso de la batería o datos móviles.</string>
     <string name="cache_clearing_dialog_title">Borrar archivos temporales de aplicaciones</string>
     <string name="cache_clearing_in_progress_title">Borrar archivos temporales de aplicaciones…</string>
-    <string name="character_counter_content_description">Escritos %1$d de %2$d caracteres</string>
-    <string name="character_counter_overflowed_content_description">Límite de caracteres excedido (%1$d de %2$d)</string>
+    <string name="character_counter_content_description">Caracteres ingresados en %1$d de %2$d</string>
+    <string name="character_counter_overflowed_content_description">Límite de caracteres superado %1$d de %2$d</string>
     <string name="clear">Limpiar</string>
-    <string name="clear_text_end_icon_content_description">Borrar el texto</string>
+    <string name="clear_text_end_icon_content_description">Borrar texto</string>
     <string name="copy">Copiar</string>
     <string name="deny">Denegar</string>
     <string name="deselect">Deseleccionar</string>
     <string name="deselected">Deseleccionado</string>
     <string name="error_a11y_label">Error: inválido</string>
     <string name="error_icon_content_description">Error</string>
-    <string name="exo_controls_play_description">Reproducir</string>
-    <string name="exo_track_selection_auto">Automático</string>
+    <string name="exo_controls_play_description">Jugar</string>
+    <string name="exo_track_selection_auto">Auto</string>
     <string name="exo_track_selection_none">Ninguna</string>
     <string name="expand_button_title">Avanzado</string>
-    <string name="exposed_dropdown_menu_content_description">Mostrar el menú desplegable</string>
-    <string name="item_view_role_description">Pestaña</string>
-    <string name="material_clock_toggle_content_description">Selecciona AM o MP</string>
-    <string name="material_timepicker_am">AM</string>
-    <string name="material_timepicker_pm">PM</string>
+    <string name="exposed_dropdown_menu_content_description">Mostrar menú desplegable</string>
+    <string name="item_view_role_description">Tab</string>
+    <string name="material_clock_toggle_content_description">Seleccionar AM o MP</string>
+    <string name="material_timepicker_am">M</string>
+    <string name="material_timepicker_pm">MP</string>
     <string name="mtrl_chip_close_icon_content_description">Eliminar %1$s</string>
-    <string name="mtrl_picker_a11y_next_month">Cambiar al mes próximo</string>
+    <string name="mtrl_picker_a11y_next_month">Cambiar al mes siguiente</string>
     <string name="mtrl_picker_a11y_prev_month">Cambiar al mes anterior</string>
     <string name="mtrl_picker_announce_current_selection">Selección actual: %1$s</string>
     <string name="mtrl_picker_cancel">Cancelar</string>
-    <string name="mtrl_picker_confirm">Aceptar</string>
-    <string name="mtrl_picker_day_of_week_column_header">Columna de los días: %1$s</string>
-    <string name="mtrl_picker_navigate_to_year_description">Desplazar al año %1$s</string>
+    <string name="mtrl_picker_confirm">Ok</string>
+    <string name="mtrl_picker_day_of_week_column_header">Columna de días: %1$s</string>
+    <string name="mtrl_picker_navigate_to_year_description">Navegar al año %1$s</string>
     <string name="mtrl_picker_save">Guardar</string>
-    <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambiar al modo calendario</string>
-    <string name="mtrl_picker_toggle_to_day_selection">Pulsa para cambiar a la selección del día</string>
-    <string name="mtrl_picker_toggle_to_text_input_mode">Cambiar al modo entrada de texto</string>
-    <string name="mtrl_picker_toggle_to_year_selection">Pulsa para cambiar a la selección del año</string>
-    <string name="not_selected">No seleccionado</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Cambiar al modo de entrada de calendario</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Pulse para cambiar a seleccionar un día</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Cambiar al modo de entrada de texto</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Pulse para cambiar para seleccionar un año</string>
+    <string name="not_selected">no seleccionado</string>
     <string name="not_set">No establecido</string>
-    <string name="password_toggle_content_description">Mostrar la contraseña</string>
-    <string name="permission_delete_image">{count, plural, =1 {¿Permitir que ^1 borre esta foto?} other {¿Permitir que ^1 borre ^2 fotos?} }</string>
-    <string name="permission_delete_video">{count, plural, =1 {¿Permitir que ^1 borre este vídeo?} other {¿Permitir que ^1 borre ^2 vídeos?} }</string>
-    <string name="permission_progress_trash_audio">{count, plural, =1 {Moviendo el archivo de audio a la papelera…} other {Moviendo ^1 archivos de audio a la papelera…} }</string>
-    <string name="permission_progress_trash_generic">{count, plural, =1 {Moviendo elemento a la papelera…} other {Moviendo ^1 elementos a la papelera…} }</string>
-    <string name="permission_progress_trash_image">{count, plural, =1 {Moviendo foto a la papelera…} other {Moviendo ^1 fotos a la papelera…} }</string>
-    <string name="permission_progress_trash_video">{count, plural, =1 {Moviendo vídeo a la papelera…} other {Moviendo ^1 vídeos a la papelera…} }</string>
-    <string name="permission_progress_untrash_audio">{count, plural, =1 {Recuperando archivo de audio de la papelera…} other {Recuperando ^1 archivos de audio de la papelera…} }</string>
-    <string name="permission_progress_untrash_generic">{count, plural, =1 {Recuperando elemento de la papelera…} other {Recuperando ^1 elementos de la papelera…} }</string>
-    <string name="permission_progress_untrash_image">{count, plural, =1 {Recuperando foto de la papelera…} other {Recuperando ^1 fotos de la papelera…} }</string>
-    <string name="permission_progress_untrash_video">{count, plural, =1 {Recuperando vídeo de la papelera…} other {Recuperando ^1 vídeos de la papelera…} }</string>
+    <string name="password_toggle_content_description">Mostrar contraseña</string>
+    <string name="permission_delete_image">{count, plural, =1 {¿Permitir a ^1 borrar esta foto?} other {Permitir a ^1 borrar ^2 fotos?} }</string>
+    <string name="permission_delete_video">{count, plural, =1 {¿Permitir a ^1 borrar este vídeo?} other {Permitir a ^1 borrar ^2 vídeos?} }</string>
+    <string name="permission_progress_trash_audio">{count, plural, =1 {Moviendo archivo de audio a la papelera…} other {Moviendo ^1 archivos de audio a la papelera…} }</string>
+    <string name="permission_progress_trash_generic">{count, plural, =1 {Mover objeto a la papelera…} other {Mover ^1 elementos a la papelera…} }</string>
+    <string name="permission_progress_trash_image">{count, plural, =1 {Moviendo foto a basura…} other {Moviendo ^1 fotos a basura…} }</string>
+    <string name="permission_progress_trash_video">{count, plural, =1 {Mover el vídeo a la papelera…} other {Mover ^1 videos a la papelera…} }</string>
+    <string name="permission_progress_untrash_audio">{count, plural, =1 {Moviendo archivo de audio de la papelera…} other {Moviendo ^1 archivos de audio de la papelera…} }</string>
+    <string name="permission_progress_untrash_generic">{count, plural, =1 {Mover objeto de la basura…} other {Mover ^1 elementos de la basura…} }</string>
+    <string name="permission_progress_untrash_image">{count, plural, =1 {¡Moviendo foto de la basura…} other {¡Moviendo ^1 fotos de la basura…} }</string>
+    <string name="permission_progress_untrash_video">{count, plural, =1 {¡Moviendo vídeo de la basura…} other {¡Moviendo ^1 vídeos de la basura…} }</string>
     <string name="permission_progress_write_audio">{count, plural, =1 {Modificando archivo de audio…} other {Modificando ^1 archivos de audio…} }</string>
-    <string name="permission_progress_write_generic">{count, plural, =1 {Modificando elemento…} other {Modificando ^1 elementos…} }</string>
+    <string name="permission_progress_write_generic">{count, plural, =1 {Modificando objeto…} other {Modificando ^1 objetos…} }</string>
     <string name="permission_progress_write_image">{count, plural, =1 {Modificando foto…} other {Modificando ^1 fotos…} }</string>
     <string name="permission_progress_write_video">{count, plural, =1 {Modificando vídeo…} other {Modificando ^1 vídeos…} }</string>
     <string name="permission_required">Se requiere permiso para modificar o eliminar este elemento.</string>
     <string name="permission_required_action">Continuar</string>
-    <string name="permission_trash_audio">{count, plural, =1 {¿Permitir que ^1 mueva este archivo de audio a la papelera?} other {¿Permitir que ^1 mueva ^2 archivos de audio a la papelera?} }</string>
-    <string name="permission_trash_generic">{count, plural, =1 {¿Permitir que ^1 mueva este elemento a la papelera?} other {¿Permitir que ^1 mueva ^2 elementos a la papelera?} }</string>
-    <string name="permission_trash_image">{count, plural, =1 {¿Permitir que ^1 mueva esta foto a la papelera?} other {¿Permitir que ^1 mueva ^2 fotos a la papelera?} }</string>
-    <string name="permission_trash_video">{count, plural, =1 {¿Permitir que ^1 mueva este vídeo a la papelera?} other {¿Permitir que ^1 mueva ^2 vídeos a la papelera?} }</string>
-    <string name="permission_untrash_audio">{count, plural, =1 {¿Permitir que ^1 recupere este archivo de audio de la papelera?} other {¿Permitir que ^1 recupere ^2 archivos de audio de la papelera?} }</string>
-    <string name="permission_untrash_generic">{count, plural, =1 {¿Permitir que ^1 recupere este elemento de la papelera?} other {¿Permitir que ^1 recupere ^2 elementos de la papelera?} }</string>
-    <string name="permission_untrash_image">{count, plural, =1 {¿Permitir que ^1 recupere esta foto de la papelera?} other {¿Permitir que ^1 recupere ^2 fotos de la papelera?} }</string>
-    <string name="permission_untrash_video">{count, plural, =1 {¿Permitir que ^1 recupere este vídeo de la papelera?} other {¿Permitir que ^1 recupere ^2 vídeos de la papelera?} }</string>
-    <string name="permission_write_audio">{count, plural, =1 {¿Permitir que ^1 modifique este archivo de audio?} other {¿Permitir que ^1 modifique ^2 archivos de audio?} }</string>
-    <string name="permission_write_generic">{count, plural, =1 {¿Permitir que ^1 modifique este elemento?} other {¿Permitir que ^1 modifique ^2 elementos?} }</string>
-    <string name="permission_write_image">{count, plural, =1 {¿Permitir que ^1 modifique esta foto?} other {¿Permitir que ^1 modifique ^2 fotos?} }</string>
-    <string name="permission_write_video">{count, plural, =1 {¿Permitir que ^1 modifique este vídeo?} other {¿Permitir que ^1 modifique ^2 vídeos?} }</string>
+    <string name="permission_trash_audio">{count, plural, =1 {Permite a ^1 mover este archivo de audio a la papelera?} other {Permite a ^1 mover ^2 archivos de audio a la papelera?} }</string>
+    <string name="permission_trash_generic">{count, plural, =1 {Permitir a ^1 mover este objeto a la papelera?} other {Permitir a ^1 mover ^2 artículos a la papelera?} }</string>
+    <string name="permission_trash_image">{count, plural, =1 {Permitir a ^1 mover esta foto a la papelera?} other {Permitir a ^1 mover ^2 fotos a la papelera?} }</string>
+    <string name="permission_trash_video">{count, plural, =1 {Permitir a ^1 mover este video a la papelera?} other {Permitir a ^1 mover ^2 videos a la papelera?} }</string>
+    <string name="permission_untrash_audio">{count, plural, =1 {Permite a ^1 mover este archivo de audio de la papelera?} other {Permite a ^1 mover ^2 archivos de audio de la papelera?} }</string>
+    <string name="permission_untrash_generic">{count, plural, =1 {Permitir a ^1 mover este objeto de la papelera?} other {Permitir a ^1 mover ^2 artículos de la papelera?} }</string>
+    <string name="permission_untrash_image">{count, plural, =1 {Permitir a ^1 mover esta foto de la papelera?} other {Permitir a ^1 mover ^2 fotos de la papelera?} }</string>
+    <string name="permission_untrash_video">{count, plural, =1 {Permitir a ^1 mover este video de la basura?} other {Permitir a ^1 mover ^2 videos de la basura?} }</string>
+    <string name="permission_write_audio">{count, plural, =1 {¿Permite a ^1 modificar este archivo de audio?} other {Permite a ^1 modificar ^2 archivos de audio?} }</string>
+    <string name="permission_write_generic">{count, plural, =1 {¿Permitir a ^1 modificar este objeto?} other {Permitir a ^1 modificar ^2 elementos?} }</string>
+    <string name="permission_write_image">{count, plural, =1 {¿Permitir a ^1 modificar esta foto?} other {Permitir a ^1 modificar ^2 fotos?} }</string>
+    <string name="permission_write_video">{count, plural, =1 {¿Permitir a ^1 modificar este vídeo?} other {Permitir a ^1 modificar ^2 vídeos?} }</string>
     <string name="picker_add_button_multi_select">Añadir (^1)</string>
     <string name="picker_add_button_multi_select_permissions">Permitir (^1)</string>
-    <string name="picker_album_item_count">{count, plural, =1 {^1 elemento} other {^1 elementos} }</string>
+    <string name="picker_album_item_count">{count, plural, =1 {^1 ítem} other {^1 ítems} }</string>
     <string name="picker_album_media_empty_message">No hay fotos ni vídeos compatibles</string>
-    <string name="picker_albums">Álbumes</string>
+    <string name="picker_albums">Albumes</string>
     <string name="picker_albums_empty_message">Sin álbumes</string>
     <string name="picker_app_label">Medios</string>
     <string name="picker_banner_cloud_account_changed_desc">Las fotos de %1$s ahora están incluidas aquí</string>
@@ -113,30 +113,30 @@
     <string name="picker_category_downloads">Descargas</string>
     <string name="picker_category_favorites">Favoritos</string>
     <string name="picker_category_screenshots">Capturas de pantalla</string>
-    <string name="picker_cloud_sync">Medios en la nube disponibles ahora desde %1$s</string>
+    <string name="picker_cloud_sync">Medios en la nube ahora disponibles desde %1$s</string>
     <string name="picker_error_dialog_body">Comprueba tu conexión a internet e inténtalo de nuevo</string>
     <string name="picker_error_dialog_positive_action">Reintentar</string>
     <string name="picker_error_dialog_title">Problema al reproducir vídeo</string>
     <string name="picker_error_snackbar">"No se puede reproducir el vídeo"</string>
     <string name="picker_gif">GIF</string>
     <string name="picker_header_permissions">Seleccionar elementos para permitir el acceso</string>
-    <string name="picker_item_content_desc">%1$s tomada el %2$s</string>
-    <string name="picker_motion_photo">Foto en movimiento</string>
-    <string name="picker_motion_photo_text">Foto en movimiento</string>
-    <string name="picker_mute_video">Silenciar el vídeo</string>
+    <string name="picker_item_content_desc">%1$s tomado el %2$s</string>
+    <string name="picker_motion_photo">Foto de movimiento</string>
+    <string name="picker_motion_photo_text">Foto de movimiento</string>
+    <string name="picker_mute_video">Silenciar vídeo</string>
     <string name="picker_pause_video">Pausa</string>
-    <string name="picker_personal_profile">Cambiar al perfil personal</string>
+    <string name="picker_personal_profile">Cambiar a personal</string>
     <string name="picker_photo">Foto</string>
     <string name="picker_photos">Fotos</string>
     <string name="picker_photos_empty_message">No hay fotos ni vídeos</string>
     <string name="picker_play_video">Jugar</string>
     <string name="picker_preview">Vista previa</string>
-    <string name="picker_privacy_message">Esta aplicación solo puede acceder a las fotos seleccionadas</string>
-    <string name="picker_profile_admin_msg_from_personal">No se puede acceder a los datos de trabajo desde una aplicación personal</string>
-    <string name="picker_profile_admin_msg_from_work">No se puede acceder a los datos personales desde una aplicación de trabajo</string>
-    <string name="picker_profile_admin_title">Bloqueado por el administrador</string>
-    <string name="picker_profile_work_paused_msg">Para abrir fotos de trabajo, activa las aplicaciones de trabajo e inténtalo otra vez</string>
-    <string name="picker_profile_work_paused_title">Las aplicaciones de trabajo están en pausa</string>
+    <string name="picker_privacy_message">Esta aplicación sólo puede acceder a las fotos que seleccionaste</string>
+    <string name="picker_profile_admin_msg_from_personal">El acceso a datos de trabajo desde una aplicación personal no está permitido</string>
+    <string name="picker_profile_admin_msg_from_work">El acceso a datos personales desde una aplicación de trabajo no está permitido</string>
+    <string name="picker_profile_admin_title">Bloqueado por tu administrador</string>
+    <string name="picker_profile_work_paused_msg">Para abrir fotos de trabajo, activa tus aplicaciones de trabajo y vuelve a intentarlo</string>
+    <string name="picker_profile_work_paused_title">Aplicaciones de trabajo pausadas</string>
     <string name="picker_settings">App de medios en la nube</string>
     <string name="picker_settings_description">Acceda a los medios de su nube cuando una aplicación o sitio web le pida que seleccione fotos o vídeos</string>
     <string name="picker_settings_no_provider">Ninguna</string>
@@ -144,20 +144,20 @@
     <string name="picker_settings_system_settings_menu_title">App de medios en la nube</string>
     <string name="picker_settings_title">App de medios en la nube</string>
     <string name="picker_settings_toast_error">No se pudo cambiar la aplicación multimedia en la nube en este momento.</string>
-    <string name="picker_unmute_video">Activar sonido del vídeo</string>
-    <string name="picker_video_item_content_desc">Vídeo grabado el %1$s con %2$s de duración</string>
-    <string name="picker_view_selected">Ver selección</string>
+    <string name="picker_unmute_video">Reactivar vídeo</string>
+    <string name="picker_video_item_content_desc">Video tomado el %1$s con duración %2$s</string>
+    <string name="picker_view_selected">Ver seleccionados</string>
     <string name="picker_work_profile">Cambiar a trabajo</string>
     <string name="preference_copied">\"%1$s\" copiado al portapapeles.</string>
     <string name="preloading_progress_message">%1$d de %2$d listo</string>
-    <string name="recent">Reciente</string>
+    <string name="recent">Recientes</string>
     <string name="root_audio">Audio</string>
     <string name="root_documents">Documentos</string>
     <string name="root_images">Imágenes</string>
     <string name="root_videos">Vídeos</string>
     <string name="safety_protection_icon_label">Protección de seguridad</string>
     <string name="select">Seleccionar</string>
-    <string name="select_up_to">{count, plural, =1 {Selecciona hasta ^1 elemento} other {Selecciona hasta ^1 elementos} }</string>
+    <string name="select_up_to">{count, plural, =1 {Selecciona hasta ^ 1 elemento} other {Selecciona hasta ^ 1 elementos} }</string>
     <string name="selected">Seleccionado</string>
     <string name="settings_label">Ajustes</string>
     <string name="settingslib_category_personal">Personal</string>

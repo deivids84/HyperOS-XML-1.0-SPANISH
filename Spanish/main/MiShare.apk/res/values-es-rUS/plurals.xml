@@ -5,7 +5,7 @@
         <item quantity="other">1 hora antes</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Hace %d hora</item>
+        <item quantity="one">Hace %d horas</item>
         <item quantity="other">Hace %d horas</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
@@ -21,7 +21,7 @@
         <item quantity="other">Inmediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">En %d min</item>
+        <item quantity="other">En %d minutos</item>
         <item quantity="one">En %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
@@ -29,8 +29,8 @@
         <item quantity="other">Justo ahora</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Hace %d min</item>
-        <item quantity="one">Hace %d min</item>
+        <item quantity="other">Hace %d minutos</item>
+        <item quantity="one">Hace %d minutos</item>
     </plurals>
     <plurals name="file_received_successfully">
         <item quantity="other">Se han recibido%2$d archivos de %1$s con éxito</item>

@@ -2,10 +2,10 @@
 <resources>
     <string-array name="aqi_detail_title">
         <item>Bueno</item>
+        <item>Justo</item>
         <item>Moderado</item>
-        <item>Insalubre para los grupos sensibles</item>
         <item>Insalubre</item>
-        <item>Muy insalubre</item>
+        <item>Sábado</item>
         <item>Peligroso</item>
     </string-array>
     <string-array name="aqi_title_prefix">
@@ -18,11 +18,11 @@
     </string-array>
     <string-array name="aqi_value">
         <item>Bueno</item>
-        <item>Aceptable</item>
-        <item>Moderadamente contaminado</item>
-        <item>Malo</item>
-        <item>Considerablemente malo</item>
-        <item>Muy malo</item>
+        <item>Justo</item>
+        <item>Moderado</item>
+        <item>Poco saludable</item>
+        <item>Sábado</item>
+        <item>Peligroso</item>
         <item>Excede el índice</item>
     </string-array>
     <string-array name="breeze">
@@ -98,24 +98,24 @@
         <item>Despejado</item>
         <item>Nublado</item>
         <item>Cubierto</item>
-        <item>Con niebla</item>
+        <item>Neblina</item>
         <item>Lluvia torrencial</item>
         <item>Chaparrón</item>
         <item>Aguacero</item>
         <item>Tormenta eléctrica</item>
-        <item>Lluvia</item>
-        <item>Lluvia intensa</item>
+        <item>Mostrar</item>
+        <item>Lluvia pesada</item>
         <item>Lluvia moderada</item>
         <item>Lluvia ligera</item>
-        <item>Lluvia y nieve</item>
+        <item>Aguanieve</item>
         <item>Ventisca</item>
-        <item>Nieve</item>
+        <item>Chubascos de nieve</item>
         <item>Nieve intensa</item>
         <item>Nieve moderada</item>
         <item>Nieve ligera</item>
         <item>Fuerte tormenta de arena</item>
         <item>Tormenta de arena</item>
-        <item>Tormenta de arena</item>
+        <item>Tormenta de arena ligera</item>
         <item>Tormenta de polvo</item>
         <item>Granizo</item>
         <item>Polvo</item>

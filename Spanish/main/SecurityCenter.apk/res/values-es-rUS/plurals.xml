@@ -5,7 +5,7 @@
         <item quantity="other">Hace 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Hace %d hora</item>
+        <item quantity="one">Hace %d horas</item>
         <item quantity="other">Hace %d horas</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
@@ -14,7 +14,7 @@
     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="one">En %d hora</item>
-        <item quantity="other">En %d horas</item>
+        <item quantity="other">En %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">En media hora</item>
@@ -26,7 +26,7 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">En %d minutos</item>
-        <item quantity="one">En %d minuto</item>
+        <item quantity="one">En %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ahora mismo</item>
@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Hace %d minutos</item>
-        <item quantity="one">Hace %d minuto</item>
+        <item quantity="one">Hace %d minutos</item>
     </plurals>
     <plurals name="add_game_notification_title">
         <item quantity="other">%d juegos añadidos</item>
@@ -226,11 +226,11 @@ Si activas los datos móviles otra vez, tu compañia telefónica puede cargar ga
     </plurals>
     <plurals name="extreme_mode_runtime_hour">
         <item quantity="other">%s horas</item>
-        <item quantity="one">%s hora</item>
+        <item quantity="one">%s h</item>
     </plurals>
     <plurals name="extreme_mode_runtime_minute">
         <item quantity="other">%s minutos</item>
-        <item quantity="one">%s minuto</item>
+        <item quantity="one">%s min</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">Buscar entre %d aplicaciones</item>
@@ -313,11 +313,12 @@ Si activas los datos móviles otra vez, tu compañia telefónica puede cargar ga
         <item quantity="one">Entendido (%ds)</item>
     </plurals>
     <plurals name="gb_vision_enhance_desc_detail">
-        <item quantity="other">"· Las imágenes mejoradas no estarán disponibles con el ahorro de batería activado o el dispositivo esté muy caliente.
-· La velocidad de fotogramas obtiene mejores resultados con el juego configurado para mostrar al menos %d fotogramas por segundo."</item>
+        <item quantity="other">"Nota:
+·Las imágenes mejoradas no estarán disponibles cuando el ahorro de batería esté encendido o su dispositivo se sobrecaliente.
+·Tasa de fotogramas inteligentes muestra los mejores resultados cuando el juego está configurado para que se muestren al menos %d fotogramas por segundo."</item>
         <item quantity="one">"Nota:
-· Las imágenes mejoradas no estarán disponibles con el ahorro de batería activado o el dispositivo esté muy caliente.
-· La velocidad de fotogramas obtiene mejores resultados con el juego configurado para mostrar al menos %d fotograma por segundo."</item>
+·Las imágenes mejoradas no estarán disponibles cuando el ahorro de batería esté encendido o su dispositivo se sobrecaliente.
+·Tasa de fotogramas inteligentes muestra los mejores resultados cuando el juego esté configurado para que se muestre al menos %d fotograma por segundo."</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="one">"Prueba Voice Changer ahora 
@@ -381,7 +382,7 @@ para obtener una prueba gratuita de %d días."</item>
     </plurals>
     <plurals name="hints_auto_start_disable_title_global">
         <item quantity="other">"%d aplicaciones no pueden iniciarse en segundo plano"</item>
-        <item quantity="one">"%d aplicación no puede iniciarse en segundo plano"</item>
+        <item quantity="one">"La aplicación %d no puede iniciarse en segundo plano"</item>
     </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d aplicaciones pueden iniciarse automáticamente</item>
@@ -389,7 +390,7 @@ para obtener una prueba gratuita de %d días."</item>
     </plurals>
     <plurals name="hints_auto_start_enable_title_global">
         <item quantity="other">%d aplicaciones pueden iniciarse en segundo plano</item>
-        <item quantity="one">%d aplicación puede iniciarse en segundo plano</item>
+        <item quantity="one">La aplicación %d puede iniciarse en segundo plano</item>
     </plurals>
     <plurals name="hints_get_root_disable_title">
         <item quantity="other">"%d aplicaciones no tienen acceso a la raíz"</item>
@@ -612,8 +613,8 @@ para obtener una prueba gratuita de %d días."</item>
         <item quantity="one">%d aplicación</item>
     </plurals>
     <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
-        <item quantity="other">%2$d aplicaciones, incluyendo %1$s, podrían ser maliciosas</item>
-        <item quantity="one">%2$d aplicación, incluyendo %1$s, podría ser maliciosa</item>
+        <item quantity="other">%2$d aplicaciones, incluyendo %1$s pueden ser maliciosas.</item>
+        <item quantity="one">La aplicación %2$d incluyendo %1$s puede ser maliciosa</item>
     </plurals>
     <plurals name="pc_abnormal_scan_result_model_result_title">
         <item quantity="other">%d aplicaciones están vaciando la batería</item>
@@ -629,11 +630,11 @@ para obtener una prueba gratuita de %d días."</item>
     </plurals>
     <plurals name="pc_can_be_optimize_numbers">
         <item quantity="other">%d elementos</item>
-        <item quantity="one">%d elemento</item>
+        <item quantity="one">Objeto %d</item>
     </plurals>
     <plurals name="pc_extreme_mode_count_down_title">
-        <item quantity="other">El dispositivo está sin batería. Entrará en hibernación en %1$d segundos.</item>
-        <item quantity="one">El dispositivo está sin batería. Entrará en hibernación en %1$d segundo.</item>
+        <item quantity="other">Tu dispositivo está fuera de batería. Entra al modo de hibernación en %1$d segundos.</item>
+        <item quantity="one">Tu dispositivo está agotado. Entra al modo de hibernación en %1$d segundo.</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s días</item>
@@ -952,8 +953,8 @@ para obtener una prueba gratuita de %d días."</item>
         <item quantity="one">%1$s|Contenido de pantalla accedido o grabado %2$d vez</item>
     </plurals>
     <plurals name="permission_usage_recent_day">
-        <item quantity="other">Hace %1$d días</item>
-        <item quantity="one">Hace %1$d días</item>
+        <item quantity="other">%1$d días atrás</item>
+        <item quantity="one">%1$d hace un día</item>
     </plurals>
     <plurals name="permission_usage_terminal_camera">
         <item quantity="other">"%1$s | Esta aplicación utilizó la cámara de este dispositivo %2$d veces"</item>
@@ -1024,8 +1025,8 @@ para obtener una prueba gratuita de %d días."</item>
         <item quantity="one">"%d min "</item>
     </plurals>
     <plurals name="power_center_battery_optimization">
-        <item quantity="other">Optimiza el uso de batería en %d escenarios</item>
-        <item quantity="one">Optimiza el uso de batería en %d escenario</item>
+        <item quantity="other">Optimizar el uso de la batería en escenarios %d</item>
+        <item quantity="one">Optimizar el uso de la batería en el escenario %d</item>
     </plurals>
     <plurals name="power_center_battery_problem">
         <item quantity="other">Solucionar %d problemas de uso de la batería</item>

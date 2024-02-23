@@ -263,7 +263,7 @@
     <string name="public_play">Reproducir</string>
     <string name="public_ppt_label">Mi visor de presentaciones</string>
     <string name="public_privacy_policy">Política de privacidad</string>
-    <string name="public_privacy_update">&lt;Data&gt;Para comprender completamente tus derechos de usuario, así como la forma en que usamos tus datos, lee y acepta la nueva versión de nuestra &lt;a href=\"%s\"&gt;Política de Privacidad&lt;/a&gt; antes de continuar.&lt;/Data&gt;</string>
+    <string name="public_privacy_update">&lt;Data&gt;Para comprender plenamente sus derechos como usuario, así como las formas en que utilizamos sus datos, lea y acepte la nueva versión de nuestro &lt;a href=\"%s\"&gt;Política de privacidad&lt;/a&gt; antes de continuar.&lt;/Data&gt;</string>
     <string name="public_re_licensing">Autorización de concesión</string>
     <string name="public_readOnlyMode">Solo lectura</string>
     <string name="public_recory_edit_not_save_tips">Ya se recuperó el contenido no guardado.</string>
@@ -272,10 +272,10 @@
     <string name="public_refuse_jurisdiction">Se necesitan permisos</string>
     <string name="public_replace">Reemplazar</string>
     <string name="public_request_senior_password">Ingrese la contraseña de mayor permiso</string>
-    <string name="public_revoke">Retirar %s</string>
-    <string name="public_revoke_privacy_content">"Si continúas, retirarás el consentimiento a la Política de Privacidad de Mi Doc Viewer (Powered by WPS). Dejaremos de recopilar información personal, y la ya recopilada se eliminará dentro del período específico de acuerdo con las leyes y regulaciones aplicables, a menos que se exija lo contrario. La retirada del consentimiento se considerará una negativa a aceptar los servicios proporcionados por Mi Doc Viewer (Powered by WPS)."</string>
+    <string name="public_revoke">Retirar%s</string>
+    <string name="public_revoke_privacy_content">"Si continúa, retirará su consentimiento a la Política de Privacidad de Mi Doc Viewer (Powered by WPS). Dejaremos de recopilar su información personal y la información personal ya recopilada y conservada será eliminada en el plazo específico de acuerdo con las leyes y reglamentos aplicables, a menos que se exija lo contrario. Su retiro de consentimiento será visto como una negativa a aceptar los servicios proporcionados por Mi Doc Viewer (Powered by WPS)."</string>
     <string name="public_revoke_privacy_desc">Retira tu consentimiento a la Política de Privacidad de Mi Doc Viewer (Powered by WPS)</string>
-    <string name="public_revoke_privacy_title">Retirada del consentimiento</string>
+    <string name="public_revoke_privacy_title">Retiro del consentimiento</string>
     <string name="public_ribbon_font">Fuente</string>
     <string name="public_save">Guardar</string>
     <string name="public_saveAs">Guardar como</string>

@@ -23,36 +23,6 @@
         <item>Día para recordar</item>
         <item>Momentos vibrantes</item>
     </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="annual_foods_title">
         <item>Un año delicioso</item>
         <item>Tres cursos. Cuatro estaciones.</item>
@@ -80,45 +50,6 @@
         <item>Último miércoles</item>
         <item>Último jueves</item>
         <item>Último viernes</item>
-    </string-array>
-    <string-array name="chinese_holiday_last_year">
-        <item>"Último año nuevo chino"</item>
-        <item>Último año nuevo chino</item>
-        <item>Último Festival de los Faroles</item>
-        <item>Último Festival del Barco Dragón</item>
-        <item>Último Festival Qixi</item>
-        <item>Último Festival del Medio Otoño</item>
-    </string-array>
-    <string-array name="chinese_holiday_past_year">
-        <item>"Nochevieja china a través de los años"</item>
-        <item>Año nuevo chino a través de los años</item>
-        <item>Festival de los Faroles a través de los años</item>
-        <item>Dragon Boat Festival a través de los años</item>
-        <item>Festival Qixi a través de los años</item>
-        <item>Festival del Medio Otoño a través de los años</item>
-    </string-array>
-    <string-array name="chinese_new_year_eve_title">
-        <item>Una noche para recordar</item>
-        <item>Nueva página</item>
-        <item>Fuegos artificiales</item>
-    </string-array>
-    <string-array name="chinese_new_year_title">
-        <item>¡Feliz Año Nuevo!</item>
-        <item>Amanecer del año nuevo</item>
-    </string-array>
-    <string-array name="chinese_zodiac_year">
-        <item>Año del Mono</item>
-        <item>Año del Gallo</item>
-        <item>Año del Perro</item>
-        <item>Año del Cerdo</item>
-        <item>Año de la Rata</item>
-        <item>Año del Buey</item>
-        <item>Año del Tigre</item>
-        <item>Año del Conejo</item>
-        <item>Año del Dragón</item>
-        <item>Año de la Serpiente</item>
-        <item>Año del Caballo</item>
-        <item>Año de la Cabra</item>
     </string-array>
     <string-array name="city_title">
         <item>Paisajes urbanos</item>

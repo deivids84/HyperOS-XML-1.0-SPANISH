@@ -1342,6 +1342,8 @@ Si tienes preguntas, contacta con %2$s."</string>
     <string name="phone_locked_string">Este dispositivo está bloqueado</string>
     <string name="phone_locked_string_owner_user">Demasiados intentos fallidos para ingresar la contraseña del primer espacio. Este dispositivo está bloqueado ahora.</string>
     <string name="phone_locked_string_second_user">Demasiados intentos fallidos para ingresar la contraseña del segundo espacio. Este dispositivo está bloqueado ahora.</string>
+    <string name="pin_toast">Desliza hacia arriba desde la parte inferior de la pantalla y pausa para liberar esta aplicación</string>
+    <string name="pin_toast_nav">Mantén pulsados los botones de retroceso y vista previa para desbloquear esta aplicación</string>
     <string name="pip_close">Cerrar</string>
     <string name="pip_collapse">Contraer</string>
     <string name="pip_edu_text">Pulsa dos veces <annotation icon="home_icon">INICIO</annotation> para ver los controles</string>

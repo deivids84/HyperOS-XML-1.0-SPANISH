@@ -5,8 +5,8 @@
         <item quantity="other">Hace 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Hace %d hora</item>
-        <item quantity="other">Hace %d horas</item>
+        <item quantity="one">%d hace una hora</item>
+        <item quantity="other">%d hace una hora</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Hace media hora</item>
@@ -14,7 +14,7 @@
     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="one">En %d hora</item>
-        <item quantity="other">En %d horas</item>
+        <item quantity="other">En %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">En media hora</item>
@@ -25,7 +25,7 @@
         <item quantity="other">Inmediatamente</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">En %d min</item>
+        <item quantity="other">En %d minutos</item>
         <item quantity="one">En %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
@@ -33,8 +33,8 @@
         <item quantity="other">Ahora mismo</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Hace %d min</item>
-        <item quantity="one">Hace %d min</item>
+        <item quantity="other">%d hace minutos</item>
+        <item quantity="one">%d hace min</item>
     </plurals>
     <plurals name="backup_message_wechat_video">
         <item quantity="other">"%1$d archivos temporales de WeChat Vídeo se borrarán, ¿quieres hacer copia?"</item>
@@ -57,8 +57,8 @@
         <item quantity="one">Hace %1$d día</item>
     </plurals>
     <plurals name="delete_cloud_files">
-        <item quantity="other">¿Eliminar %1$d archivos de todos tus dispositivos y la nube? Los archivos de Mi Drive se pueden recuperar desde los elementos eliminados recientemente.</item>
-        <item quantity="one">¿Eliminar %1$d archivo de todos tus dispositivos y la nube? Los archivos de Mi Drive se pueden recuperar desde los elementos eliminados recientemente.</item>
+        <item quantity="other">¿Eliminar archivos %1$d de todos sus dispositivos y la nube? Los archivos Mi Drive se pueden recuperar de sus elementos recientemente eliminados.</item>
+        <item quantity="one">¿Eliminar archivo %1$d de todos sus dispositivos y la nube? Los archivos Mi Drive se pueden recuperar de sus elementos eliminados recientemente.</item>
     </plurals>
     <plurals name="delete_files">
         <item quantity="other">¿Eliminar %1$d archivos?</item>
@@ -145,16 +145,16 @@
         <item quantity="one">%d nueva notificación</item>
     </plurals>
     <plurals name="notification_message_sync_result_fail">
-        <item quantity="other">"No se pudo sincronizar %1$s archivos"</item>
-        <item quantity="one">"No se pudo sincronizar %1$s archivo"</item>
+        <item quantity="other">"No se pudo sincronizar archivos %1$s"</item>
+        <item quantity="one">"No se pudo sincronizar el archivo %1$s"</item>
     </plurals>
     <plurals name="notification_message_sync_result_success">
-        <item quantity="other">"Sincronizados %1$s archivos | "</item>
-        <item quantity="one">"Sincronizado %1$s archivo | "</item>
+        <item quantity="other">"Archivos %1$s sincronizados | "</item>
+        <item quantity="one">"Archivo %1$s sincronizado | "</item>
     </plurals>
     <plurals name="notification_title_syncing_with_count_no_network">
-        <item quantity="other">Esperando la conexión de red. Quedan %1$s archivos.</item>
-        <item quantity="one">Esperando la conexión de red. Queda %1$s archivo.</item>
+        <item quantity="other">Esperando conexión de red. Quedan archivos %1$s.</item>
+        <item quantity="one">Esperando conexión de red. Archivo %1$s restante.</item>
     </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d elementos seleccionados</item>
@@ -173,11 +173,11 @@
         <item quantity="one">" • &lt;font color=#fc7050&gt;%1$d&lt;/font&gt; día"</item>
     </plurals>
     <plurals name="original_user_fans">
-        <item quantity="other">" • ¡Has obtenido &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; seguidores!"</item>
-        <item quantity="one">" • ¡Has obtenido &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; seguidor!"</item>
+        <item quantity="other">" • ¡Obtuviste &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; seguidores!"</item>
+        <item quantity="one">" • ¡Obtuviste &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; seguidor!"</item>
     </plurals>
     <plurals name="original_user_play_1">
-        <item quantity="other">" • Has subido &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; vídeos. "</item>
+        <item quantity="other">" • Has subido &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; Videos. "</item>
         <item quantity="one">" • Has subido &lt;font color=#fc7050&gt;%1$s&lt;/font&gt; vídeo. "</item>
     </plurals>
     <plurals name="original_user_play_2">

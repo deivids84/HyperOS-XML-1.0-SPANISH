@@ -5,16 +5,16 @@
         <item quantity="other">Hace 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Hace %d horas</item>
-        <item quantity="other">Hace %d horas</item>
+        <item quantity="one">%d hace una hora</item>
+        <item quantity="other">%d hace una hora</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="one">Hace media hora</item>
         <item quantity="other">Hace media hora</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="one">en %d horas</item>
-        <item quantity="other">en %d horas</item>
+        <item quantity="one">En %d hora</item>
+        <item quantity="other">En %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">En media hora</item>
@@ -26,7 +26,7 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">En %d minutos</item>
-        <item quantity="one">en %d minutos</item>
+        <item quantity="one">En %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Ahora mismo</item>
@@ -77,12 +77,12 @@
         <item quantity="one">Hace 1 minuto</item>
     </plurals>
     <plurals name="session_starting_app_count_backup_text">
-        <item quantity="other">Copia de seguridad de %d aplicaciones</item>
-        <item quantity="one">Copia de seguridad de %d aplicación</item>
+        <item quantity="other">Respaldado %d aplicaciones</item>
+        <item quantity="one">Respaldado %d aplicación</item>
     </plurals>
     <plurals name="session_starting_app_count_restore_text">
-        <item quantity="other">Se han restaurado %d aplicaciones</item>
-        <item quantity="one">Se ha restaurado %d aplicación</item>
+        <item quantity="other">Aplicaciones restauradas %d</item>
+        <item quantity="one">Aplicación restaurada %d</item>
     </plurals>
     <plurals name="session_time_remain">
         <item quantity="other">Aproximadamente %s minutos restantes</item>

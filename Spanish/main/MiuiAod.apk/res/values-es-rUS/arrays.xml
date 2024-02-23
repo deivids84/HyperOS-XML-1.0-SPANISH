@@ -2,12 +2,12 @@
 <resources>
     <string-array name="kg_glass_filters">
         <item>Original</item>
-        <item>Desenfoque</item>
-        <item>Laminado</item>
-        <item>Acanalado</item>
+        <item>Blur</item>
+        <item>Recogido</item>
+        <item>Costillas</item>
         <item>Prisma</item>
-        <item>Surcos</item>
-        <item>Olas</item>
+        <item>Grooves</item>
+        <item>Ondas</item>
         <item>Cuadrados</item>
     </string-array>
 </resources>

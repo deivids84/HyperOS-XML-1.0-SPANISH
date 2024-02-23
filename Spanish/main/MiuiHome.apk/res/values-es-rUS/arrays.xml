@@ -11,7 +11,7 @@
         <item>Ajustes</item>
     </string-array>
     <string-array name="monochrome_color_entries">
-        <item>Predeterminado</item>
+        <item>Por defecto</item>
         <item>Azul</item>
         <item>Verde</item>
         <item>Morado</item>
@@ -34,14 +34,5 @@
         <item>Cascada</item>
         <item>Rotar</item>
         <item>Cubo</item>
-    </string-array>
-    <string-array name="widget_component_delete_way">
-        <item>shortcut删除</item>
-        <item>顶部删除</item>
-        <item>APP卸载</item>
-        <item>shortcut更换</item>
-        <item>PUSH下线</item>
-        <item>鉴权失败</item>
-        <item>其他</item>
     </string-array>
 </resources>

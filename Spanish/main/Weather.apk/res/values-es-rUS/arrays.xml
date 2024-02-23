@@ -1,70 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alphabet_table">
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="aqi_detail_title">
         <item>Buena</item>
-        <item>Moderada</item>
-        <item>Dañina para grupos sensibles</item>
+        <item>Justo</item>
+        <item>Moderado</item>
         <item>Dañina</item>
-        <item>Muy dañina</item>
+        <item>Sábado</item>
         <item>Peligrosa</item>
     </string-array>
     <string-array name="aqi_title_prefix">
@@ -77,11 +18,11 @@
     </string-array>
     <string-array name="aqi_value">
         <item>Bueno</item>
-        <item>Aceptable</item>
-        <item>Moderadamente contaminado</item>
-        <item>Malo</item>
-        <item>Muy malo</item>
-        <item>Grave</item>
+        <item>Justo</item>
+        <item>Moderado</item>
+        <item>Poco saludable</item>
+        <item>Sábado</item>
+        <item>Peligroso</item>
         <item>Excede el índice</item>
     </string-array>
     <string-array name="breeze">
@@ -157,24 +98,24 @@
         <item>Despejado</item>
         <item>Nublado</item>
         <item>Muy nublado</item>
-        <item>Niebla</item>
+        <item>Neblina</item>
         <item>Tormenta intensa</item>
         <item>Aguacero</item>
         <item>Tormenta</item>
         <item>Tormenta eléctrica</item>
-        <item>Lluvia</item>
-        <item>Lluvia intensa</item>
+        <item>Mostrar</item>
+        <item>Lluvia pesada</item>
         <item>Lluvia moderada</item>
         <item>Llovizna</item>
         <item>Aguanieve</item>
         <item>Ventisca</item>
-        <item>Nieve</item>
+        <item>Chubascos de nieve</item>
         <item>Nevada intensa</item>
         <item>Nevada moderada</item>
         <item>Nevada ligera</item>
         <item>Tormenta de arena intensa</item>
         <item>Tormenta de arena</item>
-        <item>Arena</item>
+        <item>Tormenta de arena ligera</item>
         <item>Tormenta de polvo</item>
         <item>Granizo</item>
         <item>Polvo</item>

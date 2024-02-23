@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Hace %d hora</item>
+        <item quantity="one">Hace %d horas</item>
         <item quantity="other">Hace %d horas</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="one">En %d hora</item>
-        <item quantity="other">En %d horas</item>
+        <item quantity="other">En %d hora</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">En %d min</item>
+        <item quantity="other">En %d minutos</item>
         <item quantity="one">En %d min</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Hace %d min</item>
-        <item quantity="one">Hace %d min</item>
+        <item quantity="other">Hace %d minutos</item>
+        <item quantity="one">Hace %d minutos</item>
     </plurals>
     <plurals name="delete_msg">
-        <item quantity="other">¿Eliminar ahora %d elementos?</item>
-        <item quantity="one">¿Eliminar ahora %d elemento?</item>
+        <item quantity="other">¿Eliminar elementos %d ahora?</item>
+        <item quantity="one">¿Eliminar elemento %d ahora?</item>
     </plurals>
     <plurals name="entries">
         <item quantity="other">%d elementos</item>
@@ -38,7 +38,7 @@
     </plurals>
     <plurals name="select_items">
         <item quantity="other">%d elementos seleccionados</item>
-        <item quantity="one">%d elemento seleccionado</item>
+        <item quantity="one">Elemento %d seleccionado</item>
     </plurals>
     <plurals name="tenure_months">
         <item quantity="other">%d meses</item>
@@ -65,7 +65,7 @@
         <item quantity="one">Megabyte</item>
     </plurals>
     <plurals name="unit_data_display_data_pb">
-        <item quantity="other">Petabytes</item>
+        <item quantity="other">Animóabytes</item>
         <item quantity="one">Petabyte</item>
     </plurals>
     <plurals name="unit_data_display_data_tb">

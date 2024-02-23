@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="abc_action_bar_home_description">Navegar casa</string>
-    <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
+    <string name="abc_action_bar_up_description">Navegar arriba</string>
     <string name="abc_action_menu_overflow_description">Más opciones</string>
     <string name="abc_action_mode_done">Hecho</string>
     <string name="abc_activity_chooser_view_see_all">Ver todos</string>
     <string name="abc_activitychooserview_choose_application">Elige una aplicación</string>
     <string name="abc_capital_off">DESACTIVADO</string>
-    <string name="abc_capital_on">ACTIVADO</string>
-    <string name="abc_menu_alt_shortcut_label">Alt +</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
-    <string name="abc_menu_delete_shortcut_label">Suprimir</string>
-    <string name="abc_menu_enter_shortcut_label">Intro</string>
-    <string name="abc_menu_function_shortcut_label">Función +</string>
-    <string name="abc_menu_meta_shortcut_label">Meta +</string>
-    <string name="abc_menu_shift_shortcut_label">Mayús +</string>
-    <string name="abc_menu_space_shortcut_label">Espacio</string>
-    <string name="abc_menu_sym_shortcut_label">Sym +</string>
-    <string name="abc_prepend_shortcut_label">Menú +</string>
+    <string name="abc_capital_on">SI</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">borrar</string>
+    <string name="abc_menu_enter_shortcut_label">entrar</string>
+    <string name="abc_menu_function_shortcut_label">Función +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Mayús+</string>
+    <string name="abc_menu_space_shortcut_label">espacio</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menú +</string>
     <string name="abc_search_hint">Buscar…</string>
     <string name="abc_searchview_description_clear">Borrar consulta</string>
     <string name="abc_searchview_description_query">Buscar consulta</string>
@@ -26,7 +26,7 @@
     <string name="abc_searchview_description_voice">Búsqueda por voz</string>
     <string name="abc_shareactionprovider_share_with">Compartir con</string>
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
-    <string name="abc_toolbar_collapse_description">Ocultar</string>
+    <string name="abc_toolbar_collapse_description">Colapso</string>
     <string name="accessibility_work_profile_app_description">Trabajo %s</string>
     <string name="action_drag_label_move_bottom">Mover hacia abajo</string>
     <string name="action_drag_label_move_down">Bajar</string>
@@ -43,7 +43,7 @@
     <string name="all_categories_title">Todas las categorías</string>
     <string name="all_entries_button">Ver todas las entradas</string>
     <string name="app_access_title">Acceso a App</string>
-    <string name="app_label">Salud conectada</string>
+    <string name="app_label">Conexión de salud</string>
     <string name="app_perms_content_provider_24h">Accedido en las últimas 24 horas</string>
     <string name="app_priority_button">Prioridad de la aplicación</string>
     <string name="app_update_needed_banner_button">Buscar actualizaciones</string>
@@ -122,7 +122,7 @@
     <string name="boot_camp">Arrancar campamento</string>
     <string name="bottomsheet_action_collapse">Colapsar la hoja inferior</string>
     <string name="bottomsheet_action_expand">Expandir la hoja inferior</string>
-    <string name="bottomsheet_action_expand_halfway">Desplegar hasta la mitad</string>
+    <string name="bottomsheet_action_expand_halfway">Expandir a mitad de camino</string>
     <string name="bottomsheet_drag_handle_clicked">Arrastre el asa doble tocado</string>
     <string name="bottomsheet_drag_handle_content_description">Arrastre el asa</string>
     <string name="boxing">Cajado</string>
@@ -237,9 +237,9 @@
     <string name="denied_apps_banner_message_two_apps">Permisos de conexión de salud eliminados para %1$s y %2$s</string>
     <string name="denied_apps_banner_title">Permisos de aplicación eliminados</string>
     <string name="denied_apps_dialog_got_it_button">Entendido</string>
-    <string name="denied_apps_dialog_message">"Si una aplicación se suspende o elimina de Google Play, Health Connect elimina automáticamente sus permisos.
+    <string name="denied_apps_dialog_message">"Si se suspende o quita una aplicación de Google Play, Health Connect quita automáticamente sus permisos.
 
-Esto significa que la aplicación ya no puede acceder a los datos almacenados en Health Connect. Si esta aplicación ha escrito datos previamente, aparece en la lista de aplicaciones inactivas."</string>
+Esto significa que la aplicación ya no puede acceder a los datos almacenados en Health Connect. Si esta aplicación ha escrito datos anteriormente, aparece en la lista de aplicaciones inactivas."</string>
     <string name="denied_apps_dialog_title">Por qué Health Connect elimina los permisos de la aplicación</string>
     <string name="dest_title">título de destino</string>
     <string name="dietary_fiber">Fibra dietética</string>
@@ -458,7 +458,7 @@ Puede tomar algo de tiempo mientras sus datos y permisos se están transfiriendo
     <string name="migration_module_update_needed_restart">"Si ya ha actualizado su sistema de teléfono, intente reiniciar su teléfono para continuar la integración"</string>
     <string name="migration_more_space_needed_notification_content">Health Connect necesita %1$s de espacio de almacenamiento en tu teléfono para continuar integrándose.</string>
     <string name="migration_more_space_needed_notification_title">Se necesita más espacio</string>
-    <string name="migration_more_space_needed_screen_details">"Health Connect necesita %1$s de espacio de almacenamiento en su teléfono para que la integración continúe.
+    <string name="migration_more_space_needed_screen_details">"Necesidades de Health Connect %1$s de espacio de almacenamiento en su teléfono para que la integración continúe.
 
 Libera algo de espacio en tu teléfono y vuelve a intentarlo."</string>
     <string name="migration_more_space_needed_screen_title">Se necesita más espacio</string>
@@ -491,7 +491,7 @@ Haga clic en reanudar para volver a abrir la aplicación y continuar transfirien
     <string name="millimoles_per_liter_long">{count, plural, =1 {1 millimole per liter} other {# millimoles per liter}}</string>
     <string name="milliseconds">{count, plural, =1 {1 ms} other {# ms}}</string>
     <string name="milliseconds_long">{count, plural, =1 {1 milisegundo} other {# milisegundos}}</string>
-    <string name="minute_duration">%1$smetros</string>
+    <string name="minute_duration">%1$sm</string>
     <string name="minute_duration_accessibility">{count, plural, =1 {1 minuto} other {# minutos}}</string>
     <string name="module_update_needed_seen">Actualización de Módulo Seen</string>
     <string name="molybdenum">Molybdenum</string>
@@ -550,7 +550,7 @@ Haga clic en reanudar para volver a abrir la aplicación y continuar transfirien
     <string name="no_recent_access">No hay aplicaciones accedidas recientemente a Health Connect</string>
     <string name="no_results">Sin resultados</string>
     <string name="not_connected_apps_section_title">Acceso no permitido</string>
-    <string name="not_set">Sin establecer</string>
+    <string name="not_set">No establecido</string>
     <string name="nutrition_category_lowercase">nutrición</string>
     <string name="nutrition_category_uppercase">Nutrición</string>
     <string name="nutrition_lowercase_label">nutrición</string>
@@ -589,15 +589,15 @@ Haga clic en reanudar para volver a abrir la aplicación y continuar transfirien
     <string name="permission_types_title">Sus datos</string>
     <string name="permissions_and_data_header">Permisos y datos</string>
     <string name="permissions_disconnect_all_dialog_disconnect">Eliminar todo</string>
-    <string name="permissions_disconnect_all_dialog_message">"Ninguna de sus aplicaciones podrá acceder ni agregar nuevos datos a Health Connect. Esto no elimina ningún dato existente.
+    <string name="permissions_disconnect_all_dialog_message">"Ninguna de sus aplicaciones podrá acceder a datos nuevos o agregarlos a Health Connect. Esto no elimina ningún dato existente.
 
-Esto no afecta otros permisos que pueda tener esta aplicación, como ubicación, cámara o micrófono."</string>
+Esto no afecta a otros permisos que pueda tener esta aplicación, como la ubicación, la cámara o el micrófono."</string>
     <string name="permissions_disconnect_all_dialog_title">¿Eliminar acceso para todas las aplicaciones?</string>
     <string name="permissions_disconnect_dialog_checkbox">También eliminar datos %1$s de Health Connect</string>
     <string name="permissions_disconnect_dialog_disconnect">Eliminar todo</string>
     <string name="permissions_disconnect_dialog_message">"%1$s ya no podrá leer ni escribir ningún dato de Health Connect.
 
-Esto no afecta otros permisos que pueda tener esta aplicación, como ubicación, cámara o micrófono."</string>
+Esto no afecta a otros permisos que pueda tener esta aplicación, como la ubicación, la cámara o el micrófono."</string>
     <string name="permissions_disconnect_dialog_title">¿Eliminar todos los permisos?</string>
     <string name="permlab_readCaloriesBurned">Leer calorías quemadas</string>
     <string name="phosphorus">Fósforo</string>
