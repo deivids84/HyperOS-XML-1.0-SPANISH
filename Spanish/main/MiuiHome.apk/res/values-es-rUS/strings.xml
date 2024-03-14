@@ -714,6 +714,7 @@ Seguridad mejorada."</string>
     <string name="switch_personal_assistant_app_vault">Bóveda de aplicaciones</string>
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">Ninguno</string>
+    <string name="switch_personal_assistant_summary">Deslice a la derecha en la pantalla de inicio para abrir Google Discover</string>
     <string name="switch_screen_button_order">Invertir botones</string>
     <string name="switch_screen_button_order_desc">Invertir botones de Atrás y Menú</string>
     <string name="system_sdk_disabled_toast">SDK del sistema ha sido deshabilitado. Habilítelo primero.</string>

@@ -4419,6 +4419,10 @@ Abre la nube de Xiaomi y restaura elementos desde allí."</string>
     <string name="interesting_title">Toque realista</string>
     <string name="internal_auto_rotate_title">Orientación de bloqueo para la pantalla interna</string>
     <string name="internal_storage">Almacenamiento interno</string>
+    <string name="international_lyra_account_ap_summary">"Permitir que las tabletas cercanas y los ordenadores conectados a tu cuenta se enciendan y se conecten automáticamente al punto de acceso de este dispositivo"</string>
+    <string name="international_lyra_account_ap_title">Sincronización de red</string>
+    <string name="international_lyra_auto_connect_summary">"Cuando un dispositivo cercano está conectado a tu cuenta y necesita conectarse a Internet, activar y conectarse automáticamente al punto de acceso de este dispositivo"</string>
+    <string name="international_lyra_auto_connect_title">Conectar automáticamente al punto de acceso</string>
     <string name="internet_connectivity_panel_title">Conectividad a Internet</string>
     <string name="invalid_location">La ubicación de la instalación no es válida.</string>
     <string name="invalid_size_value">No se pudo calcular el tamaño del paquete.</string>
