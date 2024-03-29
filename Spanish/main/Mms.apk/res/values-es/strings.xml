@@ -129,6 +129,7 @@ Inténtelo de nuevo."</string>
     <string name="cannot_send_message_reason">Los destinatarios del mensaje no son válidos.</string>
     <string name="cannot_send_mms">"Las comunicaciones satelitales no soportan MMS"</string>
     <string name="carry_current_location">Incluye la ubicación actual</string>
+    <string name="carry_vital_signs">Incluye signos vitales</string>
     <string name="change_duration_activity">Cambiar duración</string>
     <string name="chatbot_list_title">Bots de chat</string>
     <string name="chatbot_main_title">Bots de chat</string>
@@ -1182,6 +1183,26 @@ Si no acepta conceder dichos permisos ni compartir o subir su información perso
     <string name="video_compressing">Comprimiendo vídeo…</string>
     <string name="view">Ver</string>
     <string name="view_message_details">Ver detalles</string>
+    <string name="vital_signs_cta_body">"Los datos de los signos vitales (incluidos el ritmo cardíaco, la SpO₂ y la información de la tarjeta médica) se obtienen de Mi Fitness. Marcar a continuación indica que acepta que accedamos y utilicemos estos datos.
+Solo se conservarán los primeros 50 caracteres de cada elemento de la tarjeta médica para controlar la longitud del mensaje."</string>
+    <string name="vital_signs_cta_title">Señales vitales</string>
+    <string name="vital_signs_data_allergy">Alergias: %s</string>
+    <string name="vital_signs_data_disease">Condiciones crónicas: %s</string>
+    <string name="vital_signs_data_high_bpm">Alto HR, el más reciente: %1$d–%2$d BPM (%3$s–%4$s)</string>
+    <string name="vital_signs_data_high_bpm_multi">Alto RHH varias veces en la última hora. Más reciente: %1$d–%2$d BPM (%3$s–%4$s)</string>
+    <string name="vital_signs_data_low_bpm">Baja HR, la más reciente: %1$d–%2$d BPM (%3$s–%4$s)</string>
+    <string name="vital_signs_data_low_bpm_multi">Baja HR varias veces en la última hora. La más reciente: %1$d–%2$d BPM (%3$s–%4$s)</string>
+    <string name="vital_signs_data_low_spo2">Baja SpO2, la más reciente: %1$d%%–%2$d%% (%3$s–%4$s)</string>
+    <string name="vital_signs_data_low_spo2_multi">SpO2 fue baja varias veces en la última hora. La más reciente: %1$d%%–%2$d%% (%3$s–%4$s)</string>
+    <string name="vital_signs_data_medical">Procesos: %s</string>
+    <string name="vital_signs_toast_exception">"No se pudo obtener datos de signos vitales"</string>
+    <string name="vital_signs_toast_health_app_low">Actualiza Mi Fitness para obtener datos de signos vitales</string>
+    <string name="vital_signs_toast_health_app_no_install">Instalar Mi Fitness para obtener datos de signos vitales</string>
+    <string name="vital_signs_toast_no_bpm_spo2">"No se pudo obtener el ritmo cardíaco y datos de SpO2"</string>
+    <string name="vital_signs_toast_no_data">"No se pudo obtener datos de signos vitales"</string>
+    <string name="vital_signs_wait_body">Accediendo a datos. Esto puede tardar un minuto.</string>
+    <string name="vital_signs_wait_skip">Saltar</string>
+    <string name="vital_signs_wait_title">Datos vitales de signos</string>
     <string name="voice_report_anytime">Siempre</string>
     <string name="voice_report_off">Desactivado</string>
     <string name="voice_report_wiredon">Con auriculares</string>

@@ -13,65 +13,6 @@
         <item>Entre semana</item>
         <item>Personalizado</item>
     </string-array>
-    <string-array name="alphabet_table">
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="app_behavior_type_menu">
         <item>Todos los registros</item>
         <item>Inicio automático</item>
@@ -246,8 +187,8 @@
         <item>Algunas aplicaciones de terceros pueden contener malware que pone en riesgo sus datos personales.</item>
     </string-array>
     <string-array name="pp_lab_compact_blur_location_entry">
-        <item>Predeterminado</item>
-        <item>Todo</item>
+        <item>Por defecto</item>
+        <item>Todos</item>
     </string-array>
     <string-array name="priority_storage_entries">
         <item>Almacenamiento interno</item>
@@ -263,15 +204,15 @@
         <item>Saldo del teléfono</item>
     </string-array>
     <string-array name="sort_title_new">
-        <item>Ordenar por el nombre de la aplicación</item>
-        <item>Ordenar por el uso reciente</item>
-        <item>Ordenar por el almacenamiento usado</item>
-        <item>Ordenar por la fecha de instalación</item>
+        <item>Ordenar por nombre de aplicación</item>
+        <item>Ordenar por más recientemente usado</item>
+        <item>Ordenar por almacenamiento usado</item>
+        <item>Ordenar por tiempo de instalación</item>
     </string-array>
     <string-array name="sort_type_new">
         <item>Nombre de la aplicación</item>
         <item>Usado recientemente</item>
-        <item>Almacenamiento utilizado</item>
+        <item>Almacenamiento usado</item>
         <item>Tiempo de instalación</item>
     </string-array>
     <string-array name="tether_limit_warn_type">

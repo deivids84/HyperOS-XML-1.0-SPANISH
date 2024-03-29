@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Compartir con</string>
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Contraer</string>
+    <string name="accelerate_play">Velocidad: %sX</string>
     <string name="accept_cookies_confirm_message">Apagar esta función puede cautilizar que ciertos sitios se comporten indebidamente.</string>
     <string name="accessibility_button_clear">Borrar entrada</string>
     <string name="account_bind_secure_email_title">Agregar correo de recuperación</string>
@@ -302,6 +303,9 @@ Desactive el interruptor para dejar de sincronizar."</string>
     <string name="browser_wallpaper_toast">Desactiva el interruptor de promociones para poder cambiar los fondos de pantalla</string>
     <string name="btn_agree">Aceptar</string>
     <string name="btn_cancel">Cancelar</string>
+    <string name="btn_copied">Copiado</string>
+    <string name="btn_copy">Copiar</string>
+    <string name="btn_open">Abrir</string>
     <string name="camera_permission_name">Usar cámara</string>
     <string name="can_not_send_with_too_many">"No puede enviar tantos elementos a la vez"</string>
     <string name="cancel">Cancelar</string>
@@ -879,11 +883,11 @@ Envíe este código al supervisor."</string>
     <string name="fm_guide_btn">Entendido</string>
     <string name="fm_guide_msg">¡Ahora puede gestionar vídeos locales, canciones e imágenes usando el Navegador Mi!</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">d MMMM aaaa</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_long_year_month_day">d, MMMM yyyy</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month_day">d MMM aaaa</string>
+    <string name="fmt_date_short_year_month_day">d, MMM yyyy</string>
     <string name="fmt_time_12hour">"h 'o'''reloj"</string>
     <string name="fmt_time_12hour_pm">ha</string>
     <string name="fmt_time_24hour">"HH 'o'''reloj"</string>
@@ -1058,6 +1062,8 @@ Envíe este código al supervisor."</string>
     <string name="just_a_second">Un momento…</string>
     <string name="just_now">Justo ahora</string>
     <string name="keep_intrercept">Parar</string>
+    <string name="kindred_coupons_terms">Ver términos y condiciones</string>
+    <string name="kindred_coupons_title">Cupones</string>
     <string name="le_download_failed_server_error">"No se pudo descargar debido a un error del servidor."</string>
     <string name="le_network_chagne_to_none">Desconectado de la red. Todas las descargas fueron pausadas.</string>
     <string name="list_item_click">Haga clic en el elemento de la lista</string>
@@ -1154,7 +1160,7 @@ Envíe este código al supervisor."</string>
     <string name="mggc_game_play">Jugar</string>
     <string name="mggc_game_played">Recientes</string>
     <string name="mggc_game_recommend_guide_title">Jugar gratis</string>
-    <string name="mggc_home_page_title">Centro de juegos</string>
+    <string name="mggc_home_page_title">CENTROR DE JUEGO</string>
     <string name="mggc_home_recommend_tip">Aleatorio</string>
     <string name="mggc_hot_games">Popular</string>
     <string name="mggc_ins_back_continue_game">Continuar</string>
@@ -2090,6 +2096,8 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="record_permission_name">Grabar audio</string>
     <string name="recovery_page_popup">Recoge donde lo dejaste</string>
     <string name="refresh">Actualizar</string>
+    <string name="refresh_button_update_item">Hay disponibles actualizaciones %d</string>
+    <string name="refresh_button_update_latest">"Estás viendo los últimos artículos"</string>
     <string name="refresh_fail">"No se pudo cargar la información"</string>
     <string name="refresh_guide">Volver arriba</string>
     <string name="refreshing">Actualizando…</string>
@@ -2263,7 +2271,6 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="setting_privacy_password">Establecer patrón de desbloqueo</string>
     <string name="setting_searchable_content">Artículos buscables</string>
     <string name="setting_sms_content">Contenido SMS</string>
-    <string name="setting_swipe_up">Desliza hacia arriba en la pantalla de inicio</string>
     <string name="settings_search_online_apps">App mercados</string>
     <string name="settings_search_online_apps_desc">Contenido de mercados de aplicaciones</string>
     <string name="share_image_text">He compartido una foto, échale un vistazo! @Mi Browser</string>
@@ -2384,6 +2391,7 @@ Algunos sitios no usarán su historial de navegación anterior para personalizar
     <string name="tab_forward_description">Siguiente página del historial</string>
     <string name="tab_game">Juegos</string>
     <string name="tab_home">Inicio</string>
+    <string name="tab_mall">Tienda</string>
     <string name="tab_mine">Perfil</string>
     <string name="tab_novel">Libros</string>
     <string name="tab_quicklinks">Página de inicio</string>

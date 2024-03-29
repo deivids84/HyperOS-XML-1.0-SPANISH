@@ -744,16 +744,6 @@ El LPR de un año y cinco años se cotizarán el día 20 de cada mes (pueden pro
     <string name="word_figure_big_unit_yi">"亿 "</string>
     <string name="word_figure_big_unit_zhao">"兆 "</string>
     <string name="word_figure_guide_text">Mantén pulsado el texto para convertirlo entre mayúsculas y minúsculas.</string>
-    <string name="word_figure_number_0">零</string>
-    <string name="word_figure_number_1">壹</string>
-    <string name="word_figure_number_2">贰</string>
-    <string name="word_figure_number_3">叁</string>
-    <string name="word_figure_number_4">肆</string>
-    <string name="word_figure_number_5">伍</string>
-    <string name="word_figure_number_6">陆</string>
-    <string name="word_figure_number_7">柒</string>
-    <string name="word_figure_number_8">捌</string>
-    <string name="word_figure_number_9">玖</string>
     <string name="word_figure_unit_bai">佰</string>
     <string name="word_figure_unit_qian">仟</string>
     <string name="word_figure_unit_shi">拾</string>

@@ -77,6 +77,7 @@
     <string name="ad_click_to_play">Toca para jugar</string>
     <string name="ad_flag_text">AD</string>
     <string name="ad_left_time">segundos restantes en el comercial</string>
+    <string name="ad_topview_repeat_play">Toca para volver a reproducir</string>
     <string name="add_local_shortcut_add">Añadir</string>
     <string name="add_local_shortcut_des">Agrega \"Mis videos\" a la pantalla de inicio para acceder a archivos de video locales con un solo toque.</string>
     <string name="add_search_channel_link">URL</string>
@@ -457,11 +458,11 @@ Mi Video necesita recopilar la información personal necesaria para proporcionar
     <string name="find_psw">Olvidé la contraseña</string>
     <string name="finish">Listo</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
+    <string name="fmt_date_long_year_month_day">d, MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="fmt_date_short_year_month_day">d, MMM yyyy</string>
     <string name="fmt_time_12hour">"h 'en punto'"</string>
     <string name="fmt_time_24hour">"HH 'en punto'"</string>
     <string name="for_diagnosis_usage_only">Los registros solo son usados para diagnósticos.</string>

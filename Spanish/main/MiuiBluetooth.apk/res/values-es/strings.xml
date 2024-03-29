@@ -128,6 +128,7 @@
     <string name="confignet_app_download">Instalar</string>
     <string name="confignet_cancel">Cancelar</string>
     <string name="confignet_download_title">Instalar Mi Fitness para continuar</string>
+    <string name="cooler_reset">Pulsa %d veces para emparejar</string>
     <string name="copy">Copiar</string>
     <string name="date_picker_lunar">Calendario chino tradicional</string>
     <string name="date_time_picker_dialog_title">Establecer fecha y hora</string>

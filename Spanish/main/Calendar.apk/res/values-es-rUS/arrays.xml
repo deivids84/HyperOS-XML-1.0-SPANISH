@@ -4,7 +4,7 @@
     <item>Ninguno</item>
     <item>Calendario islámico</item>
     <item>Calendario nacional de la India</item>
-    <item>Calendario Vikram de Nepal</item>
+    <item>Calendario de Vikram</item>
   </string-array>
   <string-array name="aquarius_info">
     <item>aquarius</item>
@@ -31,8 +31,8 @@
     <item>Todos los eventos de la serie</item>
   </string-array>
   <string-array name="close_alarm_repeating_labels">
-    <item>Desactivar una vez</item>
-    <item>Siempre desactivada</item>
+    <item>Apagar una vez</item>
+    <item>Siempre apagado</item>
   </string-array>
   <string-array name="date_calculate_spinner">
     <item>Hacia adelante</item>
@@ -85,7 +85,7 @@
   </string-array>
   <string-array name="open_alarm_repeating_labels">
     <item>Activar una vez</item>
-    <item>Siempre activada</item>
+    <item>Siempre encendido</item>
   </string-array>
   <string-array name="panchang_weeks">
     <item>Domingo</item>
@@ -102,9 +102,9 @@
     <item>19/2 - 20/3</item>
   </string-array>
   <string-array name="prefEntries_alerts_popup_new">
-    <item>Desactivado</item>
+    <item>Apagado</item>
     <item>Para todos los eventos</item>
-    <item>Para eventos sensibles a la hora</item>
+    <item>Para eventos sensibles al tiempo</item>
   </string-array>
   <string-array name="prefEntries_alerts_vibrateWhen">
     <item>Siempre</item>

@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Compartir con</string>
     <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
     <string name="abc_toolbar_collapse_description">Ocultar</string>
+    <string name="accelerate_play">Velocidad: %sX</string>
     <string name="accept_cookies_confirm_message">Desactivar esta función puede causar errores en ciertos sitios web.</string>
     <string name="accessibility_button_clear">Borrar entrada</string>
     <string name="account_bind_secure_email_title">Añadir correo electrónico de recuperación</string>
@@ -302,6 +303,9 @@ Desactiva el interruptor para dejar de sincronizar."</string>
     <string name="browser_wallpaper_toast">Turn off the Promotions toggle to be able to switch wallpapers</string>
     <string name="btn_agree">Aceptar</string>
     <string name="btn_cancel">Cancelar</string>
+    <string name="btn_copied">Copiado</string>
+    <string name="btn_copy">Copiar</string>
+    <string name="btn_open">Abrir</string>
     <string name="camera_permission_name">Usar la cámara</string>
     <string name="can_not_send_with_too_many">"No se pueden enviar tantos elementos a la vez"</string>
     <string name="cancel">Cancelar</string>
@@ -1058,6 +1062,8 @@ Remite este código al supervisor."</string>
     <string name="just_a_second">Un momento…</string>
     <string name="just_now">Ahora mismo</string>
     <string name="keep_intrercept">Detener</string>
+    <string name="kindred_coupons_terms">Ver términos y condiciones</string>
+    <string name="kindred_coupons_title">Cupones</string>
     <string name="le_download_failed_server_error">"No se pudo descargar debido a un error del servidor."</string>
     <string name="le_network_chagne_to_none">Desconectado de la red. Todas las descargas fueron pausadas.</string>
     <string name="list_item_click">Haga clic en el elemento de la lista</string>
@@ -1154,7 +1160,7 @@ Remite este código al supervisor."</string>
     <string name="mggc_game_play">Jugar</string>
     <string name="mggc_game_played">Recientes</string>
     <string name="mggc_game_recommend_guide_title">Jugar gratis</string>
-    <string name="mggc_home_page_title">Centro de juegos</string>
+    <string name="mggc_home_page_title">CENTROR DE JUEGO</string>
     <string name="mggc_home_recommend_tip">Aleatorio</string>
     <string name="mggc_hot_games">Popular</string>
     <string name="mggc_ins_back_continue_game">Continuar</string>
@@ -2090,6 +2096,8 @@ Algunos sitios no usarán tu historial de navegación anterior para personalizar
     <string name="record_permission_name">Grabar audio</string>
     <string name="recovery_page_popup">Sigue donde lo dejaste</string>
     <string name="refresh">Refrescar</string>
+    <string name="refresh_button_update_item">Hay disponibles actualizaciones %d</string>
+    <string name="refresh_button_update_latest">"Estás viendo los últimos artículos"</string>
     <string name="refresh_fail">"No se pudo cargar la información"</string>
     <string name="refresh_guide">Volver arriba</string>
     <string name="refreshing">Refrescando…</string>
@@ -2263,7 +2271,6 @@ Algunos sitios no usarán tu historial de navegación anterior para personalizar
     <string name="setting_privacy_password">Establecer patrón de desbloqueo</string>
     <string name="setting_searchable_content">Elementos de búsqueda</string>
     <string name="setting_sms_content">Contenido de los SMS</string>
-    <string name="setting_swipe_up">Desliza hacia arriba en la Pantalla de inicio</string>
     <string name="settings_search_online_apps">Tiendas de aplicaciones</string>
     <string name="settings_search_online_apps_desc">Contenido de las tiendas de aplicaciones</string>
     <string name="share_image_text">I shared a photo, take a look! @Mi Browser</string>
@@ -2384,6 +2391,7 @@ Algunos sitios no usarán tu historial de navegación anterior para personalizar
     <string name="tab_forward_description">Página siguiente del historial</string>
     <string name="tab_game">Juegos</string>
     <string name="tab_home">Inicio</string>
+    <string name="tab_mall">Tienda</string>
     <string name="tab_mine">Perfíl</string>
     <string name="tab_novel">Libros</string>
     <string name="tab_quicklinks">Página de inicio</string>

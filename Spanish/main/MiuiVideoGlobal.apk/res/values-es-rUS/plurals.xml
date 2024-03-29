@@ -5,7 +5,7 @@
         <item quantity="other">Hace 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Hace %d hora</item>
+        <item quantity="one">Hace %d horas</item>
         <item quantity="other">Hace %d horas</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
@@ -14,7 +14,7 @@
     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="one">En %d hora</item>
-        <item quantity="other">En %d horas</item>
+        <item quantity="other">En %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">En media hora</item>
@@ -26,7 +26,7 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">En %d minutos</item>
-        <item quantity="one">En %d minuto</item>
+        <item quantity="one">En %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Justo ahora</item>
@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Hace %d minutos</item>
-        <item quantity="one">Hace %d minuto</item>
+        <item quantity="one">Hace %d minutos</item>
     </plurals>
     <plurals name="comment_model_watch_reply">
         <item quantity="other">Ver %d respuestas</item>
@@ -49,8 +49,8 @@
         <item quantity="one">Avance rápido %d segundo</item>
     </plurals>
     <plurals name="exo_controls_rewind_by_amount_description">
-        <item quantity="other">Retroceder %d segundos</item>
-        <item quantity="one">Retroceder %d segundo</item>
+        <item quantity="other">Rebobinar %d segundos</item>
+        <item quantity="one">Rebobinar %d segundo</item>
     </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">Regresando a la página de inicio en %1$d segundos…</item>
@@ -61,8 +61,8 @@
         <item quantity="other">Hace media hora</item>
     </plurals>
     <plurals name="hint_local_guide_views">
-        <item quantity="other">%s visualizaciones</item>
-        <item quantity="one">%s visualización</item>
+        <item quantity="other">%s visitas</item>
+        <item quantity="one">Vista %s</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="one">En 1 hora</item>
@@ -97,8 +97,8 @@
         <item quantity="one">%d vídeo</item>
     </plurals>
     <plurals name="local_longpress_speed_chenge_tip">
-        <item quantity="other">Jugando a velocidad %sX. Suelta para jugar a velocidad normal.</item>
-        <item quantity="one">Jugando a velocidad %sX. Suelta para jugar a velocidad normal.</item>
+        <item quantity="other">Jugando a velocidad %sX. Soltar para jugar a velocidad normal.</item>
+        <item quantity="one">Jugando a velocidad %sX. Soltar para jugar a velocidad normal.</item>
     </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d carpetas</item>

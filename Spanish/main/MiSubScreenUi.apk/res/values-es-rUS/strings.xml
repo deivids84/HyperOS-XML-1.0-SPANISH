@@ -78,13 +78,11 @@ dd/MM"</string>
     <string name="expand_button_title">Opciones avanzadas</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menú desplegable</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_long_year_month_day">d, MMMM yyyy</string>
+    <string name="fmt_date_numeric_month_day">d/M</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month">MMM. yyyy</string>
-    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+    <string name="fmt_date_short_year_month_day">d, MMM yyyy</string>
     <string name="fmt_time_12hour">"h 'en punto'"</string>
     <string name="fmt_time_24hour">"HH 'en punto'"</string>
     <string name="font_thickness">Peso de fuente</string>
@@ -93,9 +91,6 @@ dd/MM"</string>
     <string name="friday_shortest">Vie</string>
     <string name="gallery_page_name">De la galería</string>
     <string name="has_add_contact">Añadido</string>
-    <string name="hello_blank2_fragment">Hola fragmento blank2</string>
-    <string name="hello_blank_fragment">Hola fragmento en blanco</string>
-    <string name="hello_world">¡Hola Mundo Cuadrado!</string>
     <string name="icon_content_description">Ícono de diálogo</string>
     <string name="item_view_role_description">Pestaña</string>
     <string name="letter_space">Espaciado entre caracteres</string>
@@ -195,7 +190,6 @@ dd/MM"</string>
     <string name="mtrl_picker_out_of_range">Fuera de rango: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Fecha de inicio - %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s - fecha de finalización</string>
-    <string name="mtrl_picker_range_header_selected">%1$s-%2$s</string>
     <string name="mtrl_picker_range_header_title">Selecciona un período</string>
     <string name="mtrl_picker_range_header_unselected">Fecha de inicio - fecha de finalización</string>
     <string name="mtrl_picker_save">Guardar</string>
@@ -230,7 +224,6 @@ dd/MM"</string>
     <string name="saturday_shortest">Sáb.</string>
     <string name="search_menu_title">Buscar</string>
     <string name="send">Enviar</string>
-    <string name="service_name">MiplayAudio</string>
     <string name="small_display_style">Pantalla trasera</string>
     <string name="sps_cancel">Mantenga pulsado para salir</string>
     <string name="step_to_image_community">Encuentra más en la comunidad Xiaomi</string>
@@ -270,7 +263,6 @@ dd/MM"</string>
     <string name="the_armed_forces_day">Día de las Fuerzas Armadas</string>
     <string name="the_armys_day">Dia del PLA</string>
     <string name="the_childrens_day">"Día de los niños"</string>
-    <string name="the_chinese_youth_day">Día de la juventud</string>
     <string name="the_christmas_day">Navidad</string>
     <string name="the_double_ninth_festival">Festival del doble noveno</string>
     <string name="the_dragon_boat_festival">Festival del barco del dragón</string>

@@ -436,6 +436,8 @@
     <string name="friday_short">Vie</string>
     <string name="friday_shortest">Vie</string>
     <string name="gallery_wallpaper">Carrusel de papel tapiz</string>
+    <string name="gallery_wallpaper_history">Pulsa para ver las imágenes anteriores destacadas en el carrusel de fondo de pantalla</string>
+    <string name="gallery_wallpaper_history_go">Ver</string>
     <string name="gallery_wallpaper_theme">Fondos de pantalla imprescindibles</string>
     <string name="gift_share">Compartir</string>
     <string name="goto_purchased_list">Ver historial de compras</string>
@@ -1570,6 +1572,7 @@ Puede otorgar este permiso en Configuración &gt; Privacidad."</string>
     <string name="wallpaper_download_incall_show">Descargar vídeo</string>
     <string name="wallpaper_dynamic">Dinámico</string>
     <string name="wallpaper_group_set_loop">Presentación de diapositivas en pantalla de bloqueo con imágenes similares</string>
+    <string name="wallpaper_history">Historial de fondos de pantalla</string>
     <string name="wallpaper_light_mode_image_preview_tip">Vista previa del modo claro</string>
     <string name="wallpaper_loop_add_success">Añadido correctamente</string>
     <string name="wallpaper_loop_add_to_loop_desk_wallpaper">Agregar a la presentación de diapositivas de la pantalla de inicio</string>

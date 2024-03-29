@@ -52,7 +52,7 @@
     <string name="unreadable_input">No se pudo leer el documento</string>
     <string name="waiting_to_send">Esperando para enviar</string>
     <string name="wifi_direct">Wi-Fi Direct</string>
-    <string name="wifi_direct_permission_rationale">El servicio de impresión necesita permiso de acceso a dispositivos cercanos para encontrar impresoras.</string>
+    <string name="wifi_direct_permission_rationale">El servicio de impresión predeterminado necesita permiso de dispositivos cercanos para encontrar impresoras cercanas.</string>
     <string name="wifi_direct_printers">Impresoras con Wi-Fi Direct</string>
     <string name="wifi_direct_printing">Impresión con Wi-Fi Direct</string>
     <string name="wifi_direct_problem">El servicio de impresión predeterminado no puede encontrar impresoras Wi-Fi Direct</string>

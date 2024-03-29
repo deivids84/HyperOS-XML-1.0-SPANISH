@@ -1057,11 +1057,11 @@ La Grabación dual también le permite conectarse al otro dispositivo y crear un
     <string name="flat_selfie_tip_text_sub_v1">"Cerrar la cámara de pantalla externa para volver a la pantalla interna"</string>
     <string name="flat_selfie_title_accessibility">Selector de cámara</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month_day">d MMMM aaaa</string>
+    <string name="fmt_date_long_year_month_day">d, MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month_day">d MMM aaaa</string>
+    <string name="fmt_date_short_year_month_day">d, MMM yyyy</string>
     <string name="fmt_time_12hour">"h 'o'''reloj"</string>
     <string name="fmt_time_24hour">"HH 'o'''reloj"</string>
     <string name="fps960_toast">La grabación en cámara lenta empezará en el último cuarto del video</string>

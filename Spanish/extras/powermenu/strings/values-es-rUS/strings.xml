@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_shutdown">Apagar</string>
+    <string name="label_alert_shutdown">Toca para apagar</string>
+</resources>

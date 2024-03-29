@@ -4754,6 +4754,10 @@ Abre la nube de Xiaomi y restaura elementos desde allí."</string>
     <string name="load_esim_info">Obteniendo información de eSIM…</string>
     <string name="load_esim_info_error">"No se pudo cargar la información de eSIM. Espere uno o dos minutos y vuelva a intentarlo."</string>
     <string name="loading">Un momento…</string>
+    <string name="loading_eid_error_message">"No se pudo obtener información de EID. Espere uno o dos minutos y vuelva a intentarlo."</string>
+    <string name="loading_eid_error_ok">Entendido</string>
+    <string name="loading_eid_error_title">"No se pudo cargar"</string>
+    <string name="loading_eid_tip">Obteniendo información de EID…</string>
     <string name="loading_injected_setting_summary">Solo un segundo…</string>
     <string name="local_auto_backup_off">Desactivado</string>
     <string name="local_auto_backup_on">Activado</string>
@@ -9251,6 +9255,7 @@ Intenta usar un ^3 más rápido o usa ^4 como almacenamiento portátil."</string
     <string name="tip_remove_data">El restablecimiento de fábrica borrará estos elementos de su dispositivo</string>
     <string name="title_change_system_locale">¿Cambiar el idioma del sistema a %s?</string>
     <string name="title_color_calibration">Configuración de corrección de color</string>
+    <string name="title_device_control">Controles de dispositivo</string>
     <string name="title_font">Fuente</string>
     <string name="title_font2">Fuente y diseño</string>
     <string name="title_font_current">Fuente del sistema</string>
@@ -9271,6 +9276,7 @@ Intenta usar un ^3 más rápido o usa ^4 como almacenamiento portátil."</string
     <string name="title_special_features_health_global">Ritmo cardiaco</string>
     <string name="title_unavailable_locale">%s no disponible</string>
     <string name="title_wordless_mode">"No mostrar etiquetas de icono"</string>
+    <string name="title_xiaomi_smart_hub">Hub Inteligente Xiaomi</string>
     <string name="to_close">Desactivar</string>
     <string name="to_switch_networks_disconnect_ethernet">Para cambiar de red, desconecte ethernet</string>
     <string name="toast_allows_restricted_settings_successfully">Configuración restringida permitida para %s</string>
@@ -9904,7 +9910,7 @@ Toque \"+\" para agregar palabras."</string>
     <string name="virus_scan_app_uninstall">Desinstalar (%d)</string>
     <string name="virus_scan_app_waiting">En espera…</string>
     <string name="virus_scanner_auto_update">Actualizar automáticamente</string>
-    <string name="virus_scanner_date_formater">MMMM dd, yyyy</string>
+    <string name="virus_scanner_date_formater">dd, MMMM yyyy</string>
     <string name="virus_scanner_lib_already_latest">Las definiciones ya están actualizadas</string>
     <string name="virus_scanner_lib_update_failed">"No se pudo actualizar"</string>
     <string name="virus_scanner_lib_updating">Actualizando definiciones…</string>

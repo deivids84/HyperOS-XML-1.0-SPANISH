@@ -239,11 +239,8 @@ no se generan en el segundo espacio"</string>
     <string name="exo_track_unknown">Desconocido</string>
     <string name="expand_button_title">Avanzado</string>
     <string name="first_unlock_time">"Desbloqueado por primera vez: "</string>
-    <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_day">dd</string>
-    <string name="fmt_date_numeric_month">MM</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
     <string name="fmt_date_numeric_year_month">MM/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>

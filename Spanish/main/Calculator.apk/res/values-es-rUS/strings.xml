@@ -75,7 +75,7 @@
     <string name="currency_update_time_format">Tasas de cambio proporcionadas por Webull (%s)</string>
     <string name="currency_update_updating">Actualizando tasas…</string>
     <string name="data_analysis">Análisis</string>
-    <string name="date_format">dd \'de\' MMM. yyyy</string>
+    <string name="date_format">dd, MMM yyyy</string>
     <string name="date_picker_lunar">Calendario tradicional chino</string>
     <string name="degDesc">Grados</string>
     <string name="delete">Eliminar</string>
@@ -128,7 +128,7 @@
     <string name="hint_weight">Introducir peso</string>
     <string name="histories">Historial</string>
     <string name="history_guidance">Ver historial aquí</string>
-    <string name="history_time_date_format">MM/dd/aaaa</string>
+    <string name="history_time_date_format">dd/MM/yyyy</string>
     <string name="home_loan">Interés hipotecario</string>
     <string name="house_rent">Alquiler</string>
     <string name="input_limit">"No se pueden introducir más artículos"</string>
@@ -744,16 +744,6 @@ LPR de un año y cinco años se cotizarán el día 20 de cada mes (pueden produc
     <string name="word_figure_big_unit_yi">"亿 "</string>
     <string name="word_figure_big_unit_zhao">"兆 "</string>
     <string name="word_figure_guide_text">Mantenga presionado el texto para convertir entre casos.</string>
-    <string name="word_figure_number_0">零</string>
-    <string name="word_figure_number_1">壹</string>
-    <string name="word_figure_number_2">贰</string>
-    <string name="word_figure_number_3">叁</string>
-    <string name="word_figure_number_4">肆</string>
-    <string name="word_figure_number_5">伍</string>
-    <string name="word_figure_number_6">陆</string>
-    <string name="word_figure_number_7">柒</string>
-    <string name="word_figure_number_8">捌</string>
-    <string name="word_figure_number_9">玖</string>
     <string name="word_figure_unit_bai">佰</string>
     <string name="word_figure_unit_qian">仟</string>
     <string name="word_figure_unit_shi">拾</string>

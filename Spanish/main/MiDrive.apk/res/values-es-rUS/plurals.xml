@@ -5,7 +5,7 @@
         <item quantity="other">hace 1 hora</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="one">Hace %d hora</item>
+        <item quantity="one">Hace %d horas</item>
         <item quantity="other">Hace %d horas</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
@@ -14,7 +14,7 @@
     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="one">En %d hora</item>
-        <item quantity="other">En %d horas</item>
+        <item quantity="other">En %d hora</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="one">En media hora</item>
@@ -26,7 +26,7 @@
     </plurals>
     <plurals name="abbrev_in_num_minutes">
         <item quantity="other">En %d minutos</item>
-        <item quantity="one">En %d minuto</item>
+        <item quantity="one">En %d min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="one">Justo ahora</item>
@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Hace %d minutos</item>
-        <item quantity="one">Hace %d minuto</item>
+        <item quantity="one">Hace %d minutos</item>
     </plurals>
     <plurals name="days_ago">
         <item quantity="other">Hace %1$d días</item>
@@ -50,7 +50,7 @@
     </plurals>
     <plurals name="download_notification_wait_network">
         <item quantity="other">Esperando para descargar. %1$s archivos restantes.</item>
-        <item quantity="one">Esperando para descargar. %1$s archivo restante.</item>
+        <item quantity="one">Esperando para descargar. Queda un archivo %1$s.</item>
     </plurals>
     <plurals name="downloading_info_for_sys_title">
         <item quantity="other">Descargando… quedan %1$d elementos (%2$s%%)</item>
@@ -129,8 +129,8 @@
         <item quantity="one">"No se pudo subir %1$d elemento"</item>
     </plurals>
     <plurals name="upload_notification_wait_network">
-        <item quantity="other">Esperando para subir. %1$s archivos restantes.</item>
-        <item quantity="one">Esperando para subir. %1$s archivo restante.</item>
+        <item quantity="other">Esperando para cargar. %1$s archivos restantes.</item>
+        <item quantity="one">Esperando para subir. Queda un archivo %1$s.</item>
     </plurals>
     <plurals name="uploading_info_for_sys_title">
         <item quantity="other">Subiendo... quedan %1$d elementos (%2$s%%)</item>

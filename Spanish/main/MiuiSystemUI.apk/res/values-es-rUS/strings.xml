@@ -632,12 +632,12 @@ Una vez eliminadas, tendrás que volver a configurar el desbloqueo de huellas da
     <string name="fingerprint_try_again_text">Vuelva a intentarlo</string>
     <string name="float_button_text">Ropa</string>
     <string name="float_notification_snooze_strategy">Ocultar notificaciones flotantes temporalmente</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM, yyyy</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d, MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d, MMM yyyy</string>
     <string name="fmt_time_12hour">"h 'en punto'"</string>
     <string name="fmt_time_24hour">"HH 'en punto'"</string>
     <string name="font_scaling_dialog_title">Font Size</string>
@@ -1068,16 +1068,16 @@ Si no permites que esta aplicación acceda a todos los registros del dispositivo
     <string name="miui_keyboard_shortcut_system_dock">Mostrar base de aplicaciones</string>
     <string name="miui_keyboard_shortcut_system_quickly_recent">Cambiar entre aplicaciones recientes</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">Desbloqueado por dispositivo Bluetooth</string>
-    <string name="miui_lock_screen_date">EEE, MMM dd</string>
-    <string name="miui_lock_screen_date_12">EEE, MMM dd</string>
-    <string name="miui_lock_screen_date_two_lines">"MMM dd
+    <string name="miui_lock_screen_date">EEE, dd MMM</string>
+    <string name="miui_lock_screen_date_12">EEE, dd MMM</string>
+    <string name="miui_lock_screen_date_two_lines">"dd MMM
 EEE"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"MMM dd
+    <string name="miui_lock_screen_date_two_lines_12">"dd MMM
 EEE"</string>
     <string name="miui_lock_screen_large_date">"EEE
-M/d"</string>
+d/M"</string>
     <string name="miui_lock_screen_large_date_12">"EEE
-M/d"</string>
+d/M"</string>
     <string name="miui_magazine_c_clock_style2_date">d/M EE</string>
     <string name="miui_magazine_c_clock_style2_date_content_description">EEEE, dd MMM</string>
     <string name="miui_magazine_clock_date">d/M</string>
@@ -1089,9 +1089,9 @@ M/d"</string>
     <string name="miui_notification_menu_snooze">Dormitar</string>
     <string name="miui_notification_menu_title_not_allow">Restringir</string>
     <string name="miui_notification_menu_unfocus">Desactivar spotlight de notificaciones</string>
-    <string name="miui_rhombus_clock_date">MMMM dd</string>
+    <string name="miui_rhombus_clock_date">dd MMMM</string>
     <string name="miui_screen_rotation_freeze_message">Orientación de la pantalla bloqueada en el modo horizontal</string>
-    <string name="miui_smart_frame_clock_date">M/D</string>
+    <string name="miui_smart_frame_clock_date">d/M</string>
     <string name="miui_snooze_always_float">"No ocultar"</string>
     <string name="miui_snooze_cancel">Cancelar</string>
     <string name="miui_snooze_default_time">Por %d minuto</string>
@@ -1745,9 +1745,9 @@ Si tiene preguntas, comuníquese con %2$s."</string>
     <string name="status_bar">Barra de estado</string>
     <string name="status_bar_airplane">Modo de avión</string>
     <string name="status_bar_alarm">Alarma</string>
-    <string name="status_bar_clock_date_format">E. d \'de\' MMM.</string>
-    <string name="status_bar_clock_date_format_12">E. d \'de\' MMM.</string>
-    <string name="status_bar_clock_date_time_format">H:mm E. d \'de\' MMM.</string>
+    <string name="status_bar_clock_date_format">E, d MMM</string>
+    <string name="status_bar_clock_date_format_12">E, d MMM</string>
+    <string name="status_bar_clock_date_time_format">H:mm E, d MMM</string>
     <string name="status_bar_clock_date_time_format_12">h:mm a, E, d MMM</string>
     <string name="status_bar_ethernet">Ethernet</string>
     <string name="status_bar_settings_auto_rotation">Girar la pantalla automáticamente</string>
@@ -1783,7 +1783,7 @@ Si tiene preguntas, comuníquese con %2$s."</string>
     <string name="switch_bar_on">Activado</string>
     <string name="switch_system_user">Volver al espacio principal</string>
     <string name="system_multitasking_full_screen">Cambiar de la pantalla de Sdiit a pantalla completa</string>
-    <string name="system_ui_aod_date_pattern">eeeMMMd</string>
+    <string name="system_ui_aod_date_pattern">EEEdMMM</string>
     <string name="system_ui_tuner">Sintonizador de IU del sistema</string>
     <string name="tap_a_network_to_connect">Toca una red para conectar</string>
     <string name="tap_again">Toca de nuevo</string>

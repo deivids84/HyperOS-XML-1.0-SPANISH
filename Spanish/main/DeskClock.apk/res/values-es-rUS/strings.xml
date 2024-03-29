@@ -143,12 +143,12 @@
     <string name="expand_button_title">Opciones avanzadas</string>
     <string name="expired_timers_dismissed">Temporizador descartado con éxito</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menú desplegable</string>
-    <string name="fmt_date_long_month_day">d \'de\' MMMM</string>
-    <string name="fmt_date_long_year_month_day">d \'de\' MMMM \'de\' yyyy</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d, MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">d/M</string>
     <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month_day">d \'de\' MMM.</string>
-    <string name="fmt_date_short_year_month_day">d \'de\' MMM. yyyy</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month_day">d, MMM yyyy</string>
     <string name="fmt_time_12hour">"h 'en punto'"</string>
     <string name="fmt_time_24hour">"H 'en punto'"</string>
     <string name="force_start_permission_desc">"Permitir que las alarmas funcionen normalmente incluso cuando hayas cerrado la aplicación"</string>
@@ -568,7 +568,7 @@
     <string name="worldclock_world_time">Zonas horarias</string>
     <string name="worldcolock_date_display_prefix">Actual: </string>
     <string name="worldcolock_time_date">dd/MM/yyyy</string>
-    <string name="worldcolock_timezone_date">dd MMM.</string>
+    <string name="worldcolock_timezone_date">dd MMM</string>
     <string name="worldcolock_timezone_local">Igual a la hora local</string>
     <string name="xiaoai_ringtone_title">Tonos de llamada Mi IA</string>
     <string name="xiaomi_deskclock_uninstall_description_content">"Reloj es una aplicación del sistema. No podrás consultar la hora, configurar alarmas ni utilizar otras funciones del reloj después de desinstalar la aplicación."</string>

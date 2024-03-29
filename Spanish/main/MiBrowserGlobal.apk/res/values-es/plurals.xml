@@ -144,6 +144,10 @@
         <item quantity="other">Protegido %d veces</item>
         <item quantity="one">Protegido %d vez</item>
     </plurals>
+    <plurals name="kindred_coupons_hint">
+        <item quantity="other">Tienes cupones %d</item>
+        <item quantity="one">Tienes un cupón %d.</item>
+    </plurals>
     <plurals name="le_notification_download_completed">
         <item quantity="other">%1$s elementos descargados</item>
         <item quantity="one">%1$s elemento descargado</item>

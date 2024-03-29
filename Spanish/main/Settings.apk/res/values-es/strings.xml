@@ -4755,6 +4755,10 @@ Abre Xiaomi Cloud y restaura elementos desde allí."</string>
     <string name="load_esim_info">Obteniendo información de la eSIM…</string>
     <string name="load_esim_info_error">"No se pudo cargar la información de la eSIM. Espera uno o dos minutos e inténtalo de nuevo."</string>
     <string name="loading">Un momento…</string>
+    <string name="loading_eid_error_message">"No se pudo obtener información de EID. Espere uno o dos minutos y vuelva a intentarlo."</string>
+    <string name="loading_eid_error_ok">Entendido</string>
+    <string name="loading_eid_error_title">"No se pudo cargar"</string>
+    <string name="loading_eid_tip">Obteniendo información de EID…</string>
     <string name="loading_injected_setting_summary">Solo un segundo…</string>
     <string name="local_auto_backup_off">Desactivado</string>
     <string name="local_auto_backup_on">Activado</string>
@@ -9252,6 +9256,7 @@ Prueba a utilizar una ^3 más rápida o utiliza esta ^4 como almacenamiento port
     <string name="tip_remove_data">El reinicio de fábrica borrará estos elementos de tu dispositivo</string>
     <string name="title_change_system_locale">¿Cambiar el idioma del sistema a %s?</string>
     <string name="title_color_calibration">Corrección de color preestablecido</string>
+    <string name="title_device_control">Controles de dispositivo</string>
     <string name="title_font">Fuente</string>
     <string name="title_font2">Fuente y diseño</string>
     <string name="title_font_current">Fuente del sistema</string>
@@ -9272,6 +9277,7 @@ Prueba a utilizar una ^3 más rápida o utiliza esta ^4 como almacenamiento port
     <string name="title_special_features_health_global">Ritmo cardíaco</string>
     <string name="title_unavailable_locale">%s no está disponible</string>
     <string name="title_wordless_mode">"No mostrar etiquetas de iconos"</string>
+    <string name="title_xiaomi_smart_hub">Hub Inteligente Xiaomi</string>
     <string name="to_close">Desactivar</string>
     <string name="to_switch_networks_disconnect_ethernet">Para cambiar de red, desconecte ethernet</string>
     <string name="toast_allows_restricted_settings_successfully">Ajustes restringidos permitidos para %s</string>

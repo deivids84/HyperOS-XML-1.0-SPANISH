@@ -966,7 +966,7 @@ Nota: ¡Solo para Ubuntu 8.04!"</item>
         <item>8 horas</item>
     </string-array>
     <string-array name="smart_device_control_entries">
-        <item>@string/mi_smart_hub_entry_title</item>
+        <item>Hub Inteligente Xiaomi</item>
         <item>Hogar inteligente</item>
         <item>Ninguno</item>
     </string-array>

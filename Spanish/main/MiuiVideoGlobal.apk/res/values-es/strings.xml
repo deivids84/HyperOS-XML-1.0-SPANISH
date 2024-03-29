@@ -77,6 +77,7 @@
     <string name="ad_click_to_play">Pulsa para reproducir</string>
     <string name="ad_flag_text">ANUNCIO</string>
     <string name="ad_left_time">segundos restantes del anuncio</string>
+    <string name="ad_topview_repeat_play">Toca para volver a reproducir</string>
     <string name="add_local_shortcut_add">Añadir</string>
     <string name="add_local_shortcut_des">Agrega \"Mis videos\" a la pantalla de inicio para acceder a archivos de video locales con un solo toque.</string>
     <string name="add_search_channel_link">URL</string>

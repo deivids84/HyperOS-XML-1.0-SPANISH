@@ -206,10 +206,10 @@
     <string name="exposed_dropdown_menu_content_description">Mostrar menú desplegable</string>
     <string name="float_note_empty">No hay notas</string>
     <string name="float_note_title">Notas</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_time_12hour">"hh"</string>
@@ -560,9 +560,7 @@
     <string name="permission_read_contact_desc">Asociar con contactos las notas creadas durante llamadas</string>
     <string name="permission_storage_desc_new_v12">Para añadir imágenes a las notas y guardar las notas como imágenes</string>
     <string name="permission_storage_desc_pad_new_v12">Para añadir imágenes a las notas y guardar las notas como imágenes</string>
-    <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI recolectará sus grabaciones de voz y ID del dispositivo para transcribir audio y crear notas de voz. Aprenda más en la &lt;a href=\"%1$s\"&gt;Política de Privacidad&lt;/a&gt; de Mi AI.&lt;/Data&gt;</string>
-    <string name="permission_xiaoai_desc_m"><Data>Para proporcionar servicios de transcripción de voz a texto, Mi AI necesita recopilar la entrada de audio y el IMEI de su dispositivo. Lea y acepte el &lt;a href=\"%1$s\"&gt;Notas Declaración de intercambio de datos de terceros&lt;/a&gt; antes de continuar. También puede obtener más información leyendo Mi AI &lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt;.</Data></string>
-    <string name="permission_xiaoai_desc_new"><Data>Para proporcionar servicios de transcripción de voz a texto, Mi AI necesita recopilar la entrada de audio y la identificación de su dispositivo, que se genera aleatoriamente. Lea y acepte nuestra &lt;a href=\"%1$s\"&gt;Notes Declaración de intercambio de datos de terceros&lt;/a&gt; antes de continuar. También puede obtener más información leyendo la Política de privacidad de &lt;a href=\"%2$s\"&gt;&lt;/a&gt;.</Data></string>
+    <string name="permission_xiaoai_desc_n"><Data>Para proporcionar servicios de voz a texto, Notes necesita recopilar contenido de audio hablado y el IMEI de su dispositivo. Lea y acepte la &lt;a href=\"%1$s\"&gt;Notas Declaración de intercambio de datos con terceros&lt;/a&gt; antes de utilizar esta función. Puede obtener más información sobre las funciones relacionadas leyendo la Política de privacidad de Mi AI &lt;a href=\"%2$s\"&gt;&lt;/a&gt;.</Data></string>
     <string name="permission_xiaoai_title">Dictado a texto</string>
     <string name="permlab_accessNote">Acceso a las notas</string>
     <string name="pm">PM</string>

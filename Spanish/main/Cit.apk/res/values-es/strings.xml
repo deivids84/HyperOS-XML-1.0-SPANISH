@@ -21,10 +21,16 @@
     <string name="abc_capital_on">ACTIVADO</string>
     <string name="abc_menu_alt_shortcut_label">Alt +</string>
     <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="auto_bottom_left_high_speaker">Tweeter inferior izquierdo</string>
+    <string name="auto_bottom_left_low_speaker">Madera inferior izquierda</string>
+    <string name="auto_bottom_right_low_speaker">Madera inferior derecha</string>
     <string name="auto_frontflash_description">Si todas las luces de flash frontal están encendidas pulsa Pasar, de lo contrario pulsa Fallar</string>
     <string name="auto_frontflash_title">Prueba de flash de la cámara frontal</string>
     <string name="auto_rearflash_description">Si todas las luces de flash trasero están encendidas pulsa Pasar, de lo contrario pulsa Fallar</string>
     <string name="auto_rearflash_title">Prueba de flash de la cámara trasera</string>
+    <string name="auto_top_left_high_speaker">Tweeter del lado izquierdo superior</string>
+    <string name="auto_top_left_low_speaker">Madera superior izquierda</string>
+    <string name="auto_top_right_low_speaker">Madera superior derecha</string>
     <string name="aux_mic_check_record_tip">Grabando. Di algo al micrófono, en la parte inferior del dispositivo</string>
     <string name="battery_auto_plug_wirelee_summary">Cargador inalámbrico conectado correctamente, prueba superada</string>
     <string name="battery_third_connector">Voltaje del conector de la batería</string>
@@ -61,12 +67,29 @@ Antes de calibrar el dispositivo, colócalo en una superficie plana."</string>
     <string name="cit_audio_hw_check_title">Probar el hardware de audio</string>
     <string name="cit_audio_lb_auxmic_to_earpiece_title">Prueba de retroalimentación del micrófono auxiliar</string>
     <string name="cit_audio_lb_backmic_to_earpiece_title">Prueba de retroalimentación del micrófono posterior</string>
+    <string name="cit_audio_lb_backmic_to_speaker_title">Prueba de retroalimentación del micrófono</string>
+    <string name="cit_audio_lb_check_track_tip">Reproduciendo la grabación, comprueba si hay algún sonido</string>
+    <string name="cit_audio_lb_mainmic_to_speaker_title">Prueba de retroalimentación del micrófono principal</string>
+    <string name="cit_audio_lb_sidebottommic_to_speaker_title">Prueba de retroalimentación del micrófono inferior</string>
+    <string name="cit_audio_lb_sidetopmic_to_speaker_title">Prueba de retroalimentación de altavoz micrófono lateral</string>
     <string name="cit_audio_lb_summary_auxmic_to_earpiece">"Prueba de retroalimentación del micrófono posterior al receptor.
 
 Sostén el dispositivo como si estuvieras haciendo una llamada y habla al micrófono principal. Deberías oír la voz del receptor"</string>
     <string name="cit_audio_lb_summary_backmic_to_earpiece">"Prueba de retroalimentación del micrófono posterior al receptor.
 
 Sostén el dispositivo como si estuvieras haciendo una llamada y habla al micrófono principal. Deberías oír la voz del receptor"</string>
+    <string name="cit_audio_lb_summary_backmic_to_speaker">"Regresa el micrófono a la prueba de retroalimentación del altavoz
+
+Hablar al micrófono trasero, deberías escuchar la voz del altavoz"</string>
+    <string name="cit_audio_lb_summary_mainmic_to_speaker">"Prueba de retroalimentación del micrófono principal al altavoz.
+
+Hable al micrófono principal, debería escuchar la voz del altavoz"</string>
+    <string name="cit_audio_lb_summary_sidebottommic_to_speaker">"Prueba de retroalimentación del micrófono lateral inferior al altavoz.
+
+Hable al micrófono lateral inferior, debería escuchar la voz del altavoz"</string>
+    <string name="cit_audio_lb_summary_sidetopmic_to_speaker">"Prueba de retroalimentación del micrófono lateral superior.
+
+Habla con el micrófono superior lateral deberías escuchar la voz del altavoz"</string>
     <string name="cit_audio_lb_summary_topmic_to_earpiece">"Prueba de retroalimentación del micrófono superior al receptor.
 
 Sostén el dispositivo como si estuvieras haciendo una llamada y habla al micrófono principal. Deberías oír la voz del receptor"</string>
@@ -87,8 +110,11 @@ Sostén el dispositivo como si estuvieras haciendo una llamada y habla al micró
 4. La foto tomada debe aparecer en la pantalla. Pulsa Pass para completar la prueba."</string>
     <string name="cit_camera_hardware_check">Detectando funciones del hardware de la cámara. Espera...</string>
     <string name="cit_camera_rearsub">Prueba de subcámara en curso, espera....</string>
+    <string name="cit_charger_main_ibat">Corriente de la batería principal</string>
+    <string name="cit_charger_second_ibat">Corriente de la batería secundaria</string>
     <string name="cit_digital_hall_sensor_cali_summary">Mantén el dispositivo cerrado para la calibración</string>
     <string name="cit_digital_hall_sensor_cali_title">Prueba de calibración digital de hall</string>
+    <string name="cit_display_check_title_N8">Mostrar</string>
     <string name="cit_esim_check_summary">A continuación se muestra el estado de eSIM. La visualización correcta de su estado indica que la prueba ha pasado</string>
     <string name="cit_esim_check_title">Tarjeta eSIM</string>
     <string name="cit_esim_eid_error">No se cumple el eID</string>
@@ -101,15 +127,27 @@ Sostén el dispositivo como si estuvieras haciendo una llamada y habla al micró
     <string name="cit_esim_state_ready">Tarjeta eSIM activada</string>
     <string name="cit_flash_timeout_tip">Se agotó el tiempo de espera de la prueba; vuelva a ingresar la prueba flash.</string>
     <string name="cit_front_sub_camera_check_title_fold">Cámara frontal de subpantalla</string>
+    <string name="cit_front_ultra_camera_check_title">Ultra cámara frontal</string>
     <string name="cit_horn_motor_test">Prueba del motor de sonido de llamada</string>
     <string name="cit_lcdlight_title">Prueba de retroiluminación</string>
     <string name="cit_led_change">Seleccione el modo estroboscópico LED</string>
     <string name="cit_led_interval">adorable</string>
     <string name="cit_led_negative">negativo</string>
+    <string name="cit_lpd_test">Prueba LPD</string>
     <string name="cit_modem_hardware_title">Prueba de hardware del módem</string>
     <string name="cit_pixeworks_chip_check_title">Prueba de chip Pixeworks Iris 7</string>
+    <string name="cit_proximity_sensor_check_second_screen_title">Sensor de proximidad segunda</string>
     <string name="cit_reverse_charge_check_summary">"Inserta el dispositivo de carga inversa OTG para cargar el otro dispositivo"</string>
     <string name="cit_soft_light_check_title">Luz suave</string>
+    <string name="cit_tele_5x_cali">Calibración PdfOffset de cámara Tele</string>
+    <string name="cit_tele_5x_cali_reset">Reset</string>
+    <string name="cit_tele_5x_cali_reset_success_toast">Restablecer Éxito</string>
+    <string name="cit_tele_5x_cali_success_toast">Calibración Exitosa</string>
+    <string name="cit_tele_5x_cali_tip">"1. Confirmada que el problema está causado por ultra desenfoque de la foto con foto;
+2. Haga clic en el botón Calibrar;
+3. etermine si el problema del foco de desenfoque ultraligero ha mejorado antes y después de la calibración;
+4. Si el problema no mejora, haga clic en el botón Reiniciar;"</string>
+    <string name="cit_tool_bluetooth_dbam">Entrar en modo de prueba de DBAM Bluetooth</string>
     <string name="cit_tool_current_size">Tamaño actual</string>
     <string name="cit_tool_gps_path_loss_test_request_location">solicitar ubicación</string>
     <string name="cit_tool_gps_path_loss_title">Herramienta de prueba para pérdida de ruta Gnss</string>
@@ -121,6 +159,12 @@ Sostén el dispositivo como si estuvieras haciendo una llamada y habla al micró
     <string name="cit_tool_wlan_tx_be">Tx: está</string>
     <string name="cit_tool_wlan_tx_be_gI">Intervalo de guardia:</string>
     <string name="cit_tool_wlan_update_ap_list">Actualizar Lista AP</string>
+    <string name="cit_touch_panel_test_title_N8">Pulsar sensor</string>
+    <string name="cit_tt_cali_bin_check_title">Detección de contenido del archivo de calibración de Chip</string>
+    <string name="cit_tt_chip_detection_title">Chip de tian-tong en la detección del lugar</string>
+    <string name="cit_tt_description">Se están detectando funciones relacionadas con el chip, por favor no utilice el teléfono.</string>
+    <string name="cit_tt_rx_check_title">Detección de ruta de recepción Chip RX</string>
+    <string name="cit_tt_tx_check_title">Detección de ruta de transmisión de Chip TX</string>
     <string name="cold_light_title">Luz fría</string>
     <string name="edittextdisplay">¡Nuestra bienvenida a la herramienta sar!</string>
     <string name="edittextdisplayf">¡Se han limitado los permisos!</string>
@@ -157,6 +201,8 @@ Una vez calibrado, acerca y aleja el soporte del dispositivo."</string>
     <string name="test_horn_motor_summary">"Escucharás dos números aleatorios
 Pulsa el botón apropiado según el número que oigas
 Selecciona el botón correcto con las diferentes condiciones de vibración"</string>
+    <string name="test_integration_speaker">Prueba de altavoz de integración</string>
+    <string name="test_integration_summary">Los seis altavoces están haciendo un bucle a través del audio en secuencia. Presta atención al audio y determina si es anormal, manteniendo al mismo tiempo un estado vertical de pantalla</string>
     <string name="test_second_flash">Segunda prueba de flash</string>
     <string name="test_sidebottom_mic">Micrófono inferior</string>
     <string name="test_sidetop_mic">Micrófono superior</string>
