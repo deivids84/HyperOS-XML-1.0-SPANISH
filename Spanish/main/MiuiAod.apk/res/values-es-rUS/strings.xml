@@ -153,7 +153,7 @@ dd/MM"</string>
     <string name="format_lunar_calendar_month_day_desc">Fecha según el calendario tradicional chino: %s</string>
     <string name="format_month_day_lunar_calendar_month_day_desc">%1$s %2$s, fecha según el calendario tradicional chino: %3$s, días festivos: %4$s</string>
     <string name="format_month_day_style1">MM/d</string>
-    <string name="format_month_day_style2">M/d</string>
+    <string name="format_month_day_style2">d/M</string>
     <string name="format_month_day_week">MMM dd, EEE</string>
     <string name="format_month_day_week_lunar_calendar_month_day_desc">%1$s %2$s, %3$s, fecha según el calendario tradicional chino: %4$s</string>
     <string name="format_week_day_style1_desc">%1$s, día del mes: %2$s</string>

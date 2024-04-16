@@ -180,68 +180,68 @@ Con fines de prevención de riesgos, estadísticas y procesamiento analítico, n
     <string name="interconnection_communication_introduction">Xiaomi Internet Communication Services le permite descubrir, conectar y comunicarse con otros dispositivos.</string>
     <string name="interconnection_service_global_item_title">Interconectividad Xiaomi</string>
     <string name="interconnection_service_global_label">"&lt;Data&gt;Xiaomi Interconnectivity permite que tus dispositivos interactúen entre sí de forma inalámbrica. Al activar este interruptor, acepta la Política de privacidad &lt;a href=%1$s&gt;de Xiaomi Interconnectivity&lt;/a &gt;.&lt;/Data&gt;"</string>
-    <string name="interconnection_service_summary_china">"Los servicios de interconectividad de Xiaomi permiten que tus dispositivos interactúen entre sí de forma inalámbrica. Estos servicios incluyen Mi Smart Play, transmisión, transferencia de aplicaciones, pantalla de inicio +, portapapeles compartido, captura de imágenes entre dispositivos, asistencia de red, teclados y ratones compartidos, cámara compartida y Mi Smart Hub.To poder funcionar normalmente, los servicios de interconectividad de Xiaomi deben conectarse a Internet y requieren los siguientes permisos:
-\u0009\u0009Mi Smart Play y casting:
-\u0009\u0009Activar o desactivar Bluetooth
-\u0009\u0009Para descubrir dispositivos cercanos a los que conectarse a través de Bluetooth
-\u0009\u0009Activar o desactivar la conexión Wi-Fi
-\u0009\u0009Para descubrir dispositivos cercanos y transferir artículos a través de Wi-Fi
-\u0009\u0009Transferir elementos a otros dispositivos
-\u0009\u0009Para establecer una conexión Bluetooth entre dispositivos y transferir artículos
-\u0009\u0009Acceder a la información de la ubicación
-\u0009\u0009Para acceder a la información de los dispositivos cercanos
-\u0009\u0009Grabar audio interno del dispositivo
-\u0009\u0009Para transferir y reproducir audio entre dispositivos mientras se transmite y se duplica
-\u0009\u0009Acceder a fotos, vídeos y audio almacenados en el dispositivo
-\u0009\u0009Para enviar y recibir contenido transferido
-\u0009\u0009Acceder a la dirección MAC del dispositivo
-\u0009\u0009Para reconocer dispositivos conectados
-\u0009\u0009Acceder al contenido de la pantalla
-\u0009\u0009Para acceder al contenido de la pantalla mientras se graba o transmite, incluida información confidencial como audio, contraseñas, contraseñas de pago, fotos, mensajes, etc.
-\u0009\u0009Entrega de aplicaciones y pantalla de inicio+:
-\u0009\u0009Activar o desactivar Bluetooth
-\u0009\u0009Para descubrir dispositivos cercanos a través de Bluetooth
-\u0009\u0009Activar o desactivar la conexión Wi-Fi
-\u0009\u0009Para descubrir dispositivos cercanos y transferir artículos a través de Wi-Fi
-\u0009\u0009Acceder a la dirección MAC del dispositivo
-\u0009\u0009Para reconocer dispositivos conectados
-\u0009\u0009Acceder a fotos, vídeos y audio almacenados en el dispositivo
-\u0009\u0009Para enviar y recibir contenido transferido
-\u0009\u0009Transferir elementos a otros dispositivos
-\u0009\u0009Para establecer una conexión Bluetooth entre dispositivos y transferir artículos
-\u0009\u0009Grabar audio interno del dispositivo
-\u0009\u0009Para transferir y reproducir audio entre dispositivos mientras se transmite y se duplica
-\u0009\u0009Acceder al contenido de la pantalla
-\u0009\u0009Para acceder al contenido de la pantalla mientras se graba o transmite, incluida información confidencial como audio, contraseñas, contraseñas de pago, fotos, mensajes, etc.
-\u0009\u0009Captura de imágenes compartidas en portapapeles y entre dispositivos:
-\u0009\u0009Activar o desactivar Bluetooth
-\u0009\u0009Para descubrir dispositivos cercanos a través de Bluetooth
-\u0009\u0009Activar o desactivar la conexión Wi-Fi
-\u0009\u0009Para descubrir dispositivos cercanos y transferir artículos a través de Wi-Fi
-\u0009\u0009Acceder a fotos, vídeos y audio almacenados en el dispositivo
-\u0009\u0009Para enviar y recibir contenido transferido
-\u0009\u0009Acceder al portapapeles
-\u0009\u0009Para permitir que las aplicaciones accedan al contenido copiado
-\u0009\u0009Asistencia de red, teclados y ratones compartidos, y cámara compartida:
-\u0009\u0009Activar o desactivar Bluetooth
-\u0009\u0009Para descubrir dispositivos cercanos a través de Bluetooth
-\u0009\u0009Activar o desactivar la conexión Wi-Fi
-\u0009\u0009Para descubrir dispositivos cercanos y transferir artículos a través de Wi-Fi
-\u0009\u0009Acceder a fotos, vídeos y audio almacenados en el dispositivo
-\u0009\u0009Para enviar y recibir contenido transferido
-\u0009\u0009Cámara de acceso
-\u0009\u0009Para tomar fotos y grabar videos
-\u0009\u0009Mi Smart Hub:
-\u0009\u0009Activar o desactivar Bluetooth
-\u0009\u0009Para descubrir dispositivos cercanos a través de Bluetooth
-\u0009\u0009Activar o desactivar la conexión Wi-Fi
-\u0009\u0009Para descubrir dispositivos cercanos y transferir artículos a través de Wi-Fi
-\u0009\u0009Grabar audio interno del dispositivo
-\u0009\u0009Para transferir y reproducir audio entre dispositivos mientras se transmite y se duplica
-\u0009\u0009Acceder a fotos, vídeos y audio almacenados en el dispositivo
-\u0009\u0009Para enviar y recibir contenido transferido
-Si no está de acuerdo en conceder estos permisos, no podrá utilizar estos servicios.
-Los servicios de interconectividad disponibles pueden diferir según la versión del sistema y el modelo de dispositivo. Más información en %s."</string>
+    <string name="interconnection_service_summary_china">Los Servicios de Interconectividad Xiaomi permiten a sus dispositivos interactuar sin cables entre sí. %1$s Los servicios de interconectividad disponibles pueden diferir en función de la versión del sistema y del modelo del dispositivo. Encuentre más información en %2$s.</string>
+    <string name="interconnection_service_summary_china_fragment1">Estos servicios incluyen Mi Smart Play, casting de aplicaciones, pantalla de inicio+, portapapeles compartidos, anclaje inalámbrico (incluyendo la sincronización de red), controles entre dispositivos, cámara de cross-device y Mi Smart Hub. Para poder funcionar normalmente, los Servicios de Interconectividad Xiaomi necesitan conectarse a Internet y requieren los siguientes permisos:</string>
+    <string name="interconnection_service_summary_china_fragment10">Para acceder a la información de dispositivos cercanos</string>
+    <string name="interconnection_service_summary_china_fragment11">Grabar audio de dispositivo interno</string>
+    <string name="interconnection_service_summary_china_fragment12">Para transferir y reproducir audio entre dispositivos mientras se proyecta y se refleja</string>
+    <string name="interconnection_service_summary_china_fragment13">Acceder a fotos, vídeos y audio almacenados en el dispositivo</string>
+    <string name="interconnection_service_summary_china_fragment14">Para enviar y recibir contenido transferido</string>
+    <string name="interconnection_service_summary_china_fragment15">Acceso dirección MAC del dispositivo</string>
+    <string name="interconnection_service_summary_china_fragment16">Para reconocer dispositivos conectados</string>
+    <string name="interconnection_service_summary_china_fragment17">Acceso a la pantalla de contenido</string>
+    <string name="interconnection_service_summary_china_fragment18">Para acceder al contenido de la pantalla mientras se graba o se muestra, incluyendo información sensible como audio, contraseñas, contraseñas de pago, fotos, mensajes, etc.</string>
+    <string name="interconnection_service_summary_china_fragment19">Aplicación handoff y pantalla de inicio+:</string>
+    <string name="interconnection_service_summary_china_fragment2">Mi Smart Play y casting:</string>
+    <string name="interconnection_service_summary_china_fragment20">Activar o desactivar Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment21">Para descubrir dispositivos cercanos a los que conectarse a través de Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment22">Activar o desactivar Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment23">Para descubrir dispositivos cercanos y transferir elementos a través de Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment24">Acceso dirección MAC del dispositivo</string>
+    <string name="interconnection_service_summary_china_fragment25">Para reconocer dispositivos conectados</string>
+    <string name="interconnection_service_summary_china_fragment26">Acceder a fotos, vídeos y audio almacenados en el dispositivo</string>
+    <string name="interconnection_service_summary_china_fragment27">Para enviar y recibir contenido transferido</string>
+    <string name="interconnection_service_summary_china_fragment28">Transferir elementos a otros dispositivos</string>
+    <string name="interconnection_service_summary_china_fragment29">Para establecer una conexión Bluetooth entre dispositivos y elementos de transferencia</string>
+    <string name="interconnection_service_summary_china_fragment3">Activar o desactivar Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment30">Grabar audio de dispositivo interno</string>
+    <string name="interconnection_service_summary_china_fragment31">Para transferir y reproducir audio entre dispositivos mientras se proyecta y se refleja</string>
+    <string name="interconnection_service_summary_china_fragment32">Acceso a la pantalla de contenido</string>
+    <string name="interconnection_service_summary_china_fragment33">Para acceder al contenido de la pantalla mientras se graba o se muestra, incluyendo información sensible como audio, contraseñas, contraseñas de pago, fotos, mensajes, etc.</string>
+    <string name="interconnection_service_summary_china_fragment34">Portapapeles compartidos:</string>
+    <string name="interconnection_service_summary_china_fragment35">Activar o desactivar Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment36">Para descubrir dispositivos cercanos a los que conectarse a través de Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment37">Activar o desactivar Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment38">Para descubrir dispositivos cercanos y transferir elementos a través de Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment39">Acceder a fotos, vídeos y audio almacenados en el dispositivo</string>
+    <string name="interconnection_service_summary_china_fragment4">&gt;Para descubrir dispositivos cercanos a los que conectarse mediante Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment40">Para enviar y recibir contenido transferido</string>
+    <string name="interconnection_service_summary_china_fragment41">Acceso al portapapeles</string>
+    <string name="interconnection_service_summary_china_fragment42">Para permitir que las aplicaciones accedan al contenido copiado</string>
+    <string name="interconnection_service_summary_china_fragment43">Anclaje inalámbrico (incluyendo la sincronización de red), controles de dispositivos cruzados y cámara entre dispositivos:</string>
+    <string name="interconnection_service_summary_china_fragment44">Activar o desactivar Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment45">Para descubrir dispositivos cercanos a los que conectarse a través de Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment46">Activar o desactivar Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment47">Para descubrir dispositivos cercanos y transferir elementos a través de Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment48">Acceder a fotos, vídeos y audio almacenados en el dispositivo</string>
+    <string name="interconnection_service_summary_china_fragment49">Para enviar y recibir contenido transferido</string>
+    <string name="interconnection_service_summary_china_fragment5">Activar o desactivar Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment50">Acceso a la cámara</string>
+    <string name="interconnection_service_summary_china_fragment51">Para tomar fotos y grabar vídeo</string>
+    <string name="interconnection_service_summary_china_fragment52">Centro Inteligente:</string>
+    <string name="interconnection_service_summary_china_fragment53">Activar o desactivar Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment54">Para descubrir dispositivos cercanos a los que conectarse a través de Bluetooth</string>
+    <string name="interconnection_service_summary_china_fragment55">Activar o desactivar Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment56">Para descubrir dispositivos cercanos y transferir elementos a través de Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment57">Grabar audio de dispositivo interno</string>
+    <string name="interconnection_service_summary_china_fragment58">Para transferir y reproducir audio entre dispositivos mientras se proyecta y se refleja</string>
+    <string name="interconnection_service_summary_china_fragment59">Acceder a fotos, vídeos y audio almacenados en el dispositivo</string>
+    <string name="interconnection_service_summary_china_fragment6">Para descubrir dispositivos cercanos y transferir elementos a través de Wi-Fi</string>
+    <string name="interconnection_service_summary_china_fragment60">Para enviar y recibir contenido transferido</string>
+    <string name="interconnection_service_summary_china_fragment61">"Si no acepta conceder estos permisos, no podrá utilizar estos servicios."</string>
+    <string name="interconnection_service_summary_china_fragment7">Transferir elementos a otros dispositivos</string>
+    <string name="interconnection_service_summary_china_fragment8">Para establecer una conexión Bluetooth entre dispositivos y elementos de transferencia</string>
+    <string name="interconnection_service_summary_china_fragment9">Información de ubicación de acceso</string>
     <string name="interconnection_service_summary_global">"Las características de interconectividad de Xiaomi pueden variar dependiendo del modelo de dispositivo y la versión del sistema. Visite el sitio web oficial del sistema para obtener más información."</string>
     <string name="interconnection_service_title">Servicios de interconectividad de Xiaomi</string>
     <string name="item_contents_wwarning">"Si su dispositivo se pierde, no podrá evitar que otras personas lo usen y accedan a sus datos a menos que establezca un bloqueo de pantalla. ¿Saltar de todos modos?"</string>

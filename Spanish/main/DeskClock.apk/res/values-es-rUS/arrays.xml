@@ -349,6 +349,8 @@
         <item>Tegucigalpa</item>
         <item>Paramaribo</item>
         <item>Quito</item>
+        <item>Tashkent</item>
+        <item>Bishkek</item>
     </string-array>
     <string-array name="countries_names_miui">
         <item>"Costa de Marfil"</item>
@@ -637,6 +639,8 @@
         <item>Honduras</item>
         <item>Surinam</item>
         <item>Ecuador</item>
+        <item>Uzbekistan</item>
+        <item>Kyrgyzstan</item>
     </string-array>
     <string-array name="timer_duration">
         <item>%1$s en total</item>

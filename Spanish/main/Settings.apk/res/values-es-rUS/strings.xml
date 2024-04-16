@@ -4079,10 +4079,10 @@ El área donde puedes confirmar que el bloqueo de la pantalla se moverá a la de
     <string name="gxzw_anim_title">Animación de huella digital</string>
     <string name="gxzw_aod_show_summary">Levanta el dispositivo o toca la pantalla para que aparezca el ícono de la huella digital. Esta característica aumenta el consumo de energía del sistema pero le permite desbloquear el dispositivo más rápido.</string>
     <string name="gxzw_aod_show_tittle">Mostrar ícono de huella digital cuando la pantalla está apagada</string>
-    <string name="gxzw_dialog_message">"Para poder usar el sensor de huellas digitales en pantalla normalmente, no utilice protectores de pantalla. Si todavía considera que necesita el protector, elija uno de entre las opciones compatibles autorizadas."</string>
+    <string name="gxzw_dialog_message">Los protectores de pantalla pueden interferir con el reconocimiento de la huella digital de la pantalla. Recomendamos utilizar una película oficial de Xiaomi si usted necesita protección de la pantalla.</string>
     <string name="gxzw_dialog_not_show_again">"No volver a mostrar"</string>
     <string name="gxzw_dialog_ok">Entendido</string>
-    <string name="gxzw_dialog_title">Acerca del sensor de huellas digitales en pantalla</string>
+    <string name="gxzw_dialog_title">Consejo protector de pantalla</string>
     <string name="gxzw_enroll_again">Levante su dedo y vuelva a presionar el sensor de huella digital</string>
     <string name="gxzw_lowlight_open_summary">Disminuya el brillo del icono de huella digital en condiciones de poca luz. Es posible que su dispositivo se desbloquee más lentamente cuando esta función está activada.</string>
     <string name="gxzw_lowlight_open_title">Desbloqueo de huellas digitales con poca luz</string>
@@ -5174,9 +5174,13 @@ Si se deniega este permiso, el sistema limitará el tiempo que la aplicación pu
     <string name="low_label">Baja</string>
     <string name="low_storage_summary">Queda poco espacio de almacenamiento (en uso: %1$s; libre: %2$s)</string>
     <string name="lyra_account_ap_summary">Permitir que las tabletas cercanas y los ordenadores conectados a tu cuenta de Xiaomi activen el punto de acceso en este dispositivo y conecten a él</string>
+    <string name="lyra_account_ap_summary_v2">"Permitir que las tabletas cercanas y los ordenadores conectados a tu cuenta Xiaomi utilicen los datos móviles de este dispositivo y enciendan el punto de acceso en este dispositivo y conecten a él"</string>
     <string name="lyra_account_ap_title">Asistencia de red</string>
+    <string name="lyra_account_ap_title_v2">Conectividad compartida</string>
     <string name="lyra_auto_connect_summary">"Enciende el punto de acceso automáticamente y conecta los dispositivos cercanos conectados a tu cuenta Xiaomi si no están conectados a la red"</string>
+    <string name="lyra_auto_connect_summary_v2">"Enciende el punto de acceso automáticamente y conecta los dispositivos cercanos conectados a tu cuenta Xiaomi si no están conectados a la red y permiten usar los datos móviles de este dispositivo"</string>
     <string name="lyra_auto_connect_title">Activar el punto de acceso automáticamente</string>
+    <string name="lyra_auto_connect_title_v2">Compartir automáticamente</string>
     <string name="macaddr_label">Dirección MAC:</string>
     <string name="magic_list_empty_text_pad">No se encontraron aplicaciones que soporten ventanas paralelas</string>
     <string name="magic_window_name_pad">Ventanas paralelas</string>

@@ -184,9 +184,9 @@
     <string name="asm_pay_order_generate">Generando pedido…</string>
     <string name="asm_pay_order_generate_failed">"No se pudo generar el pedido"</string>
     <string name="asm_pay_query_overtime">Tiempo de solicitud de estado de pago agotado</string>
-    <string name="asm_privacy_desc">Política de privacidad de Wansheng</string>
-    <string name="asm_privacy_tips_content">Acepta la Política de Privacidad <a href="/link/click">Wansheng</a> para poder usar servicios de música en línea.</string>
-    <string name="asm_privacy_tips_title">Política de privacidad de Wansheng</string>
+    <string name="asm_privacy_desc">Política de privacidad ASM</string>
+    <string name="asm_privacy_tips_content">Acepta la <a href="/link/click">Política de Privacidad de ASM</a> para poder utilizar servicios de música en línea.</string>
+    <string name="asm_privacy_tips_title">Política de privacidad ASM</string>
     <string name="asm_pro_center">Membresía</string>
     <string name="asm_search_result_contain_music">Contiene: \"%1$s\"</string>
     <string name="asm_song_err_connect">"No se pudo conectar al servidor"</string>
@@ -794,6 +794,21 @@
     <string name="lrc_search_failed">"Letras no encontradas"</string>
     <string name="lrc_searching">Buscando…</string>
     <string name="ludo_tab_guide">Revisa nuestras nuevas salas de música</string>
+    <string name="lyric_ai_apply_fail">"No se pudo usar. Inténtelo de nuevo."</string>
+    <string name="lyric_ai_button_text">Letras IA</string>
+    <string name="lyric_ai_dialog_one">"•Puedes tocar para reconocer las letras, y rellenaremos las letras para ti usando la tecnología de reconocimiento de voz IA."</string>
+    <string name="lyric_ai_dialog_three">• Puedes comprobar el progreso en la barra de herramientas de letras.</string>
+    <string name="lyric_ai_dialog_two">"• El reconocimiento tardará unos minutos. Una vez completado, las letras se rellenarán automáticamente."</string>
+    <string name="lyric_ai_identify_success">Letras reconocidas con éxito</string>
+    <string name="lyric_ai_song">Canción actual</string>
+    <string name="lyric_ai_song_list">Cantores</string>
+    <string name="lyric_ai_state_apply">Usando letras</string>
+    <string name="lyric_ai_state_default">Canción no reconocida</string>
+    <string name="lyric_ai_state_fail">"No se pudo reconocer la letra"</string>
+    <string name="lyric_ai_state_identify">Reconocer</string>
+    <string name="lyric_ai_state_identifying">Solo un segmento…</string>
+    <string name="lyric_ai_state_use">Usar</string>
+    <string name="lyric_ai_title">Reconocimiento de letras IA</string>
     <string name="lyric_is_empty">No hay letra disponible</string>
     <string name="lyric_label">Letras</string>
     <string name="lyric_open_other_connect">Descargar letras de canciones usando la red móvil</string>
@@ -1345,7 +1360,7 @@ Si no acepta utilizar los servicios antes mencionados, no podrá utilizar alguna
     <string name="pulluprefreshrecyclerview_loading_finished">Cargado correctamente</string>
     <string name="pulluprefreshrecyclerview_loading_running">Cargando…</string>
     <string name="queue_is_empty">La cola de reproducción está vacía.</string>
-    <string name="read_and_agree_asm_protocol">&lt;Data&gt;Leer y aceptar la &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Política de privacidad de Wansheng&lt;/a&gt;&lt;/font&gt; para poder usar servicios de música en línea.&lt;/Data&gt;</string>
+    <string name="read_and_agree_asm_protocol">&lt;Data&gt;Leer y aceptar la &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Política de privacidad ASM&lt;/a&gt;&lt;/font&gt; para poder utilizar servicios de música en línea.&lt;/Data&gt;</string>
     <string name="read_and_agree_hungama_protocol">"&lt;Data&gt;He leído y acepto la &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;política de privacidad de hungama&lt;/a&gt;&lt;/font&gt;&lt;/Data&gt;"</string>
     <string name="read_and_agree_joox_protocol">"&lt;Data&gt;He leído y acepto la &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Política de privacidad de JOOX&lt;/a&gt;&lt;/font&gt;&lt;/Data&gt;"</string>
     <string name="read_and_agree_mi_protocol">"&lt;Data&gt;He leído y acepto el Xiaomi &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%1$s\"&gt;Acuerdo de usuario&lt;/a&gt;&lt;/font&gt; y &lt;font color=\"#A374F0\"&gt;&lt;/color&gt;&lt;a href=\"%2$s\"&gt;Política de privacidad&lt;/a&gt;&lt;/font&gt;&lt;/Data&gt;"</string>

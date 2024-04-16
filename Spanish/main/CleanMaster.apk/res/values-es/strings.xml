@@ -202,7 +202,12 @@
     <string name="columbus_player_speed_title">¿Saltar el vídeo?</string>
     <string name="columbus_player_speed_video">Saltar VÍDEO</string>
     <string name="columbus_player_unit_sec">seg</string>
+    <string name="columbus_reward_style_access">Aprende más</string>
+    <string name="columbus_reward_style_close_cancel">Salir</string>
+    <string name="columbus_reward_style_close_desc">Terminar de ver el vídeo para obtener una recompensa. ¿Continuar mirando?</string>
+    <string name="columbus_reward_style_speed_confirm">Continuar</string>
     <string name="columbus_skip_ad">Saltar</string>
+    <string name="columbus_skip_ad_time">Saltar (%d)</string>
     <string name="common_google_play_services_enable_button">Activar</string>
     <string name="common_google_play_services_enable_text">"%1$s no funcionará hasta que actives los servicios de Google Play."</string>
     <string name="common_google_play_services_enable_title">Activar servicios de Google Play</string>
@@ -899,6 +904,7 @@
     <string name="tt_count_down_view">Saltar</string>
     <string name="tt_dislike_header_tv_back">Atrás</string>
     <string name="tt_dislike_header_tv_title">Seleccionar</string>
+    <string name="tt_display_error">Error al mostrar</string>
     <string name="tt_error_access_method_pass">Método de acceso ilegal</string>
     <string name="tt_error_ad_able_false_msg">Solicitar anuncios no válidos por conformidad, por favor compruebe la configuración de COPPA/CCPA/GDPR</string>
     <string name="tt_error_ad_sec_false_msg">Falló la verificación de seguridad</string>
@@ -989,6 +995,8 @@
     <string name="tt_splash_wriggle_text">Ir a la página de detalles o aplicación de terceros</string>
     <string name="tt_splash_wriggle_top_text">Tirar el teléfono</string>
     <string name="tt_splash_wriggle_top_text_style_17">Girar el teléfono o tocar el icono</string>
+    <string name="tt_suggestion_commit">Enviar</string>
+    <string name="tt_suggestion_description">Introduzca una descripción del error de visualización, y haga clic en el botón Enviar. El anuncio creativo también será enviado de vuelta a Pangle para ayudar a solucionar el problema.</string>
     <string name="tt_sys_error">Error del sistema</string>
     <string name="tt_template_load_fail">la carga de la plantilla principal falló!</string>
     <string name="tt_text_privacy_app_version">Versión：V</string>

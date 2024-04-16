@@ -210,6 +210,8 @@
     <string name="accessibility_reference_line_image_on">Mostrando cuadrículas</string>
     <string name="accessibility_reference_line_text">Abra el panel con opciones de línea de referencia</string>
     <string name="accessibility_review_thumbnail">Foto más reciente</string>
+    <string name="accessibility_sdsr_tip_off">Ultra zoom apagado</string>
+    <string name="accessibility_sdsr_tip_on">Ultra zoom activado</string>
     <string name="accessibility_select_all">Seleccionar todo</string>
     <string name="accessibility_select_all_end">Seleccionado todo</string>
     <string name="accessibility_selected">Seleccionado</string>
@@ -1791,6 +1793,8 @@ Guardar imágenes Ultra RAW %d datos que mantienen aún más detalles."</string>
  el fondo en sus fotos"</string>
     <string name="portrait_bokeh_text">Modo retrato</string>
     <string name="portrait_bokeh_tips">Coloque el objeto a menos de 1.5 metros</string>
+    <string name="portrait_cvtype_item_title1">Estilo de retrato: Retrato Leica</string>
+    <string name="portrait_cvtype_item_title2">Estilo de retrato: retrato maestro</string>
     <string name="portrait_deblur_tips">Retrato HD</string>
     <string name="portrait_india_effect_entry_memory">Memoria</string>
     <string name="portrait_india_effect_entry_mono">Mono</string>
@@ -1803,7 +1807,13 @@ Guardar imágenes Ultra RAW %d datos que mantienen aún más detalles."</string>
     <string name="portrait_india_effect_entry_sweet">Caramelo</string>
     <string name="portrait_india_effect_entry_warm">Cálido</string>
     <string name="portrait_india_effect_entry_young">Juvenil</string>
+    <string name="portrait_mode_confirm_text">Confirmar</string>
     <string name="portrait_mode_depth_effect_success_hint">Efecto de profundidad</string>
+    <string name="portrait_mode_hint_title">Seleccionar estilo vertical</string>
+    <string name="portrait_mode_item_item1">Elegante y sutil</string>
+    <string name="portrait_mode_item_item2">Natural y realista</string>
+    <string name="portrait_mode_item_title1">Retrato maestro</string>
+    <string name="portrait_mode_item_title2">Retrato Leica</string>
     <string name="portrait_mode_lowlight_hint">"Está demasiado oscuro ahora"</string>
     <string name="portrait_mode_too_close_hint">Aléjese del objeto</string>
     <string name="portrait_mode_too_far_hint">Coloque el objeto a menos de 2 metros</string>
@@ -2244,6 +2254,9 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="pref_s_n_r_s_c">Reducir el ruido en los videos según la escena</string>
     <string name="pref_scan_qrcode_summary">Solo la cámara trasera puede escanear códigos QR en el modo foto.</string>
     <string name="pref_scan_qrcode_title">Escanear códigos QR</string>
+    <string name="pref_sdsr_summary">Permite que la IA mejore la claridad de las imágenes zoomed-in</string>
+    <string name="pref_sdsr_title">Ultra zoom</string>
+    <string name="pref_sdsr_title_beta">Ultra zoom (Beta)</string>
     <string name="pref_simple_hdr_entry_off">Desactivado</string>
     <string name="pref_simple_hdr_entry_on">Activado</string>
     <string name="pref_skin_beautify_color_title">Tez</string>
@@ -2383,6 +2396,7 @@ Mantiene al sujeto nítido mientras desenfoca el fondo."</string>
     <string name="scan_install_prompt_message">Instale el Escáner y vuelva a intentarlo.</string>
     <string name="screen_on_proximity_sensor_hint">Para desactivar esta función presione los botones de subir volumen y Atrás al mismo tiempo.</string>
     <string name="screen_on_proximity_sensor_summary">"No cubrir la zona del auricular"</string>
+    <string name="sdsr_capture_reprocess_toast">Procesando Ultra zoom…</string>
     <string name="search_menu_title">Buscar</string>
     <string name="search_settings">Ajustes de la cámara;Calidad;Calidad de imagen;Ubicación de imagen;Detección de rostro;Sonido de cámara</string>
     <string name="security_line">Frame</string>

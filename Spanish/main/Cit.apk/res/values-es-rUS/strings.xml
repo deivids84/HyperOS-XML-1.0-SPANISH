@@ -114,6 +114,7 @@ Sostenga el dispositivo como si estuviera haciendo una llamada, hable con el mic
     <string name="cit_charger_second_ibat">Corriente de la batería secundaria</string>
     <string name="cit_digital_hall_sensor_cali_summary">Mantenga el dispositivo cerrado para la calibración</string>
     <string name="cit_digital_hall_sensor_cali_title">Prueba de calibración digital de hall</string>
+    <string name="cit_digital_hall_sensor_check_title">Detección de apertura y cierre</string>
     <string name="cit_display_check_title_N8">Mostrar</string>
     <string name="cit_esim_check_summary">A continuación se muestra el estado de eSIM y la correcta visualización del estado de eSIM indica que la prueba ha pasado</string>
     <string name="cit_esim_check_title">eSIM card</string>
@@ -128,6 +129,9 @@ Sostenga el dispositivo como si estuviera haciendo una llamada, hable con el mic
     <string name="cit_flash_timeout_tip">Tiempo de prueba agotado, vuelva a entrar a la prueba de flash</string>
     <string name="cit_front_sub_camera_check_title_fold">Cámara frontal de subpantalla</string>
     <string name="cit_front_ultra_camera_check_title">Ultra cámara frontal</string>
+    <string name="cit_high_accdata_sensor_check_summary">Valores para X, Y, Z, las coordenadas deben aparecer debajo. Por favor, coloque su teléfono en el escritorio antes de realizar la prueba</string>
+    <string name="cit_high_accdata_sensor_check_title">Acelerómetro alto</string>
+    <string name="cit_high_accdata_sensor_graph_title">Gráfico acelerómetro alto</string>
     <string name="cit_horn_motor_test">Prueba de motor de cuerno</string>
     <string name="cit_lcdlight_title">Prueba de contraluz</string>
     <string name="cit_led_change">Seleccionar modo de estrobo led</string>

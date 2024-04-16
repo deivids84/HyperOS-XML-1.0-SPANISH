@@ -799,6 +799,8 @@ Añade widgets para empezar."</string>
     <string name="pa_world_cup_widget_request_retry">Inténtalo de nuevo</string>
     <string name="pa_world_cup_widget_reserve_success_toast">"Recibirás un recordatorio antes de que comience esta partida"</string>
     <string name="pa_world_cup_widget_title">Copa Mundial de la FIFA</string>
+    <string name="passport_oauth_actionbar_title">Cuenta Mi</string>
+    <string name="passport_oauth_sucess_tip">Éxito autorizado</string>
     <string name="password_toggle_content_description">Mostrar contraseña</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" se ha copiado en el portapapeles.</string>

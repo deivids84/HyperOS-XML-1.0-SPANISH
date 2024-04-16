@@ -560,6 +560,7 @@ Toca para desactivar."</string>
     <string name="local_photos">Fotos locales</string>
     <string name="local_resouce_creator_name">Desarrollador: %1$s</string>
     <string name="lock_screen_apply">Establecer como pantalla de bloqueo</string>
+    <string name="lock_screen_card_title">Pantalla de bloqueo artística</string>
     <string name="lock_screen_keyguard_guide_popup">Echa un vistazo a todas las funciones y diseño de la pantalla de bloqueo personalizadas</string>
     <string name="lock_screen_keyguard_tip_title">Nueva pantalla de bloqueo personalizada</string>
     <string name="lockscreen_apply_failured">"No se pudo aplicar el fondo de pantalla en la pantalla de bloqueo"</string>

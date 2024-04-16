@@ -756,7 +756,9 @@
     <string name="toast_message_add_image_fail">"No se pudo agregar la imagen"</string>
     <string name="toast_notes_delete_success">Eliminado con éxito</string>
     <string name="toast_notes_hidden_edit">Se ocultó esta nota. Deslice hacia abajo para ver las notas ocultas.</string>
+    <string name="toast_notes_hidden_edit_new">Nota oculta. Tira hacia abajo para ver notas ocultas.</string>
     <string name="toast_notes_hidden_home">Se ocultó esta nota. Deslice hacia abajo para ver las notas ocultas.</string>
+    <string name="toast_notes_hidden_home_new">Nota oculta. Tira hacia abajo para ver notas ocultas.</string>
     <string name="toast_notes_hidden_pad">Esta nota está oculta ahora. Tira hacia abajo el panel lateral para ver notas ocultas.</string>
     <string name="toast_notes_unhidden">Desocultado con éxito</string>
     <string name="toast_pic_is_not_really">Guardando imagen…</string>

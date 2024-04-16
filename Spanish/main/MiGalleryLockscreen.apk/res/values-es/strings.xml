@@ -268,6 +268,12 @@
     <string name="later">"No apague"</string>
     <string name="launch_bg_permission_exception">Permitir que Wallpaper Carousel muestre ventanas emergentes mientras se ejecuta en segundo plano en Seguridad</string>
     <string name="left_lks_detail_entrance">Ver más</string>
+    <string name="left_lks_download_now">Descargar</string>
+    <string name="left_lks_reverse">Pre-pedido</string>
+    <string name="left_lks_view">Ver</string>
+    <string name="left_xout_frequently">Muestra con demasiada frecuencia</string>
+    <string name="left_xout_low_quality">El anuncio es de baja calidad</string>
+    <string name="left_xout_title">"Dinos por qué no quieres ver este anuncio"</string>
     <string name="like">Agregar a los favoritos</string>
     <string name="liked">Añadido a favoritos</string>
     <string name="lks_cta_dont_mention">"No volver a mostrar"</string>

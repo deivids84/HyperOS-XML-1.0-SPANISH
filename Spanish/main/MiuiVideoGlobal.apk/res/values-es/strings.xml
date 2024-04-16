@@ -285,7 +285,7 @@ Remite este código al supervisor."</string>
     <string name="dialog_cancel">Cancelar</string>
     <string name="dialog_clearn_content">¿Borrar el historial de navegación ahora?</string>
     <string name="dialog_clearn_title">Borrar historial</string>
-    <string name="dialog_confirm">OK</string>
+    <string name="dialog_confirm">Añadir</string>
     <string name="dialog_delete_bookmarks_content">¿Eliminar marcador ahora?</string>
     <string name="dialog_disagree_continue">Continuar</string>
     <string name="dialog_disagree_info">"Si no estás de acuerdo con la Política de Privacidad de Mi Vídeo, no podrás usar nuestros servicios en línea y solo podrás ver vídeos almacenados en el dispositivo. ¿Continuar?"</string>
@@ -628,6 +628,7 @@ Esta operación no afectará a las imágenes de la Galería."</string>
     <string name="hidden_channels">"Los siguientes canales no se mostrarán en la Página de inicio."</string>
     <string name="hide">Ocultar</string>
     <string name="hide_video_toast">Este elemento está oculto. Puedes encontrar y administrar elementos ocultos en Locales &gt; Carpetas &gt; Elementos ocultos.</string>
+    <string name="hiding_dialog_ok">Fijar</string>
     <string name="hint_icon_ad_title">Recomendado</string>
     <string name="hint_in_mivideo">Puede consultar el panel lateral para ver funciones adicionales ahora</string>
     <string name="history">Historial</string>
@@ -975,6 +976,7 @@ Solo usaremos este permiso para encontrar los videos que buscas, y no accederemo
     <string name="miuix_appcompat_select_all">Seleccionar todo</string>
     <string name="miuix_appcompat_select_all_description">Seleccionar todo</string>
     <string name="miuix_appcompat_select_item">Seleccionar elementos</string>
+    <string name="miuix_dialog_ok">Ok</string>
     <string name="miuix_indexer_collect">Colecciones</string>
     <string name="miuix_indexer_selected">Seleccionado %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Deslice hacia abajo para actualizar</string>
@@ -1305,6 +1307,7 @@ Solo usaremos este permiso para encontrar los videos que buscas, y no accederemo
     <string name="photoPickerNotFoundText">No hay fotos disponibles.</string>
     <string name="pip">PiP</string>
     <string name="pip_not_supported_toast">Actualiza a la última versión del sistema para poder usar picture-in-picture.</string>
+    <string name="play_at_normal_speed">Reproduciendo a 1X velocidad</string>
     <string name="play_list_save_dialog_create">Crear lista de reproducción</string>
     <string name="play_list_save_dialog_title">Añadir a la lista de reproducción</string>
     <string name="play_list_sign_in_dialog_message">Inicia sesión con tu cuenta de Google para ver todas tus listas de reproducción.</string>
@@ -1476,6 +1479,7 @@ Solo usaremos este permiso para encontrar los videos que buscas, y no accederemo
     <string name="remaining_space_not_enough">"No se puede descargar ya que el espacio de almacenamiento es insuficiente"</string>
     <string name="reminder">Atención</string>
     <string name="rename">Renombrar</string>
+    <string name="rename_dialog_ok">Ok</string>
     <string name="rename_word_out">Este nombre de archivo es demasiado largo</string>
     <string name="repeat_play">Repetir</string>
     <string name="report">Reportar</string>
@@ -1546,6 +1550,7 @@ Solo usaremos este permiso para encontrar los videos que buscas, y no accederemo
     <string name="shake_to_open_ad">Sacudir para aprender más</string>
     <string name="share">Compartir</string>
     <string name="share_text_before_link">Mira y descarga excelentes videos gratis en Mi Video</string>
+    <string name="share_title">Compartir</string>
     <string name="share_ugc_content">¡Echa un vistazo a %1$s! #%2$s (%3$s)</string>
     <string name="share_ugc_join">Unirse</string>
     <string name="share_ugc_waitting">Generando enlace…</string>
