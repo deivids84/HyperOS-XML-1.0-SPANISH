@@ -13,6 +13,6 @@ Estado de la traducción: ![es-ES translation](https://img.shields.io/badge/dyna
 # Si desea colaborar con la traducción, https://crowdin.com/project/miui-xiaomieu
 
 Translation xml checker (updated every 30min)
-http://translators.xiaomi.eu/XML_MIUI14-Spanish-es.html
+[http://translators.xiaomi.eu/XML_MIUI15-Spanish-es.html]
 
 ## Para mas informacion contactar con  [@deivids84](https://github.com/deivids84) o [@tuxafgmur](https://github.com/Dhollmen)
